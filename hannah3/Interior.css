@@ -1,0 +1,47 @@
+
+  button {     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;  
+    outline:none;
+   
+}
+
+
+.floated {
+    float:left;
+    margin-right:5px;
+  }
+
+  
+/* NAVBAR */
+.navbar > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .navbar > li {
+    float: right;
+    /* border-right:1px solid black; */
+  }
+  
+  .navbar > li:last-child {
+    border-right: none;
+  }
+  
+  .navbar > li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  .navbar > .active {
+    background-color: rgb(255, 255, 255);
+  }
