@@ -1,6 +1,0 @@
-[10-Aug-2020 09:06:41 UTC] PHP Warning:  require(Persistence.php): failed to open stream: No such file or directory in /data03/c4290920/public_html/hannah/file.php on line 3
-[10-Aug-2020 09:06:41 UTC] PHP Warning:  require(Persistence.php): failed to open stream: No such file or directory in /data03/c4290920/public_html/hannah/file.php on line 3
-[10-Aug-2020 09:06:41 UTC] PHP Fatal error:  require(): Failed opening required 'Persistence.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /data03/c4290920/public_html/hannah/file.php on line 3
-[10-Aug-2020 09:34:34 UTC] PHP Warning:  require(Persistence.php): failed to open stream: No such file or directory in /data03/c4290920/public_html/hannah/file.php on line 3
-[10-Aug-2020 09:34:35 UTC] PHP Warning:  require(Persistence.php): failed to open stream: No such file or directory in /data03/c4290920/public_html/hannah/file.php on line 3
-[10-Aug-2020 09:34:35 UTC] PHP Fatal error:  require(): Failed opening required 'Persistence.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /data03/c4290920/public_html/hannah/file.php on line 3

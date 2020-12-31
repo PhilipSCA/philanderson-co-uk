@@ -45,3 +45,29 @@
   .navbar > .active {
     background-color: rgb(255, 255, 255);
   }
+
+
+  .poo{
+    animation-name: shake;
+    animation-duration: 3s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes shake{
+    0%{
+      transform: rotate(0deg);
+    }
+    25%{
+      transform: rotate(40deg);
+    }
+    50%{
+      transform: rotate(0deg);
+    }
+    75%{
+      transform: rotate(-40deg);
+    }
+    100%{
+      transform: rotate(0deg);
+    }
+  }
