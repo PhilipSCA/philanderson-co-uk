@@ -71,3 +71,16 @@
       transform: rotate(0deg);
     }
   }
+
+
+  .button{
+    background-color: rgb(34, 100, 241);
+    border-radius: 13px;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+
+  }
