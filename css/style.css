@@ -622,7 +622,7 @@ textarea.form-control {
     border-color:#e2d1b4;
 	background:rgba(167, 129, 116, 0.31);
 }
-button.btn-outline2 {
+	.btn-outline2 {
     float: right;
     width: 200px;
     height: 45px;

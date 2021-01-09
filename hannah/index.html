@@ -1,5 +1,7 @@
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link rel="stylesheet" href="Interior.css">
 
@@ -10,13 +12,30 @@
     <style> 
         body {
           font-family: Verdana, Geneva, Tahoma, sans-serif;
-          background-image: url("https://www.teahub.io/photos/full/106-1068152_cool-animal-plants-hd-backgrounds-data-src-cool.jpg");
+          background-image: url("https://wallpaperaccess.com/full/4225203.jpg");
           background-color: #ffffff;
           background-position: center;
-          background-repeat: no-repeat;
+          background-repeat: repeat;
           background-size: cover;
           
         }
+
+        .button {
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    
+        .button1 {
+            background-color: #ff0000;
+            border-radius:5px;
+        } 
     </style>
     
 
@@ -24,27 +43,63 @@
 <body>
 
 <!-- NAVBAR -->
-<div class="navbar">
-    <ul class="navbar">
-        <li><a href="find-out.html"> Find Out More <i class="fas fa-info"></i></a></li>
-        <li><a href="send.html"> Send and Recive <i class="fas fa-paper-plane"></i></a></li>
-        <li><a href="index.html"> Home <i class="fas fa-home"></i></a></li>
-    </ul>
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand font-kgsummer" href="#">Interior Ideas </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav navbar-nav ml-auto" style="margin-left: auto;">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html"> Home <i class="fas fa-home"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="find-out.html"> Find Out More <i class="fas fa-info"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="send.html"> Send and Recive <i class="fas fa-paper-plane"></i></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<br>
+<!-- PAGE CONTENT -->
+<h1><marquee behavior="scroll" direction="left" style="color:white;">Interior Ideas</marquee></h1>
+
+<div class="row">
+    <div class="col text-center text-white">
+        <strong class="lead montserrat_semibold">Fastest Way to Improve your Home!</strong>
+        <br>
+       <em> Brought to you by <a class="whitetext" href="hannah.html" style="text-decoration: none;">Hannah Anderson</a></em>
+<br>
+    </div>
+    
 </div>
 
-<!-- PAGE CONTENT -->
-<h1><marquee behavior="scroll" direction="left">Interior Ideas</marquee></h1>
-<br></br>
-<h2 style="text-align:center;" class="poo">Happy New Year</h2>
-<br><br>
-<img src="images/icon3.jpg" width="200px" style="margin:auto;display:block;">
-<br>
-<br>
+
 <div class="images">
-    <img src="images/my-work-01.jpg" width="935" height="700" />
-    <img src="images/my-work-02.jpg" width="935" height="700" />
-    <img src="images/my-work-03.jpg" width="935" height="700" style="margin:auto;display:block;" />
+    <div class="container-fluid">
+        <div class="row text-center justify-content-center">
+            <div class="col">
+                <img src="images/my-work-01.jpg" width="920" height="600" class="img-fluid" />
+            </div>
+            <div class="col">
+                <img src="images/my-work-03.jpg" width="920" height="600" class="img-fluid" />
+            </div>
+        </div>
+    </div>
 </div>
+
+<br>
+    
+<button class="button button1 font-kgsummer"style="margin:auto;display:block;" style="width:20px"><i class="fas fa-photo-video fa-lg"></i> More Videos</button>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
 </html>
 

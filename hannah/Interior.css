@@ -84,3 +84,9 @@
     margin: 4px 2px;
 
   }
+
+  @import url('http://fonts.cdnfonts.com/css/kg-summer-sunshine');
+
+  .font-kgsummer{
+    font-family: 'KG Summer Sunshine Blackout', sans-serif;
+  }
