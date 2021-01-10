@@ -1,5 +1,8 @@
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link rel="stylesheet" href="Interior.css">
 
@@ -8,7 +11,7 @@
     <style> 
       body {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        background-image: url("https://www.teahub.io/photos/full/183-1837990_wolf-black-panther-animal.jpg");
+        background-image: url("https://swall.teahub.io/photos/small/78-780704_free-flower-wallpaper-maple-leaf.jpg");
         background-color: #ffffff;
         background-position: center;
         background-repeat: no-repeat;
@@ -21,36 +24,60 @@
 
     
 
-<div class="navbar">
-    <ul class="navbar">
-        <li><a href="find-out.html"class="active">Find Out More <i class="fas fa-info"></i></a></li>
-        <li><a href="send.html"class="active">Send and Recive <i class="fas fa-paper-plane"></i></a></li>
-        <li><a href="index.html" class="active">Home <i class="fas fa-home"></i></a></li>
-    </ul>
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <div class="container-fluid">
+      <a class="navbar-brand font-kgsummer text-dark" href="#">Interior Ideas </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="nav navbar-nav ml-auto" style="margin-left: auto;">
+              <li class="nav-item">
+                  <a class="nav-link text-dark" href="index.html"> Home <i class="fas fa-home"></i></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link text-dark" href="send.html"> Send and Recieve <i class="fas fa-paper-plane"></i></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link text-dark" href="find-out.html"> Find Out More <i class="fas fa-info"></i></a>
+              </li>
+          </ul>
+      </div>
+  </div>
+</nav>
+
+
+
+<h1 style="text-align:center;" class="font-kgsummer">Contact Me!  </h1>
+<p style="text-align:center;" >I will try to contact you back. 
+  Send pictures of your house you would like to recreate.</p>
+<h3 style="text-align:center;">If you do not like your designs. Please tell me.</h3> 
+
+
+<h2 style="text-align:center;"><a href ="mailto:hannahjranderson@gmail.com"> Email </a></h2>
+<h3 style="text-align:center;">Or..</h3>
+<h2 style="text-align:center;">Copy my Email and Email me</h2>
+
+<div class="row justify-content-center pb-4">
+  <div class="col text-center">
+      <input type="text" readonly value="hannahjranderson@gmail.com" id="myInput" style="width:270px">
+     <button onclick="copy('myInput')" class="button btn btn-info"> Copy </button>
+  </div>
+</div>
+<div class="row justify-content-center">
+  <div class="col text-center">
+    <input type="text" readonly value="hannahjranderson@hotmail.com" id="myInput2" style="width:290px">
+    <button onclick="copy('myInput2')" class="button btn btn-info"> Copy </button>
+  </div>
 </div>
 
 
 
 
 
-<h1 style="text-align:center;">Contact Me!  </h1>
-<p style="text-align:center;">I will try to contact you back. 
-  Send pictures of your house you would like to recreate.</p>
-  <h3 style="text-align:center;">If you do not like your designs. Please tell me. </h3> 
 
-<h2 style="text-align:center;"><a href ="mailto:hannahjranderson@gmail.com"> Email </a></h2>
-<h3 style="text-align:center;">Or..</h3>
-<h2 style="text-align:center;">Copy my Email and Email me</h2>
-
-<h2 style="text-align:center;">
-<input type="text" readonly value="hannahjranderson@gmail.com" id="myInput" style="width:210px">
-<button onclick="copy('myInput')" class="button"> Copy </button>
-</h2>
-
-<h2 style="text-align:center;">
-  <input type="text" readonly value="hannahjranderson@hotmail.com" id="myInput2" style="width:210px">
-  <button onclick="copy('myInput2')" class="button"> Copy </button>
-</h2>
 
 
 
@@ -65,8 +92,10 @@
   }
 </script>
 
-</body>
 
-
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body> 
 </html>
       
