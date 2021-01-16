@@ -57,9 +57,83 @@
 
 
 <br>
-<h1 class="text-light">Hannah Anderson</h1>
+
+<script>
+var text="Hannah Anderson" // YOUR TEXT
+var speed=15     // SPEED OF FADE
+
+// ********** LEAVE THE NEXT BIT ALONE!
+
+
+if (document.all||document.getElementById){
+document.write('<h3><span id="highlight">' + text + '</span></h3>')
+var storetext=document.getElementById? document.getElementById("highlight") : document.all.highlight
+}
+else
+document.write(text)
+var hex=new Array("00","14","28","3C","50","64","78","8C","A0","B4","C8","DC","F0")
+var r=1
+var g=1
+var b=1
+var seq=1
+function changetext(){
+rainbow="#"+hex[r]+hex[g]+hex[b]
+storetext.style.color=rainbow
+}
+function change(){
+if (seq==6){
+b--
+if (b==0)
+seq=1
+}
+if (seq==5){
+r++
+if (r==12)
+seq=6
+}
+if (seq==4){
+g--
+if (g==0)
+seq=5
+}
+if (seq==3){
+b++
+if (b==12)
+seq=4
+}
+if (seq==2){
+r--
+if (r==0)
+seq=3
+}
+if (seq==1){
+g++
+if (g==12)
+seq=2
+}
+changetext()
+}
+function starteffect(){
+if (document.all||document.getElementById)
+flash=setInterval("change()",speed)
+}
+starteffect()
+</script>
+
+<br>
+
 <h2 class="text-light">About Me!</h2>
-<p class="text-light">Hello. I am a 10 year old programmer who has programmed this website for you.</p>
+<br>
+<h5 class="text-light" >Hello. I am a 10 year old programmer who has programmed this website for you. I have got the help from <a class="whitetext" href="https://philanderson.co.uk/" style="text-decoration: none;">Philip Anderson</a></em>.
+    <br><br>
+My current job is : Modelling but I don't get a lot of jobs often. I like to say my salary for a month is £0.00. 
+    <br><br>
+I have a dream of becoming an Interior Designer and a business of owner of Interior Designing. 
+    <br><br>
+In School, I try to work hard and my favourite subject is ?. It used to be Math but now I don't really have one because sometimes I don't like Math but sometimes I love Math. I like all of the subjects.
+<br><br>
+I give loads of credit to a website that taught me to code called <a class="whitetext" href="https://www.codecademy.com/" style="text-decoration: none;"> Codecademy</a></em>. It teaches you coding of all types e.g. html, js, php, css. You also choose Skill Paths and Career Paths.
+</h5>
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

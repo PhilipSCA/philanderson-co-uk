@@ -20,10 +20,10 @@
     <script src="try.js"></script>
 
     <link rel="icon" href="images/icon3.jpg">
-
-    <title>Interior Ideas | IRIS</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <title>Dream to Decor | DTD </title>
     <!--AdUqMkrW2rogd7xux-5XqctWLRHf7Up_qThlNfVban-mbK6EZQG6lIZbJVZq6wycIflPVaM4qfP7rndU-->
-    <script src="https://www.paypal.com/sdk/js?client-id=AZPdvg_8G7jFbXi83edJviH81Nb4PFcl2mTeYMWJhhn-PiCFBbhQ05gxq0_2ugz7j_zoumCEHl5nHGQe&currency=GBP"></script>
+    <!-- <script src="https://www.paypal.com/sdk/js?client-id=AaExbpJ1m0YUGwbLMnUQLKCQSehxH3CEd58emyz7fC1F6bVwGt6-Q8ZEBu0hi0v9Q3zkJa2dgsSHDjhI"></script> -->
     <style> 
     
         body {
@@ -59,25 +59,29 @@
 <body>
 
     <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg navbar-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand font-kgsummer" href="#">Interior Ideas </a>
+    <nav class="navbar navbar-expand-lg navbar-dark text-center">
+        <div class="container-fluid text-center">
+
+            <a class="navbar-brand font-kgsummer" href="#">Dream to Decor</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
+    
+
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="nav navbar-nav ml-auto" style="margin-left: auto;">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html"> Home <i class="fas fa-home"></i></a>
+                        <a class="nav-link" href="index.html"><i class="fas fa-home"></i> Home </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="send.html"> Send and Recive <i class="fas fa-paper-plane"></i></a>
+                        <a class="nav-link" href="#" onclick='payButton()'><i class="fas fa-shopping-cart"></i> Buy Now </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="find-out.html"> Find Out More <i class="fas fa-info"></i></a>
+                        <a class="nav-link" href="find-out.html"><i class="fas fa-info-circle"></i> Find Out More </a>
                     </li>
                 </ul>
+            </div>
             </div>
         </div>
     </nav>
@@ -85,7 +89,7 @@
 <!-- PAGE CONTENT -->
 <div class="row">
     <div class="col text-center text-white">
-        <h1 class="typewrite font-kgsummer" data_period="2000" data-type='["Interior Ideas", "IDIS"]'></h1>
+        <h1 class="typewrite font-kgsummer" data_period="2000" data-type='["Dream to Decor","DTD", "Interior Ideas"]'></h1>
     </div>
 </div>
 
@@ -99,6 +103,9 @@
        <em style="color:white;"> Brought to you by <a class="whitetext" href="hannah.html"
         style="text-decoration: none;">Hannah Anderson</a></em>
 <br>
+<h4 style="color:#fbff00";><i class="fas fa-exclamation-triangle"></i>THIS WEBSITE ON STILL ON TEST!<i class="fas fa-exclamation-triangle"></i></h4>
+<h6 style="color:#fffb00";><i class="fas fa-exclamation-triangle"></i>YOU MAY STILL HAVE A LOOK AROUND!<i class="fas fa-exclamation-triangle"></i></h6>
+<BR>
     </div>
     
 </div>
@@ -123,33 +130,53 @@
 
 <br><br> 
 
-<div id="smart-button-container">
-    <div style="text-align: center;">
-      <div id="paypal-button-container"></div>
-    </div>
-  </div> 
 
+
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=GBP" data-sdk-integration-source="button-factory"></script>
+<script>
+    function payButton(){
+        Swal.fire({
+            title: 'Send me your file!',
+            html: `Upload your file before paying.
+            <br><br><br>
+            <div id="paypal-button-container"></div>`,
+            input: 'file',
+            icon: 'info',
+            showConfirmButton: false,
+            showCancelButton: true,
+            didOpen: () => {
+                initPayPalButton();
+            },
+            preConfirm: (input) => {
+                if(!input){
+                    Swal.showValidationMessage("Upload your file");
+                }
+            }
+        })
+    }
+   
+</script>
 <script>
   function initPayPalButton() {
+
     paypal.Buttons({
       style: {
         shape: 'pill',
         color: 'blue',
         layout: 'horizontal',
-        label: 'paypal',
+        label: 'buynow',
         tagline: true
       },
 
       createOrder: function(data, actions) {
+        if(!$(".swal2-file").val()){
+            return Swal.showValidationMessage("Upload file!");
+        }
         return actions.order.create({
-            purchase_units: [{
-                "description":"Picture improvement",
-                "amount": {
-                    "currency_code":"GBP",
-                    "value": 20
-                }
-            }]
+            purchase_units: [{"amount":{"value":0.25}}]
         });
+        
+        
       },
 
       onApprove: function(data, actions) {
@@ -163,7 +190,7 @@
       }
     }).render('#paypal-button-container');
   }
-  initPayPalButton();
+  
 </script>
 
 
