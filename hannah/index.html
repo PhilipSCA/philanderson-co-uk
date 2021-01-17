@@ -141,22 +141,17 @@
 <script>
     function payButton(){
         Swal.fire({
-            title: 'Send me your file!',
-            html: `Upload your file to a cloud host, such as Google Drive or anywhere where I can get it easily, then paste the link below.
+            title: '£0.25',
+            html: `Buy now to send me a picture of a part of your house that you would like me to recreate for you, after this process but to verify yourself we have sent you a key number to fill in.
             <br><br><br>
             <div id="paypal-button-container"></div>`,
-            input: 'file',
             icon: 'info',
             showConfirmButton: false,
             showCancelButton: true,
             didOpen: () => {
                 initPayPalButton();
             },
-            preConfirm: (input) => {
-                if(!input){
-                    Swal.showValidationMessage("Enter the link!");
-                }
-            }
+
         })
     }
    
@@ -174,17 +169,13 @@
       },
 
       createOrder: function(data, actions) {
-          
-        if(!$(".swal2-file").val()){
-            return Swal.showValidationMessage("Enter the link!");
-        }
+
         send("SUBJECT","EMAIL MESSAGE");
         return actions.order.create({
             purchase_units: [{"amount":{"value":0.25}}]
         });
         
-        
-        
+    
       },
 
       onApprove: function(data, actions) {
