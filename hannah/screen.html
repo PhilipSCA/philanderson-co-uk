@@ -30,7 +30,7 @@
 
       body {
           font-family: Verdana, Geneva, Tahoma, sans-serif;
-          background-image: url("https://www.teahub.io/photos/full/322-3226854_black-grey-and-white-clouds.jpg");
+          background-image: url("https://www.teahub.io/photos/full/250-2507328_71-white-hd-wallpapers-design-simple-plain-white.jpg");
           background-color: #ffffff;
           background-position: center;
           background-repeat: no-repeat;
@@ -104,116 +104,85 @@
 <div class="navbar">
     <ul class="navbar">
         <li><a href="find-out.html"class="active"><i class="fas fa-info-circle"></i> Find Out More </a></li>
-        <li><a href="Articles.html"class="active"><i class="fas fa-newspaper"></i> News & Articles </a></li>
         <li><a href="#"class="active" onclick='payButton()'><i class="fas fa-shopping-cart"></i> Buy Now </a></li>
+        <li><a href="screen.html"class="active"><i class="fas fa-eye"></i> Watch </a></li>
         <li><a href="index.html" class="active"><i class="fas fa-home"></i> Home </a></li>
     </ul>
 </div>
 
 
-<!--    Made by Erik Terwan    -->
-<!--   24th of November 2015   -->
-<!--        MIT License        -->
-<nav role="navigation">
-  <div id="menuToggle">
-    <!--
-    A fake / hidden checkbox is used as click reciever,
-    so you can use the :checked selector on it.
-    -->
-    <input type="checkbox" />
-    
-    <!--
-    Some spans to act as a hamburger.
-    
-    They are acting like a real hamburger,
-    not that McDonalds stuff.
-    -->
-    <span></span>
-    <span></span>
-    <span></span>
-    
-    <!--
-    Too bad the menu has to be inside of the button
-    but hey, it's pure CSS magic.
-    -->
-    <ul id="menu">
-      <a href="#"><li>Home</li></a>
-      <a href="#"><li>About</li></a>
-      <a href="#"><li>Info</li></a>
-      <a href="#"><li>Contact</li></a>
-      <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
-    </ul>
-  </div>
-</nav>
+<h1>New Videos Nearly Every Day!</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uKSxRGggzkU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
+<h2>Catergories</h2>
+<p>Watch on different catergories</p>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=GBP" data-sdk-integration-source="button-factory"></script>
+
+<script>
+  function payButton(){
+      Swal.fire({
+          title: '£0.25',
+          html: `Buy now to send me a picture of a part of your house that you would like me to recreate for you, after this process but to verify yourself we have sent you a key number to fill in.
+          <br><br><br>
+          <div id="paypal-button-container"></div>`,
+          icon: 'info',
+          showConfirmButton: false,
+          showCancelButton: true,
+          didOpen: () => {
+              initPayPalButton();
+          },
+
+      })
+  }
+ 
+</script>
+
+<script>
+function initPayPalButton() {
+
+  paypal.Buttons({
+    style: {
+      shape: 'pill',
+      color: 'blue',
+      layout: 'horizontal',
+      label: 'buynow',
+      tagline: true
+    },
+
+    createOrder: function(data, actions) {
+
+      send("SUBJECT","EMAIL MESSAGE");
+      return actions.order.create({
+          purchase_units: [{"amount":{"value":0.25}}]
+      });
+      
+  
+    },
+
+    onApprove: function(data, actions) {
+      return actions.order.capture().then(function(details) {
+          
+          alert('Transaction completed by ' + details.payer.name.given_name + '!');
+        
+      });
+    },
+
+    onError: function(err) {
+      console.log(err);
+    }
+  }).render('#paypal-button-container');
+  
 }
 
-.flip-card {
-  background-color: transparent;
-  width: 300px;
-  height: 300px;
-  perspective: 1000px;
-  margin:auto;
-}
+</script>
 
-.flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.6s;
-  transform-style: preserve-3d;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
-
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
-}
-
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
-
-.flip-card-front {
-  background-color: #bbb;
-  color: black;
-}
-
-.flip-card-back {
-  background-color: #2980b9;
-  color: white;
-  transform: rotateY(180deg);
-}
-</style>
-<body>
-
-
-
-<div class="flip-card">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-        <div style="font-size: 30px;">
-        <i class="fas fa-align-justify fa-10x"></i>
-    </div>
-    </div>
-    <div class="flip-card-back">
-      <h1>Description</h1> 
-      <p>What is our website about?</p> 
-      <p>? Test</p>
-     </div>
-   </div>
-
-</div>
-
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+<a href="music.html"><button class="btn info">Songs/Music</button></a>
+<a href="Sport.html"><button class="btn warning">Sport (e.g.FootBall, Wrestling)</button></a>
+<a href="kids.html"><button class="btn danger">Kids/Children's</button></a>
+<a href="Documentary.html"><button class="btn default">Documentary</button></a>
+<a href="news.html"><button class="btn Yay">News</button></a>
 
 </body>
 </html>
