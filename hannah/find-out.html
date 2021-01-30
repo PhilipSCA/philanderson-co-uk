@@ -9,23 +9,16 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-186982407-1');
-</script>
-
-
-  
+</script>  
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link rel="stylesheet" href="Interior.css">
 
     <title>Dream to Decor - Find Out More</title>
 
-
     <meta name="viewport" content="width=device-width, initial-scale=1">    
 
-    <link rel="icon" href="images/icon5.jpg">
+    <link rel="icon" href="images/icon5.png">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
-    <!--AdUqMkrW2rogd7xux-5XqctWLRHf7Up_qThlNfVban-mbK6EZQG6lIZbJVZq6wycIflPVaM4qfP7rndU-->
-    <!-- <script src="https://www.paypal.com/sdk/js?client-id=AaExbpJ1m0YUGwbLMnUQLKCQSehxH3CEd58emyz7fC1F6bVwGt6-Q8ZEBu0hi0v9Q3zkJa2dgsSHDjhI"></script> -->
- 
     <style>
 
       body {
@@ -36,7 +29,47 @@
           background-repeat: no-repeat;
           background-size: cover;
       }
-      
+
+      .flip-card {
+        background-color: transparent;
+        width: 300px;
+        height: 300px;
+        perspective: 1000px;
+        margin:auto;
+      }
+
+      .flip-card-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      }
+
+      .flip-card:hover .flip-card-inner {
+        transform: rotateY(180deg);
+      }
+
+      .flip-card-front, .flip-card-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+      }
+
+      .flip-card-front {
+        background-color: #bbb;
+        color: black;
+      }
+
+      .flip-card-back {
+        background-color: #2980b9;
+        color: white;
+        transform: rotateY(180deg);
+      }
       .btn {
         border: none;
         background-color: inherit;
@@ -110,17 +143,123 @@
     </ul>
 </div>
 
+<script>
+  var quantity = 0;
+  var price = 0.25; 
+  function payButton(){
+      Swal.fire({
+          title: 'Enter Amount',
+          input: 'range',
+          inputAttributes: {
+              min: 1,
+              max: 10,
+              step: 1
+          },
+          inputValue: 1,
+          preConfirm: (input) => {
+              quantity = input;
+          }
+      }).then(() => {
+          Swal.fire({
+          title:`£${quantity*price}`,
+          html: `Buy now to send me a picture of a part of your house that you would like me to recreate for you, after this process but to verify yourself we have sent you a key number to fill in.
+          <br><br><br>
+          <div id="paypal-button-container"></div>`,
+          icon: 'info',
+          showConfirmButton: false,
+          showCancelButton: true,
+          didOpen: () => {
+              initPayPalButton();
+          },
 
-<!--    Made by Erik Terwan    -->
-<!--   24th of November 2015   -->
-<!--        MIT License        -->
+      })
+      })
+  }
+ 
+</script>
+<script>
+function initPayPalButton() {
+
+  paypal.Buttons({
+    style: {
+      shape: 'pill',
+      color: 'blue',
+      layout: 'horizontal',
+      label: 'buynow',
+      tagline: true
+    },
+
+    createOrder: function(data, actions) {
+
+      // send("SUBJECT","EMAIL MESSAGE");
+      $.post("purchase/createSession.php", {quantity: quantity}, function(result){
+
+      })
+      return actions.order.create({
+          purchase_units: [{"amount":{"value":price*quantity}}]
+      });
+      
+  
+    },
+
+    onApprove: function(data, actions) {
+      return actions.order.capture().then(function(details) {
+          
+          window.location.href = "itscomplete.php";
+        
+      });
+    },
+
+    onError: function(err) {
+      console.log(err);
+    }
+  }).render('#paypal-button-container');
+  
+}
+
+</script>
+<script>
+
+
+  var data = {
+      "access_token": "nbudw34rq8bavo1iyypvakpr"
+  };
+
+  function onSuccess() {
+      // remove this to avoid redirect
+      // window.location = window.location.pathname + "?message=Email+Successfully+Sent%21&isError=0";
+  }
+
+  function onError(error) {
+      // remove this to avoid redirect
+      // window.location = window.location.pathname + "?message=Email+could+not+be+sent.&isError=1";
+  }
+
+
+  function send(subject, message) {
+      data['subject'] = subject;
+      data['text'] = message;
+
+      $.post('https://postmail.invotes.com/send',
+          data,
+          onSuccess
+      ).fail(onError);
+
+      return false;
+  }
+
+  // sendButton.on('click', send);
+
+  // var $form = $("#" + form_id);
+  // $form.submit(function( event ) {
+  //     event.preventDefault();
+  // });
+</script>
+
+
 <nav role="navigation">
   <div id="menuToggle">
-
-  
     <input type="checkbox" />
-    
-  
     <span></span>
     <span></span>
     <span></span>
@@ -136,56 +275,6 @@
 </nav>
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.flip-card {
-  background-color: transparent;
-  width: 300px;
-  height: 300px;
-  perspective: 1000px;
-  margin:auto;
-}
-
-.flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.6s;
-  transform-style: preserve-3d;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
-
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
-}
-
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
-
-.flip-card-front {
-  background-color: #bbb;
-  color: black;
-}
-
-.flip-card-back {
-  background-color: #2980b9;
-  color: white;
-  transform: rotateY(180deg);
-}
-</style>
-<body>
-
-
 
 <div class="flip-card">
   <div class="flip-card-inner">
@@ -197,13 +286,13 @@ body {
     <div class="flip-card-back">
       <h1>Description</h1> 
       <p>What is our website about?</p> 
-      <p>? Test</p>
+      <p>This is a website of Decoring. We make, you want. Ask us to Decorate Your Home of any room. Press the Buy Now 
+        button to do so. It'll ask you how many pictures you want and the price range for it. Each picture is £0.25 
+        in UK cash in pounds.</p>
      </div>
    </div>
-
 </div>
-
-
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=GBP" data-sdk-integration-source="button-factory"></script>
 </body>
 </html>
 
