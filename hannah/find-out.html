@@ -160,20 +160,36 @@
           preConfirm: (input) => {
               quantity = input;
           }
+          
       }).then(() => {
-          Swal.fire({
-          title:`£${quantity*price}`,
-          html: `Buy now to send me a picture of a part of your house that you would like me to recreate for you, after this process but to verify yourself we have sent you a key number to fill in.
-          <br><br><br>
-          <div id="paypal-button-container"></div>`,
-          icon: 'info',
-          showConfirmButton: false,
-          showCancelButton: true,
-          didOpen: () => {
-              initPayPalButton();
-          },
 
-      })
+        Swal.fire({
+          title: 'Are you sure?',
+          text: 'Are you sure you want to purchase?',
+          showConfirmButton: true,
+          showCancelButton: true,
+          confirmButtonText: "Yes",
+          cancelButtonText: 'No'
+        }).then((result) => {
+
+          if(result.isDismissed) return;
+          if(result.isConfirmed){
+
+            Swal.fire({
+              title:`£${quantity*price}`,
+              html: `Buy now to send me a picture of a part of your house that you would like me to recreate for you, after this process but to verify yourself we have sent you a key number to fill in.
+              <br><br><br>
+              <div id="paypal-button-container"></div>`,
+              icon: 'info',
+              showConfirmButton: false,
+              showCancelButton: true,
+              didOpen: () => {
+                  initPayPalButton();
+              }
+            })
+
+          }
+        })
       })
   }
  
@@ -266,10 +282,10 @@ function initPayPalButton() {
     <span></span>
 
     <ul id="menu">
-      <a href="#"><li>About</li></a>
-      <a href="#"><li>Books</li></a>
-      <a href="#"><li>Just Ideas?</li></a>
-      <a href="#"><li>Public</li></a>
+      <a href="about.html"><li>About</li></a>
+      <a href="books.html"><li>Books</li></a>
+      <a href="ideas.html"><li>Just Ideas</li></a>
+      <a href="public.html"><li>Public</li></a>
     </ul>
   </div>
 </nav>
@@ -284,14 +300,33 @@ function initPayPalButton() {
     </div>
     </div>
     <div class="flip-card-back">
-      <h1>Description</h1> 
-      <p>What is our website about?</p> 
+      <u><h1>Description</h1></u>
+      <u><b><p>What is our website about?</p></b></u>
       <p>This is a website of Decoring. We make, you want. Ask us to Decorate Your Home of any room. Press the Buy Now 
         button to do so. It'll ask you how many pictures you want and the price range for it. Each picture is £0.25.</p>
      </div>
    </div>
 </div>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=GBP" data-sdk-integration-source="button-factory"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Archivo+Black&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Archivo:700&display=swap" rel="stylesheet">
+
+
+<div class="card">
+  <u><b><p>
+     My Goal.
+  </p>
+</u>
+</b>
+  <h2>
+    I want everyone who comes onto my website to feel safe and feel like they can trust, so please have no
+     hate towards me, I also would like to give credit to <a class="whitetext" href="https://www.w3schools.com/"
+    style="text-decoration: none;">W3Schools!</a> and also <a class="whitetext" href="https://www.codecademy.com/login"
+    style="text-decoration: none;">Codecademy!</a>. Codecademy really helped me learn to make this website for you.
+  </h2>
+</div>
+
 </body>
 </html>
 
