@@ -324,7 +324,44 @@
    transform: none;
  }
 
+ * {
+  box-sizing: border-box;
+}
 
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
 
  .card {
   background-color: var(--background);
@@ -333,7 +370,6 @@
   min-height: 90px;
   border: 3px solid var(--primary);
   padding: 15px;
-  margin: calc(50vh - 30px) auto 0 auto;  
     box-shadow: 0 0 0 -3px var(--background), 0 0 0 0px #1FC11B, /* Green */
       0 0 0 -3px var(--background), 0 0 0 0px  #FFD913, /* Yellow */
       0 0 0 -3px var(--background), 0 0 0 0px  #FF9C55, /* Orange */
@@ -390,4 +426,50 @@ body {
   font-size: 14px;
   font-family: "Archivo Black", "Archivo", sans-serif;
   font-weight: normal;
+}
+
+
+
+
+
+
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
 }
