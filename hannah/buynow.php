@@ -10,7 +10,7 @@
 <style>
         body {
           font-family: Verdana, Geneva, Tahoma, sans-serif;
-          background-image: url("https://www.teahub.io/photos/full/112-1120669_affordable-free-orange-light-wallpaper-with-plain-light.jpg");
+          background-color: white;
           background-color: #ffffff;
           background-position: center;
           background-repeat: repeat;
