@@ -45,7 +45,7 @@
 
         .bg-img {
   /* The image used */
-  background-image: url("https://www.w3schools.com/bootstrap4/bird.jpg");
+  background-image: url("https://i.pinimg.com/originals/60/e9/3d/60e93de6c2475b184f5aca595fa53237.jpg");
 
   min-height: 380px;
 
