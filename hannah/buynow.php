@@ -2,6 +2,8 @@
 <head>
 
 <link rel="icon" href="images/icon5.png">
+<link rel="stylesheet" href="phphelp.css">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -9,7 +11,7 @@
 
 <style>
         body {
-          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-family: "Lucida Console", "Courier New", monospace;
           background-color: white;
           background-color: #ffffff;
           background-position: center;
@@ -17,7 +19,9 @@
           background-size: cover;
         }
 
-
+        body {
+            font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+        }
         
         /* Navbar links */
         .navbar a {
@@ -114,8 +118,29 @@
 <input type="submit"></input>
 </form>
 
-<script src="https://shoppy.gg/api/embed.js"></script>
-<button data-shoppy-product="Jlxcu8K" style="background-color: red;">Pay</button>
 
-</head>
+<button type="button" onclick='payButton()'>
+<img src="https://cdn.homedit.com/wp-content/uploads/2012/05/house-amoberen-berg5.jpg" width="500" height="300"/>
+<h1>DTD</h1>
+<p>DTD is a webiste that sells <br>
+    ideas and pictures for other people,<br> 
+    while they send us pictures and infomation to do their house up for them.</p>
+</button>
+
+<script src="https://shoppy.gg/api/embed.js"></script>
+        <button data-shoppy-product="Jlxcu8K">Pay</button>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+<script>
+function payButton(){
+    Swal.fire({
+        title: 'Pay',
+        html: 'NOW!',
+        icon: 'info',
+    })
+}
+</script>
+
+
+</head> 
 </html>
