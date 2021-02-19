@@ -119,16 +119,16 @@
 </form>
 
 
-<button type="button" onclick='payButton()'>
+<button type="button" style="background: black;" onclick='payButton()'>
 <img src="https://cdn.homedit.com/wp-content/uploads/2012/05/house-amoberen-berg5.jpg" width="500" height="300"/>
-<h1>DTD</h1>
-<p>DTD is a webiste that sells <br>
+<u style="color: red"><h1 style="color: red">DTD</h1></u>
+<u style="color: red"><p style="color: red"><b>DTD is a webiste that sells
     ideas and pictures for other people,<br> 
-    while they send us pictures and infomation to do their house up for them.</p>
+    while they send us pictures and infomation to do their house up for them.</b></p></u>
 </button>
 
 <script src="https://shoppy.gg/api/embed.js"></script>
-        <button data-shoppy-product="Jlxcu8K">Pay</button>
+<button data-shoppy-product="Jlxcu8K">Pay</button>
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
 <script>
