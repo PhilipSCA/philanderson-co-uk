@@ -122,12 +122,9 @@
 <input type="submit"></input>
 </form>
 
-
-<button type="button" style="background: black;" onclick='payButton()'>
-<img src="https://cdn.homedit.com/wp-content/uploads/2012/05/house-amoberen-berg5.jpg" width="500" height="300"/>
+<img class="card-img-top" src="https://cdn.homedit.com/wp-content/uploads/2012/05/house-amoberen-berg5.jpg" width="500" height="300" alt="Image" onclick='payButton()'>
 <u style="color: red"><h1 style="color: red">DTD</h1></u>
-<u style="color: red"><p style="color: red"><b>DTD is a webiste that sells
-    ideas and pictures for other people,<br> 
+<u style="color: red"><p style="color: red"><b>DTD is a webiste that sells ideas and pictures for other people,<br> 
     while they send us pictures and infomation to do their house up for them.</b></p></u>
 </button>
 
@@ -140,9 +137,12 @@
 <script>
 function payButton(){
     Swal.fire({
-        title: 'Pay',
-        html: '<button onclick="showShoppy()">Pay</button>',
-        icon: 'info',
+        title: 'Payment methods',
+        html: `
+        <p>How would you like to pay?</p>
+          <img src="images/paypal.png" onclick="showShoppy()" width="300">
+        <br><br><br><br>
+          <img src="images/steam.png"  width="300">`,
     })
 }
 
