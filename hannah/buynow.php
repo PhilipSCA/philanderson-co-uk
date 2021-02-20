@@ -89,6 +89,10 @@
   background-color: #ddd;
   color: black;
 }
+
+.shoppy-wrapper{
+  display:none;
+}
 </style>
 
 <body>
@@ -128,16 +132,26 @@
 </button>
 
 <script src="https://shoppy.gg/api/embed.js"></script>
-<button data-shoppy-product="Jlxcu8K">Pay</button>
+
+<div class="shoppy-wrapper" id="shoppy-wrapper" name="shoppy-product" data-id="Jlxcu8K"><span class="shoppy-close" id="shoppy-close" onclick="hideShoppy()"></span><div class="shoppy-container"><iframe src="https://shoppy.gg/product/embed?embed=&amp;product=Jlxcu8K"></iframe></div></div>
+
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
 <script>
 function payButton(){
     Swal.fire({
         title: 'Pay',
-        html: 'NOW!',
+        html: '<button onclick="showShoppy()">Pay</button>',
         icon: 'info',
     })
+}
+
+function showShoppy(){
+  document.getElementById("shoppy-wrapper").style.display = "block";
+}
+
+function hideShoppy(){
+  document.getElementById("shoppy-wrapper").style.display = "none";
 }
 </script>
 
