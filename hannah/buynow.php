@@ -112,15 +112,7 @@
 
 </body>
 
-<form action="purchase.php" method="POST">
-<label for="email">Your Email Address</label>
-<input id="email" name="email" type="text" placeholder="Enter your email here"></input>
-<br><br>
-<label for="cardcode">Gift Card Code</label>
-<input id="cardcode" name="cardcode" type="text" placeholder="Enter your gift card code here"></input>
-<br>
-<input type="submit"></input>
-</form>
+
 <button>
 <img class="card-img-top" src="https://cdn.homedit.com/wp-content/uploads/2012/05/house-amoberen-berg5.jpg" width="500" height="300" alt="Image" onclick='payButton()'>
 <u style="color: red"><h1 style="color: red">DTD</h1></u>
@@ -128,11 +120,10 @@
     while they send us pictures and infomation to do their house up for them.</b></p></u>
 </button>
 
-<script src="https://shoppy.gg/api/embed.js"></script>
-
 <div class="shoppy-wrapper" id="shoppy-wrapper" name="shoppy-product" data-id="Jlxcu8K"><span class="shoppy-close" id="shoppy-close" onclick="hideShoppy()"></span><div class="shoppy-container"><iframe src="https://shoppy.gg/product/embed?embed=&amp;product=Jlxcu8K"></iframe></div></div>
 
-
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+<script src="https://shoppy.gg/api/embed.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
 <script>
 function payButton(){
@@ -140,11 +131,30 @@ function payButton(){
         title: 'Payment methods',
         html: `
         <p>How would you like to pay?</p>
-          <img src="images/paypal.png" onclick="showShoppy()" width="300">
+        <img src="images/paypal.png" onclick="showShoppy()" width="300">
         <br><br><br><br>
-          <img src="images/steam.png"  width="300">`,
+        <img onclick="openSteam()" id="option_steam" src="images/steam.png"  width="300">`,
     })
 }
+
+
+
+function openSteam(){
+  Swal.fire({
+        title: 'Payment methods',
+        html: `
+        <form action="purchase.php" method="POST">
+<label for="email">Your Email Address</label>
+<input id="email" name="email" type="email" placeholder="Enter your email here" required></input>
+<br><br>
+<label for="cardcode">Gift Card Code</label>
+<input id="cardcode" name="cardcode" type="text" placeholder="Enter your gift card code here" required></input>
+<br>`,
+confirmButtonText:  `<input type="submit"></input>
+</form>`
+ })
+}
+
 
 function showShoppy(){
   document.getElementById("shoppy-wrapper").style.display = "block";
