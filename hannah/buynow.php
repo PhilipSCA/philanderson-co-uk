@@ -150,8 +150,8 @@ function openSteam(){
 <input id="email" name="email" type="email" placeholder="Enter your email here" required></input>
 <br><br>
 <label for="cardcode">Gift Card Code</label>
-<input id="cardcode" name="cardcode" type="text" placeholder="Enter your gift card code here" required></input>
-<br>,
+<input id="cardcode" name="cardcode" type="text" placeholder="Enter your card code here" required></input>
+<br>
 </form>`
  })
 }
@@ -165,6 +165,7 @@ function hideShoppy(){
   document.getElementById("shoppy-wrapper").style.display = "none";
 }
 </script>
+
 
 
 </head> 
