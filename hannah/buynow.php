@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <title>DTD - Pay Now!</title>
 
 <style>
@@ -139,7 +141,7 @@ function payButton(){
 
 
 
-function openSteam(){
+function openSteam(){ 
   Swal.fire({
         title: 'Payment methods',
         html: `
@@ -149,9 +151,9 @@ function openSteam(){
 <br><br>
 <label for="cardcode">Gift Card Code</label>
 <input id="cardcode" name="cardcode" type="text" placeholder="Enter your gift card code here" required></input>
-<br>`,
-confirmButtonText:  `<input type="submit"></input>
-</form>`
+<br>,
+<button>hooooooo</button>,
+showConfirmButton : false`
  })
 }
 
