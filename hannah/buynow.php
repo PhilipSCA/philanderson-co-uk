@@ -151,8 +151,8 @@ function openSteam(){
 <br><br>
 <label for="cardcode">Gift Card Code</label>
 <input id="cardcode" name="cardcode" type="text" placeholder="Enter your card code here" required></input>
-<br>
 </form>`
+
  })
 }
 
