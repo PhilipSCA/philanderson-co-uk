@@ -1,3 +1,22 @@
 {
-    "liveServer.settings.port": 5741
+    "liveServer.settings.port": 5741,
+    "liveServer.settings.donotVerifyTags": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.multiCursorModifier": "alt",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "workbench.activityBar.visible": true,
+    "git.autofetch": true,
+    "phpserver.phpPath": "C:\\Program Files\\PHP\\v7.4\\php.exe",
+    "phpserver.phpConfigPath": "C:\\Program Files\\PHP\\v7.4\\php.ini",
+    "phpserver.port": 3002,
+    "remote.SSH.useLocalServer": false,
+    "remote.SSH.remotePlatform": {
+        "173.231.197.91": "linux",
+        "95.216.152.232": "linux"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
 }
