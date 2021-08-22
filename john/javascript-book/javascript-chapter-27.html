@@ -8,11 +8,22 @@
 </head>
 <body>
     <script>
-
-        
-
-
-
+        for (let i = 0; i < 5; i++){
+            var randomNumber = Math.random();
+            console.log(`a random number is ${randomNumber}` )    
+        }
+        console.log("  ");
+        let maxNumber = 10;
+        console.log(`Generating random numbers between 1 - ${maxNumber}`);
+        for (let i = 0; i < 8; i++){
+            let bigDecimal = Math.random();
+            console.log(`a random number is ${bigDecimal}`)
+            let improvedNum = (bigDecimal * maxNumber) + 1;
+            console.log(`a bigger number is ${improvedNum}`)
+            let numberOfStars = Math.floor(improvedNum);
+            console.log(`a bigger number rounded is ${numberOfStars}`)
+            console.log("  ");
+        }       
     </script>
 </body>
 </html>
