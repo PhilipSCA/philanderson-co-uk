@@ -8,13 +8,18 @@
 </head>
 <body>
    <script>
-      var scoreAvg = 106
+      var scoreAvg = 106.34
       var numberOfStars = Math.round(scoreAvg);
-      console.log(numberOfStars);
-      var beans = Math.ceil(.0000000000000000000000000000000000000000000000000000000000000000000000001);
-      console.log(beans);
-      var eggs = Math.floor(10.9);
-      console.log(eggs);
+      console.log(scoreAvg + " rounded is " + numberOfStars);
+      var smallNumber = 0.001
+      var beans = Math.ceil(smallNumber);
+      console.log(smallNumber + " rounded up to the nearest integer is " + beans);
+      var decimalNumber = 10.9
+      var eggs = Math.floor(decimalNumber);
+      console.log(decimalNumber + " rounded down to the nearest integer is " + eggs);
+      let bigNumber = 249
+      let roundedUp = 100*Math.round(bigNumber/100)
+      console.log(`${bigNumber} roundedU up to nearest 100 is ${roundedUp}`)
    </script> 
 </body>
 </html>
