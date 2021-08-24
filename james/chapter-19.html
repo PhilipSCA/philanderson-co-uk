@@ -11,6 +11,30 @@
     <script>
     console.log("Chapter 19")
     
+    let matchfound = "no";
+    for (var i = 0; i <= 4; i++) {
+      if (cityToCheck === cleanestHouses[i]) {
+        matchfound = "yes";
+          console.log("Its one of the cleanest houses");
+      }
+    }
+    if (matchfound = "no") {
+      console.log("Its not on the list"); 
+    }
+
+
+    let matchfound = false;
+    for (var i = 0; i <= 4; i++) {
+      if (cityToCheck === cleanestHouses[i]) {
+        matchfound = true;
+          console.log("Its one of the cleanest houses");
+      }
+    }
+    if (matchfound = false) {
+      console.log("Its not on the list"); 
+    }
+
+    
    </script> 
 </body>
 </html>
