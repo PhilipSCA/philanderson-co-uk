@@ -12,20 +12,40 @@
     console.log("Chapter 18")
     var cleanestHouses = ["a", "b", "c"]
     console.log(cleanestHouses)
-    let cityToCheck = "d"
+    let cityToCheck = "a"
     console.log("cityToCheck = d")
     if (cityToCheck === cleanestHouses[0]) {
         console.log("Its one of the cleanest houses");
     }
     else if (cityToCheck === cleanestHouses[1]) {
         console.log("Its one of the cleanest houses");
-    }
+    }   
     else if (cityToCheck === cleanestHouses[2]) {
         console.log("Its one of the cleanest houses");
     }
     else {
         console.log("Its not one of the cleanest houses");
     }   
+
+    for (var i = 0; i <= 4; i++) {
+        if (cityToCheck === cleanestHouses[i]) {
+            console.log("Its one of the cleanest Houses");
+        }
+    }
+
+    for (var i = 0; i <= 4; i++) {
+        console.log("Hello");
+    }
+    
+    let output = 0
+    const answers = ["yes", "no", "maybe", "yes", "possibly"]
+    for (var i = 0; i < 5; i++) {
+      if (answers[i] === "yes") {
+          output = output+1 
+      }
+    }
+    console.log("There are " + output + " matches")
+    console.log(`There are ${output} matches`)
    </script> 
 </body>
 </html>
