@@ -21,7 +21,8 @@
     if (matchfound = "no") {
       console.log("Its not on the list"); 
     }
-
+    
+console.log("Boolean operators: True and False")
 
     let matchfound = false;
     for (var i = 0; i <= 4; i++) {
@@ -34,7 +35,19 @@
       console.log("Its not on the list"); 
     }
 
-    
+console.log("using break to stop loop going until end if you get the answer before")
+
+    let matchfound = false;
+    for (var i = 0; i <= 4; i++) {
+      if (cityToCheck === cleanestHouses[i]) {
+        matchfound = true;
+        console.log("Its one of the cleanest houses");
+        break;
+      }
+    }
+    if (matchfound === false) {
+      console.log("Its not on the list");
+    }
    </script> 
 </body>
 </html>
