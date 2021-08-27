@@ -8,8 +8,42 @@
 </head>
 <body>
     <h1>Chapter 22</h1>
+    <div id="putStuffHere"></div>
+    <div id="moreStuffHere"></div>
     <script>
     console.log("Chapter 22")
+    console.log("Using .slice to not put everything in lowercase and first letter in upper case")
+
+    var colourToCheck = "Black"
+    var firstChar = colourToCheck.slice(0, 1);
+    // firstChar = "B"
+
+    var someChars = colourToCheck.slice(1,4);
+    // someChars = "lac"
+
+    var someChars = colourToCheck.slice(1);
+    // someChars = "lack"
+
+    var firstChar = colourToCheck.slice(0, 1);
+    var otherChars = colourToCheck.slice(1);
+    firstChar = firstChar.toUpperCase();
+    otherChars = otherChars.toLowerCase();
+    var cappedCity = firstChar + otherChars;
+
+    var str = prompt("Enter text here");
+    var numChars = str.length;
+    for (var i = 0; i < numChars; i++) {
+        if (str.slice(i, i + 2) === " ") {
+            console.log("No double spaces!");
+            break;
+        }
+    }
+
+    document.getElementById('putStuffHere').innerText="here is some stuff to show"
+
+    let myString = `here is a string with a variable cappedCity = ${cappedCity}`
+    document.getElementById('moreStuffHere').innerText= myString
+
    </script> 
 </body>
 </html>
