@@ -10,7 +10,10 @@
     <h1>Chapter 19</h1>
     <script>
     console.log("Chapter 19")
-    
+    let cleanestHouses = ["a", "b", "c"]
+    let cityToCheck = "a";
+      console.log(cleanestHouses)
+
     let matchfound = "no";
     for (var i = 0; i <= 4; i++) {
       if (cityToCheck === cleanestHouses[i]) {
@@ -24,30 +27,45 @@
     
 console.log("Boolean operators: True and False")
 
-    let matchfound = false;
+    let matchfound2 = false;
     for (var i = 0; i <= 4; i++) {
       if (cityToCheck === cleanestHouses[i]) {
-        matchfound = true;
+        matchfound2 = true;
           console.log("Its one of the cleanest houses");
       }
     }
-    if (matchfound = false) {
+    if (matchfound2 = false) {
       console.log("Its not on the list"); 
     }
 
-console.log("using break to stop loop going until end if you get the answer before")
+    console.log("Using break to stop loop going until the end because you already have the answer")
 
-    let matchfound = false;
-    for (var i = 0; i <= 4; i++) {
-      if (cityToCheck === cleanestHouses[i]) {
-        matchfound = true;
-        console.log("Its one of the cleanest houses");
-        break;
+    let matchfound3 = false;
+      for (var i = 0; i <= 4; i++) {
+        if (cityToCheck === cleanestHouses[i]) {
+          matchfound3 = true;
+          console.log("Its one of the cleanest houses");
+          break;
+        }
       }
-    }
-    if (matchfound === false) {
-      console.log("Its not on the list");
-    }
+      if (matchfound3 === false) {
+        console.log("Its not on the list");
+      }
+      
+      console.log("Using .length to limit the number of loops")
+
+      let numElements = cleanestHouses.length;
+      let matchfound4 = false;
+      for (var i = 0; i <= numElements; i++) {
+        if (cityToCheck === cleanestHouses[i]) {
+          matchfound4 = true;
+          console.log("Its one of the cleanest houses");
+          break;
+        }
+      }
+      if (matchfound4 === false) {
+        console.log("Its not on the list")
+      }
    </script> 
 </body>
-</html>
+</html> 
