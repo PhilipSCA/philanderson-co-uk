@@ -9,6 +9,7 @@
 <body>
     <h1>Chapter 23</h1>
     <div id="output"></div>
+    <div id="out"></div>
     <script>
         console.log("Chapter 23:Strings: Finding segments")
 
@@ -36,7 +37,8 @@
         console.log(`Printing out firstSeg ${firstSeg}`);
         let output = `We find text ${searchText2} inside ${text2} at position ${firstSeg} and also at position ${lastSeg}`
         console.log(output)
-        document.getElementById(`out`).innerText=output
+        document.getElementById('out').innerText = output
+        console.log(text2.slice(4, 12));
 
    </script> 
 </body>
