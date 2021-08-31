@@ -8,6 +8,9 @@
 </head>
 <body>
     <h1>Chapter 24</h1>
+    <div id="first"></div>
+    <div id="last"></div>
+    <div id="x"></div>
     <script>
     console.log("Chapter 24:Strings: Finding a character at a location")
     var firstname = "James"
@@ -21,6 +24,11 @@
     console.log(`To find the last character in the string:`)
     let lastChar = firstname.charAt(firstname.length - 1);
     console.log(lastChar)
+    var x = `The string is ${firstname} and the first character in the string is ${firstChar2} and the last character is ${lastChar}`
+
+    document.getElementById("first").innerText = firstChar2
+    document.getElementById("last").innerText = lastChar
+    document.getElementById("x").innerText = x
    </script> 
 </body>
 </html>

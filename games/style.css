@@ -4,6 +4,7 @@ body {margin:0;}
   width: 100%;
   background-color: #555;
   overflow: auto;
+  border-bottom: 5px solid white;
 }
 
 .icon-bar a {
@@ -39,3 +40,54 @@ body, html {
 div {
   position:absolute;
 }
+
+
+.button {
+  background-color: #2a1ce7; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttonx {
+  background-color: #347e1e; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttons {
+  background-color: #474747; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttonpc  {
+  background-color: #000000; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button3 {padding: 14px 40px;}
