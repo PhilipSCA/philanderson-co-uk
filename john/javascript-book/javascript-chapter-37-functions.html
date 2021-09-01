@@ -6,9 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+    <style>
+        div {
+            font-size: 65px;
+            font-family: monospace;
+
+        }
+
+
+    </style>
+
 <h1>Chapter 37</h1>
 <body>
-    <div></div>
+    <div id="cube">Cubed numbers</div>
+    <div id="root">Cubed Roots</div>
     <script>
 
         let x = 10
@@ -49,6 +60,9 @@
         output = cube(a);
         console.log(`${a} cubed is  ${output}`)
         console.log(`the cube root of ${output} is  ${a}`)
+
+        document.getElementById("cube").innerText = `${a} cubed is  ${output}`;
+        document.getElementById("root").innerText = `the cube root of ${output} is  ${a}`;
     </script>
 </body>
 </html>
