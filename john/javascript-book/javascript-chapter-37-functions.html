@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <style>
+        div {
+            font-size: 65px;
+            font-family: monospace;
+
+        }
+
+
+    </style>
+
+<h1>Chapter 37</h1>
+<body>
+    <div id="cube">Cubed numbers</div>
+    <div id="root">Cubed Roots</div>
+    <script>
+
+        let x = 10
+        let y = 20
+
+        let addNumbers = function(a, b){
+            console.log('inside function adding numbers')
+            return a+b
+        }
+        
+        let output = addNumbers(x,y)
+        
+        console.log(`the sum of numbers ${x} and ${y} is ${output}`)
+
+
+        let food = "toast";
+        let topping = "egg";
+
+        let whatsForBreakfast = function(cook, eat) {
+            let foodAsString = `${cook} and ${eat}`
+            return foodAsString
+        }
+
+        let breakFast = whatsForBreakfast(food, topping)
+        console.log(`i had ${breakFast} for breakfast`)
+
+
+
+        let a = 10
+
+        function cube(x) {
+
+            let output = x * x * x
+            return output
+
+        }
+
+        output = cube(a);
+        console.log(`${a} cubed is  ${output}`)
+        console.log(`the cube root of ${output} is  ${a}`)
+
+        document.getElementById("cube").innerText = `${a} cubed is  ${output}`;
+        document.getElementById("root").innerText = `the cube root of ${output} is  ${a}`;
+    </script>
+</body>
+</html>
