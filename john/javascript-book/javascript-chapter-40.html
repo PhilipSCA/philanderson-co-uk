@@ -8,6 +8,8 @@
 </head>
 <body>
     <script>
+let now = new Date();
+let dayOfWeek = now.getDay();
 
         switch(dayOfWeek) {
         case "Sat" :
@@ -23,7 +25,7 @@
             alert("Shoot me now!");
           }
 
-          
+          console.log(`${dayOfWeek}`);
     </script>
 </body>
 </html>
