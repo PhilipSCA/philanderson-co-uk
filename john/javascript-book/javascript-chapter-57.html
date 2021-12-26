@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script> 
+    var pars = document.getElementsByTagName("p");
+    var textInMiddleParagraph = pars[1].innerHTML;
+    var e = document.getElementById("rules");
+    var paragraphs = e.getElementsByTagName("p");
+    var t = document.getElementById("table9");
+    var cells = t.getElementsByTagName("td");
+
+    for (var i = 0; i < cells.length; i++) {
+cells[i].style.backgroundColor = "pink";
+    }
+    
+    </script>
+</body>
+</html>
