@@ -8,6 +8,8 @@
 </head>
 <body>
     <h1>Chapter 37: Functions: Passing data back to them</h1>
+    <div id="return"></div>
+    <div id="function"></div>
     <script>
     console.log("Chapter 37")
     //This is where a global variable/scope is
@@ -26,8 +28,10 @@
         }
         return orderTot;
     }
-    console.log(calcTot)
-    console.log("The return orderTot passes the result back to the calling code")
+
+    var x = "The return orderTot passes the result back to the calling code";
+    document.getElementById(`return`).innerText = x;
+    document.getElementById(`function`).innerText = calcTot;
    </script> 
 </body>
 </html>
