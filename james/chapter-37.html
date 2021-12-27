@@ -8,9 +8,11 @@
 </head>
 <body>
     <h1>Chapter 37: Functions: Passing data back to them</h1>
+    <div id="return"></div>
+    <div id="function"></div>
     <script>
     console.log("Chapter 37")
-
+    
     function calcTot(merchTot) {
         var orderTot;
         if (merchTot >= 100) {
@@ -24,8 +26,10 @@
         }
         return orderTot;
     }
-    console.log(calcTot)
-    console.log("The return orderTot passes the result back to the calling code")
+
+    var x = "The return orderTot passes the result back to the calling code";
+    document.getElementById(`return`).innerText = x;
+    document.getElementById(`function`).innerText = calcTot;
    </script> 
 </body>
 </html>
