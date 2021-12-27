@@ -10,10 +10,12 @@
     <h1>Chapter 37: Functions: Passing data back to them</h1>
     <script>
     console.log("Chapter 37")
-
+    //This is where a global variable/scope is
     function calcTot(merchTot) {
+        //This is where a local variable/scope is
         var orderTot;
         if (merchTot >= 100) {
+            //This is where a block variable/scope is
             orderTot = merchTot;
         }
         else if (merchTot < 50.01) {
