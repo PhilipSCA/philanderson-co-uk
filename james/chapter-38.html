@@ -11,7 +11,26 @@
     <script>
     console.log("Chapter 38")
     console.log("The difference between global and local variables")
-    console.log("A global variable is one declard in the main body-that is,not inside a function")
+    console.log("A global variable is one declared in the main body-that is,not inside a function")
+    console.log("A local variable/scope is one declared inside a function, and isn't known anywhere else outside of it")
+    var theSum
+    addNumbers();
+    function addNumbers() {
+        theSum = 2 + 2;
+    }
+
+    //The first theSum cant be used inside the function, only the local one
+    var theSum = 1000;
+    addNumbers();
+    function addNumbers() {
+        var theSum = 2 + 2;
+    }
+
+    var theSum = addNumbers();
+    function addNumbers() {
+        var theSum = 2 + 2;
+        return theSum;
+    }
    </script> 
 </body>
 </html>
