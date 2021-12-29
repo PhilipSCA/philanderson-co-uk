@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id ="humpty";>
+        <p>All the king's horses.</p>
+        <p>And all the dude's crew.</p>
+        <p>All the town's orthopedists</p>
+    </div>
+
+    <script>
+        var nType = targetNode.nodeType;
+        
+        var d = document.getElementById("humpty");
+        var pCounter = 0;
+        for (var i = 0; i < d.childNodes.length; i++) {
+            if (d.childNodes[i].nodeType === 1)  {
+                pCounter++;
+             }
+            if (pCounter === 2) {
+                d.childNodes[i].innerHTML = "All his men.";
+             break;
+         }
+        }
+
+    </script>
+</body>
+</html>
