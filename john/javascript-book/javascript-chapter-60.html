@@ -18,8 +18,8 @@
     </div>
 
     <script>
-        let p = document.getElementsByTagName("p");
-        let contents = p[4].innerHTML;
+        let p = document.childNodes[0].childNodes[1].childNodes[1].childNodes[1];
+        let contents = p.innerHTML;
 
         let eField = document.getElementById("email");
 
