@@ -10,12 +10,23 @@
 <body>
     <div class="container">
         <h1>Chapter 62: More ways to target Elements</h1>
-        <h4 class="justify-right">December 2021</h4>
-        <ul>
-            <li>Item1</li>
-            <li>Item2</li>
-            <li>Item3</li>
-        </ul>
+        <h2 class="justify-right">December 2021</h2>
     </div>
+
+    <div id="div1">
+       <div id="div2">
+       <p>Chicago</p>
+       <p>Kansas City</p>
+       <p>St.Louis</p>
+       </div>
+    </div>
+<script>
+    let kidNode = document.getElementById("div2");
+    let pNode = kidNode.parentNode;
+    let firstEl = document.getElementById("div1");
+    secondEl = firstEl.nextSibling;
+    let nonexistentEl = firstEl.previousSibling;
+
+</script>
 </body>
 </html>
