@@ -11,20 +11,22 @@
     <script>
     console.log("Chapter 45")
     console.log("User actions, such as clicking, are called events")
-    <a href="#"
+    /*
+    <a href = "#"
     onClick="alert(`hi`);">Click</a>
 
     // Using this doesnt make it go back to the top to reload
     <a href="Javascript:void(0)"
     onClick= "var greet="hi';
     alert(greet);" >Click</a>
-
+    */
     // If you use this approach, you should call a function
         function popup(message) {
             alert(message)
         }
         <a href="Javascript:void(0)"
         onClick="popup(`Hi`);">Click</a>
+        console.log(popup)
 
 
 
