@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 48: 19/1/22</title>
+</head>
+<body>
+    <h1>Chapter 48: Events: Fields</h1>
+    <script>
+    console.log("Chapter 48")
+    console.log("Making the field box go yellow when a user clicks on it")
+    console.log("Making it go back to white afterwards")
+   </script> 
+   Email:<br>
+   <input type="text" size="30"
+   onFocus="this.style.backgroundColor='yellow';"
+   onBlur="this.style.backgroundColor='white';">
+   <!--Making it revert to white when the user clicks off it with onBlur-->
+   <!--Making it go yellow when the user clicks on it using onFocus-->
+   <!--Doing the same thing with functions-->
+   Email:<br>
+   <input type="text" size="30"
+   onFocus="makeFieldYellow();"
+   onBlur="makeFieldWhite();">
+</body>
+</html>
