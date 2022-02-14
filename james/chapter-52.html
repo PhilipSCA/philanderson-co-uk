@@ -11,5 +11,20 @@
     <script>
         console.log("Chapter 52")
     </script>
+    <img src="Blobfish.jpg" id="ugly"
+    onClick="makeInvisible();">
+
+    <script>
+        function makeInvisible() {
+            document.getElementById("ugly").className = "hidden";
+        }
+    </script>
+    <!--How to add a class to an element whilst keeping the existing classes.-->
+    <script>
+        function makeBig() {
+            document.getElementById("p1").className += " big";
+        }
+        // A space before the class name is needed and its += not =.
+    </script>
 </body> 
 </html>
