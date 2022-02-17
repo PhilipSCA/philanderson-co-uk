@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 55: 17/2/22</title>
+</head>
+<body>
+    <h1>Chapter 55: Setting style</h1>
+    <script>
+        console.log("Chapter 55")
+
+        function makeBig() {
+            document.getElementById("p1").className += " big";
+        }
+
+        // Other way to specify style properties
+        function makeBig() {
+            document.getElementById("p1").style.fontSize = "2em";
+        }
+        // This statement left-floats an image
+        document.getElementById("pic99").style.cssFloat = "left";
+
+        // This statement makes an element invisible
+        document.getElementById("div9").style.visibility = "hidden";
+        
+        // This statement gives an element left and right margins of 10pix
+        document.getElementById("mainPic").style.margin = "0 10px 0 10px;";
+    </script>
+</body> 
+</html>
