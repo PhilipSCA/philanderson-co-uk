@@ -7,3 +7,9 @@ document.getElementById().innerHTML = "";
 document.getElementById().className = "";
 /* Is for assigning a class to an element which replaces any classes that
 the element has been assigned in the static markup */
+
+document.getElementById().src = "";
+// Used for images 
+
+document.getElementById().style.varies/*varies*/ = "";
+// Used to style properties like images, elements and margins
