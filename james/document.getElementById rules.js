@@ -13,3 +13,10 @@ document.getElementById().src = "";
 
 document.getElementById().style.varies/*varies*/ = "";
 // Used to style properties like images, elements and margins
+
+document.getComputedStyle().margin;
+/* Used to get all the style properties, specified in ccs and inline, but
+   it has a limitation. Versions of internet explorer before 9 dont work. */
+
+document.getElementsByTagName
+// Gets the tag name

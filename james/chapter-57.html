@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 57: 18/2/22</title>
+</head>
+<body>
+    <h1>Chapter 57: Target some elements by Tag name</h1>
+    <script>
+        console.log("Chapter 57")
+        var pars = document.getElementsByTagName("p");
+        // This statement reads the contents and assigns the string to it.
+        var textInMiddleParagraph = pars[1].innerHTML;
+
+        // This collects all the paragraphs in a particular div
+        var e = document.getElementById("rules");
+        var paragraphs = e.getElementsByTagName("p");
+
+        // Then you can write
+        e.getElementById("p")
+        //instead of
+        document.getElementById("p")
+    </script>
+</body> 
+</html>
