@@ -19,4 +19,4 @@ document.getComputedStyle().margin;
    it has a limitation. Versions of internet explorer before 9 dont work. */
 
 document.getElementsByTagName
-// Gets the tag name
+// Makes an array-like collection of all the elements of a particular kind.
