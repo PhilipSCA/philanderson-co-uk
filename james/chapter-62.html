@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 62: 19/2/22</title>
+</head>
+<body>
+    <h1>Chapter 62: The DOM: More ways to target elements</h1>
+    <script>
+        console.log("Chapter 62")
+        var targetNode = parentNode.childNode[0];
+        // Is the same as
+        var targetNode2 = parentNode2.firstChild;
+        // And say there are 3 child nodes
+        var targetNode3 = parentNode3.childNodes[2];
+        // Is the same as
+        var targetNode4 = parentNode4.lastChild;
+
+        // To find the parent node
+        var kidNode = document.getElementById("div2");
+        var pNode = kidNode.parentNode5;
+
+        // You can use "nextSibling" and "previousSibling" to target siblings.
+        var firstEl = document.getElementById("div1");
+        secondEl = firstEl.nextSibling;
+        
+        var firstEl2 = document.getElementById("div1");
+        var nonexistentEl = firstEl.previousSibling;
+        // If there are no other siblings, it is null
+        
+
+    </script>
+</body> 
+</html>
