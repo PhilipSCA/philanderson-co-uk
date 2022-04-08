@@ -1,5 +1,6 @@
 date = "Thursday 07/04/22"
 print(date)
+
 species = "cat"
 if species == "cat":
     status = "ok"

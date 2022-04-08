@@ -1,5 +1,6 @@
 date = "Thursday 07/04/22"
 print(date)
+
 greeting = "Hello"
 addressee = "World"
 whole_greeting = greeting + addressee

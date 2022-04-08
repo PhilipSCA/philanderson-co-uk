@@ -1,5 +1,6 @@
 date = "Wednesday 06/04/22"
 print(date)
+
 weight = 150
 weight + 25
 print(weight)

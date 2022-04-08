@@ -1,5 +1,6 @@
 date = "Thursday 07/04/22"
 print(date)
+
 your_ticket_number = 487209
 if your_ticket_number != 487208:
     print("Better luck next time.")

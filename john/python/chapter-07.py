@@ -1,5 +1,6 @@
 date = "Thursday 07/04/22"
 print(date)
+
 total_cost = 1 + 3 * 4
 # The answer is 1 + 12 = 13
 total_cost = (1 + 3) * 4
