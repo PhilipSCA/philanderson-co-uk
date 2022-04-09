@@ -1,4 +1,4 @@
-#  Saturday 9/4/22
+# Saturday 9/4/22
     # Chapter 11: Else and elif statements
 
 # In the if statements I did before, if it was false nothing happened.
