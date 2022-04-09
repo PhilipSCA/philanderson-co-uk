@@ -1,4 +1,6 @@
 date = "Wednesday 06/04/22"
+print(date)
+
 whats_left_over = 10 % 3
 whats_left_over = 9 % 3
 age = 1
