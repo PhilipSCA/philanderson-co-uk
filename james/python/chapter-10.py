@@ -1,5 +1,5 @@
-
-# Chapter 10: Comparison Operators
+# Friday 8/4/22
+    # Chapter 10: Comparison Operators
 
 # == is a comparison operator, can be used to compare various combination (Case sensitive)
 # != means not equal to, its the opposite of ==, can compare various combinations (Case sensitive)

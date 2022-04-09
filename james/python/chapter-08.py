@@ -1,5 +1,5 @@
-
-# Chapter 8: Concatenating text strings
+# Friday 8/4/22
+    # Chapter 8: Concatenating text strings
 
 # You can combine two text strings together like this
 x = "Hello, "

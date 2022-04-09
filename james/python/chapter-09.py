@@ -1,5 +1,5 @@
-
-# Chapter 9: if Statements
+# Friday 8/4/22
+    # Chapter 9: if Statements
 
 # Say you want to know whether the string assigned to drink is water
 drink = "water"

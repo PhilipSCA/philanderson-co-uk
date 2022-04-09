@@ -1,5 +1,5 @@
-
-# Chapter 6: Unfamiliar math operators
+# Friday 8/4/22
+    # Chapter 6: Unfamiliar math operators
 
 # This operator gives you the remainder of the division (eg 3 for this):
 modulo_remainder = 15 % 4

@@ -1,5 +1,5 @@
-
-# Chapter 7: Eliminting Math Ambiguity
+# Friday 8/4/22
+    # Chapter 7: Eliminting Math Ambiguity
 
 total = 1 + 3 * 4 # = 13
 # but without using BIDMAS you can get 16, so to make it clearer. Parenthesis(Brackets) come first.

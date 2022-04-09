@@ -1,3 +1,4 @@
+# Friday 8/4/22
 print ('python chapter 1')
 print('3 April 2022')
 y = 1
