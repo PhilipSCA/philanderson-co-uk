@@ -1,5 +1,5 @@
 # Wednesday 13/4/22
-#   Chapter 16: Adding, changing list elements
+#    Chapter 16: Adding, changing list elements
 
 cities = ["London", "Manchester", "Liverpool", "Bristol", "Birmingham"]
 
