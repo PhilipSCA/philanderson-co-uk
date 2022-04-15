@@ -2,7 +2,7 @@
 #    Deleting and removing elements
 
 # Say you have a list of tasks to do
-tasks = ["clean sink", "call Bob", "meet with Dylan"]
+tasks = ["check emails", "call Bob", "meet with Dylan"]
 print(tasks)
 # tasks[0] is "clean sink"
 
