@@ -3,7 +3,7 @@
 
 # If we use the same example as the previous chapter (Customer 155), this is how we would make the dictionary.
 # In a dictionary, its similar to a list but we use curly brackets, and each thing is paired key and value (colon)
-customer_115 = {"first name": "James", "last name": "Anderson", "address": "2203 random address"}
+customer_155 = {"first name": "James", "last name": "Anderson", "address": "2203 random address"}
 
 # Also, the variable name is usually singular, not plural
 # And everything, key and value, is in quotation marks
