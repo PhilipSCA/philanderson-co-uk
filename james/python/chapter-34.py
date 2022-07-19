@@ -21,20 +21,20 @@ family_members = [
     "family id": 1,
     "first name":"John",
     "last name":"Anderson.",
-  }
+  },
   {
     "family id": 2,
-    "first name":"James"
+    "first name":"James",
     "last name":"Anderson."
   },
   {
     "family id": 3,
-    "first name":"Philip"
+    "first name":"Philip",
     "last name":"Anderson."
   },
   {
     "family id": 4,
-    "first name":"Christa"
+    "first name":"Christa",
     "last name":"Anderson."
   },
 ] 

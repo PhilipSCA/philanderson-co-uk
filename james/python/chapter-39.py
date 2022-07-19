@@ -7,26 +7,26 @@ family_members = [
   {
     "family id": 0,
     "first name":"Hannah",
-    "last name":"Anderson.",
+    "last name":"Anderson."
   },
   {
     "family id": 1,
     "first name":"John",
-    "last name":"Anderson.",
-  }
+    "last name":"Anderson."
+  },
   {
     "family id": 2,
-    "first name":"James"
+    "first name":"James",
     "last name":"Anderson."
   },
   {
     "family id": 3,
-    "first name":"Philip"
+    "first name":"Philip",
     "last name":"Anderson."
   },
   {
     "family id": 4,
-    "first name":"Christa"
+    "first name":"Christa",
     "last name":"Anderson."
   },
 ] 
@@ -41,17 +41,17 @@ family_members = {
   1: {
     "first name":"John",
     "last name":"Anderson.",
-  }
+  },
   2: {
-    "first name": "James"
+    "first name": "James",
     "last name": "Anderson"
   },
   3: {
-    "first name":"Philip"
+    "first name":"Philip",
     "last name":"Anderson."
   },
   4: {
-    "first name":"Christa"
+    "first name":"Christa",
     "last name":"Anderson."
   },
 }
@@ -66,17 +66,17 @@ family_members = {
   "Y": {
     "first name":"John",
     "last name":"Anderson.",
-  }
+  },
   "Z": {
-    "first name": "James"
+    "first name": "James",
     "last name": "Anderson"
   },
   "A": {
-    "first name":"Philip"
+    "first name":"Philip",
     "last name":"Anderson."
   },
   "B": {
-    "first name":"Christa"
+    "first name":"Christa",
     "last name":"Anderson."
   },
 }
