@@ -1,6 +1,3 @@
-from distutils.command.clean import clean
-
-
 date = "Thursday 25/08/22"
 print(date)
 
