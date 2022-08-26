@@ -3,7 +3,7 @@ print(date)
 
 weight = 150
 new_weight = weight + 25
-print(weight)
+print(new_weight)
 original_num = 23
 new_num = original_num + 7
 print(new_num)

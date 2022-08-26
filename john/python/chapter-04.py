@@ -6,7 +6,7 @@ dozens = 3 * 12
 popular_number = 12 / 4
 num = .075
 total = num + 200
-print("loss is" + loss)
-print("dozens is" + dozens)
-print("popular number is" + popular_number)
-print("total is" + total)
+print("loss is " + str(loss))
+print("dozens is " + str(dozens))
+print("popular number is " + str(popular_number))
+print("total is " + str(total))
