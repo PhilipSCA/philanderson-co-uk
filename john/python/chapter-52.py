@@ -15,3 +15,8 @@ while keep_looping == True:
         break
   else:
     keep_looping = False
+
+# Friday 26/08/22 
+# Enter a city, or q to quit:London
+# Enter a city, or q to quit:Santa Fe
+# It's one of the cleanest cities.
