@@ -2,7 +2,7 @@ date = "Wednesday 06/04/22"
 print(date)
 
 weight = 150
-weight + 25
+new_weight = weight + 25
 print(weight)
 original_num = 23
 new_num = original_num + 7
