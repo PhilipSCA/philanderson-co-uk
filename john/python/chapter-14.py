@@ -6,5 +6,5 @@ print(date)
 
 print("Hello, World") # You can comment to the right of code
 
-#Friday 08/04/22
+# Friday 08/04/22
 # Hello, World
