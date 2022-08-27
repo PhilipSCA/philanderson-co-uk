@@ -1,4 +1,4 @@
-print ('python chapter 2')
+print ('Python chapter 2')
 date = "Wednesday 06/04/22"
 print(date)
 

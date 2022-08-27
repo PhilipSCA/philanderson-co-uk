@@ -5,7 +5,7 @@ y = 1
 x = 4
 z = x+y
 
-print('Adding numbers')
+print("Adding numbers")
 print('the sum of y which is ' + str(y) + ' and x which is ' + str(x) + ' is z which is ' + str(z))
 
 # python chapter 1
