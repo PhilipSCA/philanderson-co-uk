@@ -14,5 +14,5 @@ cities = ["Atlanta", "Baltimore", "Chicago", "Denver", "Los Angeles", "Seattle"]
 print("Welcome to " + cities[3] + " using an list")
 
 # Saturday 09/04/22
-# Welcome to Denver
 # Welcome to Denver using an array
+# Welcome to Denver using an list
