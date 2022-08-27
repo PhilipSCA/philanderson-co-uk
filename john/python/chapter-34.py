@@ -24,4 +24,7 @@ customers = [
     },
 ]
 
-print(customers[1])
+print("The second dictionary is " + str(customers[1]))
+
+# Tuesday 19/07/22
+# The second dictionary is {'customer id': 1, 'first name': 'Ann', 'last name': 'Sattermeyer', 'address': 'PO Box 1145'}
