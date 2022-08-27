@@ -8,6 +8,7 @@ h = "hello"
 a = "apple"
 b = "apple"
 f = "farm"
+e = "not farm"
 
 if c == d:
     if x == y:
@@ -19,4 +20,7 @@ if c == d:
 else:
     e = f
 
-print(g)
+print("if x == y or a == b then " + g + " should be hello. If not then " + e + " should be farm")
+
+# Friday 08/04/22
+# if x == y or a == b then hello should be hello. If not then not farm should be farm
