@@ -25,4 +25,7 @@ customers = [
 # to access dictionary:
 dictionary_to_look_in = customers[1]
 customer_address = dictionary_to_look_in["address"]
-print(customer_address)
+print("the second customer's address is " + customer_address)
+
+# Wednesday 20/07/22
+# the second customer's address is PO Box 1145
