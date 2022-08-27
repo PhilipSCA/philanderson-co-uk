@@ -13,3 +13,7 @@ punctuation = "!"
 whole_greeting = greeting + separators + addressee + punctuation
 print("Greeting with seperators is " + whole_greeting)
 # now python will display "Hello, World!"
+
+# Thursday 07/04/22
+# Greeting without seperators is HelloWorld
+# Greeting with seperators is Hello, World!
