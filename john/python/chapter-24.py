@@ -10,3 +10,7 @@ for a_clean_city in cleanest_cities:
         print("Its one of the cleanest cities")
 
 lowercase_city_to_check = city_to_check.lower()
+
+# Thursday 14/07/22
+# Enter your city: santa fe
+# Its one of the cleanest cities
