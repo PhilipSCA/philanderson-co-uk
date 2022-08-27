@@ -17,3 +17,8 @@ cities[2] = "Houston"
 todays_tasks = []
 # to add stuff to an empty list
 todays_tasks = todays_tasks + ["Walk dog", "Buy groceries"]
+
+# Saturday 09/04/22
+# The added on city using '.append' is New York
+# The added city by adding on to an existing list is New Orleans
+# The first city now is New York
