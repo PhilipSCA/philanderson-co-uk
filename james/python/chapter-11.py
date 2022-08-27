@@ -1,5 +1,10 @@
 # Saturday 9/4/22
     # Chapter 11: Else and elif statements
+print('python - Chapter 11 - Else and elif statements')
+print('==============================================')
+print('9 April 2022')
+
+print()
 
 # In the if statements I did before, if it was false nothing happened.
 drink = "milk"
@@ -7,14 +12,22 @@ if drink == "water":
     print("Yep, its water")
 if drink != "water":
     print("Nope, its not water")
-    
+
+print()
+
+print("If a condition is met, something happens, but if the condition isnt met, something also has to happen.")
+print("Testing if drink is water")
+print("Drink is " + drink + "If drink = water, print ' Yep, its water." "If drink isnt (!=) water, print 'Nope, it's not water'")
 # But a simpler way to do this is using 'else:' because if it isnt assigned water, of course its not water.
+
+print()
 
 if drink == "water":
     print("Yep, its water")
 else:
     print("Nope, its not water")
 
+print("In if statements the last if is else:")
 # Finally, there's 'elif'. Its short for 'else if'. If no test has been successful, elif tries something else.
 
 if drink == "water":
@@ -34,3 +47,6 @@ if drink == "milk":
     print("Oh, its actually milk")
 if drink == "juice":
     print("Nope, its not water or milk")
+
+print()
+print("Drink is being tested if it is water, if its not, it tests whether its milk, if its not again, it tests if its juice.")
