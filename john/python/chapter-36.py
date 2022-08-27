@@ -32,3 +32,6 @@ new_dictionary = {
 }
 
 customers.append(new_dictionary)
+
+print("The amount of dictionaries there are are " + str(new_customer_id))
+print("The dictionary added on to the list is: " + str(new_dictionary))
