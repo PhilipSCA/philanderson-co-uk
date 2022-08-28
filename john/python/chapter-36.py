@@ -33,5 +33,20 @@ new_dictionary = {
 
 customers.append(new_dictionary)
 
+def dictionary_function():
+    for key, value in new_dictionary.items():
+        print(key, ' : ', value)
+
 print("The amount of dictionaries there are are " + str(new_customer_id))
-print("The dictionary added on to the list is: " + str(new_dictionary))
+print("The dictionary added on to the list is: ") + dictionary_function() 
+
+# Wednesday 20/07/22
+# The amount of dictionaries there are are 3
+# The dictionary added on to the list is:
+# customer id  :  3
+# first name  :  new_first_name
+# last name  :  new_last_name
+# address  :  new_address
+
+
+
