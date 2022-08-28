@@ -16,3 +16,8 @@ elif "volume" in customer_29["discounts"]:
     discount_amount = .10
 elif "standard" in customer_29["discounts"]:
     discount_amount = .05
+
+print("Customer 29's discount is " + str(discount_amount))
+
+# Monday 25/07/22
+# Customer 29's discount is 0.3
