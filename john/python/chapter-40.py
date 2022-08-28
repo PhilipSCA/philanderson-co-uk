@@ -19,5 +19,8 @@ customers = {
     },
 }
 # to access this dictionary:
-print(customers["ASatter"]["address"])
-# this displays "3 Main St."    
+print("Ann Sattermyer's address is " + customers["ASatter"]["address"])
+# this displays "PO Box 1145"  
+
+# Wednesday 17th August 2022
+# Ann Sattermyer's address is PO Box 1145

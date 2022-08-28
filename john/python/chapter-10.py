@@ -3,7 +3,7 @@ print(date)
 
 your_ticket_number = 487209
 if your_ticket_number != 487208:
-    print("Your ticket number was not " + str(your_ticket_number) + ", Better luck next time.")
+    print("Your ticket number was not 487208, Better luck next time.")
 
 # == is not an equal sign, its a comparison operator
 # != means 'not equal to'
@@ -13,4 +13,4 @@ if your_ticket_number != 487208:
 # <= means less than or equal to
 
 # Thursday 07/04/22
-# Your ticket number was not 487209, Better luck next time.
+# Your ticket number was not 487208, Better luck next time.
