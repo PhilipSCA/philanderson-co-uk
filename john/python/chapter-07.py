@@ -1,5 +1,6 @@
 date = "Thursday 07/04/22"
 print(date)
+print("Brackets")
 
 total_cost = 1 + 3 * 4
 # The answer is 1 + 12 = 13
@@ -17,6 +18,7 @@ print("8x4+2 is " + str(result_of_computation))
 print("(8) x (6) is " + str(result_of_computation2))
 
 # Thursday 07/04/22
+# Brackets
 # total cost is 16
 # 8x4+2 is 34
 # (8) x (6) is 48
