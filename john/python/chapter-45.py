@@ -31,4 +31,10 @@ customers = {
 def find_something(dict, inner_dict, target) :
   print(dict[inner_dict][target])
 
+print("Using a function to access the dictionary, Summerjill's last name is: ")
 find_something(customers, "Summerjill", "last name")
+
+# Wednesday 24/08/22
+# Hello there, Al
+# Using a function to access the dictionary, Summerjill's last name is:
+# Somers
