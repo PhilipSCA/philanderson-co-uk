@@ -1,15 +1,20 @@
-# Saturday 9/4/22
-    # Testing sets of conditions
+print('python - Chapter 12 - Testing sets of condition')
+print('==============================================')
+print('9 April 2022')
+print()
 
-# You can test for a combination of conditions by using 'and'.
+print('You can test for multiple conditions using "and"')
 temp = 15
 people = 500000
 parent = "alum"
 if temp > 30 and people < 100000:
     status = "Very crowded outside"
 
-# If only one of the conditions is met, it fails. It has to be both.
-# You can chain any number of conditions together
+print()
+print(f'temp = {temp} and people = {people}' )
+print('Using "and" we will put both of these variables in an if statement.')
+print('Both conditions have to be met for the if statement to work.')
+print()
 weight = 356
 time = 5.2
 age = 35
@@ -17,14 +22,18 @@ height = 78
 res = "U.K"
 if weight > 300 and time < 6 and age > 17 and height > 72:
     status = "Try and recruit him"
-
-# You can also create a test that passes if any condition is met using 'or'.
+print(f"We ran 4 conditions in an if statement, weight (= {weight}), time(= {time}), age(= {age}), height(= {height})")
+print('You can also create a test that passes if any condition is met using "or".')
 if temp > 30 or people < 515300 or parent == "alum":
     message = "Welcome to Leeds Beach!"
 
-# You can combine any number of 'and' and 'or' conditions. These create ambiguties
+print()
+
+print('You can combine any number of "and" and "or" conditions. These create ambiguties')
 if age > 65 or age < 21 and res == "U.K":
     print("Just needed this for no error")
+
+print()
 
 # This can be read in two ways:
 # If the person is over 65 or under 21, and is a resident of the UK, its true
@@ -36,3 +45,23 @@ if (age > 65 or age < 21) and res == "U.K":
     # or
 if age > 65 or (age < 21 and res == "U.K"):
     print("Just needed this for no error")
+
+print("If an if statement using 'or' and 'and', if it can be read two ways you use brackets, like maths.")
+
+
+# python - Chapter 12 - Testing sets of condition
+# ==============================================
+# 9 April 2022
+
+# You can test for multiple conditions using "and"
+
+# temp = 15 and people = 500000
+# Using "and" we will put both of these variables in an if statement.
+# Both conditions have to be met for the if statement to work.
+
+# We ran 4 conditions in an if statement, weight (= 356), time(= 5.2), age(= 35), height(= 78)
+# You can also create a test that passes if any condition is met using "or".
+
+# You can combine any number of "and" and "or" conditions. These create ambiguties
+
+# If an if statement using 'or' and 'and', if it can be read two ways you use brackets, like maths.

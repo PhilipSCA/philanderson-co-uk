@@ -1,5 +1,6 @@
 date = "Thursday 07/04/22"
 print(date)
+print("Separators")
 
 greeting = "Hello"
 addressee = "World"
@@ -15,5 +16,6 @@ print("Greeting with seperators is " + whole_greeting)
 # now python will display "Hello, World!"
 
 # Thursday 07/04/22
+# Seperators
 # Greeting without seperators is HelloWorld
 # Greeting with seperators is Hello, World!
