@@ -1,13 +1,17 @@
-# Saturday 16/4/22
-#   for loops
+print()
+print('Python - Chapter 21: for loops')
+print('==============================================')
+print('Saturday 16 April 2022')
+print()
 
-# Suppose you want to check if London is in the most popular cities
-city_to_check = "Birmingham"
+city_to_check = "London"
 
-# And you have assigned the 5 most popular cities to the list most_popular_cities
 most_popular_cities = ["London", "Edinburgh", "Manchester", "Birmingham", "Glasgow"]
+print(most_popular_cities)
+print('Suppose you want to check ifLondon is in the most_popular_cities list above.')
+print(f'One way to do it is put {city_to_check} into an if statement and run it through 5 times to check every element in the list.')
+print()
 
-# This is one way to do it:
 if city_to_check == most_popular_cities[0]:
     print("It's one of the most populated cities")
 elif city_to_check == most_popular_cities[1]:
@@ -19,29 +23,50 @@ elif city_to_check == most_popular_cities[3]:
 elif city_to_check == most_popular_cities[4]:
     print("It's one of the most populated cities")
 
-# But thats a lot of code
-# Using a for loop is more convenient, it loops through the same steps
+print()
+
+print('But thats a lot of code')
+print('Using a for loop is more convenient, it loops through the same steps')
+print()
+
+print(f'for a popular city in {most_popular_cities},')
+print(f'if {city_to_check} is a popular city, print:')
 for popular_city in most_popular_cities:
     if city_to_check == popular_city:
         print("It's one of the most populated cities")
 
-'''
- This code pulls each element in most_popular_cities, one by one.
- With each iteration, it assigns the current element to popular_city
- It then checks the value, so if "Edinburgh" is what we are checking, "Edinburgh" is assigned city_to_check
- Then after its been checked, if it is equal to "Birmingham", it will say: "It's one of the most populated cities"
-'''
+print()
 
-y = 2
-z = 1
+print('This code checks each element one by one.')
+print(f'It assigns each element to a variable, then checks the value, if its the value thats being looked for, its assigned to city_to_check which = {city_to_check}')
 
-# The value after for keeps track of the value of the particular element being tested.
-for x in y:
-    if x == z:
-        print("It's one of the most populated cities")
-
-# Once Python finds a match, there is no point in continuing the loop, so use break:
+print()
+print('Once Python finds a match, there is no point in continuing the loop, so use break:')
 for popular_city in most_popular_cities:
     if city_to_check == popular_city:
         print("It's one of the most populated cities")
         break
+print()
+
+# Python - Chapter 21: for loops
+# ==============================================
+# Saturday 16 April 2022
+
+# ['London', 'Edinburgh', 'Manchester', 'Birmingham', 'Glasgow']
+# Suppose you want to check ifLondon is in the most_popular_cities list above.
+# One way to do it is put London into an if statement and run it through 5 times to check every element in the list.
+
+# It's one of the most populated cities
+
+# But thats a lot of code
+# Using a for loop is more convenient, it loops through the same steps
+
+# for a popular city in ['London', 'Edinburgh', 'Manchester', 'Birmingham', 'Glasgow'],
+# if London is a popular city, print:
+# It's one of the most populated cities
+
+# This code checks each element one by one.
+# It assigns each element to a variable, then checks the value, if its the value thats being looked for, its assigned to city_to_check which = London
+
+# Once Python finds a match, there is no point in continuing the loop, so use break:
+# It's one of the most populated cities

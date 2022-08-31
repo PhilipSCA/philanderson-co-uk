@@ -1,27 +1,50 @@
-# Wednesday 13/4/22
-#    Chapter 16: Adding, changing list elements
+print('Python - Chapter 16: Adding and changing list elements')
+print('==============================================')
+print('Tuesday 12 April 2022')
+print()
+
 
 cities = ["London", "Manchester", "Liverpool", "Bristol", "Birmingham"]
-
+print(cities)
+print('This is a list of cities in the UK')
+print()
 # Suppose you want to add a six element, this is the code:
 cities.append("Leeds")
-
-# The code above adds Leeds on to the end of the list
-# cities[5] is assigned "Leeds"
+print(cities)
+print('Now we have added "Leeds" onto the end by using .append()')
+print('cities[5] is now assigned "Leeds"')
+print()
 
 # If your adding a number instead of a string, no quotation marks needed
 # scores.append(47)
+print('Some other things:')
 
-# This is an alternative way to append.
 cities = cities + ["Cambridge", "Sheffield"]
+print('You can append using concatenation.')
 
-# You can add a list onto an existing list
 longer_list_of_cities = cities + ["Cambridge", "Sheffield"]
-
+print('You can add a list onto a list too.')
 # You can create an empty list by putting nothing in the brackets
 cities2 = []
-
-# If you want to insert an element anywhere in the list, you do this:
+print('You can create an empty list by putting nothing in the brackets.')
+print('You can insert elements anywhere into a list, not just at the end, using .insert().')
 cities.insert(2, "Newcastle")
 # Here I inserted it into the third place
 # The element in the third place (Liverpool) that got replaced moves down to cities[3]
+
+# Python - Chapter 16: Adding and changing list elements
+# ==============================================
+# Tuesday 12 April 2022
+
+# ['London', 'Manchester', 'Liverpool', 'Bristol', 'Birmingham']
+# This is a list of cities in the UK
+
+# ['London', 'Manchester', 'Liverpool', 'Bristol', 'Birmingham', 'Leeds']
+# Now we have added "Leeds" onto the end by using .append()
+# cities[5] is now assigned "Leeds"
+
+# Some other things:
+# You can append using concatenation.
+# You can add a list onto a list too.
+# You can create an empty list by putting nothing in the brackets.
+# You can insert elements anywhere into a list, not just at the end, using .insert().
