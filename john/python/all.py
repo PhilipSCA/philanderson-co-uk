@@ -2,7 +2,6 @@ print("all projects")
 print("============")
 
 def chapter_53():
-    print("")
     print("Classes Friday 26/08/22")
     print("===========================")
     print("creating patients using Patient Class")
@@ -29,7 +28,6 @@ def chapter_53():
 #==================================================================================
 
 def chapter_54():
-    print("")
     print("Classes Friday 26/08/22")
     print("===========================")
     print("creating patients using Patient Class")
@@ -55,7 +53,6 @@ def chapter_54():
 #======================================================================================
 
 def chapter_55():
-    print("")
     print("Classes Friday 26/08/22")
     print("===========================")
     print("creating patients using Patient Class")
@@ -82,7 +79,6 @@ def chapter_55():
 #============================================================================================
 
 def chapter_56():
-    print("")
     print("Classes Friday 26/08/22")
     print("===========================")
     print("creating patients using Patient Class")
@@ -108,7 +104,6 @@ def chapter_56():
 #=============================================================================
 
 def chapter_57():
-    print("")
     print("Classes Friday 26/08/22")
     print("===========================")
     print("creating patients using Patient Class")
@@ -137,7 +132,6 @@ def chapter_57():
 #=======================================================================================================
 
 def chapter_58():
-    print("")
     print("Classes Friday 26/08/22")
     print("===========================")
     print("creating patients using Patient Class")
