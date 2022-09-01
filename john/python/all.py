@@ -164,7 +164,7 @@ def chapter_58():
 
 user_input = ""
 while user_input != "q":
-  user_input = input("Enter a number, or q to quit:")
+  user_input = input("Enter a chapter, or q to quit:")
   print(f"chapter {user_input}:")
 
   if user_input != "q":
