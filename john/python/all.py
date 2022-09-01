@@ -50,6 +50,7 @@ def chapter_54():
     print("Patient 4345's last name is " + pid4345["last_name"])
     print("Patient 1298's last name is " + pid1298["last_name"])
     print(" ")
+    
 #======================================================================================
 
 def chapter_55():
@@ -101,6 +102,7 @@ def chapter_56():
     print("Patient 4345's last name is " + pid4345["last_name"])
     print("Patient 1298's last name is " + pid1298["last_name"])
     print(" ")
+
 #=============================================================================
 
 def chapter_57():
@@ -129,6 +131,7 @@ def chapter_57():
     print(f"Third patient - {pid4345.first_name} {pid4345.last_name}, age {pid4345.age}")
     print(f"Fourth patient - {pid1298.first_name} {pid1298.last_name}, age {pid1298.age}")
     print(" ")
+
 #=======================================================================================================
 
 def chapter_58():
