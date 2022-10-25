@@ -1,27 +1,31 @@
-# Monday 25/7/22
-#   Mixing positional and keyword arguments
+print()
+print('Monday 25 July 2022')
+print('Python - Chapter 45: Mixing positional and keyword arguments')
+print('==============================================')
+print()
+
 
 def give_greeting(greeting, first_name):
     print(greeting + ", " + first_name)
 
-# First argument is positional, second is keyword
+print('In this function, the first argument is positional and the second is keyword')
 give_greeting("Hello there", first_name="Al")
 
-# Python displays "Hello there, Al"
+print()
 
-# Key things:
+print('Key things:')
+print('Positional arguments must come first - before keyword arguments')
+print('Positional arguments have to line up with parameters, the keyword argument cant be in its place.')
+print('Keyword arguments that are a default value last.')
+print()
 
-# Positional arguments must come before keyword arguments
-# Positional arguments have to line up with parameters, the keyword argument cant be in its place.
-
-def give_greeting(greeting, first_name, nickname=" the magic boy"):
+def give_greeting(greeting, first_name, nickname=" The Magic Boy"):
     print(greeting + ", " + first_name + nickname)
+give_greeting("Hello there", first_name="Al",)
 
-# Positional arguments first
-# Keyword arguments with no default second
-# Keyword arguments with a default last.
+print()
 
-# Lists and dictionaries can be arguments
+print('Lists and dictionaries can be arguments')
 family_members = {
   "X": {
     "first name":"Hannah",
@@ -45,11 +49,32 @@ family_members = {
   }
 }
 
+print()
+
+print('This will print something from the dictionary')
 def find_something(dict, inner_dict, target):
     print(dict[inner_dict][target])
-
-# The function uses three parameters to find the value we want:
 find_something(family_members, "Y", "first name")
 
-# Python displays:
-# John
+print()
+
+'''
+Monday 25 July 2022
+Python - Chapter 45: Mixing positional and keyword arguments
+==============================================
+
+In this function, the first argument is positional and the second is keyword
+Hello there, Al
+
+Key things:
+Positional arguments must come first - before keyword arguments
+Positional arguments have to line up with parameters, the keyword argument cant be in its place.
+Keyword arguments that are a default value last.
+
+Hello there, Al The Magic Boy
+
+Lists and dictionaries can be arguments
+
+This will print something from the dictionary
+John
+'''

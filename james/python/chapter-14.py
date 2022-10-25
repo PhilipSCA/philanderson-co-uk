@@ -1,5 +1,8 @@
-# Tuesday 12/4/22
-#    Chapter 14: Comments
+
+print('python - Chapter 14 - Comments')
+print('==============================================')
+print('Tuesday April 2022')
+print()
 
 # You comment using the "#" symbol in python
 # Comments are for the reader/programmer, not the computer

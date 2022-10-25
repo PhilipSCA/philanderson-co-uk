@@ -1,5 +1,7 @@
-# Friday 8/4/22
-    # Chapter 10: Comparison Operators
+
+print('python - Chapter 10 - Comparison Operators')
+print('==============================================')
+print('Friday 8 April 2022')
 
 # == is a comparison operator, can be used to compare various combination (Case sensitive)
 # != means not equal to, its the opposite of ==, can compare various combinations (Case sensitive)
