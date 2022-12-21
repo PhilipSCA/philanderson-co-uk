@@ -1,6 +1,5 @@
-
 print()
-print('Thursday 26 August 2022')
+print('Thursday 26 October 2022')
 print('Python - Chapter 66: Modules')
 print('==============================================')
 print()
@@ -21,7 +20,7 @@ def calc_tax(sales_total, tax_rate):
     tax = sales_total * tax_rate
     return tax
 
-print(calc_tax)
+calc_tax()
 
 print()
 
