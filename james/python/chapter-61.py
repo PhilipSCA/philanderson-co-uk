@@ -1,5 +1,9 @@
-# Thursday 25/8/22
-#   Changing an attribute's value
+print()
+print('Thursday 25th August 2022')
+print("Python - Chapter 61: Changing an attribute's value")
+print('===============================================')
+print() 
+
 class Patient():
     def __init__(self, last_name, first_name, age):
         self.last_name = last_name
@@ -8,9 +12,11 @@ class Patient():
 
 james28 = Patient("Anderson", "James", "14")
 # Its as easy as this
-james28.first_name = "Smith"
 
+james28.first_name = "Smith"
+print(james28.first_name)
 # Here is a method that does the same thing
+
 class Patient():
     def __init__(self, last_name, first_name, age):
         self.last_name = last_name
