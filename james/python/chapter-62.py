@@ -16,7 +16,7 @@ print("If it doesnt exist, Python creates it.")
 print("You could open the file without the initial with, opting to close the file yourself.")
 file_to_work_with = open("whatever.txt", "w"):
 
-print("The designation "whatever.txt" assumes that the file is in the same folder as the Python program.")
+print("The designation 'whatever.txt' assumes that the file is in the same folder as the Python program.")
 print("If it isnt in the same folder, e.g if its in the data subfolder of the Python folder on Windows, you write:")
 with open("data\whatever.txt", "w") as file_to_work_with:
 print()
