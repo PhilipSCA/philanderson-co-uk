@@ -10,6 +10,7 @@ with open("competitions.csv") as f:
     file_contents = csv.reader(f)
     potter_competitions = []
     for each_line in file_contents:
+      print(each_line)
       potter_competitions += each_line
 
 print("This is the csv file")
@@ -21,7 +22,7 @@ print(potter_competitions[4])
 print()
 
 print("But to find the index number of an element, you write the element name.")
-index_num = potter_competitions.index("Best-Kept Lawn")
+index_num = potter_competitions.index("e")
 print(index_num)
 print()
 

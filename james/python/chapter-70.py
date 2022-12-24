@@ -7,7 +7,7 @@ print()
 print("You open/create the file")
 
 import csv
-with open("file01.txt", "w") as file01:
+with open("file01.txt", "w", newline="") as file01:
     file01.write("This is file01")
 
 print("newline="" is a technical requirement, just needs to be included")
