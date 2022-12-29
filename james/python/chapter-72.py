@@ -21,15 +21,20 @@ with open("file02.csv", "w", newline="") as file02:
 
 with open("file02.csv",) as file02:
     data_02 = csv.reader(file02)
-    print(data_02)
-
+    for each_line in data_02:
+      print(each_line)
+print()
 
 
 '''
+
 Thursday 29th December 2022
 Python - Chapter 72  : Saving CSV files 3
 ==============================================
 
 We write some rows of data using x.writerow([])
-<_csv.reader object at 0x000001E9347625E0>
+['Date', 'Name', 'Age']
+['16th Feb', 'James', '14']
+['29th Dec', 'John', '17']
+
 '''

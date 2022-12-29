@@ -11,7 +11,7 @@ print("When you use 'a' instead of 'w' or 'r' in the file opening the code, it w
 print()
 with open("file02.csv", "a", newline="") as file02:
     data01 = csv.writer(file02)
-    data01.writerow(["Date", "Name", "Age"])
+    data01.writerow(["15th Dec", "Hannah", "11"])
 
 with open("file02.csv", "r",) as file02:
     data01 = csv.reader(file02, delimiter=",")
@@ -31,6 +31,6 @@ When you use 'a' instead of 'w' or 'r' in the file opening the code, it will app
 ['Date', 'Name', 'Age']
 ['16th Feb', 'James', '14']
 ['29th Dec', 'John', '17']
-['Date', 'Name', 'Age']
+['15th Dec', 'Hannah', '11']
 
 '''
