@@ -1,4 +1,5 @@
 import csv
+from lib2to3.pgen2.token import NEWLINE
 
 print()
 print('Thursday 29th December 2022')
@@ -10,5 +11,11 @@ print("When you use 'a' instead of 'w' or 'r' in the file opening the code, it w
 with open("file02.csv", "a", newline="") as file02:
     data = csv.writer(file02)
     data.writerow(["Date", "Name", "Age"])
-    data.writerow(["16th Feb", "James", "14"])
-    data.writerow(["29th Dec", "John", "17"])
+
+with open("file02.csv", "r",) as file02:
+    data = csv.reader(file02, delimiter=",")
+    for each_line in data:
+      print(each_line)
+
+
+print()
