@@ -10,12 +10,12 @@ print()
 print("When you use 'a' instead of 'w' or 'r' in the file opening the code, it will append new data.")
 print()
 with open("file02.csv", "a", newline="") as file02:
-    data = csv.writer(file02)
-    data.writerow(["Date", "Name", "Age"])
+    data01 = csv.writer(file02)
+    data01.writerow(["Date", "Name", "Age"])
 
 with open("file02.csv", "r",) as file02:
-    data = csv.reader(file02, delimiter=",")
-    for each_line in data:
+    data01 = csv.reader(file02, delimiter=",")
+    for each_line in data01:
       print(each_line)
 
 
@@ -31,40 +31,6 @@ When you use 'a' instead of 'w' or 'r' in the file opening the code, it will app
 ['Date', 'Name', 'Age']
 ['16th Feb', 'James', '14']
 ['29th Dec', 'John', '17']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['16th Feb', 'James', '14']
-['29th Dec', 'John', '17']
-['15th Dec', 'Hannah', '12']
-['Date', 'Name', 'Age']
-['Date', 'Name', 'Age']
 ['Date', 'Name', 'Age']
 
 '''

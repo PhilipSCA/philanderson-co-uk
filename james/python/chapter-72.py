@@ -1,4 +1,5 @@
 import csv
+from operator import truediv
 
 print()
 print('Thursday 29th December 2022')
@@ -6,10 +7,11 @@ print('Python - Chapter 72  : Saving CSV files 3')
 print('==============================================')
 print()
 
-with open("file02.csv", "w") as file:
-    file.write("")
-print("We write some rows of data using x.writerow([])")
+with open("file02.csv", "w") as file01:
+    file01.write("")
 
+
+print("We write some rows of data using x.writerow([])")
 with open("file02.csv", "w", newline="") as file02:
     data = csv.writer(file02, delimiter=",")
     data.writerow(["Date", "Name", "Age"])
@@ -18,8 +20,9 @@ with open("file02.csv", "w", newline="") as file02:
 
 
 with open("file02.csv",) as file02:
-    data_2 = csv.reader(file02)
-print(data_2)
+    data_02 = csv.reader(file02)
+    print(data_02)
+
 
 
 '''
