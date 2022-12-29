@@ -12,6 +12,7 @@ with open("file02.csv", "w") as file01:
 
 
 print("We write some rows of data using x.writerow([])")
+print("Opening a file to write overwrites all existing data in the file.")
 with open("file02.csv", "w", newline="") as file02:
     data = csv.writer(file02, delimiter=",")
     data.writerow(["Date", "Name", "Age"])
