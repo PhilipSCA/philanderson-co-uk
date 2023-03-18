@@ -4,7 +4,7 @@
 <style>
 
 .grid-container {
-	width: 350px;
+	width: 650px;
     background-color: rgb(0, 237, 255);
     padding: 200px;
     padding-right: 628px;
@@ -12,8 +12,8 @@
 }
 
 .grid-item {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: black;
     margin: 5px;
     display: inline-block;
@@ -23,7 +23,7 @@
 <body>
 
 <div class="grid-container">
-  <div class="grid-item" id="box01"></div>
+  <div class="grid-item" id="box01"><img id="blackX01" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png" width="190" height="190" /></div>
   <div class="grid-item" id="box02"></div>
   <div class="grid-item" id="box03"></div>  
   <div class="grid-item" id="box04"></div>
@@ -36,11 +36,16 @@
 
 <script>
 
+// setup
 let player = 'player01'
+box01 = document.getElementById("box01")
+blackX01 = document.getElementById("blackX01")
+blackX01.style.display = "none"
 
 
 doThisForBox01 = () => {
   console.log(`box 1 was clicked by ${player}`);
+    blackX01.style.display = "inline"
 }
 
 box01 = document.getElementById('box01');
@@ -103,6 +108,8 @@ box09 = document.getElementById('box09');
 box09.addEventListener('click', doThisForBox09)
 
 
+// click box, insert image of 'X'
+// when click second box insert image of '0'
 </script>
 
 </body>
