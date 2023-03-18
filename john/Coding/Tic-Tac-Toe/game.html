@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.grid-container {
+	width: 650px;
+    background-color: rgb(0, 237, 255);
+    padding: 200px;
+    padding-right: 628px;
+    padding-left: 628px;
+}
+
+.grid-item {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 5px;
+    display: inline-block;
+}
+</style>
+</head>
+<body>
+
+<div class="grid-container">
+  <div class="grid-item" id="box01"><img id="blackX01" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png" width="190" height="190" /></div>
+  <div class="grid-item" id="box02"></div>
+  <div class="grid-item" id="box03"></div>  
+  <div class="grid-item" id="box04"></div>
+  <div class="grid-item" id="box05"></div>
+  <div class="grid-item" id="box06"></div>  
+  <div class="grid-item" id="box07"></div>
+  <div class="grid-item" id="box08"></div>
+  <div class="grid-item" id="box09"></div>  
+</div>
+
+<script>
+
+// setup
+let player = 'player01'
+box01 = document.getElementById("box01")
+blackX01 = document.getElementById("blackX01")
+blackX01.style.display = "none"
+
+
+doThisForBox01 = () => {
+  console.log(`box 1 was clicked by ${player}`);
+    blackX01.style.display = "inline"
+}
+
+box01 = document.getElementById('box01');
+box01.addEventListener('click', doThisForBox01)
+
+doThisForBox02 = () => {
+  console.log(`box 2 was clicked by ${player}`);
+}
+
+box02 = document.getElementById('box02');
+box02.addEventListener('click', doThisForBox02)
+
+doThisForBox03 = () => {
+  console.log(`box 3 was clicked by ${player}`);
+}
+
+box03 = document.getElementById('box03');
+box03.addEventListener('click', doThisForBox03)
+
+doThisForBox04 = () => {
+  console.log(`box 4 was clicked by ${player}`);
+}
+
+box04 = document.getElementById('box04');
+box04.addEventListener('click', doThisForBox04)
+
+doThisForBox05 = () => {
+  console.log(`box 5 was clicked by ${player}`);
+}
+
+box05 = document.getElementById('box05');
+box05.addEventListener('click', doThisForBox05)
+
+doThisForBox06 = () => {
+  console.log(`box 6 was clicked by ${player}`);
+}
+
+box06 = document.getElementById('box06');
+box06.addEventListener('click', doThisForBox06)
+
+doThisForBox07 = () => {
+  console.log(`box 7 was clicked by ${player}`);
+}
+
+box07 = document.getElementById('box07');
+box07.addEventListener('click', doThisForBox07)
+
+doThisForBox08 = () => {
+  console.log(`box 8 was clicked by ${player}`);
+}
+
+box08 = document.getElementById('box08');
+box08.addEventListener('click', doThisForBox08)
+
+doThisForBox09 = () => {
+  console.log(`box 9 was clicked by ${player}`);
+}
+
+box09 = document.getElementById('box09');
+box09.addEventListener('click', doThisForBox09)
+
+
+// click box, insert image of 'X'
+// when click second box insert image of '0'
+</script>
+
+</body>
+</html>
