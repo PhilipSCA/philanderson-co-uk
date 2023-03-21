@@ -7,18 +7,19 @@ body {
 }
 
 .grid-container {
-	width: 650px;
-    background-color: rgb(0, 237, 255);
-    margin-top: 17%;
-    margin-left: auto;
-    margin-right: auto;
+	width: 645px;
+  height: 645px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 17%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .grid-item {
     width: 200px;
     height: 200px;
     background-color: black;
-    margin: 5px;
+    margin: 6px;
     display: inline-block;
 }
 </style>
@@ -26,15 +27,15 @@ body {
 <body>
 
 <div class="grid-container">
-  <div class="grid-item" id="box01"><img id="box01image" src="" width="190" height="190" /></div>
-  <div class="grid-item" id="box02"><img id="box02image" src="" width="190" height="190" /></div>
-  <div class="grid-item" id="box03"><img id="box03image" src="" width="190" height="190" /></div>  
-  <div class="grid-item" id="box04"><img id="box04image" src="" width="190" height="190" /></div>
-  <div class="grid-item" id="box05"><img id="box05image" src="" width="190" height="190" /></div>
-  <div class="grid-item" id="box06"><img id="box06image" src="" width="190" height="190" /></div>  
-  <div class="grid-item" id="box07"><img id="box07image" src="" width="190" height="190" /></div>
-  <div class="grid-item" id="box08"><img id="box08image" src="" width="190" height="190" /></div>
-  <div class="grid-item" id="box09"><img id="box09image" src="" width="190" height="190" /></div>  
+  <div class="grid-item" id="box01"><img id="box01image" src="" width="205" height="205" /></div>
+  <div class="grid-item" id="box02"><img id="box02image" src="" width="205" height="205" /></div>
+  <div class="grid-item" id="box03"><img id="box03image" src="" width="205" height="205" /></div>  
+  <div class="grid-item" id="box04"><img id="box04image" src="" width="205" height="205" /></div>
+  <div class="grid-item" id="box05"><img id="box05image" src="" width="205" height="205" /></div>
+  <div class="grid-item" id="box06"><img id="box06image" src="" width="205" height="205" /></div>  
+  <div class="grid-item" id="box07"><img id="box07image" src="" width="205" height="205" /></div>
+  <div class="grid-item" id="box08"><img id="box08image" src="" width="205" height="205" /></div>
+  <div class="grid-item" id="box09"><img id="box09image" src="" width="205" height="205" /></div>  
 </div>
 
 <script>
@@ -49,8 +50,9 @@ switchPlayer = () => {
   else if (player == 'player02') {
     player = 'player01'
   }
-
+console.log("Player switched to " + player)
 }
+
 // setup box01
 box01 = document.getElementById("box01")
 box01image = document.getElementById("box01image")
@@ -96,33 +98,43 @@ box09 = document.getElementById("box09")
 box09image = document.getElementById("box09image")
 box09image.style.display = "none"
 
+const scores = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 doThisForBox01 = () => {
   
   console.log(`box 1 was clicked by ${player}`);
   if (player == 'player01'){
     box01image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[0] = ("X");
    }
   else if (player == 'player02') {
     box01image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[0] = ("O");
   }
   box01image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box01 = document.getElementById('box01');
 box01.addEventListener('click', doThisForBox01)
+
+
 
 doThisForBox02 = () => {
   
   console.log(`box 2 was clicked by ${player}`);
   if (player == 'player01'){
     box02image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[1] = ("X");
    }
   else if (player == 'player02') {
     box02image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[1] = ("O");
   }
   box02image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
  }
 
 box02 = document.getElementById('box02');
@@ -133,12 +145,15 @@ doThisForBox03 = () => {
   console.log(`box 3 was clicked by ${player}`);
   if (player == 'player01'){
     box03image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[2] = ("X");
    }
   else if (player == 'player02') {
     box03image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[2] = ("O");
   }
   box03image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box03 = document.getElementById('box03');
@@ -148,12 +163,15 @@ doThisForBox04 = () => {
   console.log(`box 4 was clicked by ${player}`);
   if (player == 'player01'){
     box04image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[3] = ("X");
    }
   else if (player == 'player02') {
     box04image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[3] = ("0");
   }
   box04image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box04 = document.getElementById('box04');
@@ -163,12 +181,15 @@ doThisForBox05 = () => {
   console.log(`box 5 was clicked by ${player}`);
   if (player == 'player01'){
     box05image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[4] = ("X");
    }
   else if (player == 'player02') {
     box05image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[4] = ("O");
   }
   box05image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box05 = document.getElementById('box05');
@@ -178,12 +199,15 @@ doThisForBox06 = () => {
   console.log(`box 6 was clicked by ${player}`);
   if (player == 'player01'){
     box06image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[5] = ("X");
    }
   else if (player == 'player02') {
     box06image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[5] = ("X");
   }
   box06image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box06 = document.getElementById('box06');
@@ -193,12 +217,15 @@ doThisForBox07 = () => {
   console.log(`box 7 was clicked by ${player}`);
   if (player == 'player01'){
     box07image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[6] = ("X");
    }
   else if (player == 'player02') {
     box07image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[6] = ("O");
   }
   box07image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box07 = document.getElementById('box07');
@@ -208,12 +235,15 @@ doThisForBox08 = () => {
   console.log(`box 8 was clicked by ${player}`);
   if (player == 'player01'){
     box08image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[7] = ("X");
    }
   else if (player == 'player02') {
     box08image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[7] = ("O");
   }
   box08image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box08 = document.getElementById('box08');
@@ -223,18 +253,46 @@ doThisForBox09 = () => {
   console.log(`box 9 was clicked by ${player}`);
   if (player == 'player01'){
     box09image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-x-icon-18-256.png"
+    scores[8] = ("X");
    }
   else if (player == 'player02') {
     box09image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
+    scores[8] = ("O");
   }
   box09image.style.display = "inline"
   switchPlayer()
+  console.log(scores)
 }
 
 box09 = document.getElementById('box09');
 box09.addEventListener('click', doThisForBox09)
 
+// Scores array
 
+if (scores[1] = scores[2] = scores[3]){
+  console.log("Game ended, Someone wins.")
+}
+else if (scores[4] = scores[5] = scores[6]){
+  console.log("Game ended, Someone wins.")
+}
+else if (scores[7] = scores[8] = scores[9]){
+  console.log("Game ended, Someone wins.")
+}
+else if (scores[1] = scores[4] = scores[7]){
+  console.log("Game ended, Someone wins.")
+}
+else if (scores[2] = scores[5] = scores[8]){
+  console.log("Game ended, Someone wins.")
+}
+else if (scores[3] = scores[6] = scores[9]){
+  console.log("Game ended, Someone wins.")
+}
+else if (scores[1] = scores[5] = scores[9]){
+  console.log("Game ended, Someone wins.")
+}
+else if (scores[3] = scores[5] = scores[7]){
+  console.log("Game ended, Someone wins.")
+}
 </script>
 
 </body>
