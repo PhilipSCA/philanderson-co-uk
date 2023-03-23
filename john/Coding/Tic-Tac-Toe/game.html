@@ -98,7 +98,16 @@ box09 = document.getElementById("box09")
 box09image = document.getElementById("box09image")
 box09image.style.display = "none"
 
-const scores = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+const scores = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+console.log("scores[0] is " + scores[0])
+console.log("scores[1] is " + scores[1])
+console.log("scores[2] is " + scores[2])
+console.log("scores[3] is " + scores[3])
+console.log("scores[4] is " + scores[4])
+console.log("scores[5] is " + scores[5])
+console.log("scores[6] is " + scores[6])
+console.log("scores[7] is " + scores[7])
+console.log("scores[8] is " + scores[8])
 
 doThisForBox01 = () => {
   
@@ -114,6 +123,7 @@ doThisForBox01 = () => {
   box01image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box01 = document.getElementById('box01');
@@ -135,6 +145,7 @@ doThisForBox02 = () => {
   box02image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
  }
 
 box02 = document.getElementById('box02');
@@ -154,6 +165,7 @@ doThisForBox03 = () => {
   box03image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box03 = document.getElementById('box03');
@@ -167,11 +179,12 @@ doThisForBox04 = () => {
    }
   else if (player == 'player02') {
     box04image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
-    scores[3] = ("0");
+    scores[3] = ("O");
   }
   box04image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box04 = document.getElementById('box04');
@@ -190,6 +203,7 @@ doThisForBox05 = () => {
   box05image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box05 = document.getElementById('box05');
@@ -203,11 +217,12 @@ doThisForBox06 = () => {
    }
   else if (player == 'player02') {
     box06image.src = "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/letter-o-icon-18-256.png"
-    scores[5] = ("X");
+    scores[5] = ("O");
   }
   box06image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box06 = document.getElementById('box06');
@@ -226,6 +241,7 @@ doThisForBox07 = () => {
   box07image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box07 = document.getElementById('box07');
@@ -244,6 +260,7 @@ doThisForBox08 = () => {
   box08image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box08 = document.getElementById('box08');
@@ -262,37 +279,41 @@ doThisForBox09 = () => {
   box09image.style.display = "inline"
   switchPlayer()
   console.log(scores)
+  checkScores()
 }
 
 box09 = document.getElementById('box09');
 box09.addEventListener('click', doThisForBox09)
 
 // Scores array
+checkScores = () => {
+  if (scores[0] === scores[1] && scores[0] === scores[2]){
+    console.log("Game ended, Someone wins.")
+  }
+  else if (scores[3] === scores[4] && scores[3] === scores[5]){
+    console.log("Game ended, Someone wins.")
+  }
+  else if (scores[6] === scores[7] && scores[6] === scores[8]){
+    console.log("Game ended, Someone wins.")
+  }
+  else if (scores[0] === scores[3] && scores[0] === scores[6]){
+    console.log("Game ended, Someone wins.")
+  }
+  else if (scores[1] === scores[4] && scores[1] === scores[7]){
+    console.log("Game ended, Someone wins.")
+  }
+  else if (scores[2] === scores[5] && scores[2] === scores[8]){
+    console.log("Game ended, Someone wins.")
+  }
+  else if (scores[0] === scores[4] && scores[0] === scores[8]){
+    console.log("Game ended, Someone wins.")
+  }
+  else if (scores[2] === scores[4] && scores[2] === scores[6]){
+    console.log("Game ended, Someone wins.")
+  }
+}
 
-if (scores[1] = scores[2] = scores[3]){
-  console.log("Game ended, Someone wins.")
-}
-else if (scores[4] = scores[5] = scores[6]){
-  console.log("Game ended, Someone wins.")
-}
-else if (scores[7] = scores[8] = scores[9]){
-  console.log("Game ended, Someone wins.")
-}
-else if (scores[1] = scores[4] = scores[7]){
-  console.log("Game ended, Someone wins.")
-}
-else if (scores[2] = scores[5] = scores[8]){
-  console.log("Game ended, Someone wins.")
-}
-else if (scores[3] = scores[6] = scores[9]){
-  console.log("Game ended, Someone wins.")
-}
-else if (scores[1] = scores[5] = scores[9]){
-  console.log("Game ended, Someone wins.")
-}
-else if (scores[3] = scores[5] = scores[7]){
-  console.log("Game ended, Someone wins.")
-}
+
 </script>
 
 </body>
