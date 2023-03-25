@@ -37,11 +37,12 @@ body {
   <div class="grid-item" id="box08"><img id="box08image" src="" width="205" height="205" /></div>
   <div class="grid-item" id="box09"><img id="box09image" src="" width="205" height="205" /></div>  
 </div>
-
+<div id="player"></div>
 <script>
-
+document.getElementById("player").innerHTML = "hello";
 // setup
 let player = 'player01'
+
 
 switchPlayer = () => {
   if (player == 'player01') {
@@ -51,6 +52,7 @@ switchPlayer = () => {
     player = 'player01'
   }
 console.log("Player switched to " + player)
+
 }
 
 // setup box01
