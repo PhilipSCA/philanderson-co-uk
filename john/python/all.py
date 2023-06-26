@@ -95,20 +95,23 @@ while user_input != "q":
     if user_input == "53":
         chapter_53()
     
-    if user_input == "54":
+    elif user_input == "54":
         chapter_53()
 
-    if user_input == "55":
+    elif user_input == "55":
         chapter_53()
     
-    if user_input == "56":
+    elif user_input == "56":
         chapter_53()
 
-    if user_input == "57":
+    elif user_input == "57":
         chapter_57()
 
-    if user_input == "58":
+    elif user_input == "58":
         chapter_57()
 
-    if user_input == "59":
+    elif user_input == "59":
+        chapter_59()
+
+    elif user_input == "60":
         chapter_59()
