@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 19</title>
+</head>
+<body>
+    <h1>Chapter 19: for loops</h1>
+    <h2>June 26th 2023</h2>
+    <script>
+        var cleanestCities = ["Cheyenne", "Santa Fe", "Tucson", "Great Falls", "Honolulu"];
+        var cityToCheck = prompt("What is your city?");
+        var matchFound = "no";
+        for (var i = 0; i <= 4; i++) {
+            if (cityToCheck === cleanestCities[i]) {
+                matchFound = "yes";
+                alert("It's one of the cleanest cities")
+                break;
+            }
+        }
+        if (matchFound === "no"); {
+            alert("Its not on the list");
+        }
+    </script>
+</body>
+</html>

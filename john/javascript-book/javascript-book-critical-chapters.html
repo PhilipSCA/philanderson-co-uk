@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Book - Critical Chapters</title>
+</head>
+<body>
+    <style>
+    .button {
+        width: 20%;
+        height: 40px;
+       }
+    </style>
+
+    <h1>Javascript Book - Critical Chapters</h1>
+    <button type="button" class="button" onclick="Chapter10()">Chapter 10: If statements</button>
+    <div id="chapter-10"></div>
+    <script>
+        function Chapter10() {
+            var x = prompt("Where does the pope live?");
+            if (x === "Vatican") {
+                chapter10Output = "Correct!";
+                console.log(chapter10Output);
+                chapter10 = document.getElementById('chapter-10');
+                chapter10.innerHTML = chapter10Output
+            }
+    }
+    </script>
+
+    <button type="button" class="button" onclick="Chapter12()">Chapter 12: If, else and elif statements</button>
+    <div id="chapter-12"></div>
+    <script>
+        function Chapter12() {
+            var x = prompt("Where does the pope live?");
+            if (x === "Vatican"){
+                chapter12Output = "Correct!"
+            }
+            else if (x === "Rome") {
+                chapter12Output = "Incorrect, but close.";
+            }
+            else {
+                chapter12Output = "Incorrect";
+            }
+            console.log(chapter12Output);
+            chapter12 = document.getElementById('chapter-12');
+            chapter12.innerHTML = chapter12Output
+        }
+    
+    </script>
+
+    <button type="button" class="button" onclick="Chapter15()">Chapter 15: Arrays</button>
+    <div id="chapter-15"></div>
+    <script>
+        function Chapter15() {
+            var cities = ["Atlanta", "Baltimore", "Chicago", "Denver", "Seattle", "Los Angeles"]
+            var city = prompt("Choose a city to go to, from 0-5");
+            if (city === "0") {
+                chapter15Output = "Welcome to " + cities[0]
+            }
+            else if (city === "1") {
+                chapter15Output = "Welcome to " + cities[1]
+            }
+            else if (city === "2") {
+                chapter15Output = "Welcome to " + cities[2]
+            }
+            else if (city === "3") {
+                chapter15Output = "Welcome to " + cities[3]
+            }
+            else if (city === "4") {
+                chapter15Output = "Welcome to " + cities[4]
+            }
+            else if (city === "5") {
+                chapter15Output = "Welcome to " + cities[5]
+            }
+            else {
+                chapter15Output = "Put a number from 0-5."
+            }
+            console.log(chapter15Output);
+            chapter15 = document.getElementById('chapter-15');
+            chapter15.innerHTML = chapter15Output
+        }
+</script>
+
+    <button type="button" class="button" onclick="Chapter19()">Chapter 19: for loops</button>
+    <div id="chapter-19"></div>
+    <script>
+        function Chapter19() {
+            var cleanestCities = ["Cheyenne", "Santa Fe", "Tucson", "Great Falls", "Honolulu"];
+            var cityToCheck = prompt("What is your city?");
+            var matchFound = false;
+            for (var i = 0; i <= 4; i++) {
+                if (cityToCheck === cleanestCities[i]) {
+                    matchFound = true;
+                    chapter19Output = "It's one of the cleanest cities"; 
+                    break;
+                }
+            }
+            if (matchFound === false); {
+                chapter19Output = "It's not on the list";
+            }   
+            console.log(chapter19Output);
+            chapter19 = document.getElementById('chapter-19');
+            chapter19.innerHTML = chapter19Output
+            }
+    </script>
+
+    <button type="button" class="button" onclick="tellTime()">Chapter 35: Tell The Time</button>
+    <div id="chapter-35"></div>
+    <script>
+        function tellTime() {
+            let now = new Date();
+            let theHr = now.getHours();
+            let theMin = now.getMinutes();
+            let theSecs = now.getSeconds();
+            chapter35Output = `the time is ${theHr}:${theMin}, ${theSecs} second(s)`;
+            console.log(chapter35Output);
+            chapter35 = document.getElementById('chapter-35');
+            chapter35.innerText = chapter35Output
+        }
+     </script>
+    
+    <button type="button" class="button" onclick="Chapter39()">Chapter 39: switch statements</button>
+    <div id="chapter-39"></div>
+    <script>
+        function Chapter39() {
+            now = new Date
+            dayOfWeek = now.getDay();
+        // if (dayOfWk ==="Sat" || dayOfWk === "Sun") {
+        // chapter39Output("Whoopee!");
+        // }
+        // else if (dayOfWk === "Fri") {
+        //     chapter39Output("TGIF!");
+        // }
+        // else {
+        //     chapter39Output("Shoot me now!");
+        // }
+
+            switch(dayOfWeek) {
+            case "Sat" :
+                chapter39Output = "Whoopee! Its Saturday";
+                break;
+            case "Sun" :
+                chapter39Output = "Whoopee! Its Sunday";
+                break;
+            case "Fri" :
+                chapter39Output = "Hey its Friday!";
+                break;
+            default :
+                chapter39Output = "Shoot me now! Its not the weekend yet"; 
+            }
+            console.log(chapter39Output);
+            chapter39 = document.getElementById('chapter-39');
+            chapter39.innerText = chapter39Output
+        }
+     </script>
+
+
+</body>
+</html>
