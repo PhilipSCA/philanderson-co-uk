@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<div lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Javascript Book - Critical Chapters</title>
 </head>
-<body>
+<div>
     <style>
     .button {
         width: 20%;
@@ -96,10 +96,10 @@
                     chapter19Output = "It's one of the cleanest cities"; 
                     break;
                 }
+                else if (matchFound === false); {
+                    chapter19Output = "It's not on the list";
             }
-            if (matchFound === false); {
-                chapter19Output = "It's not on the list";
-            }   
+        }
             console.log(chapter19Output);
             chapter19 = document.getElementById('chapter-19');
             chapter19.innerHTML = chapter19Output
@@ -155,6 +155,72 @@
             chapter39.innerText = chapter39Output
         }
      </script>
+
+    <button type="button" class="button" onclick="Chapter41()">Chapter 41: while loops</button>
+    <div id="chapter-41"></div>
+    <script>
+        function Chapter41() {
+            // for loop
+            for (var i = 0; i <= 3; i++) {
+                chapter41Output = `for loop alert = ${i}`;
+            }
+
+            console.log(`the for loop output is ${i}`)
+
+            // while loop
+            var is = 0;
+            while (is <= 3) {
+                chapter41Output = `while loop output = ${is}`;
+                is++;
+            }
+            console.log(`the while loop output is ${is}`) 
+            console.log(chapter41Output);
+            chapter41 = document.getElementById('chapter-41');
+            chapter41.innerText = chapter41Output
+        }
+     </script>
+
+    <button type="button" class="button" onclick="chapter45()">Chapter 45: Events on links</button>
+
+    <a href="Javascript:void(0)" onClick="chapter45()">Chapter 45 link</a>
+
+    <div id="chapter-45"></div>
+    <script>
+        function chapter45() {
+        
+            chapter45Output = 'you clicked chapter 45'
+            console.log(chapter45Output);
+            chapters45 = document.getElementById('chapter-45');
+            chapters45.innerText = chapter45Output
+        }
+
+
+    </script>
+
+<button type="button" class="button" onclick="chapter60()">Chapter 60: Child Nodes</button>
+<div id="chapter-60-data">
+    <p>Southern Cal is sunny.</p>
+    <p>Northern Cal is rainy.</p>
+    <p>Eastern Cal is desert.</p>
+    <p>Urban NY is crowded.</p>
+    <p>Rural NY is sparse.</p>
+</div>
+<div id="chapter-60">
+
+</div>
+
+<script>
+    function chapter60() {
+        let chapter60Data = document.getElementById('chapter-60-data')
+        let p0 = chapter60Data.childNodes[0];
+        let p0contents = p0.innerText;
+        console.log(p0)
+        console.log(p0contents);
+        chapters60 = document.getElementById('chapter-60');
+        chapters60.innerText = p0contents
+    }
+
+</script>
 
 
 </body>
