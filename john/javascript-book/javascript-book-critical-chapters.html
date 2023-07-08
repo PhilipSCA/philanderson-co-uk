@@ -126,29 +126,22 @@
     <script>
         function Chapter39() {
             now = new Date
-            dayOfWeek = now.getDay();
-        // if (dayOfWk ==="Sat" || dayOfWk === "Sun") {
-        // chapter39Output("Whoopee!");
-        // }
-        // else if (dayOfWk === "Fri") {
-        //     chapter39Output("TGIF!");
-        // }
-        // else {
-        //     chapter39Output("Shoot me now!");
-        // }
+            namesOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+            numberOfWeek = now.getDay();
+            dayOfWeek = namesOfWeek[numberOfWeek -1]
 
             switch(dayOfWeek) {
             case "Sat" :
-                chapter39Output = "Whoopee! Its Saturday";
+                chapter39Output = "Whoopee! Its Saturday!";
                 break;
             case "Sun" :
-                chapter39Output = "Whoopee! Its Sunday";
+                chapter39Output = "Whoopee! Its Sunday!";
                 break;
             case "Fri" :
                 chapter39Output = "Hey its Friday!";
                 break;
             default :
-                chapter39Output = "Shoot me now! Its not the weekend yet"; 
+                chapter39Output = "Shoot me now! Its not the weekend yet.."; 
             }
             console.log(chapter39Output);
             chapter39 = document.getElementById('chapter-39');
@@ -199,11 +192,12 @@
 
 <button type="button" class="button" onclick="chapter60()">Chapter 60: Child Nodes</button>
 <div id="chapter-60-data">
-    <p>Southern Cal is sunny.</p>
+ <!--   <p>Southern Cal is sunny.</p>
     <p>Northern Cal is rainy.</p>
     <p>Eastern Cal is desert.</p>
     <p>Urban NY is crowded.</p>
     <p>Rural NY is sparse.</p>
+ -->
 </div>
 <div id="chapter-60">
 
@@ -216,12 +210,38 @@
         let p0contents = p0.innerText;
         console.log(p0)
         console.log(p0contents);
-        chapters60 = document.getElementById('chapter-60');
-        chapters60.innerText = p0contents
+        let chapter60 = document.getElementById('chapter-60');
+        chapter60.innerText = p0contents
     }
 
 </script>
 
+<button type="button" class="button" onclick="Chapter76()">Chapter 76: Browser Control</button>
+<div id="chapter-76"></div>
+<script>
+    function Chapter76() {
+        var whereWeAt = window.location.href;
+        var theDomain = window.location.hostname;
+        var currentPath = window.location.pathname;
+        var theAnchor = window.location.hash;
+
+        // window.location.href = "http://www.me.com/1.html#section9";
+        var currentSite = window.location.hostname;
+
+        var destination = "http://" + currentSite + currentPath + "#humidifier";
+        // window.location.href = destination;
+
+        chapter76Output = [('where we at ' + whereWeAt + "  "),
+        ('domain ' + theDomain + "    "),
+        ('path ' + currentPath+ "    "),
+        ('anchor ' + theAnchor+ "    "),
+        ('current site' + currentSite + "     "),
+        (   'destination ' + destination)]
+        console.log(chapter76Output);
+        chapter76 = document.getElementById('chapter-76');
+        chapter76.innerHTML = chapter76Output
+        }
+</script>
 
 </body>
 </html>

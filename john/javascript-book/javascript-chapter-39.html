@@ -10,23 +10,31 @@
     <h1>Chapter 39: days of week</h1>
     <h2>September 2nd 2021</h2>
     <script>
+        now = new Date
+        namesOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+        numberOfWeek = now.getDay();
+        dayOfWeek = namesOfWeek[numberOfWeek -1]
 
-        if (dayOfWk ==="Sat" || dayOfWk === "Sun") {
-            alert("Whoopee!");
-        }
-        else if (dayOfWk === "Fri") {
-            alert("TGIF!");
-        }
-        else {
-            alert("Shoot me now!");
-        }
+        // How to do it with an If statement
+
+        // if (dayOfWeek ==="Sat" || dayOfWeek === "Sun") {
+        //     alert("Whoopee!");
+        // }
+        // else if (dayOfWeek === "Fri") {
+        //     alert("TGIF!");
+        // }
+        // else {
+        //     alert("Shoot me now!");
+        // }
+
+        // A switch statement
 
         switch(dayOfWeek) {
         case "Sat" :
-            alert("Whoopee!");
+            alert("Whoopee! Its Saturday!");
             break;
         case "Sun" :
-            alert("Whoopee!");
+            alert("Whoopee! Its Sunday!");
             break;
         case "Fri" :
             alert("TGIF!");
