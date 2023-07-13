@@ -30,7 +30,9 @@ elif user_choice == 'paper' and computer_choice == 'rock':
 
 else:
     print("This means.. You've lost! Oh No!")
-    print("Computer said 'Do Better Next Time LoL.")
+    print("Computer said 'Do Better Next Time.'")
+
+
 
 
 

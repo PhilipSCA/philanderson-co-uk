@@ -69,3 +69,23 @@ yum.sort() #ascending
 #yum.sort(reverse = True) #descending
 
 print(newlistt)
+#==========================================================================
+
+goodlist = [x for x in range(10)]
+
+print(goodlist)
+#==========================================================================
+
+def myfuncc(n):
+    return abs(n - 50)
+
+whatlist = [100, 65, 83, 46, 93]
+whatlist.sort(key = myfuncc)
+
+print(whatlist)
+#==========================================================================
+
+yeslist = ['apple', 'Bannanaa', 'Orange', 'kiwi']
+yeslist.sort(key = str.lower)
+
+print(yeslist)
