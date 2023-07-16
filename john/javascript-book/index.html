@@ -126,9 +126,10 @@
     <script>
         function Chapter39() {
             now = new Date
-            namesOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+            namesOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
             numberOfWeek = now.getDay();
-            dayOfWeek = namesOfWeek[numberOfWeek -1]
+            dayOfWeek = namesOfWeek[numberOfWeek]
+            console.log(dayOfWeek)
 
             switch(dayOfWeek) {
             case "Sat" :
