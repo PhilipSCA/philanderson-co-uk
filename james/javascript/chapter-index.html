@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Chapter Index</title>
+</head>
+<div>
+    <style>
+        .button {
+         width: 30%;
+         height: 50px;  
+        }
+    </style>
+
+    <h1>Javascript - 10 Interesting Chapters</h1>
+    <button type="button" class="button" onclick="Chapter18()">Chapter 18 - for loops</button>
+    <div id="chapter-18"></div>
+     <script>
+         function Chapter18() {
+            console.log("Chapter 18")
+    var cleanestHouses = ["London", "Birmingham", "Manchester"]
+    console.log(cleanestHouses)
+    let cityToCheck = prompt("Enter a City out of London, Birmingham, Liverpool and Manchester.")
+    console.log(`cityToCheck = ${cityToCheck}`)
+    if (cityToCheck === cleanestHouses[0]) {
+        console.log("Its one of the cleanest cities");
+    }
+    else if (cityToCheck === cleanestHouses[1]) {
+        console.log("Its one of the cleanest cities");
+    }   
+    else if (cityToCheck === cleanestHouses[2]) {
+        console.log("Its one of the cleanest cities");
+    }
+    else {
+        console.log("Its not one of the cleanest cities");
+    }   
+
+console.log("This is using a for loop:")
+
+    for (var i = 0; i <= 4; i++) {
+        if (cityToCheck === cleanestHouses[i]) {
+            var Housecheck = "Its one of the cleanest cities"
+        }
+    }
+
+    for (var i = 0; i <= 4; i++) {
+        console.log("Hello");
+    }
+    
+
+    let output = 0
+    const answers = ["yes", "no", "maybe", "yes", "possibly"]
+    for (var i = 0; i < 5; i++) {
+      if (answers[i] === "yes") {
+          output = output+1 
+      }
+    }
+    console.log("There are " + output + " matches")
+    console.log(`There are ${output} matches`)
+
+    console.log(cleanestHouses)
+    chapter18 = document.getElementById('chapter-18');
+    chapter18.innerHTML = Housecheck
+         }
+     </script>
+</div>
+
+<div>
+<button type="button" class="button" onclick="Chapter-23()">Chapter 23 - Finding segments</button>
+    <div id="chapter-23"></div>
+    <script>
+        function Chapter23() {
+            console.log("Chapter 23:Strings: Finding segments")
+
+let text = "here is some text and here is some more text"
+let searchText = "text"
+
+var firstChar = text.indexOf(searchText);
+var lastChar = text.lastIndexOf(searchText);
+
+// print out firstChar
+console.log(`Printing out firstChar ${firstChar}`);
+let outputText = `We find text ${searchText} inside ${text} at position ${firstChar} and also at position ${lastChar}`
+console.log(outputText)
+document.getElementById('output').innerText=outputText
+
+
+// start here
+
+let text2 = "This is some text"
+let searchText2 = "text"
+
+var firstSeg = text2.indexOf(searchText2);
+var lastSeg = text2.lastIndexOf(searchText2);
+
+console.log(`Printing out firstSeg ${firstSeg}`);
+let output = `We find text ${searchText2} inside ${text2} at position ${firstSeg} and also at position ${lastSeg}`
+console.log(output)
+document.getElementById('out').innerText = output
+console.log(text2.slice(4, 12));
+        }
+</script>
+</div>
+</html>
