@@ -175,13 +175,20 @@
 
     <button type="button" class="button" onclick="chapter45()">Chapter 45: Events on links</button>
 
-    <a href="Javascript:void(0)" onClick="chapter45()">Chapter 45 link</a>
+    <a href="Javascript:void(0)" onClick="chapter452()">Chapter 45 link</a>
 
     <div id="chapter-45"></div>
     <script>
         function chapter45() {
         
-            chapter45Output = 'you clicked chapter 45'
+        chapter45Output = 'Click the Link!'
+        console.log(chapter45Output);
+        chapters45 = document.getElementById('chapter-45');
+        chapters45.innerText = chapter45Output
+    }
+
+        function chapter452() { 
+            chapter45Output = 'You clicked chapter 45'
             console.log(chapter45Output);
             chapters45 = document.getElementById('chapter-45');
             chapters45.innerText = chapter45Output
@@ -224,22 +231,21 @@
         var theDomain = window.location.hostname;
         var currentPath = window.location.pathname;
         var theAnchor = window.location.hash;
-
         // window.location.href = "http://www.me.com/1.html#section9";
         var currentSite = window.location.hostname;
 
         var destination = "http://" + currentSite + currentPath + "#humidifier";
         // window.location.href = destination;
 
-        chapter76Output = [('where we at ' + whereWeAt + "  "),
-        ('domain ' + theDomain + "    "),
-        ('path ' + currentPath+ "    "),
-        ('anchor ' + theAnchor+ "    "),
-        ('current site' + currentSite + "     "),
-        (   'destination ' + destination)]
-        console.log(chapter76Output);
-        chapter76 = document.getElementById('chapter-76');
-        chapter76.innerHTML = chapter76Output
+        let chapter76OutputText = ('we are at:\n' + whereWeAt + "\n\n" + 
+        'domain:\n' + theDomain + "\n\n" +
+        'path:\n' + currentPath + "\n\n" + 
+        'anchor:\n' + theAnchor + "\n\n" + 
+        'current site:\n' + currentSite + "\n\n" +
+        'destination:\n' + destination)
+        console.log(chapter76OutputText);   
+        chapter76Text = document.getElementById('chapter-76');
+        chapter76Text.innerText = chapter76OutputText;
         }
 </script>
 
