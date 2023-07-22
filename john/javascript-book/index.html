@@ -16,7 +16,8 @@
 
     <h1>Javascript Book - Critical Chapters</h1>
     <button type="button" class="button" onclick="Chapter06()">Chapter 06: Adding & Multiplying</button>
-    <div id="chapter-06"></div>
+    <div id="chapter-06">
+    </div>
     <script>
         function Chapter06() {        
             alert("You will now enter 5 numbers")
@@ -29,7 +30,7 @@
             total = a+b+c+d+e
             product = a*b*c*d*e
             alert(total)     
-            alert("now we will times these numbers together and get the product")
+            alert("now we will get the product.")
             alert(product)
             // document.getElementById("data1").innerText = "The sum of these numbers are " + total
             // document.getElementById("data2").innerText = "The product of these numbers are " + product
@@ -38,8 +39,7 @@
             chapter06Output = "The sum of these numbers are " + total
             chapter06Output2 = "The product of these numbers are " + product
             chapter06 = document.getElementById('chapter-06');
-            chapter06.innerText  = chapter06Output;
-            chapter06.innerText  = chapter06Output2;
+            chapter06.innerHTML  = chapter06Output + "<br>" + chapter06Output2;
 
         }
 </script>
@@ -124,14 +124,21 @@
             console.log(".unshift - adds an element at the start of an array")
             console.log(".splice - inserts elements anywhere in the array, and can also remove elements that come after it.")  
             console.log(".slice - cuts an element from one array, removing it and copying it to another array")  
+
+            chapter17Output = [(".pop - removes an element at the end of an array") + "<br>" +
+            (".push - adds an elements at the end of an array") + "<br>" +
+            (".shift - removes an element at the start of an array") + "<br>" +
+            (".unshift - adds an element at the start of an array") + "<br>" +
+            (".splice - inserts elements anywhere in the array, and can also remove elements that come after it.") + "<br>" +
+            (".slice - cuts an element from one array, removing it and copying it to another array")]
             // .pop - removes an element at the end of an array
             // .push - adds an elements at the end of an array
             // .shift - removes an element at the start of an array
             // .unshift - adds an element at the start of an array
             // .splice - inserts elements anywhere in the array, and can also remove elements that come after it.
             // .slice - cuts an element from one array, removing it and copying it to another array      
-                chapter17 = document.getElementById('chapter-17');
-                chapter17.innerText  = chapter17Output;
+            chapter17 = document.getElementById('chapter-17');
+            chapter17.innerHTML  = chapter17Output;
 
             }
     </script>
