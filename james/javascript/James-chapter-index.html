@@ -107,4 +107,77 @@ console.log("This is using a for loop:")
             }
     </script>
     </div>
+
+<div>
+    <button type="button" class="button" onclick="Chapter28()">Chapter 28 - Converting strings to integers and decimals</button>
+    <div id="text1"></div>
+    <div id="text2"></div>
+    <div id="output3"></div>
+    <div id="text3"></div>
+    <div id="output4"></div>
+    <div id="text4"></div>
+    <div id="output5"></div>
+    <div id="text5"></div>
+    <div id="text6"></div>
+    <div id="output6"></div>
+
+
+
+
+    <script>
+        
+        function Chapter28() {
+        console.log("Chapter 28 - Converting strings to integers and decimals")
+            let currentAge = prompt("Enter your age.");
+            let yearsEligibleToPlay = parseInt(currentAge) + 1;
+    
+            let a = "Using 'parseInt' to convert the age entered by the user to a string so using + doesnt concatenate it."
+                console.log(a)
+
+            console.log("")
+
+            var myNumber = parseInt("1.999");
+        let b = "parseInt makes it 1 not 2 it doesnt round, just removes the decimal completely"
+            console.log(b)
+        let w = myNumber
+            console.log(w)
+        
+        var myNumber = parseFloat("1.999");
+        let c = "parseFloat makes it a decimal"
+            console.log(c)
+        let x = myNumber
+            console.log(x)
+
+        let d = `This is the age entered (${currentAge}) with + 1 added`
+            console.log(d)
+        let y = yearsEligibleToPlay
+            console.log(y)
+
+        let currentAge2 = prompt("Enter your age again.");
+        let yearsEligibleToPlay2 =(currentAge2) + 1;
+
+        console.log("")
+        let e = "This is what happens when you dont use parseInt when you enter your age"
+            console.log(e)
+        let f = "It just adds the number 1 onto the end of it"
+            console.log(f)
+
+        let z = yearsEligibleToPlay2
+            console.log(z)
+
+        document.getElementById('text1').innerText=a
+        document.getElementById('text2').innerText=b
+        document.getElementById('text3').innerText=c
+        document.getElementById('text4').innerText=d
+        document.getElementById('text5').innerText=e
+        document.getElementById('text6').innerText=f
+        document.getElementById('output3').innerText=w
+        document.getElementById('output4').innerText=x
+        document.getElementById('output5').innerText=y
+        document.getElementById('output6').innerText=z
+
+            }
+
+        </script>
+    </div>
 </html>
