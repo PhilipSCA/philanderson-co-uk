@@ -250,6 +250,77 @@
         }
 </script>
 
+<button type="button" class="button" onclick="Chapter79()">Chapter 79: Browser Control - Windows</button>
+<div id="chapter-79"></div>
+<script>
+    function Chapter79() {
+       // to open a window
+        var monkeyWindow = window.open();
+        var windowContent = "<h1>Capuchin monkey</h1><p>The word capuchin derives from a group of friars<br>named the Order of Friars Minor Capuchin who wear<br>brown robes with large hoods covering their heads</p>";
+        monkeyWindow.document.write(windowContent);
+        monkeyWindow.location.assign("http://www.animals.com/capuchin.html");
+        // to close a window
+        monkeyWindow.close()
+
+        console.log(windowContent);
+        console.log(monkeyWindow);
+        chapter79Output = windowContent 
+        chapter79 = document.getElementById('chapter-79');
+        chapter79.innerHTML  = chapter79Output;
+
+        }
+</script>
+
+<button type="button" class="button" onclick="Chapter06()">Chapter 06: Adding & Multiplying</button>
+<div id="chapter-06"></div>
+<script>
+    function Chapter06() {        
+        alert("You will now enter 5 numbers")
+        var a = parseInt(prompt("Enter a number"))
+        var b = parseInt(prompt("Enter your second number"))
+        var c = parseInt(prompt("Enter your third number"))
+        var d = parseInt(prompt("Enter your fourth number"))
+        var e = parseInt(prompt("Enter your fifth number"))
+        alert("now we add these 5 numbers up!")
+        total = a+b+c+d+e
+        product = a*b*c*d*e
+        alert(total)     
+        alert("now we will times these numbers together and get the product")
+        alert(product)
+        // document.getElementById("data1").innerText = "The sum of these numbers are " + total
+        // document.getElementById("data2").innerText = "The product of these numbers are " + product
+        console.log("total is " + total)
+        console.log("product is " + product)
+        chapter06Output = "The sum of these numbers are " + total
+        chapter06Output2 = "The product of these numbers are " + product
+        chapter06 = document.getElementById('chapter-06');
+        chapter06.innerText  = chapter06Output;
+        chapter06.innerText  = chapter06Output2;
+
+        }
+</script>
+
+<button type="button" class="button" onclick="Chapter17()">Chapter 17: Changing Arrays</button>
+<div id="chapter-17"></div>
+<script>
+    function Chapter17() {
+    console.log(".pop - removes an element at the end of an array")
+    console.log(".push - adds an elements at the end of an array")
+    console.log(".shift - removes an element at the start of an array")
+    console.log(".unshift - adds an element at the start of an array")
+    console.log(".splice - inserts elements anywhere in the array, and can also remove elements that come after it.")  
+    console.log(".slice - cuts an element from one array, removing it and copying it to another array")  
+    // .pop - removes an element at the end of an array
+    // .push - adds an elements at the end of an array
+    // .shift - removes an element at the start of an array
+    // .unshift - adds an element at the start of an array
+    // .splice - inserts elements anywhere in the array, and can also remove elements that come after it.
+    // .slice - cuts an element from one array, removing it and copying it to another array      
+        chapter17 = document.getElementById('chapter-17');
+        chapter17.innerText  = chapter17Output;
+
+        }
+</script>
 
 </body>
 </html>
