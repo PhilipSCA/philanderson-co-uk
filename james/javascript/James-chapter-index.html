@@ -68,39 +68,43 @@ console.log("This is using a for loop:")
 </div>
 
 <div>
-<button type="button" class="button" onclick="Chapter-23()">Chapter 23 - Finding segments</button>
-    <div id="chapter-23"></div>
-    <script>
-        function Chapter23() {
-            console.log("Chapter 23:Strings: Finding segments")
+    <button type="button" class="button" onclick="Chapter23()">Chapter 23 - Finding segments</button>
+        <div id="chapter-23"></div>
+        <div id="output"></div>
+        <div id="out"></div>
+        <script>
+            function Chapter23() {
+                console.log("Chapter 23:Strings: Finding segments")
+    
+                let text = "'Here is some text and here is some more text.'"
+        let searchText = "text"
 
-let text = "here is some text and here is some more text"
-let searchText = "text"
+        var firstChar = text.indexOf(searchText);
+        var lastChar = text.lastIndexOf(searchText);
 
-var firstChar = text.indexOf(searchText);
-var lastChar = text.lastIndexOf(searchText);
-
-// print out firstChar
-console.log(`Printing out firstChar ${firstChar}`);
-let outputText = `We find text ${searchText} inside ${text} at position ${firstChar} and also at position ${lastChar}`
-console.log(outputText)
-document.getElementById('output').innerText=outputText
+        // print out firstChar
+        console.log(`Printing out firstChar ${firstChar}`);
+        let outputText = `We find the first character of '${searchText}' inside ${text} at position ${firstChar} and the last character of the second ${searchText} at position ${lastChar}`
+        console.log(outputText)
+        document.getElementById('output').innerText=outputText
 
 
-// start here
+        // start here
 
-let text2 = "This is some text"
-let searchText2 = "text"
+        let text2 = "'This is some text.'"
+        let searchText2 = "text"
+        let searchText3 = "some"
 
-var firstSeg = text2.indexOf(searchText2);
-var lastSeg = text2.lastIndexOf(searchText2);
+        var firstSeg = text2.indexOf(searchText2);
+        var lastSeg = text2.lastIndexOf(searchText3);
 
-console.log(`Printing out firstSeg ${firstSeg}`);
-let output = `We find text ${searchText2} inside ${text2} at position ${firstSeg} and also at position ${lastSeg}`
-console.log(output)
-document.getElementById('out').innerText = output
-console.log(text2.slice(4, 12));
-        }
-</script>
-</div>
+        console.log(`Printing out firstSeg ${firstSeg}`);
+        let output = `We find ${searchText2} inside ${text2} at position ${firstSeg} and the last character of '${searchText3}' at position ${lastSeg}`
+        console.log(output)
+        document.getElementById('out').innerText = output
+        console.log(text2.slice(4, 12));
+
+            }
+    </script>
+    </div>
 </html>
