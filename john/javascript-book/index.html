@@ -261,24 +261,21 @@
 
 <button type="button" class="button" onclick="chapter60()">Chapter 60: Child Nodes</button>
 <div id="chapter-60-data">
- <!--   <p>Southern Cal is sunny.</p>
+    <p>Southern Cal is sunny.</p>
     <p>Northern Cal is rainy.</p>
     <p>Eastern Cal is desert.</p>
     <p>Urban NY is crowded.</p>
     <p>Rural NY is sparse.</p>
- -->
 </div>
-<div id="chapter-60">
-
-</div>
+<div id="chapter-60"></div>
 
 <script>
     function chapter60() {
-        let chapter60Data = document.getElementById('chapter-60-data')
+        let chapter60Data = document.getElementById('chapter-60-data');
+        console.log(chapter60Data.childNodes);
         let p0 = chapter60Data.childNodes[0];
+        let p1 = chapter60Data.childNodes[1];
         let p0contents = p0.innerText;
-        console.log(p0)
-        console.log(p0contents);
         let chapter60 = document.getElementById('chapter-60');
         chapter60.innerText = p0contents
     }
