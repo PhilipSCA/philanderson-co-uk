@@ -9,11 +9,16 @@
 <body>
     <h1>Chapter 10: If statements</h1>
     <h2>June 26th 2023</h2>
+    <div id="chapter-10"></div>
     <script>
-        var x = prompt("Where does the pope live?");
-        if (x === "Vatican") {
-            alert("Correct!");
+        var x = prompt("Where does the pope live? (Vatican)");
+        x = x.toLowerCase()
+        if (x === "vatican") {
+            chapter10Output = "Correct!";              
         }
+        console.log(chapter10Output);
+        chapter10 = document.getElementById('chapter-10');
+        chapter10.innerHTML = chapter10Output
     </script>
 </body>
 </html>
