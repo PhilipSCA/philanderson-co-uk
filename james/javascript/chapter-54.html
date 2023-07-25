@@ -8,26 +8,41 @@
 </head>
 <body>
     <h1>Chapter 54: Swapping images and setting classes</h1>
+    <img src="https://www.gardendesign.com/pictures/images/675x529Max/site_3/helianthus-yellow-flower-pixabay_11863.jpg" id="before">
+    <p>
+        <button type="button" onclick="swapPic()">Swap image</button>
+    </p>
+    <p>
+        <button type="button" onclick="swapPicBack()">Swap image back</button>
+    </p>
+    <p>
+        <a href="chapter-54-2.html" id="link1">This link refreshes the page</a>
+    </p>
     <script>
         console.log("Chapter 54")
-        // You can assign document.getElementById() to a variable
-        
         function swapPic() {
             var pic = document.getElementById("before");
-            pic.src = "after-pic.jpg";
+            pic.width = 700;
+            pic.height = 500; 
+            pic.src = "https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg";
         }
-        // This finds out the address of the link that has the id "link1"
-
-        function getAddress() {
-            var link = document.getElementById("link1");
-            var address = link.href;
-        }
-        // This changes the formatting of a form with the id "f12"
-
-        function enlargeForm() {
-            var frm = document.getElementById("link1");
-            frm.className = "jumbo";
+        function swapPicBack() {
+            var pic = document.getElementById("before"); 
+            pic.src = "https://www.gardendesign.com/pictures/images/675x529Max/site_3/helianthus-yellow-flower-pixabay_11863.jpg";
         }
     </script>
+<script>
+    function getAddress() {
+        var link = document.getElementById("link1");
+        var address = link.href;
+    }
+</script>
+<script>
+    function getAddress() {
+        var frm = document.getElementById("link1");
+        frm.className = "jumbo";
+        document.getElementById("link1").innerText = frm
+    }
+</script>
 </body> 
 </html>
