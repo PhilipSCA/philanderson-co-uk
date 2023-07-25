@@ -57,3 +57,21 @@ fruits = ("apple", "shush", "banana")
 print(green)
 print(lime)
 print(yellow) #43 lines
+
+'''
+('apple', 'banana', 'cherry')
+3
+<class 'tuple'>
+('apple', 'banana', 'cherry')
+(1, 5, 9, 2, 4)
+(True, False, True)
+(True, 'tomato', 1, False, 7)
+Yes!, 'Lemon' is in this tuple
+('apple', 'banana', 'lemon')
+('apple', 'pineapple', 'strawberry', 'lemon', 'orange')
+('apple', 'banana', 'cherry', 'orange')
+('apple', 'blueberry')
+apple
+shush
+banana
+'''
