@@ -34,3 +34,14 @@ p = {"google", "yahoo", "bing"}
 
 z.intersection_update(p)
 print(z) #keep items present in both sets (bing)
+
+'''
+{'b', 'a', 'c'}
+{'m', 'b', 'a', 'd', 'e'}     
+True
+{'o', 'p', 'l', 'r'}
+{'o', 's', 'e', 'p', 'n', 'y'}
+cherry
+{'apple', 'banana'}
+{'bing'}
+'''

@@ -28,3 +28,20 @@ print(tuple6)
 tuple10 = ("d", "a", "d")
 tuple11 = tuple10 * 2
 print(tuple11) #multiply tuple10 by 2
+
+'''
+apple
+strawberry
+['banana', 'kiwi', 'blueberry', 'blackberry']
+apple
+banana
+cherry
+yes
+no
+maybe
+a
+b
+c
+('p', 'e', 'n', 4, 5, 6)
+('d', 'a', 'd', 'd', 'a', 'd')
+'''
