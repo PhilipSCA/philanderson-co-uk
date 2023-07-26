@@ -34,15 +34,16 @@
       <div class="result"></div>
       <div id="pets"></div>
     <script>
-        pets = ["dog", "cat", "snake", "hamster"]
-
-
+        pets = ["dog", "cat", "bird", "snake", "hamster"]
+        // code for list
         var selectElement = document.querySelector(".pets");
         var result = document.querySelector(".result");
         selectElement.addEventListener("change", (event) => {
             let action = event.target.value
             console.log("action chosen is " + action)
-            if (action === ".pop") { 
+            // code for each action chosen:
+            if (action === ".pop") {
+                pets = ["dog", "cat", "bird", "snake", "hamster"]
                 pets.pop();
                 console.log(pets)
                 chapter17Output = "\nthe new list is " + pets.join(", ")
@@ -50,9 +51,44 @@
                 chapter17.innerText = chapter17Output
             }
             else if (action === ".push") {
+                pets = ["dog", "cat", "bird", "snake", "hamster"]
                 pets.push("pig");
                 console.log(pets)
                 chapter17Output ="\nthe new list is " + pets.join(", ")
+                chapter17 = document.getElementById("pets")
+                chapter17.innerText = chapter17Output
+            }
+            else if (action === ".shift") {
+                pets = ["dog", "cat", "bird", "snake", "hamster"]
+                pets.shift();
+                console.log(pets)
+                chapter17Output ="\nthe new list is " + pets.join(", ")
+                chapter17 = document.getElementById("pets")
+                chapter17.innerText = chapter17Output
+            }
+            else if (action === ".unshift") {
+                pets = ["dog", "cat", "bird", "snake", "hamster"]
+                pets.unshift("pig");
+                console.log(pets)
+                chapter17Output ="\nthe new list is " + pets.join(", ")
+                chapter17 = document.getElementById("pets")
+                chapter17.innerText = chapter17Output
+            }
+            else if (action === ".splice") {
+                pets = ["dog", "cat", "bird", "snake", "hamster"]
+                pets.splice(3, 1, "pig");
+                console.log("pets.splice(3, 1, pig);")
+                console.log(pets)
+                chapter17Output ="\nthe new list is " + pets.join(", ")
+                chapter17 = document.getElementById("pets")
+                chapter17.innerText = chapter17Output
+            }
+            else if (action === ".slice") {
+                pets = ["dog", "cat", "bird", "snake", "hamster"]
+                var newpets = pets.slice(1, 3);
+                console.log("new list is " + newpets)
+                console.log(pets)
+                chapter17Output ="\nthe new list is " + newpets.join(", ") + " (.slice(1, 3))"
                 chapter17 = document.getElementById("pets")
                 chapter17.innerText = chapter17Output
             }
