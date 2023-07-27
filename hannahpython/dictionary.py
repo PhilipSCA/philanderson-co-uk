@@ -58,3 +58,17 @@ dict6 = {
 }
 x = dict6.items()
 print(x)
+
+'''
+{'brand': 'Ford', 'model': 'Mustang', 'year': 1964}
+3
+<class 'dict'>
+{'name': 'Hannah', 'age': '12', 'country': 'England'}
+dict_keys(['brand', 'model', 'year'])
+dict_keys(['brand', 'model', 'year'])
+dict_keys(['brand', 'model', 'year', 'colour'])
+dict_values(['Ford', 'Mustang', 1964])
+dict_values(['Ford', 'Mustang', 1964])
+dict_values(['Ford', 'Mustang', 2020])
+dict_items([('brand', 'Ford'), ('model', 'Mustang'), ('year', 1964)])
+'''
