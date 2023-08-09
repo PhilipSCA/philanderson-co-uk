@@ -36,7 +36,7 @@ if g < h and h > i:
     print("\nif (g = 1, i = 2, h = 3) and g < h, h > i so..")
     print("both statemnts are true")
 else:
-    print("one or both statemnts are wrong") 
+    print("one or both statemnts are wrong") #32 lines of code to this point
 
 """
 a is 5 and b is 10 so..
