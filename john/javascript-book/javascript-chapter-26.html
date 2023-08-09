@@ -9,19 +9,38 @@
 <body>
    <h1>Chapter 26: Rounding</h1>
   <p><em>August 22, 2021</em></p>
+  <div id="chapter-26"></div>
+  <div id="chapter-26a"></div>
+  <div id="chapter-26b"></div>
+  <div id="chapter-26c"></div>
+
    <script>
       var scoreAvg = 106.34
       var numberOfStars = Math.round(scoreAvg);
       console.log(scoreAvg + " rounded is " + numberOfStars);
+      printOut1 = `${scoreAvg} rounded is ${numberOfStars}, using Math.round()`
       var smallNumber = 0.001
       var beans = Math.ceil(smallNumber);
       console.log(smallNumber + " rounded up to the nearest integer is " + beans);
+      printOut2 = `${smallNumber} rounded up to the nearest integer is ${beans}`
       var decimalNumber = 10.9
       var eggs = Math.floor(decimalNumber);
       console.log(decimalNumber + " rounded down to the nearest integer is " + eggs);
+      printOut3 = `${decimalNumber} rounded down to the nearest integer is ${eggs}`
       let bigNumber = 249
       let roundedUp = 100*Math.round(bigNumber/100)
-      console.log(`${bigNumber} roundedU up to nearest 100 is ${roundedUp}`)
+      console.log(`${bigNumber} rounded up to nearest 100 is ${roundedUp}`)
+      printOut4 = `${bigNumber} rounded up to nearest 100 is ${roundedUp}`
+
+      chapter26 = document.getElementById("chapter-26")
+      chapter26.innerText = printOut1
+      chapter26a = document.getElementById("chapter-26a")
+      chapter26a.innerText = printOut2
+      chapter26b = document.getElementById("chapter-26b")
+      chapter26b.innerText = printOut3
+      chapter26c = document.getElementById("chapter-26c")
+      chapter26c.innerText = printOut4
+
    </script> 
 </body>
 </html>
