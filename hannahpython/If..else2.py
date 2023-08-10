@@ -24,3 +24,14 @@ f = 30
 g = 40
 if g > f:
     pass
+
+'''
+(a is 2, b is 3, c = 4) if a > c or b < c..
+Atleast one of the statements is true.
+
+the 'if not' statement means d > e is..
+d is NOT bigger than e
+
+x is bigger than 150
+x is smaller than 250!
+'''

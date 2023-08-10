@@ -24,3 +24,25 @@ while j < 6:
   j += 1
 else:
   print("j is no longer less than 6")
+
+  '''
+  1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+4
+5
+6
+1
+2
+3
+4
+5
+j is no longer less than 6
+'''
