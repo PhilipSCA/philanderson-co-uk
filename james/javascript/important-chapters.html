@@ -254,7 +254,22 @@ function Chapter32() {
         
             }
         </script>
-
+        <button type="button" class="button" onclick="Chapter36()">Chapter 36 - Functions: Passing data to them</button>
+       
+        <script>
+        console.log("Chapter 36")
+        welcomeUser("Hello there");
+        var x = "A string inside the parenthesis after the function name is called an argument"
+        function welcomeUser(welcome) {
+            alert(welcome);
+        }
+        let y = ("A variable inside the parenthesis after the function name is called a parameter")
+        var welcome = "Hello there"
+        welcomeUser(welcome);
+        var z = "Using numbers as a parameter"
+        var roundToAThousand = 999;
+        showBigNum(roundToAThousand)
+        </script>
 
     </div>
 </html>
