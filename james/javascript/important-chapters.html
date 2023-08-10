@@ -180,60 +180,78 @@ console.log("This is using a for loop:")
 
         </script>
 
-        <button type="button" class="button" onclick="Chapter32()">Chapter 32 - Extracting parts of date and time</button>
-        <div id="output"></div>
-        <div id="output2"></div>
-        <div id="output3"></div>
-        <div id="output4"></div>
-        <div id="output5"></div>
-        <div id="output6"></div>
-        <div id="output7"></div>
-        <div id="output8"></div>
-        <script>
-            function Chapter32() {
-                console.log("Chapter 32: Extracting parts of the date and time")
+    <button type="button" class="button" onclick="Chapter32()">Chapter 32 - Extracting parts of date and time</button>
+        <div id="words"></div>
+        <div id="date"></div>
+        <div id="words2"></div>
+        <div id="date2"></div>
+        <div id="words3"></div>
+        <div id="date3"></div>
+        <div id="words4"></div>
+        <div id="date4"></div>
+        <div id="words5"></div>
+        <div id="date5"></div>
+        <div id="words6"></div>
+        <div id="date6"></div>
+        <div id="words7"></div>
+        <div id="date7"></div>
+        <div id="words8"></div>
+        <div id="date8"></div>
+    <script>
+function Chapter32() {
+        console.log("Chapter 32: Extracting parts of the date and time")
 
-console.log("Getting the month ranging from 0 for January and 11 for December")
-var x = new Date();
-var currentMonth = x.getMonth();
-console.log(currentMonth)
+    console.log("Getting the month ranging from 0 for January and 11 for December")
+    var x = new Date();
+    var currentMonth = x.getMonth();
+    console.log(currentMonth)
 
-console.log("Getting a number for the day of the month.")
-var dayOfMonth = x.getDate();
-console.log(dayOfMonth)
+    console.log("Getting a number for the day of the month.")
+    var dayOfMonth = x.getDate();
+    console.log(dayOfMonth)
 
-console.log("Getting the 4-digit number for the year")
-var currentYr = x.getFullYear();
-console.log(currentYr)
+    console.log("Getting the 4-digit number for the year")
+    var currentYr = x.getFullYear();
+    console.log(currentYr)
 
-console.log("Getting the hour ranging from 0(midnight) to 23(11p.m)")
-var currentHrs = x.getHours();
-console.log(currentHrs)
+    console.log("Getting the hour ranging from 0(midnight) to 23(11p.m)")
+    var currentHrs = x.getHours();
+    console.log(currentHrs)
 
-console.log("Getting the minutes ranging from 0 to 59")
-var currentMins = x.getMinutes();
-console.log(currentMins)
+    console.log("Getting the minutes ranging from 0 to 59")
+    var currentMins = x.getMinutes();
+    console.log(currentMins)
 
-console.log("Getting the seconds ranging from 0 to 59")
-var currentSecs = x.getSeconds();
-console.log(currentSecs)
+    console.log("Getting the seconds ranging from 0 to 59")
+    var currentSecs = x.getSeconds();
+    console.log(currentSecs)
 
-console.log("Getting the milliseconds ranging from 0 to 999")
-var currentMills = x.getMilliseconds();
-console.log(currentMills)
+    console.log("Getting the milliseconds ranging from 0 to 999")
+    var currentMills = x.getMilliseconds();
+    console.log(currentMills)
 
-console.log("Getting the number of milliseconds elapsed since Jan 1, 1970 12pm")
-var millsSince = x.getTime();
-console.log(millsSince)
+    console.log("Getting the number of milliseconds elapsed since Jan 1, 1970 12pm")
+    var millsSince = x.getTime();
+    console.log(millsSince)
 
-            document.getElementById("output").innerText = currentMonth
-            document.getElementById("output2").innerText = dayOfMonth
-            document.getElementById("output3").innerText = currentYr
-            document.getElementById("output4").innerText = currentHrs
-            document.getElementById("output5").innerText = currentMins
-            document.getElementById("output6").innerText = currentSecs
-            document.getElementById("output7").innerText = currentMills
-            document.getElementById("output8").innerText = millsSince
+            document.getElementById("date").innerText=currentMonth
+            document.getElementById("date2").innerText=dayOfMonth
+            document.getElementById("date3").innerText=currentYr
+            document.getElementById("date4").innerText=currentHrs
+            document.getElementById("date5").innerText=currentMins
+            document.getElementById("date6").innerText=currentSecs
+            document.getElementById("date7").innerText=currentMills
+            document.getElementById("date8").innerText=millsSince
+            document.getElementById("words").innerText="Getting the month ranging from 0 for Jan and 11 for Dec"
+            document.getElementById("words2").innerText="Getting a number for the day of month"
+            document.getElementById("words3").innerHTML="Getting the 4-digit number for the year"
+            document.getElementById("words4").innerText="Getting the hour ranging from 0(midnight) to 23(11pm)"
+            document.getElementById("words5").innerText="Getting the minutes from 0 to 59"
+            document.getElementById("words6").innerText="Getting the seconds from 0 to 59"
+            document.getElementById("words7").innerText="Getting the milliseconds from 0 to 999"
+            document.getElementById("words8").innerText="Getting the milliseconds from Jan 1st, 1970, 12pm"
+
+        
             }
         </script>
 
