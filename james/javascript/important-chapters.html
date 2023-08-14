@@ -255,21 +255,42 @@ function Chapter32() {
             }
         </script>
         <button type="button" class="button" onclick="Chapter36()">Chapter 36 - Functions: Passing data to them</button>
-       
+        <div id="print"></div>
+        <div id="print1"></div>
+        <div id="print2"></div>
+        <div id="print3"></div>
         <script>
-        console.log("Chapter 36")
-        welcomeUser("Hello there");
-        var x = "A string inside the parenthesis after the function name is called an argument"
+    function Chapter36() {
+            console.log("Chapter 36")
+            welcomeUser("This is the function");
+            var x = "A string inside the parenthesis after the function name is called an argument"
         function welcomeUser(welcome) {
             alert(welcome);
         }
-        let y = ("A variable inside the parenthesis after the function name is called a parameter")
-        var welcome = "Hello there"
+            let y = ("A variable inside the parenthesis after the function name is called a parameter")
+            var welcome = "This is a message from calling the same function"
         welcomeUser(welcome);
-        var z = "Using numbers as a parameter"
-        var roundToAThousand = 999;
-        showBigNum(roundToAThousand)
-        </script>
 
+            var z = "Using numbers as a parameter"
+        function showBigNum(roundToAThousand) {
+            var roundToAThousand = 999;
+            showBigNum(roundToAThousand)   
+        }
+
+        function showMessage(m, string, winner ) {
+            alert(m + string + winner);
+        }
+        var month = "August";
+        var winner = "James";
+        showMessage(month, "'s winner is ", winner);
+        var a = "A function call has parenthesis which takes an argument in it"
+    
+        document.getElementById("print").innerText = x
+        document.getElementById("print1").innerText = y
+        document.getElementById("print2").innerText = z
+        document.getElementById("print3").innerText = a
+    }
+        </script>
+    
     </div>
 </html>
