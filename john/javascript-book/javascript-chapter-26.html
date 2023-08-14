@@ -13,6 +13,12 @@
   <div id="chapter-26a"></div>
   <div id="chapter-26b"></div>
   <div id="chapter-26c"></div>
+  <div id="chapter-26d"></div>
+  <div id="chapter-26e"></div>
+  <div id="chapter-26f"></div>
+  <div id="chapter-26g"></div>
+  <div id="chapter-26h"></div>
+
 
    <script>
       var scoreAvg = 106.34
@@ -32,6 +38,25 @@
       console.log(`${bigNumber} rounded up to nearest 100 is ${roundedUp}`)
       printOut4 = `${bigNumber} rounded up to nearest 100 is ${roundedUp}`
 
+      var yourNumber = prompt("Enter a  decimal number, and I will round it:")
+      yourNumber = parseInt(yourNumber)
+      yourNumberRounded1 = Math.round(yourNumber)
+      yourNumberRounded2 = Math.ceil(yourNumber)
+      yourNumberRounded3 = Math.floor(yourNumber)
+      yourNumberRounded4 = 100*Math.round(yourNumber/100)
+      yourNumberRounded5 = yourNumber.toPrecision(3)
+
+      console.log("Your number rounded to the nearest integer is " + yourNumberRounded1)
+      console.log("Your number rounded up to the nearest integer is " + yourNumberRounded2)
+      console.log("Your number rounded down to the nearest integer is " + yourNumberRounded3)
+      console.log("Your number rounded to the nearest 100 is " + yourNumberRounded4)
+      console.log("Your number rounded to 3 S.F is " + yourNumberRounded5)
+
+
+
+
+
+
       chapter26 = document.getElementById("chapter-26")
       chapter26.innerText = printOut1
       chapter26a = document.getElementById("chapter-26a")
@@ -39,8 +64,18 @@
       chapter26b = document.getElementById("chapter-26b")
       chapter26b.innerText = printOut3
       chapter26c = document.getElementById("chapter-26c")
-      chapter26c.innerText = printOut4
+      chapter26c.innerHTML = printOut4 + "<p></p>"
 
+      chapter26d = document.getElementById("chapter-26d")
+      chapter26d.innerText = "Your number rounded to the nearest integer is " + yourNumberRounded1
+      chapter26e = document.getElementById("chapter-26e")
+      chapter26e.innerText = "Your number rounded up to the nearest integer is " + yourNumberRounded2
+      chapter26f = document.getElementById("chapter-26f")
+      chapter26f.innerText = "Your number rounded down to the nearest integer is " + yourNumberRounded3
+      chapter26g = document.getElementById("chapter-26g")
+      chapter26g.innerText = "Your number rounded to the nearest 100 is " + yourNumberRounded4
+      chapter26h = document.getElementById("chapter-26h")
+      chapter26h.innerText = "Your number rounded to 3 S.F is " + yourNumberRounded5
    </script> 
 </body>
 </html>
