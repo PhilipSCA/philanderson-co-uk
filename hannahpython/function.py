@@ -26,3 +26,13 @@ def function3(child1, child2, child3):
     print("The oldest child is " + child3)
 
 function3(child1 = "Hannah", child2 = "John", child3 = "Philippa")
+
+'''
+This is my function
+James Anderson
+Philip Anderson
+John Anderson
+Christa Anderson
+The youngest child is Hannah
+The oldest child is Philippa
+'''

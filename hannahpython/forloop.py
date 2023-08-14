@@ -35,3 +35,36 @@ fruit = ["apple", "banana", "cherry"]
 for o in adj:
     for p in fruit:
         print(o, p)
+
+'''
+Joe
+Jam
+Jom
+J
+o
+e
+y
+apple
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+you finished
+yes apple
+yes banana
+yes cherry
+no apple
+no banana
+no cherry
+maybe apple
+maybe banana
+maybe cherry
+'''
