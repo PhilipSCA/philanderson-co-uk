@@ -291,6 +291,37 @@ function Chapter32() {
         document.getElementById("print3").innerText = a
     }
         </script>
-    
+        <button type="button" class="button" oncanplay="Chapter39()">Chapter 39 - Switch statements</button>
+        <script>
+        function Chapter39() {
+                console.log("Chapter 39 - Switch statements")
+                let dayofWeek = "Tuesday"
+                switch(dayofWeek) {
+                    case "Tuesday" :
+                        alert("3 days until the weekend");
+                        break;
+                    case "Monday" :
+                        alert("The week has only just begun!");
+                        break;
+                    case "Saturday" :
+                        alert("Yipee! Its the weekend");
+                        break;
+                    case "Sunday" :
+                        alert("Church today!");
+                        break;
+                    case "Friday" :
+                        alert("Weekend ahead!");
+                        break;
+                    case "Wednesday" :
+                        alert("2 days left until the weekend");
+                        break;
+                    case "Thursday" :
+                        alert("1 day after this then the weekend");
+                        break;
+                    default :
+                        alert("That is not a day in the week - use the full name!");
+                }
+            }
+        </script>
     </div>
 </html>
