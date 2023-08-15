@@ -9,17 +9,22 @@
 <body>
     <h1>Chapter 33: Counting down</h1>
     <h2>August 29th 2021</h2>
+    <div id="chapter-33"></div>
     <script>
         let today = new Date();
         let doomsday = new Date("June 30, 2035");
-
+        console.log(doomsday)
+        let yourDeathDate = prompt("Enter a date and we will show you the countdown.(In the format MONTH DAY, YEAR)")
         let msToday = today.getTime();
         let msDoomsday = doomsday.getTime();
         
         let msDifference = msDoomsday - msToday;
         let countDown = msDifference / (1000 * 60 * 60 * 24);
         countDown = Math.floor(countDown);
-        console.log(`the amount of days until June 30, 2035 is ${countDown}`);  
+        console.log(`the amount of days until June 30, 2035 is ${countDown}`);
+
+        chapter33 = document.getElementById("chapter-33")
+        chapter33.innerText = `the amount of days until June 30, 2035 is ${countDown}`
     </script>
 </body>
 </html>

@@ -17,6 +17,7 @@
     <h2>August 28th 2021</h2>
     <div id="clock">this is a clock</div>
     <div id="unix-time">this is unix Time</div>
+    <div1 id="chapter-32"></div1>
     <script>
 
         let rightNow = new Date();
@@ -70,7 +71,8 @@
             console.log();
             document.getElementById("clock").innerText = time;
             document.getElementById("unix-time").innerText = time2;
-            
+            chapter32 = document.getElementById("chapter-32")
+            chapter32.innerText = "Unix time is the time in seconds from 00:00:00 January 1st 1970"
 
         }
         setInterval(printTime,1000)

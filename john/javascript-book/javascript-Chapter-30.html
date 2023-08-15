@@ -11,6 +11,12 @@
     <h2>August 26th 2021</h2>
     <div id="answer01"></div>
     <div id="answer02"></div>
+    <div id="answer03"></div>
+    <div id="answer04"></div>
+    <div id="answer05"></div>
+    <div id="answer06"></div>
+
+
     <script>
         let price = 9
         
@@ -26,14 +32,24 @@
         let total = price + (price * taxRate);
         console.log(`the total price with tax is ${total}`);
         let answer01 = `total = ${total}`
-        document.getElementById('answer01').innerText = answer01
 
         // make it look pretty 
         let prettyTotal = 10.56675
         prettyTotal = total.toFixed(1);
         console.log(`the total price rounded to 1 D.P is ${prettyTotal}`);
-        let answer02 = `Rounded total = ${prettyTotal}`
-        document.getElementById('answer02').innerText = answer02
+        let answer02 = `The total price rounded to 1 D.P is ${prettyTotal}`
+        let answer05 = `To round to a certain number of D.P, you use the .toFixed(n) method`
+        
+        chapter30 = document.getElementById('answer01')
+        chapter30.innerText = "the price of an iten is " + price
+        chapter30a = document.getElementById('answer02')
+        chapter30a.innerText = "the tax rate is " + taxRate
+        chapter30b = document.getElementById('answer03')
+        chapter30b.innerText = "the total price with tax is " + total
+        chapter30c = document.getElementById('answer04')
+        chapter30c.innerHTML = answer02 + "<p></p>"
+        chapter30d = document.getElementById('answer05')
+        chapter30d.innerText = answer05
     </script>
 </body>
 </html>
