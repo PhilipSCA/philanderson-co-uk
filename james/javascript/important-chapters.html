@@ -292,11 +292,11 @@ function Chapter32() {
     }
         </script>
         <button type="button" class="button" onclick="Chapter39()">Chapter 39 - Switch statements</button>
-        <div id="w"></div>
+        <div id="w"> </div>
         <script>
         function Chapter39() {  
             console.log("Chapter 39 - Switch statements")
-            let dayofWeek = prompt("What day is it today")
+            let dayofWeek = prompt("What day is it today?")
             switch(dayofWeek) {
                 case "Tuesday" :
                     alert("3 days until the weekend");
@@ -322,7 +322,31 @@ function Chapter32() {
                 default :
                     alert("That is not a day in the week - use the full name and capitals!");
                 }
-            document.getElementById("w").innerText = "There is a different message for each day"
+            document.getElementById("w").innerText("There is a different message for each day")
+        }
+        </script>
+
+        <button type="button" class="button" onclick="Chapter42()">Chapter 42 - While loops with do</button>
+        <div id="g"></div>
+        <div id="h"></div>
+        <div id="j"></div>
+        <script>
+        function Chapter42() {
+            console.log("Chapter 42")
+            let i = 0;
+            let j = 10;
+            do {
+                alert(i);
+                i++
+            } while (i < 5);
+            
+            do {
+                alert(j)
+                --j
+            } while (j > 0)
+            document.getElementById("g").innerText = "It will alert 5 times from 0 to 4 incrementing by 1 each time"
+            document.getElementById("j").innerText = "It will countdown from 10 after counting to 5"
+            document.getElementById("h").innerText = i
         }
         </script>
     </div>
