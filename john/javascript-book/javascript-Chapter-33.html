@@ -10,6 +10,10 @@
     <h1>Chapter 33: Counting down</h1>
     <h2>August 29th 2021</h2>
     <div id="chapter-33"></div>
+    <div id="chapter-33b"></div>
+    <div id="chapter-33c"></div>
+
+
     <script>
         let today = new Date();
         let doomsday = new Date("June 30, 2035");
@@ -27,12 +31,35 @@
         let msyourDeathDate = yourDeathDate.getTime();
         let msTimeLeft = msyourDeathDate - msToday
         let countDown2 = msTimeLeft / (1000 * 60 * 60 * 24)
+        countDown2 = countDown2.toFixed(1)
+        countDownDays = Math.floor(countDown2)
         yourDeathDate = yourDeathDate.toDateString();
         console.log("The date you chose is " + yourDeathDate)
         console.log(`the amount of days until ${yourDeathDate} is ${countDown2}`)
 
+        // countdown in days:hours:mins:secs
+
+        countDownHours = msTimeLeft / (1000 * 60 * 60)
+        countDownHours2 = countDownHours - (countDownDays * 24)
+        countDownHours2 = Math.floor(countDownHours2)
+        countDownMins = msTimeLeft / (1000 * 60)
+        console.log(countDownMins)
+        countDownMins = Math.floor(countDownMins)
+        countDownMins2 = countDownMins - (countDownHours * 60)
+        countDownMins2 = Math.floor(countDownMins2)
+        countDownSecs = msTimeLeft / (1000)
+        countDownSecs = countDownSecs - (countDownMins * 60)
+        countDownSecs = Math.floor(countDownSecs)
+
+        console.log(`countdown for your date: ${countDownDays}:${countDownHours2}:${countDownMins2}:${countDownSecs}`)
+
+
         chapter33 = document.getElementById("chapter-33");
-        chapter33.innerText = `the amount of days until June 30, 2035 is ${countDown}`
+        chapter33.innerHTML = `the amount of days until June 30, 2035 is ${countDown}` + "<br></br>"
+        chapter33b = document.getElementById("chapter-33b")
+        chapter33b.innerText = `The date you chose is ${yourDeathDate}` 
+        chapter33c = document.getElementById("chapter-33c")
+        chapter33c.innerText = `the amount of days until ${yourDeathDate} is ${countDown2}` 
     </script>
 </body>
 </html>
