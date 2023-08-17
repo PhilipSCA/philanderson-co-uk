@@ -349,5 +349,25 @@ function Chapter32() {
             document.getElementById("h").innerText = i
         }
         </script>
+         <button type="button" class="button" onClick="Chapter48()">Chapter 48 - Events:Fields</button>
+         <div id="Email"></div>
+         <div id="input"></div>
+         <div id="yellow" onfocus="makeFieldYellow()"></div>
+         <div id="input2" onfocus="makeFieldYellow()"></div>
+         <script>
+            function Chapter48() {
+                console.log("Chapter 48")
+                console.log("Making the field box go yellow when someone clicks on it")
+                console.log("Making it go back to white afterwards")
+                document.getElementById("Email").innerHTML="Email: <br>"
+                document.getElementById("input").innerHTML="<input type='text' size='30' onFocus=this.style.backgroundColor='Yellow'; onblur=this.style.backgroundColor='White';>"
+                document.getElementById("input2").innerHTML="<input type='text' size='28' onfocus=makeFieldYellow(); value='Click me'>"
+                function makeFieldYellow() {
+                    document.getElementById("input2").style.backgroundColor = "Yellow";
+                }
+                document.getElementById("input2").innerHTML="<input type='text' size='28' onfocus=makeFieldYellow(); value='Click me'>"
+            }
+         </script>  
+
     </div>
 </html>
