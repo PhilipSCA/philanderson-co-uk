@@ -42,17 +42,21 @@
         countDownHours = msTimeLeft / (1000 * 60 * 60)
         countDownHours2 = countDownHours - (countDownDays * 24)
         countDownHours2 = Math.floor(countDownHours2)
+
         countDownMins = msTimeLeft / (1000 * 60)
         console.log(countDownMins)
         countDownMins = Math.floor(countDownMins)
-        countDownMins2 = countDownMins - (countDownHours * 60)
-        countDownMins2 = Math.floor(countDownMins2)
+        countDownMins2 = countDownMins - (countDownHours2 * 60)
+        console.log(countDownMins2)
+
         countDownSecs = msTimeLeft / (1000)
         countDownSecs = countDownSecs - (countDownMins * 60)
         countDownSecs = Math.floor(countDownSecs)
 
         console.log(`countdown for your date: ${countDownDays}:${countDownHours2}:${countDownMins2}:${countDownSecs}`)
 
+        // countDownMins2 = Math.floor(countDownMins2)
+       //  console.log(countDownMins2)
 
         chapter33 = document.getElementById("chapter-33");
         chapter33.innerHTML = `the amount of days until June 30, 2035 is ${countDown}` + "<br></br>"
