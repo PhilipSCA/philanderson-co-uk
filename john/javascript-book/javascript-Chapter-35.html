@@ -9,16 +9,28 @@
 <body>
     <h1>Chapter 35: getting Time</h1>
     <h2>August 30th 2021</h2>
+    <div id="chapter-35"></div>
     <script>
-            function tellTime() {
+            let x = setInterval(function tellTime() {
             let now = new Date();
             let theHr = now.getHours();
             let theMin = now.getMinutes();
             let theSecs = now.getSeconds();
-                alert(`the time is ${theHr}:${theMin}, ${theSecs} second(s)`)
-             }
+                console.log(`the time is ${theHr}:${theMin}, ${theSecs} second(s)`)
+                let chapter35Output = `the time is ${theHr}:${theMin}, ${theSecs} second(s)`
+                chapter35 = document.getElementById("chapter-35")
+                chapter35.innerText = chapter35Output
+             }, 1000);
+            
 
-             tellTime();
+             
+
+    
      </script>
+
+     <!--
+        OUTPUT:
+        the time is 16:43, 52 second(s)
+     -->
 </body>
 </html>
