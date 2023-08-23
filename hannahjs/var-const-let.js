@@ -46,3 +46,53 @@ let lostDollar = 50;
 
 gainedDollar++; // add 1 (++)
 lostDollar--; // take away 1 (--)
+
+// 23/08/23
+
+var favouriteAnimal = 'leopard';
+console.log('My favourite animal: ' + favouriteAnimal)
+
+var myName = 'Hannah';
+var myCity = 'London';
+// learning `${example}`
+console.log(`My name is ${myName}. My favourite city is ${myCity}.`);
+
+var newVariable = 'Playing around with typeof.';
+console.log(typeof newVariable);
+
+var newVariable = 1;
+console.log(typeof newVariable)
+
+
+
+// how to find out Fahrenhuit
+// the foreast is 293 degrees in kelvin
+const kelvin = 287;
+// subtracting 273 from kelvin to find out celsuis
+const celsius = kelvin - 273;
+// finding out fahrenheit
+let fahrenheit = celsius * (9 / 5) + 32;
+// rounding to interger using .floor()
+fahrenheit = Math.floor(fahrenheit);
+
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`)
+
+
+
+
+let myAge = 12; // this is my age
+let earlyYears = 2;
+
+earlyYears = earlyYears * 10.5;
+
+let laterYears = myAge - 2;
+laterYears = laterYears * 4; // multipliying to find out the number of dog years accounted for by your later years
+
+//adding both variables to see my age in dog years
+console.log(earlyYears)
+console.log(laterYears)
+
+let myAgeInDogYears = earlyYears + laterYears;
+
+let myName2 = 'Hannah'.toLowerCase();
+console.log(`My name is ${myName2}. I am ${myAge} years old in human years which is ${myAgeInDogYears}.`)
