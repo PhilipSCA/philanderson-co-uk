@@ -1,48 +1,28 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-<head>
-    <title>
-        How to change the background color
-        after clicking the button ?
-    </title>
-</head>
-    <html type="james/javascript" src="important-chapters.html"></html>
-
-<body style="text-align:center;">
-    <p><a href="#" onclick="Chapter48();">Click me</a></p>
-    <h1 style="color:green;">
-        Changing background colour
-    </h1>
- 
-    <p id="GFG_UP" style="font-size: 16px;
-                          font-weight: bold;">
-    </p>
- 
-    <button onclick="gfg_Run()">
-        Click here
-    </button>
- 
-    <p id="GFG_DOWN" style="color:green;
-                            font-size: 20px;
-                            font-weight: bold;">
-    </p>
- 
-    <script>
-        let el_up = document.getElementById("GFG_UP");
-        let el_down = document.getElementById("GFG_DOWN");
-        let str = "Click on button to change the background colour";
-                 
-        el_up.innerHTML = str;
-                 
-        function changeColor(color) {
-            document.body.style.background = color;
+    <head>
+        <title>Changing background Colour</title>
+    </head>
+<body style="text-align: center;">
+    <h1 style="color:blueviolet">Changing Background Colour</h1>
+    <p id="UP" style="font-size: 32px;
+     font-weight: bold;"></p>
+    <button onclick="Run()">Change</button>
+    <p id="DOWN" style="color: rgb(255, 0, 0); 
+    font-size: 50px; 
+    font-weight: bolder;"></p>
+     <script>
+        let up = document.getElementById("UP");
+        let down = document.getElementById("DOWN"); 
+        let str = "Click on the button to change the background colour"
+        up.innerHTML = str;
+        function changeColour(colour) {
+            document.body.style.backgroundColor = colour;
+         }
+        function Run() {
+            changeColour("rgb(255, 148, 0)");
+            down.innerHTML = "Background Colour has been changed";
         }
-         
-        function gfg_Run() {
-            changeColor('yellow');
-            el_down.innerHTML = "Background Colour changed";
-        } 
-    </script>
-
-</body>
-</html>
+     </script>
+ </body>
+ </html>
