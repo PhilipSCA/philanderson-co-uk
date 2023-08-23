@@ -358,6 +358,7 @@ function Chapter32() {
          <div id="type"></div>
          <div id="type2"></div>
          <div id="html"></div>
+         <div id="html2"></div>
          <div htmlfile = "background.html"></div>
          <script>
             function Chapter48() {
@@ -372,12 +373,14 @@ function Chapter32() {
                 }
                 document.getElementById("input2").innerHTML="<input type='text' size='28' onfocus=makeFieldYellow(); value='Click me'>"
                 document.getElementById("type").innerHTML = "<br>"
-                document.getElementById("type2").innerText = "Making the background turn a different colour"          
+                document.getElementById("type2").innerText = "Making the background turn a different colour"     
+                document.getElementById("html").innerHTML = "<button type = 'button' class='button' size = 24 onClick=this.style.backgroundColor='yellow'; >This will turn yellow when you click on it"     
+                document.getElementById("html2").innerHTML = "<a href = 'background.html'>Click on this link</a>"
             }
         </script>
 
         <script>
-                let el_up = document.getElementById("GFG_UP");
+    /*          let el_up = document.getElementById("GFG_UP");
                 let el_down = document.getElementById("GFG_DOWN");
                 let str = "Click on button to change the background colour";             
                 el_up.innerHTML = str;          
@@ -388,7 +391,8 @@ function Chapter32() {
                     changeColor('orange');
                     el_down.innerHTML = "Background Colour changed";
                 }     
-         </script>
+    */  </script>
+         <!--
          <body style="text-align:center;">
             <p><a href="#" onclick="Chapter48();">Click me</a></p>
             <h1 style="color:#6a00ff    ;">
@@ -404,5 +408,6 @@ function Chapter32() {
                                     font-size: 20px;
                                     font-weight: bold;">
             </p>
+        -->
     </div>
 </html>
