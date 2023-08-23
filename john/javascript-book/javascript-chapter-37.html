@@ -8,11 +8,10 @@
 </head>
     <style>
         div {
-            font-size: 65px;
+            font-size: 40px;
             font-family: monospace;
 
         }
-
 
     </style>
 
@@ -22,13 +21,15 @@
     <h2>September 2nd 2021</h2>
     <div id="cube">Cubed numbers</div>
     <div id="root">Cubed Roots</div>
+    <div id="chapter-37"></div>
+
     <script>
 
         let x = 10
         let y = 20
 
         let addNumbers = function(a, b){
-            console.log('inside function adding numbers')
+            console.log('inside function using parameters to add numbers')
             return a+b
         }
         
@@ -47,10 +48,9 @@
 
         let breakFast = whatsForBreakfast(food, topping)
         console.log(`i had ${breakFast} for breakfast`)
+       
 
-
-
-        let a = 10
+        let a = prompt("Enter a number, and I will cube it.")
 
         function cube(x) {
 
@@ -60,8 +60,13 @@
         }
 
         output = cube(a);
-        console.log(`${a} cubed is  ${output}`)
-        console.log(`the cube root of ${output} is  ${a}`)
+        console.log(`${a} cubed is ${output}`)
+        console.log(`the cube root of ${output} is ${a}`)
+
+        chapter37Output = `i had ${breakFast} for breakfast. (toast and egg are parameters)`
+
+        chapter37 = document.getElementById("chapter-37")
+        chapter37.innerText = chapter37Output
 
         document.getElementById("cube").innerText = `${a} cubed is  ${output}`;
         document.getElementById("root").innerText = `the cube root of ${output} is  ${a}`;
