@@ -9,6 +9,7 @@
 <body>
     <h1>Chapter 39: days of week</h1>
     <h2>September 2nd 2021</h2>
+    <div id="chapter-39"></div>
     <script>
         now = new Date
         namesOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
@@ -32,16 +33,32 @@
         switch(dayOfWeek) {
         case "Sat" :
             alert("Whoopee! Its Saturday!");
+            chapter39Output = "Whoopee! Its Saturday!";
             break;
         case "Sun" :
             alert("Whoopee! Its Sunday!");
+            chapter39Output = "Whoopee! Its Sunday!"
             break;
         case "Fri" :
-            alert("TGIF!");
+            alert("Hey its Friday!");
+            chapter39Output = "Hey its Friday!"
             break;
         default :
-            alert("Shoot me now!"); 
+            alert("Shoot me now! Its not the weekend yet..");
+            chapter39Output = "Shoot me now! Its not the weekend yet..";
         }
+
+        chapter39 = document.getElementById("chapter-39")
+        chapter39.innerText = chapter39Output
     </script>
+
+<!-- OUTPUT:
+    Chapter 39: days of week
+    September 2nd 2021
+    
+    Shoot me now! Its not the weekend yet.
+
+
+-->
 </body>
 </html>
