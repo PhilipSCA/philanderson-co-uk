@@ -9,22 +9,29 @@
 <body>
     <h1>Chapter 41: for and while loops</h1>
     <h2>September 3rd 2021</h2>
+    <div id="chapter-41"></div>
+    <div id="chapter-41b"></div>
+
     <script>
-        // for loop
-        for (var i = 0; i <= 3; i++) {
-            alert(`for loop alert = ${i}`);
-        }
+            // for loop
+            for (var i = 0; i <= 3; i++) {
+                chapter41Output = `for loop alert = ${i}`;
+            }
 
-        console.log(`for loop output - ${i}`)
+            console.log(`the for loop output is ${i}`)
 
-        // while loop
-        var is = 0;
-        while (is <= 3) {
-            alert(`while loop alert = ${is}`);
-            is++;
-        }
-
-        console.log(`while loop output - ${is}`)
-    </script>
+            // while loop
+            var is = 0;
+            while (is <= 3) {
+                chapter41Output2 = `while loop output = ${is}`;
+                is++;
+            } 
+            console.log(`the while loop output is ${is}`) 
+            console.log(chapter41Output);
+            chapter41 = document.getElementById('chapter-41');
+            chapter41.innerHTML = chapter41Output
+            chapter41 = document.getElementById('chapter-41b');
+            chapter41.innerHTML = chapter41Output2
+     </script>
 </body>
 </html>
