@@ -8,33 +8,40 @@
 </head>
 <body>
     <h1>Chapter 18:for loops</h1>
+
+    <div id="ch-18"></div>
+    <div id="chapter-18"></div>
     <script>
     console.log("Chapter 18")
-    var cleanestHouses = ["a", "b", "c"]
+    var cleanestHouses = ["London", "Birmingham", "Manchester"]
     console.log(cleanestHouses)
-    let cityToCheck = "a"
-    console.log("cityToCheck = d")
+    let cityToCheck = prompt("Enter a city out of London, Birmingham and Manchester.")
+    console.log(`cityToCheck = ${cityToCheck}`)
     if (cityToCheck === cleanestHouses[0]) {
-        console.log("Its one of the cleanest houses");
+        console.log("Its one of the cleanest cities");
     }
     else if (cityToCheck === cleanestHouses[1]) {
-        console.log("Its one of the cleanest houses");
+        console.log("Its one of the cleanest cities");
     }   
     else if (cityToCheck === cleanestHouses[2]) {
-        console.log("Its one of the cleanest houses");
+        console.log("Its one of the cleanest cities");
     }
     else {
-        console.log("Its not one of the cleanest houses");
-    }   
+        x = ("Its not one of the cleanest cities");
+    }  
+
+console.log("This is using a for loop")
 
     for (var i = 0; i <= 4; i++) {
         if (cityToCheck === cleanestHouses[i]) {
-            console.log("Its one of the cleanest Houses");
+            var cityCheck = "Its one of the cleanest cities"
         }
     }
 
     for (var i = 0; i <= 4; i++) {
+        if (cityToCheck===cleanestHouses[i]) {
         console.log("Hello");
+        }
     }
     
     let output = 0
@@ -46,6 +53,13 @@
     }
     console.log("There are " + output + " matches")
     console.log(`There are ${output} matches`)
+
+    console.log(cleanestHouses)
+    ch_18 = document.getElementById('ch-18');
+    ch_18.innerHTML = cityCheck
+    
+    chapter18 = document.getElementById('chapter-18');
+    chapter18.innerHTML = x
    </script> 
 </body>
 </html>
