@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>James's Game</title>
+    <div id="canvas"></div>
+    <div id="target"></div>
 </head>
 <style>
    .hidden {display: none;}
@@ -23,8 +25,36 @@
      </div>
         <script>
             function Invisible() {
-                document.getElementById("hide").className= "hidden";
+              document.getElementById("hide").className= "hidden";
             }
-        </script>
+            Math.random(xy)
+     </script>
+         <canvas id="myCanvas" width="200" height="200"></canvas>
+    <script>
+     // Get the canvas element
+     var canvas = document.getElementById("myCanvas");
+      
+      // Draw a circle with a radius of 50 pixels
+      var ctx = canvas.getContext("2d");
+      ctx.beginPath();
+      ctx.arc(50, 50, 50, 0, 2 * Math.PI);
+      ctx.fillStyle = "#FF0000";
+      ctx.fill();
+
+      function change() {
+      circle.translate(Math.random() * window.innerWidth, Math.random() * window.innerHeight)
+      }
+    </script>
+
+   
+
+
+
+
+
+
+
+
+
 </body>
 </html>
