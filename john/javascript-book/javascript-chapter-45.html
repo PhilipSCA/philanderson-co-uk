@@ -9,20 +9,29 @@
 <body>
   <h1>Chapter 45: Doing things On Click</h1>
   <h2>September 12th 2021</h2>
+  <div id="chapter-45"></div>
 
     <a href="#" 
-    onClick="alert('Hi');">Click1</a>
+    onClick= "alert('Hi')";>Click1</a> <p>
 
     <a href="Javascript:void(0)"
-    onClick="var greet='Hi';
-    alert(greet);">Click2</a>   
+    onClick= chapter45()>Click2</a>  <p>
 
 <script>
     function popup(message) {
       alert(message);
     }   
-</script>
-    <a href="JavaScript:void(0)"
-    onClick="popup('Hi');">Click3</a>    
+
+        function chapter45() { 
+            chapter45Output = 'You clicked Click 2'
+            console.log(chapter45Output);
+            chapters45 = document.getElementById('chapter-45');
+            chapters45.innerText = chapter45Output
+        }
+
+        
+</script>  
+
+    
 </body>
 </html>
