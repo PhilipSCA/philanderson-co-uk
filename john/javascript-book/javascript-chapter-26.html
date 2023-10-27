@@ -38,18 +38,20 @@
       console.log(`${bigNumber} rounded up to nearest 100 is ${roundedUp}`)
       printOut4 = `${bigNumber} rounded up to nearest 100 is ${roundedUp}`
 
+      console.log("------   ")
       var yourNumber = prompt("Enter a  decimal number, and I will round it:")
-      yourNumber = parseInt(yourNumber)
-      yourNumberRounded1 = Math.round(yourNumber)
-      yourNumberRounded2 = Math.ceil(yourNumber)
-      yourNumberRounded3 = Math.floor(yourNumber)
-      yourNumberRounded4 = 100*Math.round(yourNumber/100)
-      yourNumberRounded5 = yourNumber.toPrecision(3)
 
+      let yourNumberRounded1 = Math.round(yourNumber)
       console.log("Your number rounded to the nearest integer is " + yourNumberRounded1)
+      let yourNumberRounded2 = Math.ceil(yourNumber)
       console.log("Your number rounded up to the nearest integer is " + yourNumberRounded2)
+      let yourNumberRounded3 = Math.floor(yourNumber)
       console.log("Your number rounded down to the nearest integer is " + yourNumberRounded3)
+      let yourNumberRounded4 = 100*Math.round(yourNumber/100)
       console.log("Your number rounded to the nearest 100 is " + yourNumberRounded4)
+
+      yourNumber = parseInt(yourNumber)
+      yourNumberRounded5 = yourNumber.toPrecision(3)
       console.log("Your number rounded to 3 S.F is " + yourNumberRounded5)
 
 
