@@ -18,3 +18,25 @@ const callMyNightSky = () => {
 }
 
 console.log(callMyNightSky())
+
+function logVisibleLightWaves() {
+  const lightWaves = 'Moonlight';
+  console.log(lightWaves)
+}
+
+logVisibleLightWaves2();
+// error   console.log(lightWaves)
+
+const logVisibleLightWaves2 = () => {
+  let lightWaves = 'Moonlight';
+	let region = 'The Arctic';
+  // Add if statement here:
+  if (region === 'The Arctic') {
+    let lightWaves = 'Northern Lights';
+    console.log(lightWaves);
+  }
+  console.log(lightWaves);
+  
+};
+
+logVisibleLightWaves2();
