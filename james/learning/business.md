@@ -14,4 +14,108 @@
 start here
 
 term definition
+
+Crowdfunding - Raising capital online from small investors
+Dividends - Payments to shareholders from profits
+Trade credit/capital - Supplier waits for payment
+Venture capital - Investor takes a chance on a business
+Break even - Fixed costs/Selling price - Var cost per unit
+Margin of safety - Sales - Break even point
+Interest - (Repayment - Loan) / Loan x 100 = %
+Rate of return - Annual profit/Investment
+Forecast revenue - Calculate break even and MOS
+Sources of finance - Short/Long term plans for capital
+Private limited company - Limited liability, shareholders
+Added value - Difference between cost and price
+Focus group - Target area to ask questions
+Demographics - Statistics of populations
+Market research - Opinions of customers, gaps in market
+Exchange rate - Currency compared to others
+Consumer law - Protects consumers
+Flat structure - No/Few hierarchy
+Flotation - Shares on stock market for anyone
+Inorganic growth - External growth
+Organic growth - Growth in the business
+Overdraft - How much is from bank loans
+Performance reviews - Discussions with employee and boss.
+Price skimming - High prices to low
+Price penetration - Low to high
+Premium pricing - High price
+Competitive environment - Promotion or Price, Affects MM
+Technology - Online shopping, Affects MM
+Changing consumer needs - Please customers, Affects MM
+Marketing Mix - Promotion, Price, Place, Product
+Target market - Focus on specific group
+Marketing plan - Prices/Forecast of sales
+Location - Proximity to factors and affordability.
+Proximity to market - Closeness to customers
+Proximity to materials - Journey time to get materials (manufacturing)
+Proximity to labour - Accessibility for skilled workers
+Proximity to competition - Closeness to other businesses
+Luxuries - Expensive and high quality
+Bankrupt - Cant pay debts
+Automation - Machines operating without people
+Centralised organisation - Has a head offics
+Globalisation - Businesses spreading overseas in trade
+E-tailer - Electronic retailer, buying electronically
+Gross profit margin - Profit as a % of revenue or selling price
+Hierarchial structure - Many layers of management, Pyramid
+Insolvency - Business cant pay debts
+Job enrichment - Employee given responsibilites to grow
+Lack of financial security - Uncertainty for owner about assets
+Net profit margin - Net profit as % of revenue or selling price
+Post-sales service - Service after purchase
+Product life cycle - Intro, Growth, Maturity, Decline.
+Product knowledge - How well staff know features of products/services
+Quality control - Measures to make sure customer gets good quality
+Recession - Downturn in sales and output
+Retailer - Shop/Chain of physical shops
+Retention - How many loyal staff there are
+Share capital - Finance by selling ownership
+Stocks - Items held by a business for use or sale
+Taxation - Charges placed on goods and incomes
+Unlimited liability - Owner is responsible for all debts
+Trade-offs - Having more of one thing means less of another
+Remuneration - All payments from work
+Stakeholder - Anyone involved in a business
+Unique Selling Point - Different feature on a product from rivals
+M-commerce - Applications
+Customer needs - Price, Quality, Choice, Convenience
+Choice - More variety means more likely to purchase one thing
+Primary research - Firsthand, specific needs
+Secondary research - Using already conducted research
+Qualitative data - In depth questions for opinions, smaller amount
+Quantitative data - Quick questions for opinions, large amount
+Market segmentation - Dividing market into common sectors
+Market segments - Location, Gender, Age, Income, Lifestyle etc
+Market mapping - Two factor grid to look at where brands sit
+Competition - Businesses selling similar products in an industry
+Competition factors - Price, Location, Customer service, Quality, Product range
+Customer service - Can increase customer sales
+Indirect competition - Dont sell same product but can be seen as competition. (e.g:Travelling)
+Fairtrade - Social movement for fair wages to producers
+Legislation - Laws by government affecting a business
+Takeover - Obtaining over 50% of a business
+Understanding customers - Learning why they do what they do
+Aesthetics - How things appeal to senses
+Decentralised organisation - Staff make decisions locally at different places
+Identifying customers - Finding out information about them
+Obsolete - Product/service out of date
+Permanent contract - Agreement for an employee to accumulate income
+Person specification - Account of person who fits job
+Red tape - Laws that sabotage business people
+Sales revenue - Value of sales made in time period
+Sponsorship - Companies pay to have brand associated with someone/something
+Sustainability - Whether a resource will run out or not
+Temporary contract - Agreement to work and earn for some time
+Trade bloc - Group of countries agreed to have free trade
+Viral advertising - People spread messages for you
+Autonomy - Independence to decide what you do for work
+Batch production - Limited number of identical products
+Job producion - One specific product for one customer
+Flow production - Continous efficient production of identical product
+Buffer stock - Minimum stock level at all times
+Commission - Being paid a % of sale you made
+CV - Curriculum Vitae - Document for qualification
+External influence - Factors/Changes outside a business making a difference
 ```
