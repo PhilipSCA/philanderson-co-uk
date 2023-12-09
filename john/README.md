@@ -21,7 +21,7 @@ Anion - negative ion
 Conductor - material that traps heat
 Insulator - material that blocks heat.
 
-## C1 - Atoms and Elements - Atomic structure
+# C1 - Atoms and Elements - Atomic structure
 
 Atom - smallest thing that can exist - makes up elements
 Molecule - A group of atoms chemically bonded
@@ -37,13 +37,13 @@ Crystallisation - another method to separate soluble solids from solutions, by h
 Simple distillation - to separate a liquid from another liquid, for a mixture with a big difference in boiling points
 Fractional distillation - separates a mixture of liquids with similar boiling points.
 
-# Atom discovery
+### Atom discovery
 John Dalton - 1803 - discovered atoms, described them as solid spheres, different spheres make diff elements
 J.J Thompson - 1897 - discovered electrons, created 'Plum Pudding model'
 Ernest Rutherford - 1909 - fired positively charged alpha particles at a thin sheet of gold, some deflected and some went backwards. Concluded nucleus in the center, electrons around - 'Nuclear model'
 Niels Bohr - Realised electrons orbit in fixed shells, with a fixed energy and distance. (Otherwise atom would collapse)
 
-## C2 - Periodic table
+# C2 - Periodic table
 
 Alloy - mixture of two elements, where atleast one is a metal
 Metals - found in left and middle, have few outer shell electrons, lose or share electrons to get a full outer shell, become positive. 
@@ -73,6 +73,6 @@ Halogens - Group 7 non-metals - coloured vapours - all come as diatomic molecule
 Noble gases - Group 0 - inert colourless gases - unreactive as they have full outer shell - monatomic gases, non-flammable. Trend as you go DOWN group:
 1) Boiling point increases - number of electrons increase, greater intermolecular forces so more energy needed.
 
-# discovery of periodic table
+### discovery of periodic table
 John Newlands - 1864 - ordered elements by atomic weight or R. atomic mass; noticed some patterns but table was incomplete.
 Dimitri Mendelev - 1869 - ordered elements by atomic mass - put similar properties together - left gaps for undiscovered elements.
