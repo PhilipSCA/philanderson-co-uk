@@ -10,6 +10,11 @@
     <h1>Chapter 39: days of week</h1>
     <h2>September 2nd 2021</h2>
     <div id="chapter-39"></div>
+    <div id="chapter-39info1"></div>
+    <div id="chapter-39info2"></div>
+    <div id="chapter-39info3"></div>
+
+
     <script>
         now = new Date
         namesOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
@@ -32,16 +37,16 @@
 
         switch(dayOfWeek) {
         case "Sat" :
-            alert("Whoopee! Its Saturday!");
-            chapter39Output = "Whoopee! Its Saturday!";
+            alert("Whoopee! It's Saturday!");
+            chapter39Output = "Whoopee! It's Saturday!";
             break;
         case "Sun" :
-            alert("Whoopee! Its Sunday!");
-            chapter39Output = "Whoopee! Its Sunday!"
+            alert("Whoopee! It's Sunday!");
+            chapter39Output = "Whoopee! It's Sunday!"
             break;
         case "Fri" :
-            alert("Hey its Friday!");
-            chapter39Output = "Hey its Friday!"
+            alert("Hey it's Friday!");
+            chapter39Output = "Hey it's Friday!"
             break;
         default :
             alert("Shoot me now! Its not the weekend yet..");
@@ -50,6 +55,19 @@
 
         chapter39 = document.getElementById("chapter-39")
         chapter39.innerText = chapter39Output
+
+        chapter39info1 = "\n (If its Friday, the text will be 'Hey it's Friday!')"
+        chapter39info2 = "(If its Saturday, the text will be 'Whoopee! It's Saturday!')"
+        chapter39info3 = "(If its Sunday, the text will be 'Whoopee! It's Sunday!')"
+
+        chapter39info = document.getElementById("chapter-39info1")
+        chapter39info.innerText = chapter39info1
+
+        chapter39infob = document.getElementById("chapter-39info2")
+        chapter39infob.innerText = chapter39info2
+
+        chapter39infoc = document.getElementById("chapter-39info3")
+        chapter39infoc.innerText = chapter39info3
     </script>
 
 <!-- OUTPUT:

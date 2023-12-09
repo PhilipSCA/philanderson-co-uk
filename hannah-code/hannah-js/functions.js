@@ -41,3 +41,18 @@ monitorCount();
   
   const totalCost = costOfMonitors(5, 4);
   console.log(totalCost)
+
+
+  // October 26th
+  const plantNeedsWater = function(day) /* also put => as function */{
+    if (day === 'Wednesday'){
+      return true
+    } else {
+      return false
+    }
+  };
+  
+  console.log(plantNeedsWater('Tuesday'));
+
+  // you can also make it one line code
+  const plantNeedsWater2 = day => day === 'Wednesday' ? true : false;
