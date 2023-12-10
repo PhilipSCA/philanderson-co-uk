@@ -10,6 +10,7 @@
   - [learning](#learning)
     - [chemistry](#chemistry)
     - [business](#business)
+    - [geography](#geography)
 
 ## coding
 
@@ -30,3 +31,7 @@
 ### business
 
 [business](learning/business.md)
+
+### geography
+
+[geography](learning/geography.md)

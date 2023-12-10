@@ -100,4 +100,14 @@ Fullerene - Carbon molecules in tubes or spheres
 Nanotube - Tube of carbon, conduct thermal/electrical energy
 Tensile strenth - How strong when stretched/tensed
 Metallic bonding - Strong Bonds between metals, has free electrons
+Anhydrous - Without water
+Dynamic equilibrium - Can forces are equal
+Avogadro constant - 6x10^23
+Concentration - Mass/Volume or Moles/Volume
+Relative formula mass - Mr, mass of compounds
+Sodium in water - Fizzes rapidly and melts
+Lithium in water - Fizzes steadily and floats, shrinks
 ```
+
+
+[def]: #chemistry
