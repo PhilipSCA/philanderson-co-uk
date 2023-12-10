@@ -7,9 +7,6 @@ Isotonic- when two compared things have equal types of molecules-------
 Conservation of energy - energy can be transferred or stored but cannot be created or destroyed
 Isomesmerisation - when one molecule changes into another
 Electrostatic force - the force of attraction between two oppositely charged particles (electron and nucleus)
-Covalent bond - bonding between non-metals
-Ionic bond - bonding between a non-metal and a metal
-Metallic bonding - bonding between metals
 Dissipate - spread around
 Adhesion - attraction or binding betweeen different molecules
 Purification - extracting something from a substance
@@ -103,3 +100,106 @@ Noble gases - Group 0 - inert colourless gases - unreactive as they have full ou
 John Newlands - 1864 - ordered elements by atomic weight or R. atomic mass; noticed some patterns but table was incomplete.
 Dimitri Mendelev - 1869 - ordered elements by atomic mass - put similar properties together - left gaps for undiscovered elements.
 ```
+## C3 - Structure and bonding
+
+Ionic bonding - metal and non-metal bond, transfer electrons  - metal becomes positive, non-metal becomes negative, which makes them attract
+Dot and cross diagram
+Ionic compounds - compound that contains ionic bonds.
+Giant ionic lattice structure properties: 
+- very strong as held together by electrostatic attraction in all directions
+- high melting and boiling points
+- Cant conduct electricity, when solid. When melted or dissolved, ions separate and can conduct electricity.
+
+Empirical formula - simplest balanced ratio of elements for an equation
+Covalent bonding - bonding between non-metals, positive nucleus attracted to shared nucleus, making covalent bonds very strong
+Simple molecular structures - substances containing very stong covalent bonds, but held together by weak intermolecular forces:
+- melting and boiling point very low
+- Mostly gases or liquids at room temp
+- as molecules get bigger, forces get stronger, boiling point increases
+- Can't conduct electricity
+
+Polymer - a long chain of repeated units, a long molecule
+Macromolecules - giant covalent structures - diamond and graphite
+Allotrope - the same element in the same state but with a different arrangement. Allotropes of carbon:
+
+Diamond - each carbon atoms covalently bonds with 4 other carbon atoms.
+- Making diamond really hard and strong. 
+- Very high melting & boiling point. 
+- Doesnt conduct electricity.
+
+Graphite - arranged in sheets of hexagons, joined by intermolecular forces. Each carbon atom covalently bonded with 3. Layers are held weakly and can move over each other, making it soft and slippery, used for lubrication. 
+- High melting and boiling point
+- **CAN** conduct electricity - each carbon atom has 1 spare electron.
+
+Graphene - one layer of graphite, strong and light, conductor.
+Fullerene - hollow balls or nanotubes, made of hexagons and pentagons.
+- Huge surface area
+- good catalysts and lubricants
+- conductor of electricity and heat
+- high tensile strength
+
+Metallic bonding - two metals bonding in a sea of delocalised electrons. Properties same as metals. (strong but malleable as layers can slide, high melting and boiling points, solids at room temp, conductors)
+Alloy - mixture of atleast one metal. Harder than pure metals
+States of matter - solid(s), liquid(l), gas(g), aqueous(aq)
+
+## C4 - Chemical calculations
+
+Relative formula mass - atomic mass of all elements in the compound added together - Mr
+Mole - 6.02x10^23 - One mole of an element is the same atomic mass as one atom of the element
+Limiting reactant - the reactant that gets all used up and limits how much product is formed
+Volume of gas = (mass of gas/Mr of gas) x 24, at room temperature and pressure.
+Concentration - amount of solute there is in a given volume.
+Concentration(g/dm3) = mass of solute(g)/volume of solvent(dm3)
+Moles = mass/Mr, Mass = moles/Mr
+Atom economy - the amount of useful product in the reactants. = (Mr of wanted product/Mr of all reactants) x 100
+Percentage yield - the ratio of products formed to reactants used - %
+Titration - method of finding out concentration of ions - add increments of another solution until colour change
+
+## C5 - Chemical changes
+
+Acid - substance that produces H+ ions when dissolved in water. Has a pH of less than 7. Strong acids ionise completely in water, releasing more H+ ions.
+Base - any substance that makes a salt with an acid - has to be an ionic compound
+Salt - compound formed when hydrogen ions in the acid are replaced by metal ions.
+Neutralisation - acid + base --> salt + water
+pH - measure of concentration of H+ ions in solution. has a base 10 logarithmetic scale
+Acid + metal Oxide(base) --> salt + water
+Acid + metal hydroxide(base) --> salt + water
+Acid + metal carbonate(base) --> salt + water + carbon dioxide
+MASH - Metal + acid --> salt + hydrogen
+Metal + water --> Metal hydroxide + hydrogen
+Reactivity series:
+Potassium
+Sodium
+Lithium
+Calcium
+Magnesium
+Aluminium
+(EXTRACTED BY ELECTROLYSIS)
+***carbon***
+Zinc
+Iron
+Tin
+Lead
+(EXTRACTED BY REDUCTION FROM CARBON)
+***hydrogen***
+copper, silver, gold, platinum
+
+Metals below carbon are extracted by heating it up with carbon, as the carbon takes the oxygen away from the metal, making CO2, reducing the metal.
+Displacement reaction - when a more reactive metal replaces a less reactive one in a compound
+Ionic equation - where only elements getting oxidised or reduced are shown, and the rest are spectator ions.
+
+## C6 - Electrolysis
+
+Electrolysis - process of splitting up ionic compounds using electricity - very expensive
+Electrolyte - solution that current is passed through, either molten ionic or aqueous
+Electrode - cathode or anode - electrical graphite rods
+Reduction - gain of electrons (loss of oxygen)
+Oxidation - loss of electrons (gain of oxygen)
+REDOX reaction - when both reduction and oxidation occur in the same reaction. Happens in all metal + acid reactions.
+Extraction - for metals with high melting points, you lower the melting point by adding cryolite and make it molten
+Cathode - negative electrode - attracts cations and forms a metal through reduction.
+Anode - positive electrode - attracts anions - forms gas by oxidation.
+Half equation for metals = Mx+ + xe- --> M
+Half equation for nonmetals - 2Yx- ---> Y2 + 2xe-
+Half eq. for hydrogen = 2H+ + 2e- ---> H2
+Half eq. for hydroxide = 4OH- ---> O2 + 2H20
