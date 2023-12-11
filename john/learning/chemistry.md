@@ -101,7 +101,7 @@ John Newlands - 1864 - ordered elements by atomic weight or R. atomic mass; noti
 Dimitri Mendelev - 1869 - ordered elements by atomic mass - put similar properties together - left gaps for undiscovered elements.
 ```
 ## C3 - Structure and bonding
-
+```
 Ionic bonding - metal and non-metal bond, transfer electrons  - metal becomes positive, non-metal becomes negative, which makes them attract
 Dot and cross diagram
 Ionic compounds - compound that contains ionic bonds.
@@ -141,9 +141,9 @@ Fullerene - hollow balls or nanotubes, made of hexagons and pentagons.
 Metallic bonding - two metals bonding in a sea of delocalised electrons. Properties same as metals. (strong but malleable as layers can slide, high melting and boiling points, solids at room temp, conductors)
 Alloy - mixture of atleast one metal. Harder than pure metals
 States of matter - solid(s), liquid(l), gas(g), aqueous(aq)
-
+```
 ## C4 - Chemical calculations
-
+```
 Relative formula mass - atomic mass of all elements in the compound added together - Mr
 Mole - 6.02x10^23 - One mole of an element is the same atomic mass as one atom of the element
 Limiting reactant - the reactant that gets all used up and limits how much product is formed
@@ -154,9 +154,9 @@ Moles = mass/Mr, Mass = moles/Mr
 Atom economy - the amount of useful product in the reactants. = (Mr of wanted product/Mr of all reactants) x 100
 Percentage yield - the ratio of products formed to reactants used - %
 Titration - method of finding out concentration of ions - add increments of another solution until colour change
-
+```
 ## C5 - Chemical changes
-
+```
 Acid - substance that produces H+ ions when dissolved in water. Has a pH of less than 7. Strong acids ionise completely in water, releasing more H+ ions.
 Base - any substance that makes a salt with an acid - has to be an ionic compound
 Salt - compound formed when hydrogen ions in the acid are replaced by metal ions.
@@ -187,9 +187,9 @@ copper, silver, gold, platinum
 Metals below carbon are extracted by heating it up with carbon, as the carbon takes the oxygen away from the metal, making CO2, reducing the metal.
 Displacement reaction - when a more reactive metal replaces a less reactive one in a compound
 Ionic equation - where only elements getting oxidised or reduced are shown, and the rest are spectator ions.
-
+```
 ## C6 - Electrolysis
-
+```
 Electrolysis - process of splitting up ionic compounds using electricity - very expensive
 Electrolyte - solution that current is passed through, either molten ionic or aqueous
 Electrode - cathode or anode - electrical graphite rods
@@ -203,3 +203,4 @@ Half equation for metals = Mx+ + xe- --> M
 Half equation for nonmetals - 2Yx- ---> Y2 + 2xe-
 Half eq. for hydrogen = 2H+ + 2e- ---> H2
 Half eq. for hydroxide = 4OH- ---> O2 + 2H20
+```
