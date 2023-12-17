@@ -3,6 +3,17 @@ Optimum population - the standard of living being maintained because the resourc
 Wind sheer - difference in wind speeds
 Coriolis effect - winds curving because of Earth's rotation
 Elliptical orbit - oval shaped orbit of Sun from Earth
+Precession - Earth's axis wobbles like a spinning top
+Biotic - living
+Abiotic - non-living
+Ecosystem - all biotic and abiotic things working together to live in an area
+Producer - greens - uses sunlight energy to produce food
+Consumer - gets its energy by eating other organisms, producers or consumers
+Decomposer - organism that gets its energy by breaking down dead material, dead producers and consumers (fallen leaves or animal remains. Bacteria/ fungi)
+Tundra - found above 60N - winters very cold, summers are brief, little rainfall - layer of permafrost - no trees, mosses, grasses, low shrubs
+Grassland - Savannah grassland found between tropics, dry and wet seasons - mostly grass, few scattered trees
+Temperate grasslands - higher latitudes, more variation in temperature - less rainfall - Only grass
+Temperate deciduos rainforest - mid-latitudes
 
 ## Coasts
 Hydraulic action - the sheer impact of waves, and traps air in cracks, increasing pressure on rock
@@ -20,7 +31,7 @@ Constructive wave - smaller, gentler waves - strong swash, weak backwash
 Destructive wave - bigger waves - weak swash, strong backwash
 Wave-cut notch - notch formed from the base of the cliff being eroded
 Headland - hard rock that juts out to sea
-Bay - a crescent shaped indentation on a coastlin - usually a beach
+Bay - a crescent shaped indentation on a coastline - usually a beach
 Traction - large boulders pushed along water bed
 Saltation - hopping or bouncing pebbles, too heavy to be suspensed
 Suspension - rocks carried within the water
