@@ -14,9 +14,11 @@ Ruhr - Jan 1923 - 60,000 French & belgium troops invaded - took coal and timber,
 Munich Putsch - Nov 1923 - Weimar called off 'passive resistance' 2,000 ready to fight - got support of war hero Ludendorff. Putsch failed, Hitler arrested
 Rentenmark - new currency introduced after hyperinflation in 1923
 356 political assassinations 1919-23
+1933 - Gestapo - 200,000 members
+1934 - 'Peoples Court' set up
 ```
 
-### Golden Years
+## Golden Years
 ```
 Dawes Plan - 1924 - 800m gold mark loans from USA - built 2m+ new homes, homelessness fell by 60%, wages up 10%
 SS formed - 1925
@@ -33,26 +35,69 @@ Bruning -1930 - 'hunger chancellor' - cut unemployment pay by 60% - raised tax o
 1932 - Nazis votes rose to 37%, then back down to 32%
 1932 - SA numbers increased to 600,000
 ```
-### How hitler consolidated power 1933-34
+## How hitler consolidated power 1933-34
 ```
 1933 - Reichstag Fire - communists blamed - 4000 locked up, emergency law decree, limiting freedom of speech
 1933 March - Enabling act - Hitler could pass laws without Reichstag for 4 years - removed Social democrat and communist party, abolished 18 local 'Lander' parliaments. Arrested all trade union officials and forced unions into German Labour Front (DAF) to control workers and wages.
 DAF - German Labour Front - no strikes, no job changes, max working hours 60 => 72
 1934 - Night Of Long Knives - 400 SA leaders + Rohm murdered - won army's support as swore an oath of loyatly
+```
+## Hitler's rise in power 1933-39
+### Support
+```
+Concordat - 1933 - agreement with Pope to leave Catholic church alone if out of politics, soon broken by Hitler - Catholic youth groups banned, schools got rid of crosses/symbols and eventually closed.
+Under 5% joined 'German Faith Movement', set up to rival Christian groups
+'German Christians' church created, led by Ludwig Muller - Reich Nazi church - 1933 - removed Old testament stories, banned 'non-aryan' ministers, Nazi flags in churches - 20-30% of Protestants went
+SA went from 600,000 to 3m members 1933-34
+Hitler Youth - 1938 - 90% of boys were members
+97% of teachers joined Nazi Teacher League - lessons started with Heil Hitler, education nazified and pushed nazi views
+German Motherhood Awards - birth rate increased by 45% - gold medal for 8 babies, silver for 6, bronze for 4
+SS Lebensborn program - 800,000 couples took up loans for babies.
+Falling unemployment - 6m to 250,000 by 1939 - gained support - Wages up nearly 20%. Nuremburg rallies had 400,000+ attending
+```
+### Opposition
+```
+Protestants and Catholics opposed nazi ideals
+'Pastors Emergency League' - 7,000 protestant churches joined - opposition to Nazis - 800 pastors 400 priests arrested & sent to concentration camps in 1937
 
-1933 - Gestapo - 200,000 members
+Hitler Youth - 3m didnt join, 1936 - had to make it compulsory. People complained of the military-like control and boredom of HY.
+Only 25% of youth would show up to evening meetings - 1939 - new rules needed.
+Youth Groups - Edelweiss Pirates - 2-5,000 joined - created no go areas for Hitler Youth
+Swing Youth - listened and danced to banned music
+
+Education - Range of subjects fewer, less academic focus - Girls has less opportunities - Jewish children forced out of school
+Many Germans unhappy - 15% longer hours of work, increased cost of living, compulsory labour service. Independant trade unions banned.
+1.3 million people sent to Concentration Camps 1933-39
 ```
-### Hitler's rise in power 1933-39
-#### The Church
+### Life in Nazi Germany - Work, unemployment and Living standards
 ```
-Concordat - 1933 - agreement with Pope soon broken by Hitler. 800 pastors 400 priests arrested & sent to concentration camps in 1937
-'German Christians' church created, Reich Nazi church - 1933
-'Pastors Emergency League' - 7,000 protestant churches joined - opposition to Nazis
+Rearmament - reduced unemployment - spending on military rose from 1% -> 10% of budget. 26 billion marks spent(8 times 1933) building tanks, weapons aircrafts and ships. Business hired many people.
+Army - expanded from 100,000 to 1.4 million by 1939.
+Oil, Iron and Steel production trebles
+
+Public Work Schemes - Huge road building programme - Autobahns (motorways) - 125,000 given jobs, built 1,000s kms of motorways. Helps businesses and army as easier to transport goods and supplies
+'Invisible Unemployment' - 18-25 yr olds had to do 6 months in the RAD(National Labour Service) - built houses, schools, hospitals. Lived in camps, military drill - low pay
+
+Living standards - Weekly wages up nearly 20%, Farm food prices up 20%
+Strength Through Joy (KDF) - 1938 - organised cheap holidays, cruises and leisure activities, cheap theatre tickets, sports events etc. 10m took KDF holidays.
+Beauty of Labour (part of KDF) - improved working conditions - reduced noise and cleaner facilities, canteens, swimming pools, sports - 5 marks a week subscription fund for a People's car - Volkswagen unemployment fell from 6m to 250,000
+4 year plan - focus on reducing imports (Autarky) -shortages of some foods and goods, but increase in meat and butter.
 ```
-#### SA
-#### Women
-#### Youth
-```
-1934 - 'Peoples Court' set up
-1933-39 = 1.3 million people sent to concentration camps
-```
+Negatives 
+- People had to work on average 5 more hours a week(15% longer)
+- food prices rose 
+- trade unions banned so couldn't negotiate for better wages or conditions.
+- People hated working in RAD
+
+### Nazi policies towards minorities - 1933- 39
+Boycotts -1933 - SA organised boycotts of Jewish shops and businesses
+Boycotts - 1934 - local councils banned Jews from public places - trying to stir up as much hatred and peoples rights and freedoms were being restricted more and more.
+Nuremburg Laws - 1935 - Jews cannot be German citizens, could not vote and banned marriages with Germans
+Schools - textbooks and lessons taugh racist ideas. Nov 1938 - Jewish children expelled from German schools.
+Jobs - Many Jews forced out of their jobs, especially professions like lawyers and doctors.
+#### Kristallnacht
+9-10th Nov 1938 - after a murder in Paris, Goebells organised attacks
+100 Jews murdered and 20,000 sent to concentration camps. About 7500 Jewish businesses destroyed.
+30th April 1939 - laws got worse - Jews evicted from their homes and forced into designated areas.
+By summer 1939 - about 250,000 Jews (about half of Jews) had left Germany.
+
