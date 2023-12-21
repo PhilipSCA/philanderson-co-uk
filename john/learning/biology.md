@@ -63,7 +63,33 @@ Stents - tubes inserted into arteries keeping them open - effective, long-lastin
 Statins - drugs reducing amount of chlorestrol in blood - reduces risk of other problems(strokes, heart attacks) - effective, used for years - must be taken regularly - risk someone forgets to take them - side effects like headaches, kidney failure, liver damage - not instant
 Artificial Hearts - less likely to be rejected than donor, surgery -> bleeding and infection, parts can wear out/fail, blood clots or strokes. Patient has to take drugs aswell.
 Biological valves - dont damage cells, less likely blood clots - needs replacing 10-20 yrs
-Mechanical valves - lasts a lifetime - can lead to blood clots, patients need to take anti-cloning drugs, valves can be loud enough to hear
+Mechanical valves - lasts a lifetime - can lead to blood clots, patients need to take anti-cloning drugs, valves can be loud enough to hear.
 ```
 ##### Plants
- 
+```
+Upper and lower epidermis - protective layer of cells, covered in waxy cuticle to prevent transpiration
+Palisade mesophyll - underneath U.epidermis, transparent to let light reach palisade,contains chloroplasts for photosynthesis. Vertically block-shaped to fit as many as possible.
+Spongy mesophyll - lots of air space for more diffusion rate, less chloroplasts in spongy cells
+Stomata & guard cells - lower epidermis full of stomata, controlled by guard cells, for gas exchange of CO2 and O2 into and out of the cell for photosynthesis.
+Xylem - tube of tissue from roots to leaf, carrying water and minerals from roots. One-way process upwards
+Phloem - tube of cellulose, transports water, food nutrients etc. both up and down plant, with end walls and perforations
+Transpiration - loss of water from plant through evaporation and diffusion on leaves. Makes more water get drawn up through xylem called transpiration stream --> Water then diffuses out of stomata --> evaporates into air.
+Transpiration rate - affected by: light intensity, temperature, air flow, humidity
+Potometer - method to test for transpiration rate
+```
+### B5
+Pathogen - microorganisms that enter the body and cause disease.
+Communicable disease - infectious, can easily spread
+Non-communicable - unable to spread.
+Types of Pathogens: 1) Bacteria - very small cells, reproduce rapidly inside body, producing harmful toxins to your cells and tissues - making you feel ill. (eg salmonella, gonorrhoea)
+2) Virus - really tiny, not a cell, gets inside cells and reproduces rapidly, causing cells to burst. Cell damage makes you feel ill. (e.g Measles, HIV, TMV)
+3) Protists - single-celled eukaryotes, live on or inside organisms and cause them damage. Often transferred to organisms by a vector(insect immune to the disease)(eg malaria)
+4) Fungi - grow and penetrate human skin, or surface of plants, causing disease.  Produce spores which spread to other living things.
+Pathogens are spread by: Water, air and direct contact
+Measles - spread by air - droplets from a sneeze/cough - red skin rash, fever, can be fatal
+HIV - STD, or exchanging bodily fluids(blood) - controlled by anti-retrovial drugs - HIV attacks immune system, and at late stage becomes aids
+TMV - Tobacco Mosaic Virus - causes a mosaic pattern on leaves, making them discoloured - slowing down rate of photosynthesis and affecting growth
+Rose black spot - fungal disease - purple or black spots on leaves, making them fall off. Spreads through water and wind, can be treated with fungicides.
+Malaria - protist - lives on mosquitos, from infected animals - vectors - spread by biting something else - repeated fevers, headaches, muscle pains etc - can be fatal
+Salmonella - food poisoning - caused by toxins produced in intestines - can cause: fever, stomach cramps, vomiting, diarrhoea.
+Gonorrhoea - STD - pain during urination, thick yellow/green discharge from penis or vagina - treated with penicillin, however has become more resistant.
