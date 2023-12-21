@@ -54,4 +54,16 @@ Artificial pacemaker - controls heartbeat with an electric current for heart
 Arteries - carry blood away from heart - high pressure - normal lumen - thick muscle walls, elastic fibres
 Vein - carry blood toward heart - low pressure - large lumen - thinner muscle walls, elastic fibre walls - valves to keep blood flow direction
 Capillary - tiny - thin, permeable walls for quick rate of diffusion. Take away waste like CO2. Arteries branch into capillaries which join up to form veins.
+Red blood cell - carry oxygen around body - biconcave disk & no nucleus for surface area - contains haemoglobin that binds with oxygen
+White blood cell - defend against infections, immune system - phagocytosis, antibodies, antitoxins
+Platelet - small fragment of cells - stops bleeding out and microorganisms in - helps blood clot at a wound
+Plasma - plae liquid which carries everything in your body around
+C.H.D - Coronary heart disease - coronary arteries blocked by layers of fat(chlorestrol), making lack of oxygen for heart.
+Stents - tubes inserted into arteries keeping them open - effective, long-lasting, durable, surgery is quick
+Statins - drugs reducing amount of chlorestrol in blood - reduces risk of other problems(strokes, heart attacks) - effective, used for years - must be taken regularly - risk someone forgets to take them - side effects like headaches, kidney failure, liver damage - not instant
+Artificial Hearts - less likely to be rejected than donor, surgery -> bleeding and infection, parts can wear out/fail, blood clots or strokes. Patient has to take drugs aswell.
+Biological valves - dont damage cells, less likely blood clots - needs replacing 10-20 yrs
+Mechanical valves - lasts a lifetime - can lead to blood clots, patients need to take anti-cloning drugs, valves can be loud enough to hear
 ```
+##### Plants
+ 
