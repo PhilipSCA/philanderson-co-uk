@@ -78,6 +78,7 @@ Transpiration rate - affected by: light intensity, temperature, air flow, humidi
 Potometer - method to test for transpiration rate
 ```
 ### B5
+```
 Pathogen - microorganisms that enter the body and cause disease.
 Communicable disease - infectious, can easily spread
 Non-communicable - unable to spread.
@@ -93,3 +94,41 @@ Rose black spot - fungal disease - purple or black spots on leaves, making them 
 Malaria - protist - lives on mosquitos, from infected animals - vectors - spread by biting something else - repeated fevers, headaches, muscle pains etc - can be fatal
 Salmonella - food poisoning - caused by toxins produced in intestines - can cause: fever, stomach cramps, vomiting, diarrhoea.
 Gonorrhoea - STD - pain during urination, thick yellow/green discharge from penis or vagina - treated with penicillin, however has become more resistant.
+Human Defences: 
+Skin - barrier to pathogens, also secretes antimicrobial substances
+Hair and mucus - act as a trap to pathogens
+Trachea and bronchi - covered in cilia and mucus to trap pathogens, cilia move mucus to back of throat to be swallowed
+Stomach - produces HCl acid to kill pathogens
+White blood cells - part of immune system - have a large nucleus, attack pathogens by phagocytosis, producing antibodies that lock onto antigens, produces antitoxins to cancel out any toxins.
+Phagocytosis - process of a WBC engulfing and digesting pathogens as a line of defense - done by phagocytes
+Antigens - shaped holes or stems on a pathogen that antibodies can latch onto, each pathogen's antigen shape is unique
+Lymphocytes - the WBCs that produce antibodies
+Semmelweis - Austria - 1840s - realised mothers treated by doctors got the disease more often than ones treated by midwives - told doctors to wash hands after operations - death rate fell 18% --> 1%
+```
+### B6
+```
+Vaccination - dead or inactive form of pathogen injected, stimulated WBCs to produce antibodies and kill it. When you are infected with the real pathogen, WBCs recognise it-with memory cells-and make adapted specific antibodies to quickly kill the pathogen and prevent you from getting disease.
+ . If a higher % of population is vaccinated, disease spreads less, and can be managed. If everyone is vaccinated, the disease could die.
+Painkillers - drugs that relieve pain/symptoms - don't cure disease (e.g aspirin, paracetamol, ibuprofen) 
+Antibiotics - drugs that kill bacteria without damaging your cells, (e.g penicillin, methicillin)
+ . Don't kill viruses - antibiotics attack the cell wall, but viruses live inside our cells, making it difficult to kill virus without damaging cells.
+ . Bacteria can mutate and become resistant to antibiotics if over-prescribed drugs or not finishing whole course of antibiotics
+4 Things to consider when making drugs:
+1) Safe - no unwanted side effects
+2) Effective - how good at treating the disease
+3) Stable - can be stored for a long period of time and used in normal conditions
+4) uptake and removal - how the body absorbs the drug, and clears it when used
+3 Things to consider in a drug:
+1) Efficiacy - effectiveness
+2) Toxicity - is it toxic to humans?
+3) Dosage - how often is it needed
+Drug development stages:
+1) Tested using computer models or cells in a lab
+2) Tested on animals to test for side effects
+3) Tested on small group of healthy humans to check its safety. Optimum dose is found.
+4) Tested on small group of diseased humans.
+5) Drug tested on large group of diseased patients - split into two groups - clinical double blind trials - patient and doctor dont know whether they have a placebo or not - monitor effectiveness, dosage, safety, side effects.
+6) Drug ready to be prescribed.
+Herd immunity - immunisation of a large proportion of a population, which reduces spread of pathogens
+Placebo - inactive form of a drug, to see any psychological effects.
+```
