@@ -118,10 +118,12 @@ Antibiotics - drugs that kill bacteria without damaging your cells, (e.g penicil
 2) Effective - how good at treating the disease
 3) Stable - can be stored for a long period of time and used in normal conditions
 4) uptake and removal - how the body absorbs the drug, and clears it when used
+
 3 Things to consider in a drug:
 1) Efficiacy - effectiveness
 2) Toxicity - is it toxic to humans?
 3) Dosage - how often is it needed
+
 Drug development stages:
 1) Tested using computer models or cells in a lab
 2) Tested on animals to test for side effects
