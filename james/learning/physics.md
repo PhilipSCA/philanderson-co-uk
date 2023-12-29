@@ -61,10 +61,29 @@ Beta particles - High speed electrons
 Gamma rays - Electromagnetic waves with short wavelength, far distance
 Alpha decay - Decreases charge and mass of nucleus, atomic number reduced by 2 and mass number by 4
 Beta decay - Increases charge of nucleus, neutron turns into proton and releases an electron
+```
 
-
-
-
+```
+Nebula - Cloud of dust and gas
+Protostar - Gravity pulls the dust and gas together
+Hydrogen nuclei - Undergoes nuclear fusion
+Nuclear fusion - Two nuclei react and fuse
+Nuclear fission - Neutron collides with an atom and splits it, releasing energy, chain reaction.
+Main sequence star - Stable period for billions of years where outward pressure expands star and balances gravity pulling inwards.
+Red giant - Hydrogen runs out and small star swells. Cools down.
+Red Super giant - Hydrogen runs out, larger star swells. Heavier elements at core
+White dwarf - Unstable star ejects outer layer of dust/gas, just core is left
+Black dwarf - White dwark cools and cant emit enough energy.
+Supernova - Red Super Giant undergoes more fusion, heavy element explode into this.
+Neutron star - Exploding supernova throws outer layer of dust/gas away, dense core left
+Black hole - If star is big enough, super dense point in space forms.
+Solar system - Sun orbited by 8 planets
+Planets - Large objects that orbit a star. Large enough to have gravity
+Dwarf planets - Orbit stars, dont meet rules to be a planet
+Moons - Orbit planets, natural satellite
+Artificial satellites - Man made satellites
+Milkyway Galaxy - Collection of billions of stars held by gravity
 
 
 ```
+
