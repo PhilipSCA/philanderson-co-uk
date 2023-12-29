@@ -5,11 +5,12 @@
 - [geography](#geography)
   - [contents](#contents)
   - [random terms](#random-terms)
+    - [Paper 2 : Challenges in the Human Environment](#paper-2--challenges-in-the-human-environment)
 
 ## random terms
 
+### Paper 2 : Challenges in the Human Environment
 ```
-Paper 2: Challenges in the Human Environment
 Sustainability - Meeting todays needs without harming future
 Ecotourism - Sustainable tourism
 Pull factor - Attracts you to somewhere
