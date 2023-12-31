@@ -4,12 +4,7 @@ Wind sheer - difference in wind speeds
 Coriolis effect - winds curving because of Earth's rotation
 Elliptical orbit - oval shaped orbit of Sun from Earth
 Precession - Earth's axis wobbles like a spinning top
-Biotic - living
-Abiotic - non-living
-Ecosystem - all biotic and abiotic things working together to live in an area
-Producer - greens - uses sunlight energy to produce food
-Consumer - gets its energy by eating other organisms, producers or consumers
-Decomposer - organism that gets its energy by breaking down dead material, dead producers and consumers (fallen leaves or animal remains. Bacteria/ fungi)
+
 Tundra - found above 60N - winters very cold, summers are brief, little rainfall - layer of permafrost - no trees, mosses, grasses, low shrubs
 Grassland - Savannah grassland found between tropics, dry and wet seasons - mostly grass, few scattered trees
 Temperate grasslands - higher latitudes, more variation in temperature - less rainfall - Only grass
@@ -84,10 +79,55 @@ Estuaries - found at mouth - tidal area - floods deposit silt & sand & form mudf
     
 ## The Living World
 ### Ecosystems
+Biotic - living
+Abiotic - non-living
+Ecosystem - all biotic and abiotic things working together to live in an area
+Producer - greens - uses sunlight energy to produce food
+Consumer - gets its energy by eating other organisms, producers or consumers
+Decomposer - organism that gets its energy by breaking down dead material, dead producers and consumers (fallen leaves or animal remains. Bacteria/ fungi)
+Food chain - diagram - transfer of energy from ONE organism to another and another by eating
+Food web - diagram - a network of food chains, linking multiple organisms in one ecosystem together - transfer of energy in an ecosystem.
 ### Tropical Rainforests
+Climate - 20-28C over year, high rainfall - 2000mm per year - rains every day
+Epiphyte - plants that grow on other plants, take nutrients/moisture from air (e.g fern, orchids)
+Soil - isn't fertile - heavy rain washes nutrients away. There are surface nutrients
+Animals - believed to have more species than any other ecosystem.
+Biodiversity - the variety of organisms living in an area, both plants and animals
+Symbiotic relationship - where they each depend on each other for survival
+Cecropia trees - hollow stems, produce energy-rich foodstuff at base of their leaves
+Plants - trees, evergreen - height, 50m+ - vegetation cover, dense - very little light reaches floor
+Plant adaptations:
+- thick, waxy leaves with pointed drip-tips - channel rainwater to point, encourage run-off - weight of water cant damage plant
+- Smooth, thin bark - no need to protect trunk from cold weather. Smooth surface - water run-off easier and quicker
+- Large, stable buttress roots - support tall tree trunks, and get more nutrients
+- Plants drop leaves gradually throughout year - meaning they grow all year round
 ### Hot Deserts
 
 ## Urban Issues & Challenges
 ### London
 ### Rio De Janiero
 ### Urbanisation
+
+### Natural Hazards
+Geological hazards - hazard caused by land and tectonic processes - volcanoes, earthquakes, landslides
+Meteorological hazards - hazards caused by weather and climate
+Hazard risk - probability of people being affected by a hazard in an area
+Primary effects - immediate impacts caused by hazard itself
+Secondary effects - impact that happen after as a result of the primary effects.
+Tectonic plates - plates that make up our crust
+Crust - Earth's outer layer
+Continental Crust - thicker (30-50km) and less dense
+Oceanic crust -  thinner (5-10km) and more dense
+Mantle - layer after crust
+Destructive plate margin - two plates colliding towards each other:
+ oceanic + continental --> denser oceanic plate subducted(forced down into mantle) & destroyed, creating gas rich magma. Volcanoes and ocean trenches occur here.
+ oceanic + oceanic --> cooler, denser one subducts into mantle.
+ continental + continental --> ground folds upwards --> fold mountains.
+Constructive plate margins - two plates moving away from each other - magma rises from mantle to fill gap & cools, making new crust
+Conservative margins - two plates sliding sideways past each other, or same direction at different speeds
+Focus - point where earthquake starts
+Epicentre - point on Earth's surface straight above focus
+Logarithmic scale - scale 1-10, where each difference between two numbers is the same for all.
+Global atmospheric circulation - transfer of heat from equator to poles by movement of air.
+Seismometer - measures seismic waves, records motion of earthquake
+Saffir-simpson scale - measurement for hurricane wind speeds
