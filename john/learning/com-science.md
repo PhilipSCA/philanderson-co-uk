@@ -36,4 +36,52 @@ Linear search - works in any list - start from beginning, check each item
 Bubble sort - sorts unordered lists - compares first values and swaps - biggest value to right
 Merge sort - decomposition method for sorting unordered lists - split, sort, merge back
 Insertion sort - sorts unordered lists - compares each value to first value, swaps - biggest value to left
- 
+
+## Components of a Computer System
+Hardware - physical items in a computer system - you can see them
+Software - programs or applications that computer system runs (e.g Operating System)
+General purpose computer - designed to perform many tasks
+Dedicated systems - designed for one particular function
+Embedded system - systems, usually dedicated, built into another larger device. (E.g: Calculator, washing machine, car navigations, ATMs.)
+
+CPU - Central Processing Unit - processes all data & instructions - fetch-decode-execute cycle - executes instructions
+Control Unit(CU) - decodes, executes program instructions in cycle - controls flow of data in (to registers) and out (main memory, input/output devices) of CPU, controls hardware
+Arithmetic Logic Unit(ALU) - performs all calculations, logic operations and binary shifts needed - stores result in accumulator
+Cache - very fast primary memory - stores frequently used data for quicker access by CPU - more expensive, lower capacity than RAM, slower than registers, faster than RAM.
+Level 1 Cache - quickest, lowest capacity - closest to CPU
+Level 2 - slower, bigger capacity
+Level 3 - slowest, highest capacity
+
+### Memory
+
+Main Memory - where all data, files, programs are stored when being used
+Primary storage - Memory areas that the CPU can access very quickly: (Registers, Cache, RAM, ROM)
+- fastest read/write times 
+- mostly volatile
+RAM - main memory in computer - can be read & written to - volatile - slower than CPU cache
+ROM - Read Only Memory - can only be read - non-volatile - built into the motherboard. 
+- Contains BIOS(Basic Input/Output System) - all instructions needed for a computer to boot up. 
+- Copies OS into RAM.
+
+Secondary storage - non-volatile - where all data is stored when not in use: Magnetic HDDs, SSD, CD, Magnetic tapes, SDs
+- read/write times are alot slower than primary storage
+1) HDD - internal storage in PC/laptops - made up of stack of magnetised metal disks spinning at a rate of 5400-15000rpm - data stored magnetically in sectors within circular tracks, read/write heads access sectors on disk 
+- long lasting, reliable, cheap, high capacity
+2) SSD - no moving parts - most use flash memory - internal storage 
+- significantly faster read/write times than HDD - fastest secondary storage
+- dont need defragmenting
+- more shock-proof
+- silent
+- shorter R/W life
+- hybrid drives exist, using SSD to boot up computer and HDD for data
+3) Optical discs - CD, DVD, Blu-ray - CD = 700 MB of data, DVD = 4.7GB, Blu-ray = 25GB,
+  Read-only (CD-ROM, DVD-ROM, BD-ROM) - Write-once(CD-R, DVD-R, BD-R) - rewriteable(CD-RW, DVD-RW, BD-RW)
+- cheap, portable, durable from water or shocks
+- use is declining, low capacity
+- very slow R/W times
+- poor reliability
+1) Magnetic tapes:
+- greater capacity than HDDs (very high)
+- extremely low cost per GB (cheapest S.Storage)
+- very slow when finding specific data, but fast R/W speeds when data in correct place.
+- Often used by large businesses in archive libraries to store huge amounts of data
