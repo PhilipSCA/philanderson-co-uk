@@ -34,8 +34,8 @@ Oscilloscope - Tool for analysing waveform of signals
 Terminal velocity - Max velocity
 Inertia - Unchanged
 Atmospheric pressure - Average air pressure at sea level, measurement
-Alternating current (AC) - Flow of current switches at intervals
-Direct currect (DC) - Flow of charge goes in one direction
+Alternating current (AC) - Flow of current changes at intervals. Found in mains
+Direct currect (DC) - Flow of charge goes in one direction and is steady. Found in batteries
 Step up transformer - Increases voltage, decreases current
 Step down transformer - Decreases voltage, increases current
 Live wire - 230V, carries volts to mains in power supply, Brown
@@ -44,7 +44,6 @@ Earth wire - Carries current to ground for safety, green and yellow
 Fuse - Electrical safety device if current overloads
 Charge - Coulombs, current flow of particles
 Pylons - Structures that support high voltage overhead power lines
-Thermistor - Temperature resistor
 Convection - Particles move from hotter to cooler regions
 Vectors - Magnitude and direction
 Scalars - Only magnitude, no specific direction
@@ -83,7 +82,36 @@ Dwarf planets - Orbit stars, dont meet rules to be a planet
 Moons - Orbit planets, natural satellite
 Artificial satellites - Man made satellites
 Milkyway Galaxy - Collection of billions of stars held by gravity
-
-
+Diode - Current only flows one way. Very high resistance in other direction
+Resistor - Resistance stays constant. Current proportional to pd
+Variable resistor - Resistance can be set by someone.
+LED - Light Emitting Diode, Diode that gives off light
+Lamp - Lights up when current flows to it. Resistance increases as temperature increases
+Thermistor - Resistance depends on temperature. Resistance decreases as temperature increases
+LDR - Resistance decreases as light intensity increases. Used in automatic lights
+Cell/Battery - Provides p.d and energy for a circuit
+Current (I) - Rate of flow of electric charge. (Amps)
+Charge (Q) - Current x Time. Number of electrons. (Coulombs)
+Potential difference (V) - Energy transferred per unit charge. The push on electrons (Volts)
+Resistance (R) - Ability to slow current. P.d / Current. (Ohms)
+Switch - When its closed, current flows through
+Fuse - Resistor that melts if current is too high
+Voltmeter - Measures p.d across a component
+Ammeter - Measures current through a component
+Series circuit - Current has one route and is the same all way round. Potential difference is shared and resistance is added
+Parallel circuit - Current has multiple paths. Current is shared on branches. P.d is the same and total resistance is small
+Energy transferred - Charge x voltage
+UK mains - AC supply is 230V and frequency is 50Hz
+National grid - System of cables and transformers to get people electricity
+Time period = 1 / Frequency
+Frequency - Number of times a second AC changes direction. (Hz)
+Frequency formula - Cycle x (Time base x Cycle)
+Electrical power formula - Current² x Resistance
+Static electricity - When charges are not free to move.
+Static - Caused by friction. Negative electrons passed onto another surface
+Sparks - From too much static, electron jump to earthed conductor
+Polythene and Acetate rod - Example with cloth dustor showing static from friction
+Static charge - Caused from electrons moving to another surface
+Electric field - Around any electrically charged object.
 ```
 
