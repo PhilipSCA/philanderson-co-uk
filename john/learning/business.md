@@ -16,7 +16,6 @@ M-commerce - selling products and services on apps and mobile devices
 Entrepreneur - someone who starts a business 
 Fixed costs - costs that dont change based on the output
 Variable costs - costs that do change based on the output
-Gap in market - area on a market map where there is an opportunity
 Inflation - when the average prices for goods increase
 Margin of safety - the amount that sales can fall before businesses start making a loss
  - sales - break-even output
@@ -74,20 +73,79 @@ Advantages: - Up to date
 Disadvantages :::::::::::::::::
 - Can be difficult to collect
 - time-consuming
-- Expensive to collect
-- May provide misleading results, if sample is small or questions worded wrong
-Secondary research - using research already conducted for general purposes(textbooks, websites, articles) Advantages:
+- Expensive
+- possible misleading results, if sample is small or questions worded wrong
+Secondary research - using research already conducted for general purposes(textbooks, websites, articles, reports) 
+Advantages:
 - easy and quick to gather
 - Cheaper
 - Good overview of a market, provide industry, specific information
 Disadvantages:
-- Data may be out of date
-- Not tailored to your own needs
+- may be out of date
+- Not tailored to own needs
 - Expensive to buy reports on many different marketplaces
 - Inaccurate
-### 1.3 - Putting a business idea into practice
+    
+Quantitative data - numerical data - statistics, graphs etc.
+Advantages: 
+1) Data easy to analyse
+2) provides insights into relevant trends
+3) Can be compared with data from other sources
+Disadvantages: 
+1) Does not explain reason behind trends or data
+2) May not be reliable - if sample size or method is invalid 
 
+Qualitative data - descriptive data, cannot be measured in numbers, Based on opinions 
+Advantages: 
+1) Essential for important now product development and launches
+2) Focused in understanding customer needs, expectations - very useful info for decision making
+Disadvantages:
+1) Expensive to collect and analyse
+2) Based around opinions - sample possibly biased/not representative of everyone
+Role of social media - easy way to attract customers, spread your product - raise lots of attention/awareness - increases reputation - can interact with customer base more. 
+#### 1.2.3 - Market segmentation
+Market segmentation - process of dividing up a target market into sub-categories, to target individually: 
+Location - where the target market live - weather & activities in area etc, 
+Demographics - gender, religion, age, family type - wants and needs,
+Behaviour - how do consumers behave when buying? - saving vs buying times,
+Lifestyle - what consumers do in their spare time - general interests,
+Income - amount of money they earn - willing to spend, affordable
+Market mapping - diagram of similar products or businesses in a market, scaled against their features, usually price and quality. Allows a business to: identify its competitors, spot any gaps in market(main reason), useful for analysing competitors - decision-making, see all products in market
+Gap in market - area on a market map where there is an opportunity
+Competitive environment - a market where there are other businesses producing the same or similar goods/services - competition is high
+- More competition = less profits - more customers going to other businesses, lower prices
+
+### 1.3 - Putting a business idea into practice
+#### 1.3.1 - aims and objectives
+Aim - a long-term goal a business wants to achieve
+Objective - more specific steps that a business takes to achieve its aim
+Factors affecting aims and objectives: size of business, level of competition, type of business, different sectors
+Aims/Objectives need to be SMART:
+S - Specific
+M - Measureable
+A - Achievable
+R - Realistic
+T - Time
+- Objectives help a business as - it encourages entrepreneurs to improve - it sets out your clear goals - influences better decision-making.
+- Financial aims and objectives: Survival - no risks, Profit, Market share, Sales, Financial security
+- Non-financial goals: Social objectives, Personal satisfaction, Challenges, Independance & control
+#### 1.3.2 - Revenue, costs and profits 
 ### 1.4 - Making the business effective
 
 ### 1.5 - Understanding external influence
 
+## 9 markers
+Structure:
+Option 1 - Pro/con of chosen option - with linked strands
+         - A second pro/con of chosen option - with linked strands
+
+Option 2 - Pro of chosen option - with linked strands
+         - Con of chosen option - with linked strands
+
+Option 3 - Pro/Con of option 1 - linked strands
+         - Pro/Con of option 2 - linked strands
+
+Conclusion: AJH
+- Answer the Question
+- Justify answer
+- However..., it depends, ...
