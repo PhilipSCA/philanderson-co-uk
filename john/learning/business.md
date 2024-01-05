@@ -14,8 +14,6 @@ Demand - how much customers want a product
 E-commerce - selling products and services online
 M-commerce - selling products and services on apps and mobile devices
 Entrepreneur - someone who starts a business 
-Fixed costs - costs that dont change based on the output
-Variable costs - costs that do change based on the output
 Inflation - when the average prices for goods increase
 Margin of safety - the amount that sales can fall before businesses start making a loss
  - sales - break-even output
@@ -44,7 +42,7 @@ Invention - creating an original, brand new idea
 Innovation - adapting and upgrading an existing idea
 E-commerce - selling products/services online, using the internet
 M-commerce - selling products/services through mobile apps, with your phone
-Profit - money gained (revenue - expenses)
+Profit - money gained (revenue - total costs)
 Market research - gathering information through research for your business - helps: identify & understand customer needs, find gaps in the market, make better business decisions and reduce risks
 #### 1.1.2 - risk and reward
 Risks in a business: Financial loss, running out of materials, lack of security, business failure, poor management
@@ -129,9 +127,59 @@ T - Time
 - Objectives help a business as - it encourages entrepreneurs to improve - it sets out your clear goals - influences better decision-making.
 - Financial aims and objectives: Survival - no risks, Profit, Market share, Sales, Financial security
 - Non-financial goals: Social objectives, Personal satisfaction, Challenges, Independance & control
-#### 1.3.2 - Revenue, costs and profits 
-### 1.4 - Making the business effective
+#### 1.3.2 - Revenue, costs and profits
+Revenue - income earned by a business over a period(eg. sales revenue, turnover) - Quantity sold x price
+Costs - expenses involved in making a product
+Variable costs - costs that change based on the output (eg. packaging, bills, materials)
+Fixed costs - costs that dont change based on the output - stay the same (eg. rent, salary, tax, insurance)
+Total costs = fixed costs + variable costs
+Loss - when revenue is lower than costs
+Interest - percentage charge on borrowed money/percentage reward for saving money 
+ - amount borrowed x (interest rate / 100)
+ - % interest rate = (total repayment - borrowed amount) / borrowed amount x 100
+ - Total repayment = amount borrowed + interest
+Monthly payments = total repayment / (years of loan x 12)
+Break-even - when total costs are the same as total revenue
+Profit and loss accounts - income statements - used to keep track of profits
+costs of goods sold - the amount of money used to make all products that were sold
+Expenses(overheads) - the costs that don't change as production changes. This includes interest paid on loans, insurance, salaries, and maintenance costs
+Gross profit = revenue - cost of goods sold
+Net profit = gross profit - expenses(overheads)
+Break-even point - the point where a business' costs is the same as their revenue - neither a profit or loss (in sales)
+Break-even point = fixed costs / selling price - variable costs per unit - Contribution - (in units/sales)
+Contribution - selling price per unit - variable costs per unit - profit earned each sale
+Margin of safety - number of units sold above break-even point
+Margin of safety = sales in units - break-even output
+#### 1.3.3 - Cash flow
+Cash flow - flow of money into and out of a business
+Cash inflows - money into the business (interest recieved, rent recieved, gov. grants, sales, sale of premises, overdraft)
+Cash outflows - money going out the business (Advertising, Insurance, taxes, purchases, Utilities, Salaries)
+Cash flow forecast - prediction of cash flow over time, usually month by month - negatives shown in brackets
+Net cash flow - cash inflows - cash outflows
+Opening balance - capital at start of (month) - closing balance of last month
+Closing balance - opening balance + net cash flow
+Insolvency - when a business doesnt have money to pay its debts
+Overdraft - the amount of an agreed overdraft facility that a business uses - when a business has negative money
+Overdraft facility - maximum amount a business is allowed to use in negative balance
+#### 1.3.4 - Sources of Finance
+Source of Finance - 
+Short term:
+OVERDRAFT - allows a business to withdraw funds from its account that arent there, up to an agreed limit
+    - Adv: You only borrow what you need, may make it cheaper than a loan
+    - Adv: interest paid only on amount used
+        - Dis: Fees can add up quickly
+        - Dis: can damage your credit rating if regularly exceed limit
+        - Dis: cannot be used for large borrowing
+Trade credit - arrangement to buy something and pay for it later
+    - Adv: improves buyer loyalty
+      - Dis: risk of bad reputation, losing future arrangements with supplier if bills not paid on time
+      - Dis: Difficult for new start-up businesses to get supplier - risk business will fail
+      - Dis: expensive if payment date missed
+ - Credit limit - max amount of money you can borrow on your credit card at a time
+ - Credit period - days that a customer is allowed to wait before paying an invoice
 
+### 1.4 - Making the business effective
+  
 ### 1.5 - Understanding external influence
 
 ## 9 markers
