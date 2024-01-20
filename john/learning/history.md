@@ -5,18 +5,33 @@ Turnip Winter -1917 - naval blockade - 750,000 starved to death, producing 50% m
 Naval blockade - Allies' ships blocked off supplies to Germany 1914-19
 Kaiser - forced to abdicate - 1918
 Armistice - ceasefire, signed 11 nov 1918, government 'November criminals'
-Spartacist uprising - 1919 - 50,000 communists tried to overthrow government in Berlin, quickly crushed by Freikorps - Rosa Luxembourg killed.
+
 Treaty Of Versailles - 1919 - weakened Germany heavily, land, military and economic terms (£6.6b in reparations)
-Kapp Putsch -1920 - 250,000 ex-Freikorps led by Wolfgang Kapp took over Berlin - army refused to fire on them, 12m german workers went on strike - putsch lasted 6 days and failed - Kapp fled to sweden
+
 Nazi Party - made in 1920, had 6,000 members
 1921 - SA formed to protect Nazis from rival groups
-Ruhr - Jan 1923 - 60,000 French & belgium troops invaded - took coal and timber, humiliation - led to hyperinflation
 Munich Putsch - Nov 1923 - Weimar called off 'passive resistance' 2,000 ready to fight - got support of war hero Ludendorff. Putsch failed, Hitler arrested
 Rentenmark - new currency introduced after hyperinflation in 1923
 356 political assassinations 1919-23
 1933 - Gestapo - 200,000 members
 1934 - 'Peoples Court' set up
 ```
+### Weaknesses of Weimar constitution
+Germany - republic - nationalists unhappy
+1) Proportional representation - voting method - made it hard to make decisions in the Reichstag - led to 22 coalitions 1919-1928 - unstable. Helped Hitler win power as coalitions fell apart with how to deal with Great Depression
+2) Article 48 - president power to act without parliaments approval, in emergency - power overused - weakened confidence in democracy - Hitler used in Reichstag fire - 4,000 locked up
+3) Same people in charge of army and courts - Generals and judges had served Kaiser - opposed new system - ex-soldiers assassinated opponents, biased judges didnt punish as much - encouraged 354 assassinations 1918-23 - undermining stability, from 1920-23, extreme nationalists tried to take control, but failed.
+
+### Threats to the Weimar Republic 1919-23
+Spartacist uprising - Jan 1919 - 50,000 communists tried to overthrow government in Berlin, quickly crushed by Freikorps - Rosa Luxembourg & 3,000 killed
+Kapp Putsch -1920 - 250,000 ex-Freikorps led by Wolfgang Kapp took over Berlin - army refused to fire on them, 12m german workers went on strike - putsch lasted 6 days and failed - Kapp fled to sweden
+Unpopularity - injustice(unfairness) of treaty - 'stab in the back' - politicians called 'November criminals' - army also not happy. - 376 political assassinations total - biased judges sympathised and fewer prosecutions
+Ruhr - Jan 1923 - 60,000 French & belgium troops invaded - took coal and timber - 130 died resisting, humiliation - led to hyperinflation
+Hyperinflation - workers on strike(passive resistance) - not mine coal for French - Government printed more money - loaf of bread, 250 marks to 200 billion - wheelbarrows for wallets, food shortages, rise in crime
+Munich Putsch - 8/9th Nov 1923 - 600 SA leaders burst into a beer hall meeting - forced leaders to rebel. 9th Nov - Hitler + 2000 SA members into Munich - police and army reinforcements there - 16 SA killed - Hitler arrested - made speeches over 24 days attacking government. Sentenced to 5 years, banned from public speaking.
+
+
+
 
 ## Golden Years
 ```
@@ -101,3 +116,24 @@ Jobs - Many Jews forced out of their jobs, especially professions like lawyers a
 30th April 1939 - laws got worse - Jews evicted from their homes and forced into designated areas.
 By summer 1939 - about 250,000 Jews (about half of Jews) had left Germany.
 
+
+## COLD WAR
+Grand alliance - 1941 - Soviet union, USA and Britain - joined to win and end the war
+Tehran conference - 1943 - D-day - USA and Britain invade France on a second front in 1944, USSR join war after Nazis defeated
+Yalta - Feb 1945 - Agreed to: 
+1) split Germany into 4 zones(France, Britain, USA, USSR each a zone)
+2) force Germany to pay reparations
+3) set up the United Nations
+4) Free elections in eastern european countries liberated from Nazi control
+Disagreements over how Poland should be run. - made it clear that agreements on eastern europe would be difficult.
+Potsdam - July 1945 - Agreed to:
+1) Divide Germany and Berlin into 4 zones
+2) Let the power in each zone take reparations in kind from its zone
+Stalin made Poland's government pro-communist - Truman and Churchill concerned Stalin wasnt going to allow free elections as agreed in Yalta.
+Stalin insisted Germany pay Soviet higher reparations to compensate for losses during war, but other members of Alliance refused.
+Capitalism - ideal-everyone free to invest money to own land, businesses and property. Can keep any profits they make - democracy - hierarchy
+Communism - ideal-all land, businesses owned by state and profits made used for good of all. No individual profit-making - Elections from same party, all citizens equal.
+Long Telegram - 1946 - George Kennan - Soviet Union heavily armed, wanted to destroy capitalism. USSR threat to world peace, USA needed strong action
+Novikov telegram - 1946 - Nikolai Novikov - USA wanted to take over world, even if they had to go to war with USSR to destroy communism.
+Satellite state - countries controlled or under the influence of USSR - many people unhappy in these countries but faced oppression if objected.
+Iron curtain - 'metaphor' - border between pro-capitalist European countries in West and pro-communist countries in the East.
