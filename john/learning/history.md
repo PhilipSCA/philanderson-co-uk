@@ -142,4 +142,9 @@ Iron curtain - 'metaphor' - border between pro-capitalist European countries in 
 ## Migration
 ### c800-1500
 #### WHY
-Vikings - economic opportunities - 
+Vikings - economic opportunities - came to raid then settle - captured York - wealth of monasteries - Lindisfarne - after 878 Wedmore , for farmland and trade
+Normans - economic opportunities - settled in London, conq. rest of England - wealth of england - 6000+ mills, wool
+Flemish weavers - encouraged by Ed III -(Kings wanted to develop weaving - move from primary to secondary) - came for opportunity to trade 
+Hansa merchants - encouraged by Kings - came for opportunity to trade also
+
+Jews & Lombardy bankers - invited by Kings - came as financers
