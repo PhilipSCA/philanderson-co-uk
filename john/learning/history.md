@@ -142,13 +142,17 @@ Iron curtain - 'metaphor' - border between pro-capitalist European countries in 
 ## Migration
 ### c800-1500
 #### WHY
+```
 Vikings - economic opportunities - came to raid for treasure, then settle - 865 'Great Heathen Army' captured York - wealth of monasteries - Lindisfarne - after 878 Wedmore & Danelaw, for farmland and trade
 Normans - economic opportunities - settled in London, conq. rest of England - wealth of england - 6000+ mills, wool
 Flemish weavers - encouraged by Ed III -(Kings wanted to develop weaving - move from primary to secondary) - came for opportunity to trade 
 Hansa merchants - encouraged by Kings - came for opportunity to trade also
 Jews & Lombardy bankers - invited by Kings - came as financers
+```
 #### Experience
+```
 Lombardy bankers - wealth from plans to build castles
 Flemish weavers & Hansa merchants - could own guilds, reduced taxes
 Normans - conquerors - 95% of land in their hand - 100,000 settle after
 Vikings - for a while, Danelaw - own laws. Things' areas - Canute ruled 1016-35
+```
