@@ -137,3 +137,9 @@ Long Telegram - 1946 - George Kennan - Soviet Union heavily armed, wanted to des
 Novikov telegram - 1946 - Nikolai Novikov - USA wanted to take over world, even if they had to go to war with USSR to destroy communism.
 Satellite state - countries controlled or under the influence of USSR - many people unhappy in these countries but faced oppression if objected.
 Iron curtain - 'metaphor' - border between pro-capitalist European countries in West and pro-communist countries in the East.
+
+
+## Migration
+### c800-1500
+#### WHY
+Vikings - economic opportunities - 
