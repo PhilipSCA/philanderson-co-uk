@@ -5,6 +5,7 @@
 - [business](#business)
   - [contents](#contents)
   - [random terms](#random-terms)
+    - [2.3 - Making Operational Decisions](#23---making-operational-decisions)
 
 
 ## random terms
@@ -111,11 +112,29 @@ Temporary contract - Agreement to work and earn for some time
 Trade bloc - Group of countries agreed to have free trade
 Viral advertising - People spread messages for you
 Autonomy - Independence to decide what you do for work
-Batch production - Limited number of identical products
-Job producion - One specific product for one customer
-Flow production - Continous efficient production of identical product
 Buffer stock - Minimum stock level at all times
 Commission - Being paid a % of sale you made
 CV - Curriculum Vitae - Document for qualification
 External influence - Factors/Changes outside a business making a difference
+```
+### 2.3 - Making Operational Decisions
+```
+Batch production - Large quantities, often follow a trend and use automation
+Flow production - Large quantities, continuous with automation
+Job production - Single custom product for one customer, highly flexible
+Flexibilty - Ability to switch quickly and easily to/from tasks
+Robots - Machines that can be programmed to do tasks.
+Bar gate stock graph - Graph showing stock over months. (Buffer stock, lead time etc)
+Procurement - Getting right supplies from the right supplier
+Availability - Knowing how to get the right supplies quickly, flexibility.
+Logistics - Ensuring the right supplies are ordered on time
+Trust - Building relationship where both sides rely on the other.
+Supplier relationships - Good quality, delivery, availability and cost.
+Quality control - Where quality of product is checked at end of production.
+Quality assurance - Quality of product is checked at each stage of production.
+Quality - Critical for business reputation, how good the products are.
+Delivery - Efficient and reliable service from supplier.
+Customer engagement - Attempt to make customer feel part of something
+Customer feedback - Comments, praise or criticisms given to reflect.
+Customer service - Methods used by a business to look after customers.
 ```
