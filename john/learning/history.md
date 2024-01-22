@@ -145,14 +145,31 @@ Iron curtain - 'metaphor' - border between pro-capitalist European countries in 
 ```
 Vikings - economic opportunities - came to raid for treasure, then settle - 865 'Great Heathen Army' captured York - wealth of monasteries - Lindisfarne - after 878 Wedmore & Danelaw, for farmland and trade
 Normans - economic opportunities - settled in London, conq. rest of England - wealth of england - 6000+ mills, wool
-Flemish weavers - encouraged by Ed III -(Kings wanted to develop weaving - move from primary to secondary) - came for opportunity to trade 
+Flemish weavers - encouraged by Ed III -(Kings wanted to develop weaving - move from primary to secondary economy) - came for opportunity to trade 
 Hansa merchants - encouraged by Kings - came for opportunity to trade also
 Jews & Lombardy bankers - invited by Kings - came as financers
 ```
 #### Experience
+##### Positives
 ```
 Lombardy bankers - wealth from plans to build castles
-Flemish weavers & Hansa merchants - could own guilds, reduced taxes
+Flemish weavers & Hansa merchants - could own guilds, reduced taxes - promised strong protection by King Edward III
 Normans - conquerors - 95% of land in their hand - 100,000 settle after
-Vikings - for a while, Danelaw - own laws. Things' areas - Canute ruled 1016-35
+Vikings - for a while, Danelaw - own laws, things, areas - Canute ruled 1016-35
 ```
+##### Negatives
+St Brice's Day massacre - 1003 - some Danes killed
+1069 - rebellion - 900 Normans killed
+Jews prosecuted - 1190 - hundreds killed in York - 1290 expelled from England by Ed I
+Times of trouble - attacks on any foreigners - 150 killed in 1381 Peasants Revolt
+Hosting Law 1400s - foreigners over 12 have to pay tax
+Steelyard attacked 1492 - London
+
+#### Impact
+Vikings - government - helped develop Jury system. Danelaw - own laws in North/East
+Vikings - cultural - place names, 'Thorpe' and words - Skull, knife, window. Days of week - Tiw, Woden, Thor, Freya (1000+ words)
+Vikings - physical - viking York grew from 1-15K
+Normans - government - Feudal system - clear hierarchy - King, tenants, knights, ceorls - freeman, landowners - only 5% left Saxon hands, peasants. 
+  Church - owned 25% of land.
+  Forest laws - huntering and gathering wood banned in 30% areas - Murdrum laws - more executions  
+Jewish & Lombardy bankers - economic - help fund businesses, castles, cathedrals - help fund conquest of Wales by Ed I
