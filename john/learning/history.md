@@ -149,7 +149,7 @@ Flemish weavers - encouraged by Ed III -(Kings wanted to develop weaving - move 
 Hansa merchants - encouraged by Kings - came for opportunity to trade also
 Jews & Lombardy bankers - invited by Kings - came as financers
 ```
-#### Experience
+#### EXPERIENCE
 ##### Positives
 ```
 Lombardy bankers - wealth from plans to build castles
@@ -165,11 +165,28 @@ Times of trouble - attacks on any foreigners - 150 killed in 1381 Peasants Revol
 Hosting Law 1400s - foreigners over 12 have to pay tax
 Steelyard attacked 1492 - London
 
-#### Impact
+#### IMPACT
 Vikings - government - helped develop Jury system. Danelaw - own laws in North/East
 Vikings - cultural - place names, 'Thorpe' and words - Skull, knife, window. Days of week - Tiw, Woden, Thor, Freya (1000+ words)
 Vikings - physical - viking York grew from 1-15K
 Normans - government - Feudal system - clear hierarchy - King, tenants, knights, ceorls - freeman, landowners - only 5% left Saxon hands, peasants. 
   Church - owned 25% of land.
   Forest laws - huntering and gathering wood banned in 30% areas - Murdrum laws - more executions  
+Normans - cultural - words - Beef, pork, lamb || popular names - John, William
+Normans - cultural - new architecture style - Romanesque, gothic - tall pointed archers, stained glass windows, culture of hunting and chivalry.
+Normans - physical - castles - Dover, Tower of London, new Cathedrals (Durham) dominate landscape.
+Normans - physical - Harrying Of the North 1069 - York, Durham villages destroyed
+Dutch - cultural - introduced hops for brew beer
 Jewish & Lombardy bankers - economic - help fund businesses, castles, cathedrals - help fund conquest of Wales by Ed I
+Lombardy bankers - economic - bills of exchange - made London a financial centre
+Jewish loans - help fund many great buildings - Westminister abbey & Merton college, Oxford
+
+Flemish weavers, Hansa merchants - economic help trade grow - move from primary to secondary economy(export finished cloth)
+Hansa, Normans, Vikings - link more European trade
+
+### c1500-1700
+#### WHY
+Huguenots - persecution - protestants fled persecution from France after St Bartholomew's day massacre, banning of their shops and tolerance - French King ended 'Edict Of Nantes' - 1685 - 50,000 settled in England
+Huguenots - government - Charles II - letters of Denization | 1681 | allowed Huguenots to gain type of citizenship
+Jews - persecution - 30,000 killed in Ukraine - England tolerated them - Flemish & Walloons
+Jews - government - Cromwell & Charles II - allowed Jews to return
