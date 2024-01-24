@@ -2,6 +2,7 @@
 Decomposition - breaking a complex problem into smaller problems to solve individually
 Abstraction - filtering unnecessary information out of a problem and focusing on what is important.
 Algorithmic thinking - logical way of solving problems, step by step
+
 Pseudo-code - follows a similar structure of every coding language - easily readable - can be converted into any programming language
 Flowcharts - diagram showing algorithms, using different symbols, arrows.
 Casting - changing a data type
@@ -16,7 +17,8 @@ Definite iteration - when loop repeats exact number of times instructed.
 Nested iteration - loop inside another loop
 Subroutines - set of instructions stored under one name, function or procedure
 procedure - function that doesnt return a value
-Global variable - variable that can be used anywhere in code
+Local variable - can only be used in the structure they're declared in (subroutine)
+Global variable - variable that can be used anywhere in code, after the declaration
 ASCII - 7-bit character set - (128 characters)
 ASCII extended - 8-bit - 256 characters
 Unicode - 16-bit - 65,000+ characters - every possible character in every language
@@ -85,3 +87,20 @@ Secondary storage - non-volatile - where all data is stored when not in use: Mag
 - extremely low cost per GB (cheapest S.Storage)
 - very slow when finding specific data, but fast R/W speeds when data in correct place.
 - Often used by large businesses in archive libraries to store huge amounts of data
+
+Array - data structure that can store a group of values, of one same type, under one name
+Record - data structure that can store different data types - single row in a data table
+Field - individual data items within a record - columns in the data table
+Parameter - variables that are passed as a value into a subroutine
+Argument - the values that you assign to the parameters
+Module - external python file which often contains functions
+Structured (modular) programming - decomposing the program that you want to write into manageable modules
+Input validation - checking if data meets certain criteria before passing it into the program
+Test plan - test to see if a program input is working by testing its boundaries
+Normal data - valid data that a user should input into a program
+Boundary data - data on the boundary of what the program should accept
+Erroneous data - invalid data the program shouldn't accept
+Trace table - table to test that a program is working
+NOT gate - output is opposite of input
+AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0.
+OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0
