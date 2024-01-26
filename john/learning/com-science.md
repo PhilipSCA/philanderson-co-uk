@@ -101,6 +101,11 @@ Normal data - valid data that a user should input into a program
 Boundary data - data on the boundary of what the program should accept
 Erroneous data - invalid data the program shouldn't accept
 Trace table - table to test that a program is working
-NOT gate - output is opposite of input
-AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0.
-OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0
+NOT gate - output is opposite of input (0, 1)
+AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0. (0, 0, 0, 1)
+OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
+XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
+Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
+Character set - collection of characters that a computer can recognise from their binary number
+Colour depth - number of bits used per pixel - 2^(number of bits)
+Resolution - the concentration of pixels in an area - given as WidthxHeight 
