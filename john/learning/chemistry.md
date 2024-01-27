@@ -204,3 +204,36 @@ Half equation for nonmetals - 2Yx- ---> Y2 + 2xe-
 Half eq. for hydrogen = 2H+ + 2e- ---> H2
 Half eq. for hydroxide = 4OH- ---> O2 + 2H20
 ```
+
+## C8 - Rates of reaction
+```
+Collision theory - Particles have to collide with enough energy for the collision to be successful
+Activation energy - minimun amount of energy needed to break bonds and start reaction
+Conservation of mass - in a chemical reaction, mass of reactants = mass of products
+Reversible reaction - a reaction where the products are able to turn back into reactants
+
+Rate of reaction factors:
+1) Temperature - more temp = more kinetic energy in particles - particles move faster | more frequent, successful collisions
+2) Concentration/pressure - more concentration = more particles in same volume | more frequent collisions
+3) Surface area - breaking up a solid into smaller parts increases its surface area: volume ratio - more particles exposed to surface of other reactant = more space to collide = more frequent collisions
+4) Catalyst - speeds up a reaction, without being used up - decreases activation energy needed - provides an alternate pathway with a lower activation energy
+
+Practicals: 
+1) Colour change - black cross - add chemical - record how long it takes for black cross to disappear (high turbidity)
+2) Change in mass - substance reacts with liquid - evaporation out of beaker - record mass at regular intervals - quicker the mass drops, faster the reaction - plot a graph(g/s)
+3) Volume of gas given off - gas syringe into beaker - substance reacts with liquid - record gas given out of beaker at regular intervals - more gas given off, quicker the reaction (cm^3s^-1)- plot a graph
+Graphs - gradient of the line at any point on a reaction/time graph = rate of reaction - steeper the gradient | faster the reaction
+
+Turbidity - cloudiness/clearness of a liquid
+Mean rate of reaction = amount of reactant used|product formed / time 
+Closed system - nothing can escape or enter the system
+Equilibrium - when the concentration of the reactants and products are balanced and wont change. - only in a 'closed system' - a balance is a reversible reaction - forward reaction happens at same rate as backward reaction
+ - the position of equilibrium can lie to the left or right(reactants or products) - depending on factors:
+   1) Temperature - INCREASE temperature = equilibrium move to ENDOTHERMIC reaction - use more heat
+                  - DECREASE temperature = equilibrium move to EXOTHERMIC reaction - produce more heat
+                  - You will get more product for wherever the equilibrium is, and fewer of the other reactant.
+   2) Pressure (gases) - INCREASE pressure = equilibrium moves in direction of FEWEST gas molecules, to reduce pressure
+                       - DECREASE pressure = equilibrium moves in direction of MOST gas molecules - to increase pressure
+Le Chatelier's principle - the equilibrium position can be changed if a change in conditions is introduced to the system
+- In reversible reactions, reaction can be endo/exothermic. If reaction is endothermic in one direction, it is exothermic in the other. (vice versa)
+```
