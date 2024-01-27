@@ -138,6 +138,27 @@ Novikov telegram - 1946 - Nikolai Novikov - USA wanted to take over world, even 
 Satellite state - countries controlled or under the influence of USSR - many people unhappy in these countries but faced oppression if objected.
 Iron curtain - 'metaphor' - border between pro-capitalist European countries in West and pro-communist countries in the East.
 
+Sat History lesson:
+ 
+Potsdam:
+1) Mistrust of Stalin greater - had just arrested 16 non-communist polish leaders
+2) Stalin wanted double reparations agreed | West wanted Germany to recover
+
+Soviet Takeovers:
+Why:
+- Russia attacked twice in a generation by Germany
+- 25m Soviet deaths in WW2
+- Wanted a buffer zone of friendly countries - security after Germany attacks(1914, 1941)
+
+I partially agree with Interpretation 2  as it says the fear of Germany and the opportunity to create a buffer zone were the most important features in the Soviet takeovers. I agree as I know that Stalin wanted a 'sphere of influence' around the Soviet Union, after being attacked twice in a generation by Germany. So clearly this evidence supports Interpretation 2 that the key features were defensive and opportunistic because Russia wanted more security..
+
+Interpretation 1 challenges Interpretation 2. It suggests that how the Soviet takeovers took place was the key feature, with rigged elections, arrests and assassinations. I agree as I know that in 1945, 16 non-communist polish leaders were arrested. Soviets also rigged elections like in Romania where communists won 70% of the vote. So clearly this evidence supports Interpretation 1 that the key feature of the Soviet takeovers was the negative consequences because it contributed to the Cold War rivalry and division of Europe.  
+
+
+
+
+
+
 
 ## Migration
 ### c800-1500
