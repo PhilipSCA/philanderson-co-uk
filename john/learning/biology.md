@@ -64,6 +64,9 @@ Statins - drugs reducing amount of chlorestrol in blood - reduces risk of other 
 Artificial Hearts - less likely to be rejected than donor, surgery -> bleeding and infection, parts can wear out/fail, blood clots or strokes. Patient has to take drugs aswell.
 Biological valves - dont damage cells, less likely blood clots - needs replacing 10-20 yrs
 Mechanical valves - lasts a lifetime - can lead to blood clots, patients need to take anti-cloning drugs, valves can be loud enough to hear.
+Cancer - uncontrolled cell growth & division - forms a tumour - can be benign/malignant | Risk factors: Smoking, Obesity, UV exposure, Viral infection, Genetics (inheriting faulty genes)
+Benign tumour - tumour grows until there is no more room - stays in one place - isn't usually dangerous or cancerous
+Malignant tumour - tumour grows and spreads to neighbouring tissues - cells can break off into bloodstream, invade healthy tissues - form secondary tumours - dangerous, can be fatal - cancerous
 ```
 ##### Plants
 ```
@@ -134,3 +137,8 @@ Drug development stages:
 Herd immunity - immunisation of a large proportion of a population, which reduces spread of pathogens
 Placebo - inactive form of a drug, to see any psychological effects.
 ```
+##### B something - Yr 11 - Body responses
+```
+Homeostasis - regulation of condition inside your body to maintain a stable internal environment, in response to internal/  external changes - body temperature, blood glucose level, water levels
+Negative feedback - when something gets too high/low, receptors detect the stimulus, coordination centre organises a response and effector acts to increase/decrease level - keeps on happening until not stimulated 
+Central Nervous System - brain, spinal cord (in humans) - connected to the body by sensory neurons and motor neurons
