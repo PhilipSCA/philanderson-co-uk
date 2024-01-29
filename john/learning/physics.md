@@ -37,14 +37,17 @@ Watts - joules of energy transferred per second
 ### P6 - Radioactivity
 Alpha particle - 2 protons, 2 neutrons (helium nucleus) - travels 5cm in air - highly ionising(charge of +2) - stopped by paper 
 Beta particle - 1 fast electron - travels 1m in air - midly ionising(charge of -1) - stopped by aluminium/metal foil
-Gamma wave - electromagnetic wave - infinite distance - low ionising, no charge - stopped by thick lead or concrete
+Gamma wave - electromagnetic wave - infinite distance - low ionising, no charge - stopped by thick lead or metres of concrete
 
 Radioactive decay - unstable nuclei emitting a type of radiation to become stable
 Alpha decay - atoms have very large nuclei - unstable - have to release alpha particles
 Beta decay - small atoms have too few protons compared to neutrons - unstable - have to release electrons - turns neutrons into protons
 Ionise - to charge atoms
 Activity - rate of decay - Becquerels(Bq) - short half-life means high rate of activity
-Irradiated - has been exposed to radiation, doesnt become radioactive
+Irradiation - being exposed to radiation, doesnt become radioactive
+Contaminated - radioactive atoms are on/in that object - can be dangerous if radioactivity gets inside your body
 Geiger counter - method to measure activity - counts
 Half-life - time it takes for the amount of radioactive nuclei to halve
 Isotope - element with same protons but different neutrons
+Alpha decay equation = original element --> (mass number -4, atomic number -2) + 4,2 He
+Beta decay equation = original element --> (mass number same, atomic number +1) + 0,-1 e
