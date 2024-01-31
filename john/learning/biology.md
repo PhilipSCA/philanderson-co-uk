@@ -141,4 +141,21 @@ Placebo - inactive form of a drug, to see any psychological effects.
 ```
 Homeostasis - regulation of condition inside your body to maintain a stable internal environment, in response to internal/  external changes - body temperature, blood glucose level, water levels
 Negative feedback - when something gets too high/low, receptors detect the stimulus, coordination centre organises a response and effector acts to increase/decrease level - keeps on happening until not stimulated 
-Central Nervous System - brain, spinal cord (in humans) - connected to the body by sensory neurons and motor neurons
+Central Nervous System - brain, spinal cord  - connected to the body by sensory neurons and motor neurons (in mammals) - coordinates the response from the receptor to effector
+Sensory neurons - neurons that carry electrical impulses from the receptor to the CNS
+Motor neurons - neurons that carry electrical impulses from the CNS to the effector
+Stimuli - the change in the environment that triggers a change 
+Receptor - cells that detect stimuli - one of 5 senses
+Effectors - muscles or glands - respond to nervous impulses and perform an action for change
+synapse - the air gap connection between two neurons - signal transferred by chemicals that diffuse across gap, set off a new signal in next neurons
+Reflexes - rapid, automatic responses to stimuli that dont need conscious part of the brain - quicker as you dont need to think
+Reflex arc - passage of information in a reflex (from receptor to effector) - go through spinal cord/unconscious part of brain
+relay neuron - neuron inside spinal cord, connects sensory to motor neuron
+Practical for reaction time:
+caffeine - drug that speeds up someones reaction time
+1) person put their arm on edge of table, person 2 holds ruler between thumb & forefinger
+2) person 2 drops ruler at random time, person 1 catches it as quick as possible
+3) Record cm on ruler where its caught - repeat the test several times, calculate mean distance
+4) Repeat steps 1-3 after having a caffeinated drink after 10 minutes
+- Fair test - use same person, same hand, ruler dropped from same height, person 1 hasnt drank any caffeine recently
+
