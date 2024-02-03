@@ -52,7 +52,7 @@ Penicillin - Used to be an antibiotic for gonorrhoea
 Bile - Breaks up fats into tiny droplets, called emulsification.
 ```
 
-**05/01/24**
+**05/01/24 - Disease and Fighting disease**
 ```
 Vectors - Organisms that spread disease (Mosquito)
 Salmonella - Bacterial infection from raw food
