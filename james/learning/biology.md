@@ -6,6 +6,7 @@
   - [random terms](#random-terms)
     - [B1: Cell Biology](#b1-cell-biology)
     - [B4: The Heart and circulatory system](#b4-the-heart-and-circulatory-system)
+    - [B6: Preventing and Treating disease (_05/01/24_)](#b6-preventing-and-treating-disease-050124)
 ## random terms
 
 ```
@@ -37,7 +38,6 @@ Phagocytosis - White blood cells engulf pathogens
 Antibodies - Produced to destroy microbes, attaches to antigens
 Antitoxins - Chemicals to cancel out toxins from bacteria
 Agrobacterium tumefacians - Bacterium infects plants
-Antigen - Sticks out of pathogens
 Eukaryotes - Have a nucleus
 Parasites - Transferred by vectors, live on/in organisms
 Hyphae - Grow and penetrate skin and plants, produce spores
@@ -50,35 +50,6 @@ Spores - Can be spread, fungal infection
 Insecticides - Protection from mosquitos
 Penicillin - Used to be an antibiotic for gonorrhoea
 Bile - Breaks up fats into tiny droplets, called emulsification.
-```
-
-**05/01/24**
-```
-Vectors - Organisms that spread disease (Mosquito)
-Salmonella - Bacterial infection from raw food
-Gonorrhoea - STD, Bacteria, symptons = diarrhoea, green/yellow discharge etc
-Measles - Red spots, Viral disease spread easily
-HIV - STD, Viral disease.
-TMV - Tobacco Mosaic Virus, for plants reducing photosynthesis
-Rose black spot - Fungal disease on plants reducing photosynthesis
-Skin - Has antimicrobial substances to kill pathogens
-Cilia - Hair in nose and throat
-Mucus - Traps particles that could be pathogenic
-Hydrochloric acid - Stomach acid, kills pathogens
-Lymphocytes - Antibodies WBC's make for defence
-Vaccination - Inject weak pathogens for WBC's to recognise in future.
-Epidemic - Outbreak of disease.
-Painkillers - Relieve pain
-Antibiotics - Kill bacteria
-White Blood Cells - Can change shape and have a nucleus, defence system.
-Aspirin - Painkiller for fever. (Drug)
-Digitalis - Treats heart conditions. (Drug)
-Drug testing - Tested on cells/tissues first, then animals, then volunteers
-Efficacy - Whether the drug works
-Optimum dose - Most efficient dosage and few side effects
-Placebo - Patient takes ineffective drug thinking its real
-Toxicity - How harmful a drug is.
-
 Amylase - Protein enzyme that breaks down carbohydrates(starch)
 Protease - Enzyme, breaks protein peptide bonds into amino acids
 Lipase - Enzymes that break down fats into glycerol/fatty acids
@@ -104,6 +75,7 @@ Skin cell - Animal, epidermis, makes up skin
 Palisade cell - Plant, for photosynthesis.
 Muscle cell - Animal, makes muscles for contracting
 ```
+
 ### B4: The Heart and circulatory system
 ```
 Arteries - Thick muscle walls, elastic fibres. AWAY from heart.
@@ -119,6 +91,53 @@ Bronchioles - Divided off the bronchi and have alveoli at the end
 Alveoli - Gas exchange here, Surrounded by capillaries for diffusion of CO² and oxygen to happen.
 Platelets - Trigger blood clotting, no nucleus
 ```
+
+###  B6: Preventing and Treating disease (_05/01/24_)
+```
+Vectors - Organisms that spread disease (Mosquito)
+Salmonella - Bacterial infection from raw food
+Gonorrhoea - STD, Bacteria, symptons = diarrhoea, green/yellow discharge etc
+Measles - Red spots, Viral disease spread easily
+HIV - STD, Viral disease.
+TMV - Tobacco Mosaic Virus, for plants reducing photosynthesis
+Rose black spot - Fungal disease on plants reducing photosynthesis
+Skin - Has antimicrobial substances to kill pathogens
+Cilia - Hair in nose and throat
+Mucus - Traps particles that could be pathogenic
+Hydrochloric acid - Stomach acid, kills pathogens
+Lymphocytes - Antibodies WBC's make for defence
+Vaccination - Inject weak pathogens for WBC's to recognise in future.
+Epidemic - Outbreak of disease.
+Painkillers - Relieve pain
+Antibiotics - Kill specific bacteria
+White Blood Cells - Can change shape and have a nucleus, defence system.
+Aspirin - Painkiller for fever. Found in willow. (Drug)
+Digitalis - Treats heart conditions. Found in foxgloves. (Drug)
+Drug testing - Tested on cells/tissues first, then animals, then volunteers
+Efficacy - Whether the drug works
+Optimum dose - Most efficient dosage and few side effects
+Placebo - Patient takes ineffective drug thinking its real
+Toxicity - How harmful a drug is.
+```
+**_06/02/24_ - B6**
+```
+Vaccine - Has dead/inactive pathogens inserted into body via syringe, to trigger immune system so the WBC's remember those specific pathogens for the future, responding to them quicker.
+Antigen - Sticks out a pathogen, where antibodies attach to destroy it.
+Relieving symptoms drugs - Aspirin, Paracetamol, Ibuprofen, Nurofen
+Killing bacteria drugs - Penicillin, Methicillin 
+Viruses - Reproduce rapidly inside host cells, bursting them.
+Drug development - Consider 4 different things and need to be tested.
+Effective? - Can the drug treat the disease?
+Safe? - Is there unwanted harmful effects?
+Uptake and removal? - Does the body consume and get rid of it?
+Stable? - Can it be stored for a long time period?
+Herd immunity - Large % of population is vaccinated so less spread of disease.
+Resistant bacteria - Mutated bacteria that can't be killed by antibiotics easily.
+MRSA - Resistant to methicillin, serious disease
+Reducing resistant bacteria - Avoid over-prescribing antibiotics and finish full course of antibiotics
+Plants immune system - Produce chemicals in each cell to depend from pathogens/pests
+```
+
 
 
 
