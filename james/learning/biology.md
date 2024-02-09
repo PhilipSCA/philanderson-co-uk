@@ -136,6 +136,12 @@ Resistant bacteria - Mutated bacteria that can't be killed by antibiotics easily
 MRSA - Resistant to methicillin, serious disease
 Reducing resistant bacteria - Avoid over-prescribing antibiotics and finish full course of antibiotics
 Plants immune system - Produce chemicals in each cell to depend from pathogens/pests
+Preclinical testing (Step 1) - Tested on human cells/tissues first.
+Live animal testing (Step 2) - On animals to find efficacy, toxicity, and dosage.
+Clinical trial (Step 3) - Tested on healthy human volunteers. Optimum dosage found. Placebo test is used. Double blind test used.
+Placebo test - One patient is given actual drug, other is given fake drug and neither know whether it's real or not.
+Placebo effect - Patient believes treatment to work and feels better even if its fake, its in the mind.
+Double blind trial - Patient nor doctor know whether drug is real so doctors aren't influenced by their knowledge without realising
 ```
 
 

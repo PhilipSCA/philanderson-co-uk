@@ -116,7 +116,15 @@ Buffer stock - Minimum stock level at all times
 Commission - Being paid a % of sale you made
 CV - Curriculum Vitae - Document for qualification
 External influence - Factors/Changes outside a business making a difference
+Aims - Long term goals you try to achieve
+Objectives - Clear, measureable goals where success/failure is clear to see.
+Survival - To not fail in a set amount of time (a year)
+Profit - To gain money and not be in debt
+Sales - Make as many sales as possible
+Market share - % of sales against other businesses in the same industry
+Financial security - Covered all your expenses and have money saved.
 ```
+
 ### 2.3 - Making Operational Decisions
 ```
 Batch production - Large quantities, often follow a trend and use automation
