@@ -11,6 +11,7 @@ Resultant force - (overall force) - overall force acting on an object
 Equilibrium - when all forces on an object give a resultant force of 0 
 Stretching, compressing, bending transfers energy
 Moment - turning effect of a force
+Inertia - how difficult it is to change an object's motion - high mass = high inertia
 
 8 energy stores:
 - Kinetic energy - movement energy store - depends on mass and speed
@@ -56,3 +57,17 @@ Gamma - Radiotherapy - cancer treatment - gamma rays fired at mutated cells, kil
 Fission - type of nuclear reaction - releases gamma/kinetic energy from large, unstable atoms by splitting them - neutron hit & absorbed by nucleus, atom split into 2 lighter elements - shoots out more neutrons to start a chain reaction
 Fusion - opposity - two light nuclei collide at high speed, fuse to create a larger, heavier nucleus | mass of big nucleus is smaller than two smaller nuclei - some mass converted to energy | releases more energy than fission
 
+### P10
+Acceleration due to gravity - freefalling acceleration - 9.81m/s2 (10m/s2)
+Air resistance - frictional force with air - slows a falling object - increases as speed of object increases
+Terminal velocity - the fastest an object can fall - when the air resistance is equal to the weight of an object, the object stops accelerating - it is at a constant 'terminal' velocity
+Momentum = mass x velocity (p = mv)
+Conservation of momentum - momentum is not created or destroyed in a closed system
+Stopping distance - time it takes for a car to stop in an emergency = thinking distance + braking distance
+Thinking distance - distance car travels between their reaction time = speed x reaction time
+Braking distance - distance car travels between applying brake and it stops
+Factors affecting reaction time - 1) Drugs/Alcohol, 2) Distractions, 3) Tiredness
+Factors affecting braking distance - 1) Car's brakes or tyres, 2) car speed, 3) road conditions
+Work done, when braking = inital kinetic energy = 1/2 mass x velocity^2 (Work = force x distance)
+Force needed to stop car = 1/2 mv2 / distance
+Force = momentum change / time

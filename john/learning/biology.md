@@ -159,3 +159,33 @@ caffeine - drug that speeds up someones reaction time
 4) Repeat steps 1-3 after having a caffeinated drink after 10 minutes
 - Fair test - use same person, same hand, ruler dropped from same height, person 1 hasnt drank any caffeine recently
 
+Body temperature - 37oC - optimum temp for enzymes
+Body temperature - Hot: 1) Hairs lie flat 2) Sweat produced & evaporates 3) vasodilation
+Vasodilation - blood vessels supplying skin dilate so more blood flows close to the surface of the skin. Transfers energy
+Body temperature - Cold: 1) Hairs stand up to trap insulating layer of air 2) No sweat produced 3) Vasoconstriction
+                        4) Shivering - muscles contract, needs respiration which transfers energy to warm body
+Thermoregulatory centre - in brain, has receptors that are sensitive to temp of blood through brain and skin.
+```
+###### Endocrine system
+Hormones - chemical molecules released into blood - only affect particular organs (target organs) - secrected in endocrine glands - tend to have long-lasting effects
+Pituitary gland - brain - produces many hormones for other glands that regulate body conditions
+Thyroid - produces Thyroxine - regulated things like rate of metabolism, heart rate and temperature
+Adrenal gland - produces Adrenaline - increases supply of oxygen & glucose to brain and muscles - 'fight or flight' response
+Pancreas - Insulin & Glucagon - regulated blood glucose levels
+Ovaries (female) - produce Oestrogen - needed for menstrual cycle
+Testicles (male) - produce Testosterone - controls puberty and sperm production
+Hormones vs nerves - nerves: very fast, short time, very precise area || Hormones: slower, long time, more general area
+
+Eating carbohydrates - puts glucose into blood from the gut - normal metabolism removes glucose from blood
+Blood glucose level - changed controlled by pancreas, in negative feedback cycle - exercise removes alot of glucose from blood
+Insulin - from pancreas - secreted when glucose level is too high - makes glucose turn to glycogen in liver
+Glucagon - pancreas - secreted when glucose level is to low - makes glycogen turn back into glucose in liver
+Glycogen - excess glucose stored in liver
+Diabetes - affects cycle to control glucose level: 
+  - Type 1 - pancreas produces little or no insulin - glucose level can rise to a fatal level
+           - need several injections of insulin throughout day after meals
+           - need to limit simple carbohydrates intake, and take regular exercise
+           - Person born with condition - genetics
+  - Type 2 - person becomes resistant to their own insulin (still produce it) - glucose level can also rise to risky levels
+           - Being overweight can increase chance of type 2 diabetes, obesity is a major risk factor
+           - Can be controlled by eating a carbohydrate controlled diet and getting regular exercise 
