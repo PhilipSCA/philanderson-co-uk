@@ -22,7 +22,7 @@ Oxymoron - two opposite words together
 Juxtaposition - two or more ideas contrasted near or next to each other
 Antithesis - a person who is the direct opposite of someone else, like 'foil'
 Dramatic Irony - when the audience knows something the characters in the story don't
-Homophones - words that sound the same but have different meanings.
+Homophones - words that sound the same but have different meanings
 Ellipsis
 
 Explicit - obvious information straight in the text
