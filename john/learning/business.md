@@ -177,9 +177,46 @@ Trade credit - arrangement to buy something and pay for it later
       - Dis: expensive if payment date missed
  - Credit limit - max amount of money you can borrow on your credit card at a time
  - Credit period - days that a customer is allowed to wait before paying an invoice
+Long Term:
+Personal Savings - money that a person keeps in an account, can be used for the business
+    - Adv: Limits amount of debt needed
+      - Dis: Poses a high level of risk for person
+Loans - money borrowed for a period of time and scheduled to be repayed with interest
+    - Adv: Interest rates lower or fixed
+    - Adv: Useful for emergency expenses
+    - Adv: Guaranteed money for a certain period - usually 3-10 years
+      - Dis: Possible additional debt/fees/penalties if not paid
+      - Dis: Time-consuming - need to produce a detailed business plan
+      - Dis: Lack of flexibility
+ - Credit checks - companies checking your credit report to see how well you've managed money in past 
+ - Guarantor - person who guarantees to make a payment if borrower doesnt
+Share Capital - raising finance by selling shares in the company
+    - Adv: large sum of money can be raised
+    - Adv: Capital does not have to be repaid
+    - Adv: No interest payments - dividends can be missed if profits are low
+      - Dis: Possible loss of control if owners sell over 50% of shares
+      - Need to satisfy shareholders expectations of dividends, and share price growth
+  - Shareholder - an owner of shares in a company
+Venture Capital - investors put money into small early-stage businesses for growth - between £10,000-£750,000
+    - Adv: Venture capitalists often make their own skills, experience and contacts
+    - Adv: No security needed
+      - Dis: Venture capitalists take long times to make a decision
+  - Return on investment - the profit you make as a result of your investments
+Crowdfunding - raising money through projects where many people contribute small amounts
+    - Adv: Cheap investment, when other sources of finance are unavailable
+    - Adv: Low risk
+    - Adv: Easily accessible
+      - Dis: Expensive and a lot of effort
+      - Dis: Might not make as much profit as expected
+Retained Profit - business money that is kept within its accounts, not paid to shareholders
+    - Adv: Flexible - owners have complete control
+    - Adv: Creates a safety net for emergencies
+    - Adv: Cheap finance - no interest paid
+      - Dis: Growth may be slow
+      - Dis: If a business needs temporary finance, it is unlikely to have anymore profits
 
 ### 1.4 - Making the business effective
-  
+   
 ### 1.5 - Understanding external influence
 
 ## 9 markers
