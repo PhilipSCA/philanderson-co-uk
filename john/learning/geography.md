@@ -27,9 +27,6 @@ Swash - power of wave moving up the beach
 Backwash - power of wave going down the beach back to the sea
 Constructive wave - smaller, gentler waves - strong swash, weak backwash
 Destructive wave - bigger waves - weak swash, strong backwash
-Wave-cut notch - notch formed from the base of the cliff being eroded
-Headland - hard rock that juts out to sea
-Bay - a crescent shaped indentation on a coastline - usually a beach
 4 methods of material transportation:
 1) Traction - large boulders pushed along water bed
 2) Saltation - hopping or bouncing pebbles, too heavy to be suspensed
@@ -42,8 +39,28 @@ Deposition - dropping off of material, how beaches build up
 Groynes - wooden/stone fences built adjacent to coast, trap material from Longshore drift
 Discordant coastline - coast made up of alternating bands of hard and soft rock vertially, at right angles to the coast.
 Concordant coastline - coast made up of alternating bands of hard and soft rock horizontally, parallel to coast
+Shoreline - zone between high tide and low tide
+##### Landforms
+Headland - hard rock that juts out to sea - erodes from a crack --> cave --> arch --> stack --> stump
+Bay - a crescent shaped indentation on a coastline - usually a beach - soft rock inbetween hard rock
+Beach - sand/shingle - formed by constructive waves depositing material - shingle beaches made from more destructive waves
+Spit - form at sharp bends in coastline - LSD deposits material past bend into sea - Strong winds/waves can curve end of spit (recurved end). Area behind spit sheltered from waves, becomes mud flat or salt marsh.
 Bar - spit that joins two headlands together.
 Lagoon - little pool in the middle of a bar
+Wave-cut notch - notch formed from the base of the cliff being eroded
+Sand dune - sand deposited is moved up beach by wind, obstacles(e.g driftwood) break wind speed - sand is deposited forming embryo dune - vegetation stabilises sand, encouraging more deposition - embryo dune --> foredune --> Mature dune
+Dune slack - tiny pools formed in hollows between dunes
+##### Defences
+Hard engineering - man-made structures built to control the flow of sea and reduce flooding or erosion
+1) Sea wall - concave hard wall, reflects waves back to sea. Adv:very effective, durable | Dis: very expensive(£2k per metre), lasts 30-50 yrs
+2) Rock armour - large boulders piled up along coats, break & absorb wave energy | Adv: fairly cheap, easy to maintain, can be used for fishing | Dis: unattractive, doesnt match local geology, need replacing often
+3) Gabions - wall of wire cages of rocks - Absorb wave energy | Adv: cheap(£100 per metre), easy to build | Dis: look very ugly & unnatural, not long-lasting(wire cages corrode over time)
+4) Groynes - wooden/stone fences built at right angles to coast - trap material from LSD| Adv: builds up beach - encourages tourism, fairly cheap | Dis: starve beaches further down coastline, leading to more erosion elsewhere, unattractive
+Soft engineering - natural schemes set up using knowledge of sea to reduce effects of flooding/erosion
+1) Beach nourishment - Sand/shingle pumped onto an beach to build it up | Adv: blends in with beach, attracts tourists | Dis: needs to be replaced constantly, sand has to be brought from elsewhere, pretty expensive
+2) Reprofiling - taking sand from lower beach and adding it to upper part of beach | Adv: cheap, simple, works | Dis: Only works when wave energy is low, needs to be repeated continously
+3) Dune regeneration - restoring sand dunes by planting vegetation to stabilise sand - | Adv: cheap, natural-looking, creates a barrier | Dis: protection limited to small area, can be damaged by weather, areas zoned off
+Managed retreat - allow sea to flood land behind, become marshland | Adv: cheap, easy, doesnt need maintaining, can create new habitats for plants & animals, natural defence | Dis: Land lost, Landowners need compensation (5k-10k per hectare) 
 
 ### Rivers
 Upper course - steep gradient - V-shaped valley - narrow, shallow channel - Waterfalls, gorges, interlocking spurs
@@ -66,7 +83,7 @@ Deposition - river drops material when it loses its velocity/energy - dominant i
 ##### Landforms
 Waterfalls - upper course - area of soft rock eroded after hard rock, creates a 'step', then a steep drop
 Plunge pool - hard rock eventually undercut by erosion, unsupported and collapses - Collapsed rock swirls at bottom and erodes soft rock by abrasion, creating a plunge pool
-Gorge - Waterfall when over time more undercutting happens and waterfall retreats, leaving hard rock sticking out
+Gorge - Waterfall when over time more undercutting happens and waterfall retreats, leaving hard rock sticking out on sides
 Interlocking spurs - upper course - rivers cant laterally erode, winds around high hillsides that interlock with each other
 
 Meanders - middle course - large bends in river - current is faster on outside bend as channel is deeper, erosion happens - slower on inside bend, material deposited - forms slip-off slopes
