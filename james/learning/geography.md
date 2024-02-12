@@ -6,7 +6,9 @@
   - [contents](#contents)
   - [random terms](#random-terms)
     - [Paper 2 : Challenges in the Human Environment](#paper-2--challenges-in-the-human-environment)
+      - [Case study : London (HIC)](#case-study--london-hic)
     - [Paper 1: Living with the physical environment](#paper-1-living-with-the-physical-environment)
+      - [Section C: Physical landscapes in the UK](#section-c-physical-landscapes-in-the-uk)
 
 ## random terms
 
@@ -62,12 +64,10 @@ Gentrification - Poor area changed by wealthier people moving in, maybe forcing 
 Pollution - Presence of a harmful/poisionous substance to the environment
 Urban deprivation - Living standard below the majority in a society with hardships
 Poverty - State of being extremely poor
-London Olympic Park - North of Thames, land polluted by industry before building
 Social - To do with people/citizens
 Economic - Involving money
 Environmental - Involving the planet and nature
-London challenges - Crime, Overpopulation, pollution, housing, congestion etc.
-London opportunities - Tourism, Ethnic diversity, Jobs, Education and Healthcare
+
 Preventing challenges - Public transport, congestion charging and brown/green field sites.
 Urban area - A human settlement with high population density and infrastructure
 Brownfield site - Derelict area of land previously been built on.
@@ -89,7 +89,44 @@ River Dee - River in Wales. Aberdeen got its name from this
 Northwest Highland - Top of Scotland.
 Grampian Mountains - Mountains in Scotland
 ```
+ 
+#### Case study : London (HIC)
+ *** 12/02/24 ***
+```
+London Olympic Park - North of Thames, land polluted by industry before building
+Olympic park social disadvantage 1 - Association of flats demolished
+Olympic park social disadvantage 2 - Unemployment increased
+Olympic park economic disadvantage 1 - £8.77bn tax
+Olympic park economic disadvantage 2 - Property and rents prices gone up
+Olympic park environmental disadvantage 1 - 3.3 million tonnes of C0²
+Olympic park environmental disadvantage 2 - Wildlife relocated
+Sustainable urban living - A city with minimal damage to environment, strong economy and jobs and good quality of life
+Water conservation method 1 - Water-efficient shower heads
+Water conservation method 2 - 2.736km of worn-out pipes replaced
+Waste disposal method - Thames tideway tunnel project, improve sewage and reduce annual discharge by 40%
+Energy conservation dis - Londons homes account for 30% of C0²
+Energy conservation method 1 - Floor insulation, save £40 yearly
+Energy conservation method 2 - LED bulbs save £35 yearly.
+Energy conservation method 3 - London Energy Efficiency Fund has £100m to promote energy efficiency
+Green space 1 - 'Pocket Parks', small greenery areas and parks to relax for public to enjoy
+Green space 2 - Greener city fund, £9mil to improve green space and promote tree planting.
+Green space 3 - Aim of by 2050, have 50% of London green.
+Fact 1 - 10,000 Londoners die from air pollution
+Fact 2 - 80,000 Less cars due to congestion charging
+Fact 3 - 7,000 volunteers remove 220 tonnes of waste yearly
+London social challenges - Crime, overpopulation, housing, congestion etc.
+London economic challenges - Jobs/Income etc.
+London environmental challenges - Pollution, congestion etc.
+London social opportunities - Tourism, Ethnic diversity, Education and Healthcare
+London economic opportunites - Jobs and Tourism etc.
+London environmental opportunites - Public transport, solar panels, brown/greenfield sites.
+London prevention methods - Public transport, congestion charging, brown/greenfield sites
+
+```
+
 ### Paper 1: Living with the physical environment
+
+#### Section C: Physical landscapes in the UK
 ```
 Fetch - Distance the wind blows across the water
 Tsunami - Massive wave from seabed shaking.
@@ -98,7 +135,7 @@ Swash - Water that rushes UP the beach
 Backwash - Water that flows BACK to the sea.
 Constructive wave - Love wave, strong swash and weak backwash
 Destructive wave - Weak swash, very strong backwash.
-Erosion - Wind, water, or other natural agents breaking rock.
+Erosion - Wind, water, or other natural agents breaking rock and carrying them away.
 Transportation - Movement of material in the sea.
 Deposition - Sea loses energy, sediment is dropped
 Hydraulic action - Wave power smashes into cliff. Trapped air breaks rock apart.
@@ -106,8 +143,45 @@ Abrasion - Pebbles grind along a rock platform, smoothen it.
 Attrition - Rocks in sea bash each other and become rounder.
 Solution - Seawater dissolves rock. (Limestone/Chalk)
 Longshore drift - Waves move material along beach in zigzag pattern with wind.
-Mechanical weathering - Disintegration of rocks. Scree at bottom of cliffs.
+Mechanical weathering - Breakdown of rocks. Scree at bottom of cliffs.
 Chemical weathering - Rainwater is slightly acidic, dissolves some rocks.
 Biological weathering - From flora/fauna. Plant roots and small animals in rocks.
 Mass movement - Downward movement/sliding from gravity.
 ```
+**_12/2/24_**
+```
+UK's upland areas - North and West have hard rock resistant to erosion
+UK's lowland areas - South and East have softer rock that erode easily
+Grampian Mountains - Part of highlands, home to Ben Nevis
+Lake District - National park that's popular with tourists
+Snowdonia - Wales, rock from an extinct volcano, glaciated upland
+Weathering - Breakdown of rocks through natural occurences.
+Mass movement - Material and rock falling down a slope
+Slides - Material slides down a slope from weaker rock giving way. (Landslides, Mudslides etc.)
+Slumps - Material rotates along a curved slip plane
+Rockfall - Material breaks up, often along bedding and falls down slope
+Traction - Large boulders pushed along seabed by water
+Saltation - Pebbles bounced along seabed by force of water
+Suspension - Small particles like silt or clay are carried along.
+Relief - Shape and height of the land
+River Severn - Longest River in Britain
+River Tweed - In the border of England and Scotland
+Mudflow - Soil slides downhill (type of slide)
+Wave-cut platform - Sea makes notch at bottom of cliff, cliff collapses.
+Headland erosion - Hydraulic action causes crack in cliff, to a cave, to an arch which then collapses making a rock stack, then a stump.
+Spits - Beach extends out to sea from longshore drift and curves
+Bars - A spit joins two headlands together, forming a lagoon behind a bar.
+Tombolos - A spit joins mainland to an island via longshore drift
+Hard engineering - Physical change to coast with hard material
+Soft engineering - Natural systems for coastal defence, absorbs and adjusts to wave energy.
+Scree - Piles of rock fragments at foot of a cliff
+Chesil Beach - Tombolo in Britain in Dorset
+Slapton Ley - Bar in Britain, Devon
+Rock type - Limestone,chalk etc. (Can affect weathering/mass movement).
+Climate - Freeze-thaw weathering (Can affect weathering/mass movement).
+Structure of a rock - Cracks or arches (Can affect weathering/mass movement).
+Vegetation - Biological weathering (Can affect weathering/mass movement).
+
+
+```
+ 
