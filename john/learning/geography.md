@@ -80,6 +80,17 @@ Lateral erosion - widens river valley and channel - during formation of meanders
 - Suspension - rocks carried within the water
 - Solution - dissolved rock carried in the water
 Deposition - river drops material when it loses its velocity/energy - dominant in lower course - happens if there is less water, more eroded material, water is shallower, or when river reaches the mouth
+Hydrograph - shows peak discharge, lag time, rising & falling limb with rainfall
+Discharge - volume of river water flowing per second - measured in cumecs(cubic metres per second, m3/s)
+Lag time - delay between peak rainfall and peak discharge - time for all rainfall to flow in river - surface runoff or infiltration underground
+Rising limb - increase in river discharge, as rainwater flows into river
+Falling limb - decrease in discharge, as river returns to normal level
+Factors affecting flood risk:
+1) Heavy rainfall - too much water to infiltrate - more surface runoff -  lag time shorter, more discharge
+2) Geology(rock type) - impermeable rocks dont allow infiltration - runoff increased - more discharge
+3) Prolonged rainfall - saturate soil - cant infiltrate further rainfall - runoff increased
+4) Relief - surface runoff faster down slopes - increases discharge
+5) Land use - buildings, roads are impermeable, drains quickly transport runoff to rivers, trees store water - reducing discharge
 ##### Landforms
 Waterfalls - upper course - area of soft rock eroded after hard rock, creates a 'step', then a steep drop
 Plunge pool - hard rock eventually undercut by erosion, unsupported and collapses - Collapsed rock swirls at bottom and erodes soft rock by abrasion, creating a plunge pool
@@ -91,9 +102,21 @@ Thalweg - fastest flow of river - on outside bends
 Ox-bow lakes -  U-shaped meander - river breaks through neck - river flows along shortest course - deposition cuts off meander - an ox-bow is formed
 
 Flood plains - flat, wide valley area of land on sides of river - deposites material when flooded, builds up flood plain
-Levees - natural embankments along edges of river channel - during flood, heaviest material deposited closest to river, builds  up and creates levees on edges.
+Levees - natural embankments along edges of river channel - during flood, heaviest ma terial deposited closest to river, builds  up and creates levees on edges.
 Estuaries - found at mouth - tidal area - floods deposit silt & sand & form mudflats. Mudflats exposed at low tide.
-    
+##### Defences
+Hard engineering - man-made structures to control flow of rivers: 
+1) Dams & reserviors - barriers built across rivers to trap water and release it in a controlled way. Reservoir forms behind dam. Adv: can generate HE power, attract tourists, prevent floods downstream | Dis: Veryy expensive, reservoir can flood existing settlements, sediment deposited in reservoir - farmland downstream less fertile, habitats flooded - rotting vegetation - releases methane(greenhoue gas)
+2) Channel straightening - meanders removed by building straight, artificial channels. | Adv: water moves quicker, more water held at once - reduces flood risk | Dis: speeding up river may increase flood risk downstream, dredging needs doing frequently
+   - Dredging - digging bottom of river so it can hold more water
+3) Embankments - built raised walls along river bank | Adv: quite effective - river can hold more water, floods less likely | Dis: unnatural, quite expensive, risk of severe flooding if they break, or too short, water sped up increases flood risk downstream
+4) Flood relief channels - divert water around built-up areas and join river later down course | Adv: Removes excess water from river, gates on channels - release of water is controlled | Dis: Expensive, can cause flooding where relief channel joins the river back
+Soft engineering:
+1) Flood warnings - warnings through TV, radio, internet | Adv: residents can prepare sandbags/flood boards & move possessions upstairs, evacuate - reduces impact | Dis: Don't prevent flood, people may not have access to warnings, modifying buildings is expensive, doesn't guarantee safety - flash floods happen quickly
+2) Flood plain zoning - restricting building on floodplains that are likely to flood | Adv: risk reduced - fewer impermeable surfaces created(roads), impact is less, buildings wont be as damaged | Dis: Cant help areas with existing buildings, urban expansion limited, planners have to decide what type of flood to plan for
+3) Planting trees - intercepts rainwater | Adv: increases lag time, decrease discharge, reduces soil erosion, provides habitats | Dis: less land available for farming
+4) River restoration - making river natural (eg. removing levees) so can flood naturally | Adv: Little maintenance needed, discharge reduced, better habitats | Dis: Local flood risk can increase 
+
 ## The Living World
 ### Ecosystems
 Biotic - living
