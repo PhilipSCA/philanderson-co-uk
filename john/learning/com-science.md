@@ -1,4 +1,5 @@
 # Computer Science
+## Paper 1 - Computer Systems
 Decomposition - breaking a complex problem into smaller problems to solve individually
 Abstraction - filtering unnecessary information out of a problem and focusing on what is important.
 Algorithmic thinking - logical way of solving problems, step by step
@@ -108,4 +109,50 @@ XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Ot
 Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
 Character set - collection of characters that a computer can recognise from their binary number
 Colour depth - number of bits used per pixel - 2^(number of bits)
-Resolution - the concentration of pixels in an area - given as WidthxHeight 
+Resolution - the concentration of pixels in an area - given as WidthxHeight
+
+## Networks
+LAN - Local Area Network - small geographical area located on a single site - all hardware owned by organisation - wired or wireless - in homes, businesses, schools, universities etc.
+Advantages:
+- Sharing files is easier - network users can access same files, work at same time and copy files between machines
+- Can share same hardware (eg printers)
+- Internet connection shared to every device
+- Can install and update software on all computers at once
+- cheap, easy communication with other members - instant messaging
+- User accounts stored centrally - users can log in from any device
+### Network Threats - Malware
+Malware - malicious software - installed on a device without person's knowledge or consent
+Types of Malware (3 main ones):
+1) Virus - copy themselves & attach to certain files (.exe, autorun scripts) - users spread them by copying them - activate them when file is opened
+2) Worms - viruses that self-replicate without user help - spread very quickly - exploit weaknesses in network security
+3) Trojans - malware disguised as real software - don't replicate, users install them through links
+Actions of malware:
+1) Scareware - tells user their computer is infected - scare them into malicious links or paying to fix problems
+2) Ransomware - encrypts all files on computer - demands money in exchange for decryption key
+3) Spyware - secretly monitor users actions (key presses), sends info to the hacker
+4) Rootkits - alter permissions - give malware and hackers administrator-level access to devices
+5) Backdoors - holes in security used for future attacks
+##### Attacks:
+Passive attack - monitors data travelling on a network and intercepts any sensitive information - network-monitoring ware like packet sniffers - hard to detect - best defence: encryption
+Active attack - someone attacks a network with malware/ planned attacks - more easily detected - best defence: firewall
+  - Brute force attack - type of active attack - gain information by cracking passwords through trial and error - automated software to produce hundreds of likely combinations - defences: account lock after number of failed attempts, strong passwords
+Insider attack - person within organisation exploiting network access to steal information
+Denial-of-service (DoS) attack - hacker stops users from accessing a part of network or website - involve flooding network with useless traffic - make network extremely slow or inaccessible
+
+Social engineering - gaining sensitive information|illegal access to networks through influencing people, usually employees
+Phishing - sending emails/texts to people pretending to be from well-known business - contains links to spoof websites - enter personal information - hackers access their genuine account (Vishing, smishing, whaling, angler, pharming)
+ - Vishing - voice phishing - phishing over voice calls - asks them for personal info
+ - Smishing - SMS(text) phishing - phishing with mobile texts
+ - Whaling - phishing directed at high-level executives - pretends to be a known, trusted person
+ - Angler - social media phishing - e.g pretending to be customer support to get details
+ - Pharming - redirecting people to fake malicious websites - enter personal info - harder to identify
+ - Ways to tell its fake: poor grammar/spelling, check the email @ is correct, suspicious links, sense of urgency 
+SQL injections - used for weak validation, insecure SQL databases - pieces of SQL typed in a websites input box that reveal sensitive information - "1=1" is always true in SQL 
+##### Network policies:
+Penetration testing - organisation employ specialists to try to attack their network - identify weaknesses
+Network forensics - investigations undertaken to find cause of an attack - system to analyse data packets entering network - discover how & prevent future attacks
+Passwords - prevent unauthorised access - strong passwords - 10+ characters long, upper and lowercase, numbers and symbols, changed regularly
+User access levels - different users can access more parts of network - help limit number of people with access to important data - prevents insider attacks, harder to scam network
+Anti-malware - software designed to find and stop malware from damaging network - e.g antivirus programs
+- firewalls - block unauthorised access - examine all data entering and leaving network, block any potential threats
+Encryption - data(plain text) translated into unreadable cipher text - only person with decryption key can access - essential for sending data over network securely - prevents passive attacks etc.
