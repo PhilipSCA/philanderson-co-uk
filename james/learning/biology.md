@@ -144,8 +144,3 @@ Placebo effect - Patient believes treatment to work and feels better even if its
 Double blind trial - Patient nor doctor know whether drug is real so doctors aren't influenced by their knowledge without realising
 ```
 
-
-
-
-
-

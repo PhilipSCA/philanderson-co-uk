@@ -4,11 +4,11 @@
 
 - [business](#business)
   - [contents](#contents)
-  - [random terms](#random-terms)
+    - [random terms](#random-terms)
     - [2.3 - Making Operational Decisions](#23---making-operational-decisions)
 
 
-## random terms
+### random terms
 
 ```
 
@@ -20,8 +20,8 @@ Crowdfunding - Raising capital online from small investors
 Dividends - Payments to shareholders from profits
 Trade credit/capital - Supplier waits for payment
 Venture capital - Investor takes a chance on a business
-Break even - Fixed costs/Selling price - Var cost per unit
-Margin of safety - Sales - Break even point
+Break even formula - Fixed costs/Selling price - Var cost per unit
+Margin of safety formula - Sales - Break even point
 Interest - (Repayment - Loan) / Loan x 100 = %
 Rate of return - Annual profit/Investment
 Forecast revenue - Calculate break even and MOS
@@ -40,7 +40,6 @@ Organic growth - Growth in the business
 Overdraft - How much is from bank loans
 Performance reviews - Discussions with employee and boss.
 Price skimming - High prices to low
-Price penetration - Low to high
 Premium pricing - High price
 Competitive environment - Promotion or Price, Affects MM
 Technology - Online shopping, Affects MM
@@ -123,6 +122,20 @@ Profit - To gain money and not be in debt
 Sales - Make as many sales as possible
 Market share - % of sales against other businesses in the same industry
 Financial security - Covered all your expenses and have money saved.
+Social objectives - Businesses aimed to help others/the environment.
+Personal satisfaction - Taking pride from own products
+Challenge - Try to make an idea 'bigger and better' than others
+Independence and control - Want to be their own boss and have control over their work
+Revenue - Income generated from sales
+Revenue formula - Price x Quantity sold
+Total costs - Fixed costs + Variable costs
+Profit formula - Sales - costs
+Fixed costs - Costs that don't vary with output produced (Rent, Salary, Insurance etc.)
+Variable costs - Costs that vary with output. (Packaging, Wages, Materials etc.)
+Break even - Costs are equal to revenue, so business is no longer making a loss.
+Margin of safety - Gap between sales and break-even point
+
+
 ```
 
 ### 2.3 - Making Operational Decisions
