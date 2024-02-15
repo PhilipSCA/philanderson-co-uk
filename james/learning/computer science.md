@@ -112,3 +112,10 @@ Iteration flowchart - Contains a loop on a task.
 Binary search - Search algorithm, ordered list start from middle and half list
 Linear search - Search algorithm, checks each item one by one until found.
 ```
+**_15/2/24_**
+```
+Bubble sort - In an unordered list, compare first two items and swap if in wrong place. Repeat until end = one pass. Repeat passes until fully solved. (Sorting algorithm)
+Merge sort - Divide-and-conquer, split list into several seperate items by dividing itself multiple times, then merge list back again and order correctly, doubling list length each merge.
+Insertion sort - One data item at a time, one item is taken and inserted where it belongs in the list.
+Variable - Location in memory to store a value
+```
