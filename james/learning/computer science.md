@@ -61,8 +61,8 @@ Subroutine - Instruction to use another program for a task
 ```
 
 ```
-Hard Disk Drive - High capacity, read/write data. Cheap and reliable
-Solid State Drive - Fast and reliable. Expensive, no moving parts.
+Hard Disk Drive qualities - High capacity, read/write data. Cheap and reliable
+Solid State Drive qualities - Fast and reliable. Expensive, no moving parts.
 Optical disks - Cheap and robust. Three forms
 Flash memory - SSD's, USB's and SD cards.
 Magnetic tapes - For archiving. Very high capacity, cheap, quite slow.
@@ -118,4 +118,40 @@ Bubble sort - In an unordered list, compare first two items and swap if in wrong
 Merge sort - Divide-and-conquer, split list into several seperate items by dividing itself multiple times, then merge list back again and order correctly, doubling list length each merge.
 Insertion sort - One data item at a time, one item is taken and inserted where it belongs in the list.
 Variable - Location in memory to store a value
+Bits - Smallest measure of data, either 1 or 0.
+Bytes - 8 bits, 256 values (2^8)
+Kilobyte - 1000 bytes (or 1024)
+Base 10 - Decimal/Denary
+Base 2 - Binary, 1 and 0
+8 bit numbers - 0 to 255 (2^8)
+16 bit numbers - 0 to 65,535 (2^16)
+32 bit numbers - 0 to 4,294,967,295 (2^32)
+Binary shifts - Used to multiply (left) or divide by 2 (right).
+Base 16 - Hexadecimal, 16 digit syystem with 1-9 as numbers but 10-15 are shown with A-F
+Nibble - 1 hex digit, 4 bits
+Alphanumeric - Any character/symbol (letter,num,symbol)
+Computer - Machine that takes data, processes it and outputs it.
+Hardware - Physical components of your computer (CPU, Monitor etc.)
+Software - Apps/Programs that a computer system runs
+Embedded system - Computers inside a larger system or built into other devices. (Dishwashers, TV's, GPS)
+Power supply - Gives power to motherboard and hardware
+Fans - Extracts hot air from computer case and cools CPU.
+CPU - Processes all data, fetch-decode-execute cycle. (Central Processing Unit)
+Optical drive - For reading/writing of optical discs
+RAM sticks - Computer memory stores here, physical hardware.
+Motherboard - Main circuit board where hardware is connected
+Hard disk drive - Internal secondary storage.
+Control Unit (CU) - Overall control of CPU. Executes and decodes program instructions.
+Algorithm Logic Unit (ALU) - Calculations, logic operations such as boolean or binary shifts
+Cache - Very fast memory in CPU, slower than registers. Can be accessed quickly when needed. Expensive and low capacity
+Von Neumanns architecture - A system where CPU runs programs stored in memory and created fetch-decode-execute cycle.
+Registers - MAR, MDR and ACC, temporary stores of data that are accessed easily.
+Program Counter (PC) - Holds memory address of next instruction
+Accumulator (ACC) - Stores result of calculations from ALU
+Memory Address Register (MAR) - Holds memory address about to be used
+Memory Data register (MDR) - Holds instruction waiting to be written to memory.
+Fetch-decode-execute cycle - How instructions are processed and executed. PC -> MAR -> MDR -> PC(increment) -> CU.
+RAM - High speed, voltaile memory. Can be read/written to.
+Virtual memory - Secondary storage used as extra RAM.
+ROM - Non volatile memory, can only be read and used for computer boot up (BIOS).
 ```
