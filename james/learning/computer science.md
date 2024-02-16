@@ -4,6 +4,7 @@
 - [computer science](#computer-science)
   - [contents](#contents)
   - [random terms](#random-terms)
+    - [Programming](#programming)
 
 ## random terms
 
@@ -62,9 +63,9 @@ Subroutine - Instruction to use another program for a task
 
 ```
 Hard Disk Drive qualities - High capacity, read/write data. Cheap and reliable
-Solid State Drive qualities - Fast and reliable. Expensive, no moving parts.
-Optical disks - Cheap and robust. Three forms
-Flash memory - SSD's, USB's and SD cards.
+Solid State Drive qualities - Fast and reliable. Expensive, no moving parts and shock-proof
+Optical disks - Cheap and robust. Three forms (CD-ROM, CD-R, CD-RW)
+Flash memory - SSD's, USB's, SD cards and ROM chips
 Magnetic tapes - For archiving. Very high capacity, cheap, quite slow.
 Bitmaps images - Stored as series of pixels
 Colour depth - Number of bits per pixel
@@ -154,4 +155,42 @@ Fetch-decode-execute cycle - How instructions are processed and executed. PC -> 
 RAM - High speed, voltaile memory. Can be read/written to.
 Virtual memory - Secondary storage used as extra RAM.
 ROM - Non volatile memory, can only be read and used for computer boot up (BIOS).
+Clock speed - Number of instruction a processor carries out per second (Hz)
+Cache size - Larger cache size, faster access to more data for CPU.
+Number of cores - Cores in CPU's process data independently. More processed at once.
+Graphics processing Unit (GPU) - For CPU to process images and graphics.
+Magnetic hard disk - HDD, High capacity, reliable storage, cheaper
+CD-ROM disc - Compact disk, read only memory
+CD-R disc - Compact disc, recordable
+CD-RW disc - Compact disc, rewriteable
+```
+
+### Programming
+**_16/2/24_**
+```
+Integer - 2 or 4 bytes, a whole number
+Real - 4 or 8 bytes, a decimal number
+Boolean - 1 bit but 1 byte used, True/False.
+Boolean logic operators - AND, OR, NOT
+Character - 1 byte, a single letter/number/symbol.
+String - 1 byte for every character, it's text, a collection of characters
+Casting - Changing data type using functions (int(), str() etc.)
+<> or ! - Not equal to
+< - Less than
+> - Greater than
+Constants - Stores data value in memory but can't be changed
+Concatenation - Two strings being joined with '+'
+(string).upper - Changes all characters in the string to uppercase.
+(string).lower - Changes all characters in the string to lowercase.
+(string).length - Shows number of characters in the string.
+(string)[i] - Extract the character in position 'i' from string.
+(string).SubString(x,y) - Extracts a string starting at 'x' and ending at 'y'
+if statements - Check if a condition is true/false and carries out an action based on outcome
+Nested if statements - if statement within an if statement
+if-elseif statements - Checks for multiple conditions if first condition is false, as if multiple 'else:'s
+Switch-case statements - Can check if a variable has specific values. Can be used to give multiple options and perform different actions for the same variable.
+For loop - Repeats code a set number of times
+While loop - Loop that keeps going whilst a condition is true
+Do until loop - Loop that keeps going until a condition is true
+Do while loop - While loop but controlled at the end.
 ```
