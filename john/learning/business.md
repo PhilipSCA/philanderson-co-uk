@@ -219,18 +219,55 @@ Retained Profit - business money that is kept within its accounts, not paid to s
    
 ### 1.5 - Understanding external influence
 
-## 9 markers
+
+
+## Mark Scheme Tips:
+- A01 - demonstrate knowledge and understanding of business concepts/issues
+  - AO1a) knowledge
+  - A01b) understanding
+- A02 - Application - Apply knowledge and understanding to a variety of contexts - context
+- A03 - Analyse - Developing the answer with linked strands
+  - AO3a) Analyse & Evaluate business info and issues to show understanding of business activity
+  - AO3b) Make judgements, draw conclusions
+- Section B & C - Always apply context to answer
+- Connectives: Because, leading to, therefore, however, as a result, consequently, the consequence is, thus
+### Explain (3 markers):
+- Only appear in Section A - no context
+- 1.Make a point 
+- 2.give reason why (because/lead to) 
+- 3.state consequence - positive/negative for the business(therefore)
+- State a drawback/benefit/advantage, give two logical linked strands
+### Discuss (6 markers):
+- Only appear in Section A - no context
+- consider benefits/drawbacks of concept - Answers assessed on understanding + analysis
+- Level 3 - 5 linked strands for AO3 - analysis chains - must follow logical sense
+- 2 points - 2/3 strands each
+
+### Analyse(6 markers):
+- Always require application to case study - AO2
+- Level 3 - 5 linked strands for AO3 - analysis chains - must follow logical sense
+- A02 - Apply context throughout answer
+- 2 points - 2/3 strands each
+- Good to start with a fact about business - context
+
+### Justify (9 markers):
+- Application throughout answer to the case study
+- 
 Structure:
 Option 1 - Pro/con of chosen option - with linked strands
          - A second pro/con of chosen option - with linked strands
-
 Option 2 - Pro of chosen option - with linked strands
          - Con of chosen option - with linked strands
-
 Option 3 - Pro/Con of option 1 - linked strands
-         - Pro/Con of option 2 - linked strands
+         - Pro/Con of option 2 - linked strands - NOT RECOMMENDED
 
 Conclusion: AJH
-- Answer the Question
-- Justify answer
-- However..., it depends, ...
+- **Answer** the Question
+- **Justify** answer
+- **However**..., it depends, ...
+- Extra evaluation - try not to repeat same points
+- State what option is best and why
+- For top-level - add an 'it depends on' factor
+
+### Evaluate (12 marker):
+- 
