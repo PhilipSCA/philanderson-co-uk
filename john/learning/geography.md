@@ -171,3 +171,41 @@ Logarithmic scale - scale 1-10, where each difference between two numbers is the
 Global atmospheric circulation - transfer of heat from equator to poles by movement of air.
 Seismometer - measures seismic waves, records motion of earthquake
 Saffir-simpson scale - measurement for hurricane wind speeds
+
+## Mark Scheme Tips
+A01 - Knowledge - Show knowledge of locations, places, processes, environments, and different scales
+A02 - Understanding - Show geographical understanding of: concepts & how they are used in relation to places, environments and processes; interrelationships with places, environments, processes
+A03 - Application, Judgement & Evaluation - Apply knowledge and understanding to interpret, analyse and evaluate information & issues to make judgements 
+A04 - Skills - select, adapt, and use a variety of skills and techniques to investigate questions and issues and communicate findings (Paper 2)
+- use marks of question to know: 1) time to spend, 2) How much to write/how many points to make
+- on 2+ markers, always develop points (because, this leads to, this means)
+9 markers: PEEL - Make a clear conclusion decision if a choice
+### Command Words
+Identify/State/Name/Give/Define (1-2 marks) - state the meaning of, express in clear terms, name or give examples      
+Outline(2-3 marks) - Set out main characteristics - keep answer short and focused, use key terms - reason & why
+Compare(1-4 marks) - Say similarities & differences - link sources together within sentences - use comparatives & adjectives - include data from Figure 
+Describe(1,2,4) - say characteristics/features of thing to describe - use superlative adjectives (largest/smallest, highest/lowest)
+  - in graphs look for: trends, patterns, anomalies
+  - in maps looks for: patterns, anomalies, names of places, compass directions
+  - develop answers in 4 mark questions
+Suggest(1,2,4,6,9) - say a possible case, idea, solution or answer -  similar to explain ('to evaluate' in 9 markers)
+   - use key terms, cover why, what, how to develop answers & evaluate where appropriate
+   - make references to Figure, explicit and relevant
+   - refer back to the question, using words from question
+Explain(2,3,4,6,9) - say purposes/reasons - why or how
+   - refer back to the question, using words from question
+   - use key geographical terms
+   - look for how many elements question has and address them
+   - say why, what, how to develop answers
+   - make explicit references to figure
+Assess(4,6,9) - Make an informed judgement (similar to evaluate, discuss, to what extent)
+   - structure: open with judgement to focus answer - make multiple points to support judgement, make counter-argument if needed - finish with clear conclusion
+   - use evidence from figures, case studies, fieldwork
+   - answer how, why to develop answer
+   - Use comparative connectives to evaluate
+   - Measure judgement with a scale like Strongly agree <-> strongly disagree, Extremely important <--> Very irrelevant
+Evaluate - 
+Discuss - 
+Justify - 
+To what extent - 
+
