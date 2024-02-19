@@ -35,3 +35,4 @@ Hyperbole - exaggeration to have an effect on the reader
 Inversion - altering normal word order
 Motif - recurring image or idea in a text
 Sensory - using the five senses
+sdsd
