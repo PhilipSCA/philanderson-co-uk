@@ -204,6 +204,12 @@ Half equation for nonmetals - 2Yx- ---> Y2 + 2xe-
 Half eq. for hydrogen = 2H+ + 2e- ---> H2
 Half eq. for hydroxide = 4OH- ---> O2 + 2H20
 ```
+## C Something - Hydrocarbons
+Hydrocarbon - any compound formed from carbon and hydrogen atoms only - simplest organic compound
+Alkanes - simplest type of hydrocarbon - C(n)H(2n+2) - homologous series - saturated compound- each carbon atom form four single covalent bonds (methane, ethane, propane, butane)
+
+
+
 
 ## C8 - Rates of reaction
 ```
