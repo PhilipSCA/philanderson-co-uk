@@ -13,8 +13,8 @@ CASE statement - performs different actions for different values of same variabl
 Selection - when program **interacts** with user
 Sequence - an order of instructions in a program
 Iteration - when the program uses loops (For, Repeat-until, while, do-while)
-Indefinite iteration - when the loop repeats until a condition is met
-Definite iteration - when loop repeats exact number of times instructed.
+Indefinite iteration - (Condition-contolled) when the loop repeats until a condition is met
+Definite iteration - (Count-controlled) when loop repeats exact number of times instructed.
 Nested iteration - loop inside another loop
 Subroutines - set of instructions stored under one name, function or procedure
 procedure - function that doesnt return a value
@@ -40,6 +40,28 @@ Bubble sort - sorts unordered lists - compares first values and swaps - biggest 
 Merge sort - decomposition method for sorting unordered lists - split, sort, merge back
 Insertion sort - sorts unordered lists - compares each value to first value, swaps - biggest value to left
 
+Array - data structure that can store a group of values, of one same type, under one name
+Record - data structure that can store different data types - single row in a data table
+Field - individual data items within a record - columns in the data table
+Parameter - variables that are passed as a value into a subroutine
+Argument - the values that you assign to the parameters
+Module - external python file which often contains functions
+Structured (modular) programming - decomposing the program that you want to write into manageable modules
+Input validation - checking if data meets certain criteria before passing it into the program
+Test plan - test to see if a program input is working by testing its boundaries
+Normal data - valid data that a user should input into a program
+Boundary data - data on the boundary of what the program should accept
+Erroneous data - invalid data the program shouldn't accept
+Trace table - table to test that a program is working
+NOT gate - output is opposite of input (0, 1)
+AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0. (0, 0, 0, 1)
+OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
+XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
+Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
+Character set - collection of characters that a computer can recognise from their binary number
+Colour depth - number of bits used per pixel - 2^(number of bits)
+Resolution - the concentration of pixels in an area - given as WidthxHeight
+ 
 ## Components of a Computer System
 Hardware - physical items in a computer system - you can see them
 Software - programs or applications that computer system runs (e.g Operating System)
@@ -55,11 +77,30 @@ Level 1 Cache - quickest, lowest capacity - closest to CPU
 Level 2 - slower, bigger capacity
 Level 3 - slowest, highest capacity
 
-### Memory
+### System Software
+Operating System - OS - complex piece of software - manages hardware and runs software. Main functions:
+   1) Communicate with hardware(internal & external) by device drivers
+   2) Provide user interface
+   3) Provide a platform for different applications to run
+   4) Controls memory resources and CPU - allows computer to multi-task 
+   5) File management, disk management
+   6) Manage security of system - through user accounts
+Multi-tasking OS - can run multiple applications at once
+Device drivers - 'translators' between OS to hardware - software to communicate with internal hardware/peripherals 
+- every piece of hardware has a driver
+- When computer booted up, OS chooses correct drivers for the hardware
+- If new hardware is connected, system will install the new, matching driver
+- Device manufacturers can release updates to drivers to fix bugs, add features or improve performance of hardware.
+User interface - allows user to interact with computer system 
+  - GUI - Graphical UI - visual, interactive, intuitive - optimised for specific input methods - WIMP (Windows, Icons, Menus, Pointers) or touchscreen - Android, iOS - use finger gestures like swiping, pinching 
+  - Command-line interface - text based - user enters specific commands for tasks - less resource heavy than GUIs - for advanced users, far more efficient and powerful than GUIs - can automate processes using scripts
 
+
+
+### Memory
 Main Memory - where all data, files, programs are stored when being used
-Primary storage - Memory areas that the CPU can access very quickly: (Registers, Cache, RAM, ROM)
-- fastest read/write times 
+Primary storage - Memory areas that the CPU can access very quickly: (Registers, Cache, RAM, ROM, flash memory)
+- fastest read/write times
 - mostly volatile
 RAM - main memory in computer - can be read & written to - volatile - slower than CPU cache
 ROM - Read Only Memory - can only be read - non-volatile - built into the motherboard. 
@@ -89,27 +130,6 @@ Secondary storage - non-volatile - where all data is stored when not in use: Mag
 - very slow when finding specific data, but fast R/W speeds when data in correct place.
 - Often used by large businesses in archive libraries to store huge amounts of data
 
-Array - data structure that can store a group of values, of one same type, under one name
-Record - data structure that can store different data types - single row in a data table
-Field - individual data items within a record - columns in the data table
-Parameter - variables that are passed as a value into a subroutine
-Argument - the values that you assign to the parameters
-Module - external python file which often contains functions
-Structured (modular) programming - decomposing the program that you want to write into manageable modules
-Input validation - checking if data meets certain criteria before passing it into the program
-Test plan - test to see if a program input is working by testing its boundaries
-Normal data - valid data that a user should input into a program
-Boundary data - data on the boundary of what the program should accept
-Erroneous data - invalid data the program shouldn't accept
-Trace table - table to test that a program is working
-NOT gate - output is opposite of input (0, 1)
-AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0. (0, 0, 0, 1)
-OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
-XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
-Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
-Character set - collection of characters that a computer can recognise from their binary number
-Colour depth - number of bits used per pixel - 2^(number of bits)
-Resolution - the concentration of pixels in an area - given as WidthxHeight
 
 ## Networks
 LAN - Local Area Network - small geographical area located on a single site - all hardware owned by organisation - wired or wireless - in homes, businesses, schools, universities etc.
