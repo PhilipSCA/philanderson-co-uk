@@ -72,3 +72,9 @@ Work done, when braking = inital kinetic energy = 1/2 mass x velocity^2 (Work = 
 Force needed to stop car = 1/2 mv2 / distance
 Force = momentum change / time
 Inertia - how difficult it is to change an object's motion - high mass = high inertia
+
+###
+Waves - transfer energy through a medium without transferring any matter
+Transerve waves - vibrations(up, down) perpendicular to direction of energy transfer(forward) - all EM waves, ripples/waves in water, waves on a string
+Longitudinal waves - oscillations/vibrations parallel to direction of energy transfer(forward) - Sound waves in air eg ultrasound, Shock waves - Compressions & rarefractions
+Wave speed - speed energy is being transferred = Frequency x wavelength
