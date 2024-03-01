@@ -32,13 +32,57 @@ Mis amigos y yo vamos a comer en un restaurante. !Va a ser muy magnifico!
 
 
 ### Random terms
+```
+Recibo - I recieve
+Caramelos - Candies
+Dulces - Sweets
+Maquillaje - Makeup
+Pasatiempos - Hobbies
+A la hora de comer - Lunch time
+Cocino - I cook
+Al futbolin - Table football
+Al squash - Squash
+Monopatin - Skateboard
+Voy/Vamos - I go/We go
+Al polideportivo - To the sports centre
+La pista de hielo - The ice skating rink
+Descansar - To rest
+La radio - The radio
+Revistas - Magazines
+Periodicos - Newspapers
+Sano - Healthy
+Al aire libre - Outdoors
+Modelo a seguir - Role model
+Antes
+```
 
 #### Module 1 
 
 #### Module 2
 
 #### Module 3
-
+```
+Antes era - Before I was
+Ahora soy - Now I am
+Miembro de un club/equipo - Member of a club/team
+Aficionado de - A fan of
+Juege al - I played ...
+Jugaba al - I used to play 
+Criquet - Cricket
+Hacia - I used to do
+Equitacion - Horse riding
+Escalada - Climbing
+Patinaje sobre hielo - Ice skating
+Piraguismo - Canoeing
+Ya no - No longer
+Entreno - I train
+La temporada pasada - Last season
+Marque un gol - I scored a goal
+Compeonato - Championship
+Lo mejor fue cuando - The best thing was when
+Batio el record - Beat the record
+Ganar - To win
+```
 #### Module 4
 
 #### Module 5
