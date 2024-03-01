@@ -86,15 +86,19 @@ Operating System - OS - complex piece of software - manages hardware and runs so
    5) File management, disk management
    6) Manage security of system - through user accounts
 Multi-tasking OS - can run multiple applications at once
-Device drivers - 'translators' between OS to hardware - software to communicate with internal hardware/peripherals 
+1) Device drivers - 'translators' between OS to hardware - software to communicate with internal hardware/peripherals 
 - every piece of hardware has a driver
 - When computer booted up, OS chooses correct drivers for the hardware
 - If new hardware is connected, system will install the new, matching driver
 - Device manufacturers can release updates to drivers to fix bugs, add features or improve performance of hardware.
-User interface - allows user to interact with computer system 
-  - GUI - Graphical UI - visual, interactive, intuitive - optimised for specific input methods - WIMP (Windows, Icons, Menus, Pointers) or touchscreen - Android, iOS - use finger gestures like swiping, pinching 
-  - Command-line interface - text based - user enters specific commands for tasks - less resource heavy than GUIs - for advanced users, far more efficient and powerful than GUIs - can automate processes using scripts
-
+2) User interface - allows user to interact with computer system 
+    - GUI - Graphical UI - visual, interactive, intuitive - optimised for specific input methods - WIMP (Windows, Icons, Menus, Pointers) or touchscreen - Android, iOS - use finger gestures like swiping, pinching 
+    - Command-line interface - text based - user enters specific commands for tasks - less resource heavy than GUIs - for advanced users, far more efficient and powerful than GUIs - can automate processes using scripts
+3) OS helps CPU carry out multi-tasking by efficiently managing memory and CPU processing time: (app = application)
+   - When an app is opened, OS moves necessary parts of app to memory, followed by additional parts when they are required. OS decides if apps or features have been used recently - if not, they may be removed from memory
+   - To run multiple apps, OS needs to make sure apps dont overwrite or interfere with each other. A memory manager allocates certain apps certain memory addresses, so their processes are placed in separate locations
+   - Only one process is processed by CPU at a time - OS divides CPU time between open apps and may prioritise other processes in order for instructions to be executed in the most efficient order
+   - When required, OS organises movement of data to and from virtual memory
 
 
 ### Memory
