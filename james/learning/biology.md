@@ -74,6 +74,11 @@ Nerve cell - Animal, Send electrical impulses to brain for senses to work.
 Skin cell - Animal, epidermis, makes up skin
 Palisade cell - Plant, for photosynthesis.
 Muscle cell - Animal, makes muscles for contracting
+Prokaryotic cell - Bacterial cell, no nucleus, smaller, no mitochondria/chloroplasts and has plasmids
+Plasmids - Small circular DNA circle in bacteria, each one distinct and give bacteria benefits such as antibiotic resistance
+Eukaryotic cell - Plant, animal and fungal cells, have a nucleus, are larger than prokaryotic
+Chromosomal DNA - In bacteria cells DNA is found as one circular chromosome, not a nucleus
+
 ```
 
 ### B4: The Heart and circulatory system
@@ -84,7 +89,7 @@ Veins - Thinner walls (low pressure), wider lumen, have valves. TO heart
 Valves - Prevent backflow of blood
 Pacemaker - Group of cells in the right atrium
 Coronary arteries - Supply oxygen to heart muscle.
-Double circulatory system - Blood goes to heart, then lungs, back to heart, to body organs.
+Double circulatory system - Blood goes to hea rt, then lungs, back to heart, to body organs.
 Trachea - Throat, air goes to lungs through this
 Bronchi - Tubes divided off trachea
 Bronchioles - Divided off the bronchi and have alveoli at the end
@@ -143,4 +148,3 @@ Placebo test - One patient is given actual drug, other is given fake drug and ne
 Placebo effect - Patient believes treatment to work and feels better even if its fake, its in the mind.
 Double blind trial - Patient nor doctor know whether drug is real so doctors aren't influenced by their knowledge without realising
 ```
-
