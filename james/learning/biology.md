@@ -147,4 +147,4 @@ Clinical trial (Step 3) - Tested on healthy human volunteers. Optimum dosage fou
 Placebo test - One patient is given actual drug, other is given fake drug and neither know whether it's real or not.
 Placebo effect - Patient believes treatment to work and feels better even if its fake, its in the mind.
 Double blind trial - Patient nor doctor know whether drug is real so doctors aren't influenced by their knowledge without realising
-```hkkjj
+```
