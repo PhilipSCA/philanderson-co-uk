@@ -94,11 +94,58 @@ Multi-tasking OS - can run multiple applications at once
 2) User interface - allows user to interact with computer system 
     - GUI - Graphical UI - visual, interactive, intuitive - optimised for specific input methods - WIMP (Windows, Icons, Menus, Pointers) or touchscreen - Android, iOS - use finger gestures like swiping, pinching 
     - Command-line interface - text based - user enters specific commands for tasks - less resource heavy than GUIs - for advanced users, far more efficient and powerful than GUIs - can automate processes using scripts
-3) OS helps CPU carry out multi-tasking by efficiently managing memory and CPU processing time: (app = application)
+3&4) OS helps CPU carry out multi-tasking by efficiently managing memory and CPU processing time: (app = application)
    - When an app is opened, OS moves necessary parts of app to memory, followed by additional parts when they are required. OS decides if apps or features have been used recently - if not, they may be removed from memory
    - To run multiple apps, OS needs to make sure apps dont overwrite or interfere with each other. A memory manager allocates certain apps certain memory addresses, so their processes are placed in separate locations
    - Only one process is processed by CPU at a time - OS divides CPU time between open apps and may prioritise other processes in order for instructions to be executed in the most efficient order
    - When required, OS organises movement of data to and from virtual memory
+5) File & disk management - organisation of data in a useable hierarchical structure - movement, editing, deletion of data.
+   - file extensions (.jpg, .mp3, .mpeg) tell computer which software used to open file
+   - hard disk managed by OS - splits physical disk into storage sectors, decides which sectors to write data to, keeps track of free space of disk.
+   - Utility software - helps maintain or configure a computer.
+      - file compression software - reduces size of files
+      - encryption software - securs contents of files
+      - Defragmentation software - helps organise and maintain hard disk by collecting all free space together
+6) User accounts - OS can be single-user or multi-user:
+  - Single user OS - allow only one user to use computer at once. (Windows 10, OS X). Even if computer has multiple user accounts or is connected to a network, still single-user.
+  - Multi user OS - allow several users to use computer at once. Often used on mainframes and give many users simultaneous access. e.g ATMs allow thousands of people access to a bank's mainframe at same time (eg. UNIX server)
+User account control - allows different users to be granted access to specific resources on a computer.
+ - On most desktop OS, each user has their own personal data and desktop, but cant access other users' data
+ - OS may have anti-theft measures to prevent other users from accessing locked devices/accounts to steal info. Accounts may be password, PIN, fingerprint, specific patterns or face ID protected
+Defragmenting - reorganising storage on HDD to put fragmented files back together, & collects all free space to prevent further fragmentation. | Fragmented files makes reading & writing much slower as R/W head has to move back and forth.
+ - An SSD uses flash storage(no moving parts) - cant be fragmented - can access data quickly no matter how arranged. SSDs have a limited number of read/writes, defragmenting shortens lifespan
+Backup - copy of files and settings stored externally. Data can be recovered in event of data loss
+Backup utility - software wtih facilities like scheduling regular backups, rescue disks, disk images, options of full or incremental backups.
+Full backup - copy is taken of every file on system. Use a lot of storage space - take a long time to create, but faster to restore from
+Incremental backup - only files created or edited since last backup copied. Use Less storage space, much quicker to create. A full system restore is slow as last full backup must be restored, and every incremental backup since then.
+Compression software - reduces size of files to take up less disk space. Used loads on internet. (.zip, .rar). Compressed files need to be extracted before used.
+Encryption software - encrypts data to stop third-parties from accessing it. Can be decrypted using a special 'key'
+Open Source Software - software where source code is freely available. Users can legally modify source code to create own spin-off software, that can be shared under same license and terms as original. (Examples: Apache HTTP server, GIMP, Firefox, VLC, Linux)
+  - Linux is hugely successful open source OS released in 1991 - most popular linux based OSs are: UBUNTU, Debian & Android
+  - Popular open source software is always supported by a strong community - users actively help improve software
+Advantages:
+1) Usually free
+2) Made for greater good - not profit - benefits everyone, encourages collaboration, sharing of ideas
+3) Software can be adapted by users to fit needs
+4) Wide pool of collaborators can be more creative and innovative than original programmers.
+5) Popular software - very reliable and secure - any problems quickly solved by community.
+Disadvantages:
+1) Small projects may not be regularly updated - can be buggy/have unpatched security holes
+2) Limited user documentation
+3) No warranties
+4) No official customer support
+5) Companies using open-source custom code may not want competitors to see their code, but have no choice
+Proprietary software - closed source - paid for - only compiled code is released & source code is closely-guarded secret. Licenses restrict modification, copying, redistribution of software.
+ - Businesses often use proprietary as it tends to have better customer support options. 
+ - Examples include: Microsoft(Office, Windows, Outlook) and Adobe(Photoshop, Illustrator)
+Advantages:
+1) Comes with warranties, documentation, customer support
+2) Well-tested and reliable as company's reputation depends on it. Fixes & updates more regularly or scheduled
+3) Usually cheaper for business - dont need to develop custom software
+Disadvantages:
+1) Expensive
+2) May not exactly fit users needs
+3) Software companies may not maintain older software after warranties expire - want people to buy latest product
 
 
 ### Memory
@@ -122,6 +169,7 @@ Secondary storage - non-volatile - where all data is stored when not in use: Mag
 - silent
 - shorter R/W life
 - hybrid drives exist, using SSD to boot up computer and HDD for data
+- limited number of read/writes - defragmenting shortens lifespan
 3) Optical discs - CD, DVD, Blu-ray - CD = 700 MB of data, DVD = 4.7GB, Blu-ray = 25GB,
   Read-only (CD-ROM, DVD-ROM, BD-ROM) - Write-once(CD-R, DVD-R, BD-R) - rewriteable(CD-RW, DVD-RW, BD-RW)
 - cheap, portable, durable from water or shocks
