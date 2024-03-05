@@ -60,6 +60,16 @@ Reciprocal - Multiplicative inverse, product of reciprocal and original number =
 Invariant point - Points that dont change after a transformation
 Enlargement - By scale factor ( ) at center of enlargement ( , )
 Loci - Points meeting a condition
+Cumulative freq graphs - To measure spread of data, the median and dispersion with range.
+Quartile - Each quarter. Upper and Lower
+Interquartile range - Upper - lower (75% - 25%)
+Median - Half way line
+Cumulative frequency - All frequencies added up as you go
+Box plot - Shows quartiles and ranges
+Enlargement - Shape changes scale by a sf
+Centre of enlargement - Point which tells you where to enlarge
+Simultaneous equations - To find values (x and y) of linked equations by comparing them.
+Surd - A rooted number (sq root, cube root etc)
 
 
 ```
