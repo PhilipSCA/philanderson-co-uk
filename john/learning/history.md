@@ -209,5 +209,29 @@ Hansa, Normans, Vikings - link more European trade
 #### WHY
 Huguenots - persecution - protestants fled persecution from France after St Bartholomew's day massacre, banning of their shops and tolerance - French King ended 'Edict Of Nantes' - 1685 - 50,000 settled in England
 Huguenots - government - Charles II - letters of Denization | 1681 | allowed Huguenots to gain type of citizenship
-Jews - persecution - 30,000 killed in Ukraine - England tolerated them - Flemish & Walloons
+Jews - persecution - 30,000 killed in Ukraine - England tolerated them - Flemish & Walloons too
 Jews - government - Cromwell & Charles II - allowed Jews to return
+Flemish & Walloons - Sandwich and Canterbury invited to help settle economies
+British Empire beginning - growing trade - African and Asian sailors (Lascars), & Asian nannies (Ayahs) - East India Company growing - by 1700, 15000 or more
+Creation of East India Company & Charles' charter allowing Company of Royal adventures - W.Africa trade - sailors & slaves
+African sailors - John Blanke - Trumpeter for Henry VIII || Jaques Francis - diver
+12,000 Palatines fleeing poor harvests - hope to go to Carolinas + some fleeing religious persecution
+Dutch - invites as labourers - drain 40,000 acres of Fenlands
+#### EXPERIENCE
+##### Positives
+Huguenots - 50,000 settled, welcomed - highly skilled eg silk weavers - successful | Bank of England founders huguenot - 1709: Naturalisation Act - 2k benefited | Employed 50,000 in London - silk production 20x
+Walloons, Canterbury - set up 800 looms - nee cloth dyeing skills - given 100 houses - about 20,000 Flemish & Walloons settle so lots of community support
+Jews - allowed to return by Cromwell - allowed own synagogue set up in 1701 - Religious freedom
+##### Negatives
+Roman gypsies - persecuted - 1601 vagrancy laws - many were hung, others enslaved and sent to Caribbean. 
+African & Asian - some held respected positions - John Blanke - Henry 8th trumpeter, Jacques Francis - expert diver and court witness = respect
+- Fashion for aristocrats to have African & Asian children as servants - Lascars settled in ports(Liverpool) did hard dock work - some Ayahs abandoned when here
+Black community - 15000 - Lascars only 1000 so quite small, less community support
+'Evil May Day' riots - 1,000 strong mob attacked 'strangers' - 0 killed - 300 rioters executed
+Jews - anti-semitism persisted - still banned from being lawyers, going to Uni, serving in army or parliament
+#### IMPACT
+Government - Elizabeth I issued charter to set up East India Company - trade in cotton, silk & spices - grows
+Government - 1660 - Charles II issued charter to set up Royal Adventures trading to Africa - transatlantic slave trade grows - huge wealth brought into country - sugar trade growth especially.
+Economic: - Flemish & Walloons - 1500s - help Canterbury grow, 1,000 looms, employ 1000s
+Huguenots - train 500 apprentices - new techniques like brocade and taffeta - fashion industry grows
+Huguenots - 10% of funds to set up Bank Of England - helped set up Sheffield Steel Industry

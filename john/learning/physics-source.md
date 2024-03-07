@@ -11,7 +11,7 @@ Resultant force - (overall force) - overall force acting on an object
 Equilibrium - when all forces on an object give a resultant force of 0 
 Stretching, compressing, bending transfers energy
 Moment - turning effect of a force
-Inertia - how difficult it is to change an object's motion - high mass = high inertia
+
 
 8 energy stores:
 - Kinetic energy - movement energy store - depends on mass and speed
@@ -71,3 +71,10 @@ Factors affecting braking distance - 1) Car's brakes or tyres, 2) car speed, 3) 
 Work done, when braking = inital kinetic energy = 1/2 mass x velocity^2 (Work = force x distance)
 Force needed to stop car = 1/2 mv2 / distance
 Force = momentum change / time
+Inertia - how difficult it is to change an object's motion - high mass = high inertia
+
+###
+Waves - transfer energy through a medium without transferring any matter
+Transerve waves - vibrations(up, down) perpendicular to direction of energy transfer(forward) - all EM waves, ripples/waves in water, waves on a string
+Longitudinal waves - oscillations/vibrations parallel to direction of energy transfer(forward) - Sound waves in air eg ultrasound, Shock waves - Compressions & rarefractions
+Wave speed - speed energy is being transferred = Frequency x wavelength

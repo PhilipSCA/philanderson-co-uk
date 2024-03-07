@@ -204,6 +204,26 @@ Half equation for nonmetals - 2Yx- ---> Y2 + 2xe-
 Half eq. for hydrogen = 2H+ + 2e- ---> H2
 Half eq. for hydroxide = 4OH- ---> O2 + 2H20
 ```
+## C Something - Hydrocarbons
+Hydrocarbon - any compound formed from carbon and hydrogen atoms only - simplest organic compound
+Alkanes - simplest hydrocarbon - C(n)H(2n+2) - homologous series(all react in a similar way) - saturated compounds - each carbon atom form four single covalent bonds (methane, ethane, propane, butane)
+Short Chains -------------------> Long chains:
+- LOWER boiling points  -----> higher boiling points
+- LESS viscosity - runny ----> more viscosity - thick
+- MORE volatile(tendency to turn into gas) --> less volatile
+- MORE flammable -----------> less flammable
+- cleaner flame -------------> smokier flame
+Complete combustion - excess of oxygen. releases a lot of energy. Waste products- carbon dioxide + water. Carbon and hydrogen are both oxidised. 
+    - hydrocarbon + lots of oxygen --> carbon dioxide + water (+energy)
+    - Hydrocarbons used as fuels due to amount of energy they release.
+Incomplete combustion - lack of oxygen - produces also carbon monoxide and carbon. Less energy released.
+  - alkane + (low) oxygen ---> carbon monoxide + carbon dioxide + water (+(low) energy)
+Crude Oil - fossil fuel - formed from remains of plants/animals mainly plankton millions of years ago. | a mixture of lots of different hydrocarbons - most are alkanes.
+Fractional distillation - how to separate fractions of crude oil - oil heated from bottom - top. Longer chains condense first as higher BP. From top - bottom: 1) LPG(Liquiefied petroleum gas), 2) Petrol, 3)Kerosene, 4) Diesel Oil, 5) Lubricating/heating/heavy fuel oil.
+- Each fraction is a mixture of hydrocarbons - all contain similar amount of carbon atoms - similar boiling points
+
+
+
 
 ## C8 - Rates of reaction
 ```
@@ -237,3 +257,36 @@ Equilibrium - when the concentration of the reactants and products are balanced 
 Le Chatelier's principle - the equilibrium position can be changed if a change in conditions is introduced to the system
 - In reversible reactions, reaction can be endo/exothermic. If reaction is endothermic in one direction, it is exothermic in the other. (vice versa)
 ```
+
+## C12 - The Atmosphere
+### Evolution of atmosphere:
+```
+Phase 1 - Volcanoes gave out gases:
+- first billion years, earth covered in volcanoes - erupted & released gases - early atmosphere consisted of mostly carbon dioxide -some nitrogen, water vapour -small amounts of methane& ammonia -  no oxygen
+
+Phase 2 - Oceans, Algae, plants absorbed CO2 - water vapour condensed, formed oceans - much carbon dioxide removed from atmosphere, dissolved in oceans -went through series of reactions -form carbonate precipitates - formed sediments on seabed.
+- marine animals evolved -shells & skeletons contained carbonates from ocean
+- Plants & algae evolved - absorbed some carbon dioxide to carry out photosynthesis
+- Carbon trapped in fossil fuels & rocks after death - plants/plankton/marine animals die, fall onto seabed, get buried by layers of sediment. Over millions of years, compress & form sedimentary rocks, oil and gas - FOSSIL FUELS(contain trapped carbon)
+  - Crude oil & natural gas formed from plankton - form reservoirs under seabed when trapped in rocks
+  - Coal - sedimentary rock - from thick plant deposits
+  - Limestone - sedimentary - mostly made of calcium carbonate deposits - from shells and skeletons of marine animals
+
+Phase 3 - Plants & Algae produce OXYGEN - learnt photosynthesis:
+- learnt how to use light to convert CO2 into water and sugars - carbon dioxide + water --> glucose + oxygen
+- Algae evolved first - 2.7 billion yrs ago, over next billion years, green plants also evolved
+- as oxygen levels built up in atmosphere, more complex life could evolve
+- about 200 million years ago, atmosphere reached a composition similar to today:
+  - 78% - Nitrogen 
+  - 21% - Oxygen
+  - 0.9% - Argon, Carbon dioxide - 0.04, Water vapour ???
+```
+### Greenhouse gases: 
+Greenhouse gases - methane, carbon dioxide, water vapour - absorb long wavelength radiation thats reflected off the Earth - re-radiate it in all directions(including back towards earth)
+Greenhouse effect - sun shines short wavelength radiation to earth, long wavelength (thermal radiation) reflected back - insulating layer of greenhouse gases absorb and re-emit it back into earth - heats the earth
+Human activity affecting greenhouse gases:
+- Deforestation - fewer trees = less CO2 being absorbed by photosynthesis = more CO2 in air
+- Burning fossil fuels - carbon 'locked up' in fossil fuels released as CO2
+- Agriculture - more farm animals produce methane - digestive waste
+- Creating waste - landfill sites & waste from agriculture - more CO2 and methane released from decomposition of waste
+
