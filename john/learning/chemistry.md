@@ -206,7 +206,21 @@ Half eq. for hydroxide = 4OH- ---> O2 + 2H20
 ```
 ## C Something - Hydrocarbons
 Hydrocarbon - any compound formed from carbon and hydrogen atoms only - simplest organic compound
-Alkanes - simplest type of hydrocarbon - C(n)H(2n+2) - homologous series - saturated compound- each carbon atom form four single covalent bonds (methane, ethane, propane, butane)
+Alkanes - simplest hydrocarbon - C(n)H(2n+2) - homologous series(all react in a similar way) - saturated compounds - each carbon atom form four single covalent bonds (methane, ethane, propane, butane)
+Short Chains -------------------> Long chains:
+- LOWER boiling points  -----> higher boiling points
+- LESS viscosity - runny ----> more viscosity - thick
+- MORE volatile(tendency to turn into gas) --> less volatile
+- MORE flammable -----------> less flammable
+- cleaner flame -------------> smokier flame
+Complete combustion - excess of oxygen. releases a lot of energy. Waste products- carbon dioxide + water. Carbon and hydrogen are both oxidised. 
+    - hydrocarbon + lots of oxygen --> carbon dioxide + water (+energy)
+    - Hydrocarbons used as fuels due to amount of energy they release.
+Incomplete combustion - lack of oxygen - produces also carbon monoxide and carbon. Less energy released.
+  - alkane + (low) oxygen ---> carbon monoxide + carbon dioxide + water (+(low) energy)
+Crude Oil - fossil fuel - formed from remains of plants/animals mainly plankton millions of years ago. | a mixture of lots of different hydrocarbons - most are alkanes.
+Fractional distillation - how to separate fractions of crude oil - oil heated from bottom - top. Longer chains condense first as higher BP. From top - bottom: 1) LPG(Liquiefied petroleum gas), 2) Petrol, 3)Kerosene, 4) Diesel Oil, 5) Lubricating/heating/heavy fuel oil.
+- Each fraction is a mixture of hydrocarbons - all contain similar amount of carbon atoms - similar boiling points
 
 
 
@@ -275,3 +289,4 @@ Human activity affecting greenhouse gases:
 - Burning fossil fuels - carbon 'locked up' in fossil fuels released as CO2
 - Agriculture - more farm animals produce methane - digestive waste
 - Creating waste - landfill sites & waste from agriculture - more CO2 and methane released from decomposition of waste
+
