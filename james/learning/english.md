@@ -71,43 +71,61 @@ Themes:
   - Morality
   - Social Inequality / Class
   - Teachings
+  - Social responsibility
   
-1. "And I say there isn't a chance of war" - Mr Birling, Act 1.
-   (Teachings) WW1 in 1914, WW2 in 1939, Play set in 1912. Irony
+1. "That a man has to mind his own business and look after himself and his own - " - Mr Birling, Act 1
+   (Capitalism vs Socialism, Greed) - Every man for themself. Interrupted by Inspector midway through shows duality between Birling and Goole as he intercepts his ideas/viewpoint.
 
-2. "Clothes mean something quite different to a woman" - Mr Birling, Act 1
-   (Gender/Sexism)
-
-3. "As if we were all mixed up together like bees in a hive - community and all that nonsense" - Mr Birling, Act 1
-  (Capitalism vs Socialism) - Simile of how bees work together in a hive followed by 'nonsense'
-
-4. "That a man has to mind his own business and look after himself and his own - and - " - Mr Birling, Act 1
-   (Capitalism vs Socialism) - Every man for themself. Interrupted by Inspector midway through shows duality between Birling and Goole as he intercepts his ideas/viewpoint.
-
-5. "Rubbish! If you dont come down sharply on some of these people, they'd soon be asking for the earth" - Mr Birling, Act 1
+2. "Rubbish! If you dont come down sharply on some of these people, they'd soon be asking for the earth" - Mr Birling, Act 1
    (Greed, Capitalism) - Unfair society, lower-classed people can't ask for a payrise without punishment. 'these people' highlights prideful and belittling view of Mr Birling.
    
-6. "And then she got herself into trouble there, I suppose" - Mr Birling, Act 1
+3. "And then she got herself into trouble there, I suppose" - Mr Birling, Act 1
    (Guilt) - Trying to pin the blame on her, assuming Eva was the problem.
 
-7. "Girls of that class- " Mrs Birling, Act 2
+4. "Girls of that class- " Mrs Birling, Act 2
    (Social inequality/Class) - 'that' shows high disregard and lack of respect for lower classes, looks down on Eva. "girls" as opposed to "women" shows negative and youthful connotations.
 
-8. "(cutting in with authority) He must wait his turn" - Inspector Goole, Act 2
+5. "(cutting in with authority) He must wait his turn" - Inspector Goole, Act 2
    (Morality, Control) - Inspector puts himself above the upper class Birling family in this situation, he has control/authority over the room.
 
-9. "Now, Sheila, I'm not defending him. But you must understand that a lot of young men -" - Mr Birling, Act 2
+6. "Now, Sheila, I'm not defending him. But you must understand that a lot of young men -" - Mr Birling, Act 2
    (Old vs New generation, Gender) - Mr Birling regards Shiela as naive being a young woman. 
 
-10. "Yes, and the next time - or the time after that" - Eric, Act 3
+7.  "Yes, and the next time - or the time after that" - Eric, Act 3
    (Guilt) - Was drunk and doesn't remember, the '-' shows his guilt as he is hesitating to boldly answer the question, impression of him muttering the last part in shame and realisation.
 
-11. "Because you're not the kind of father a chap could go to when he's in trouble - thats why " - Eric, Act 3
+8.  "Because you're not the kind of father a chap could go to when he's in trouble - thats why " - Eric, Act 3
    (Old vs new generation) - Poor relationship with father, shows difference between older gen and newer, they can't exactly get along the same
 
-12. ""[nearly at breaking point]... you killed her - and the child she was going to have too - my child - your own grand child - you killed them both - damn you, damn you -" Eric, Act 3
-   (Guilt) - Eric panicking and repitition of 'you' very targeting and aggressive, pointing fingers. Dashes to show hyperventilation
+9.  ""[nearly at breaking point]... you killed her - and the child she was going to have too - my child - your own grand child - you killed them both - damn you, damn you -" Eric, Act 3
+   (Guilt) - Eric panicking and repitition of 'you' very targeting and aggressive, pointing fingers. Dashes to show
     
-13. 
+10. "We are members of one body. We are responsible for each other. And I tell you the time will soon come when, if men will not learn that lesson, then they will be taught it in fire and blood and anguish" - Inspector Goole, Act 3
+    (Morality, Teachings, Social responsibility) - Dramatic Irony, relating to WW1 and WW2. Uses metaphor of being one body and a collective pronoun "we" to show the connection between all in society. Inspector Goole as a mouthpiece for Priestly to passionately express his views which he believes to be right and anyone against them a fool.
+
+11. "All right. But it doesn't make any real difference, y'know" - Sheila, Act 3
+    (Old vs New generation, Guilt) - Sheila, a younger woman realises how her actions do matter and should change whereas older just care about being seen as wrong and getting caught.
+
+12. "It's all right talking like that now. But he made us confess" - Shiela, Act 3
+   (Guilt, Old vs New generation) - Same as above, Sheila points out how they all still confessed for contributing to what could've been a death.
+
+13. "Probably a socialist or some sort of crank" - Mr Birling, Act 3
+   (Old vs New generation, Socialism vs Capitalism) - Mr Birling back to being arrogant and hasn't changed, seen as extremely foolish and a joke by audience who receive Priestley's message. Mr Birling and Inspector contrast each other as Mr Birling said, Goole is a socialist, but was in the right and he directly opposes Mr Birling with opposite ideals.
+
+14. "The worst part is... Everything we said had happened really had happened. If it didn't end tragically, then thats lucky for us. But it might've done" - Sheila, Act 3
+   (Old vs New generation, Social responsibility) - Generational divide once again clearly shown by Sheila who realises the situation could've easily been bad if Eva's death was real.
+
+15. "Now look at the pair of them - the famous younger generation who know it all. And they cant even take a joke" - Mr Birling, Act 3
+   (Old vs New generation, Morality) - Mr Birling symbolising what exactly is wrong with society in the Jacobean era from Priestley's perspective, creates a foolish aura of him using irony. Sees it all as a 'joke' and brush it under the rug despite the wrong things they commit, arrogance and pride came with their money and class. Inability to change ways.
+
+16. "And I say there isn't a chance of war" - Mr Birling, Act 1.
+   (Teachings) WW1 in 1914, WW2 in 1939, Play set in 1912. Dramatic Irony
+
+17. "Clothes mean something quite different to a woman" - Mr Birling, Act 1
+   (Gender/Sexism) - Stereotyping women. Unlikeable view of Mr Birling.
+
+18. "As if we were all mixed up together like bees in a hive - community and all that nonsense" - Mr Birling, Act 1
+   (Capitalism vs Socialism) - Simile of how bees work together in a hive followed by 'nonsense'.
+
 
 
