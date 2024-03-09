@@ -71,5 +71,14 @@ Centre of enlargement - Point which tells you where to enlarge
 Simultaneous equations - To find values (x and y) of linked equations by comparing them.
 Surd - A rooted number (sq root, cube root etc)
 
-
+------------------------------------------------09/03/24--------------------------------------------------
+Fractional indices - x^1/n = (n√x)
+Rule 1 - (x/y)^1/2 = √x/√y
+Rule 2 - (x/y)^n = x^n/y^n
+Parallel lines - Equidistant from eachother, never meet
+Transversal - Crosses two parallel lines
+Corresponding angles - F shape, equal angles
+Alternate angles - Z shape, equal angles
+Co-interior angles - C shape, add to 180°
+Recurring decimals - Go on forever, Always n/9 depending on how many digits. (n/99 or n/999)
 ```
