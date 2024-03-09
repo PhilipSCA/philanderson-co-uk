@@ -7,6 +7,7 @@
     - [Language techniques](#language-techniques)
     - [Structural techniques](#structural-techniques)
     - [Quotes](#quotes)
+      - [An Inspector calls](#an-inspector-calls)
 
 ## random terms
 Lexicon - Field/Idea of
@@ -57,4 +58,56 @@ Omniscient narrator - 3rd person who knows everything
 1st person - I, me, my
 2nd person - You, yours
 Unreliable narrator - Perspective of this narrator makes the reader question its reasoning
+
 ### Quotes
+#### An Inspector calls
+-------------------------------------------------09/03/24-----------------------------------------------------------------
+Themes: 
+  - Socialism vs Capitalism
+  - Gender / Gender inequality
+  - Old vs New generation
+  - Guilt
+  - Greed
+  - Morality
+  - Social Inequality / Class
+  - Teachings
+  
+1. "And I say there isn't a chance of war" - Mr Birling, Act 1.
+   (Teachings) WW1 in 1914, WW2 in 1939, Play set in 1912. Irony
+
+2. "Clothes mean something quite different to a woman" - Mr Birling, Act 1
+   (Gender/Sexism)
+
+3. "As if we were all mixed up together like bees in a hive - community and all that nonsense" - Mr Birling, Act 1
+  (Capitalism vs Socialism) - Simile of how bees work together in a hive followed by 'nonsense'
+
+4. "That a man has to mind his own business and look after himself and his own - and - " - Mr Birling, Act 1
+   (Capitalism vs Socialism) - Every man for themself. Interrupted by Inspector midway through shows duality between Birling and Goole as he intercepts his ideas/viewpoint.
+
+5. "Rubbish! If you dont come down sharply on some of these people, they'd soon be asking for the earth" - Mr Birling, Act 1
+   (Greed, Capitalism) - Unfair society, lower-classed people can't ask for a payrise without punishment. 'these people' highlights prideful and belittling view of Mr Birling.
+   
+6. "And then she got herself into trouble there, I suppose" - Mr Birling, Act 1
+   (Guilt) - Trying to pin the blame on her, assuming Eva was the problem.
+
+7. "Girls of that class- " Mrs Birling, Act 2
+   (Social inequality/Class) - 'that' shows high disregard and lack of respect for lower classes, looks down on Eva. "girls" as opposed to "women" shows negative and youthful connotations.
+
+8. "(cutting in with authority) He must wait his turn" - Inspector Goole, Act 2
+   (Morality, Control) - Inspector puts himself above the upper class Birling family in this situation, he has control/authority over the room.
+
+9. "Now, Sheila, I'm not defending him. But you must understand that a lot of young men -" - Mr Birling, Act 2
+   (Old vs New generation, Gender) - Mr Birling regards Shiela as naive being a young woman. 
+
+10. "Yes, and the next time - or the time after that" - Eric, Act 3
+   (Guilt) - Was drunk and doesn't remember, the '-' shows his guilt as he is hesitating to boldly answer the question, impression of him muttering the last part in shame and realisation.
+
+11. "Because you're not the kind of father a chap could go to when he's in trouble - thats why " - Eric, Act 3
+   (Old vs new generation) - Poor relationship with father, shows difference between older gen and newer, they can't exactly get along the same
+
+12. ""[nearly at breaking point]... you killed her - and the child she was going to have too - my child - your own grand child - you killed them both - damn you, damn you -" Eric, Act 3
+   (Guilt) - Eric panicking and repitition of 'you' very targeting and aggressive, pointing fingers. Dashes to show hyperventilation
+    
+13. 
+
+
