@@ -12,7 +12,7 @@ Equilibrium - when all forces on an object give a resultant force of 0
 Stretching, compressing, bending transfers energy
 Moment - turning effect of a force
 
-
+## P1
 8 energy stores:
 - Kinetic energy - movement energy store - depends on mass and speed
 - Gravitational Potential energy - energy stored in height of an object in a gravitational field
@@ -35,7 +35,58 @@ Conservation of energy - energy can be transferred, stored or dissipated, but ca
 Power - rate of doing work, rate of energy transfer - Watts
 Watts - joules of energy transferred per second
 
-### P6 - Radioactivity
+## P4 - Electricity & Circuits
+I = Current - Amps(A)
+Q = Charge - Coloumbs(C) - current x time
+Milliamps - mA - 1/1000 of an Amp
+Potential difference - energy transferred per unit of charge - Volts - energy/charge
+Resistance - ability to slow current - Ohms
+Diode - only allows current to flow in one direction - very high resistance in other direction
+Resistor - limits passage of current - current proportional with P.d - resistance does not change
+Variable resistor - able to change amount of resistance e.g with a slider
+LED - Light-emitting diode - a diode that emits light
+Lamp - current heats filament in bulb so it gives out light - resistance increases as temperature increases
+Thermistor - resistance inversely proportional to temperature - as temp increases, resistance decreases - thermostats, heat-detected fire alarms
+LDR - Light-dependent resistor - resistance inversely proportional to light intensity - as light increases, resistance decreases
+Fuse - Resistor that melts if current gets too high
+Cell - half a battery - provides P.d and energy
+Battery - multiple cells joined in series - uses chemical energy to produce electricity - more voltage
+Series Circuit:
+- Current only has one route
+- Current SAME all way round. (I1 = I2 = I3) 
+- Potential difference is Shared (V = V1 + V2 + V3)
+- Resistance is added together
+Parallel Circuit:
+- Current has more than one route
+- Current shared through each branch. (I = I1+I2+I3)
+- Potential difference SAME all way round (V1 = V2 = V3)
+- Total resistance is lower than smallest single resistor
+Practical - factors that affect resistance:
+1) Connect crocodile clips to resistance wire of a certain circuit, 100cm apart.
+2) Record amps and volts 
+3) Move crocodile clips 10cm closer (to 90cm) and record new amps and volts
+4) Repeats steps and use results to calculate resistance at each length. Plot a graph/table of this information
+ - Safety measure: do not touch resistance wire whilst circuit is connected - extremely hot
+
+## P5 - Electricity in the Home
+ac - alternating current - potential difference can change(alternate) from negative to positive - found in mains
+dc - Direct current - constant P.d - found in batteries & circuits
+UK mains - AC supply of 230V and frequency of 50Hz
+Power(P) - Energy transferred per second - Watts(W)
+Energy - Power x time - also called work done
+Energy transfer - Energy input --> Useful energy + wasted energy
+National Grid - system of pylons, cables and transformers - transfers voltage to peoples homes
+Step-up transformer - INCREASE P.d - less heat energy wasted (less current = less resistance) 
+Step-down - Decrease P.d - more easily used
+Live Wire - Brown - connects to fuse - Carries alternating potential difference from supply - About 230V
+Neutral - Blue - completes circuit - 0V
+Earth - Green & Yellow - Carries current safely to Earth if there is a fault - 0V
+Plug - Made of plastic - good insulator - Earth wire at top left, Neutral - bottom left, Live - Mid right
+Frequency - 1/Time period - Hertz(Hz) - number of times that ac reverses its direction per second
+Power efficiency - Useful power output/Total power input x 100
+
+
+## P6 - Radioactivity
 Alpha particle - 2 protons, 2 neutrons (helium nucleus) - travels 5cm in air - highly ionising(charge of +2) - stopped by paper 
 Beta particle - 1 fast electron - travels 1m in air - midly ionising(charge of -1) - stopped by aluminium/metal foil
 Gamma wave - electromagnetic wave - infinite distance - low ionising, no charge - stopped by thick lead or metres of concrete
@@ -57,7 +108,7 @@ Gamma - Radiotherapy - cancer treatment - gamma rays fired at mutated cells, kil
 Fission - type of nuclear reaction - releases gamma/kinetic energy from large, unstable atoms by splitting them - neutron hit & absorbed by nucleus, atom split into 2 lighter elements - shoots out more neutrons to start a chain reaction
 Fusion - opposity - two light nuclei collide at high speed, fuse to create a larger, heavier nucleus | mass of big nucleus is smaller than two smaller nuclei - some mass converted to energy | releases more energy than fission
 
-### P10
+## P10
 Acceleration due to gravity - freefalling acceleration - 9.81m/s2 (10m/s2)
 Air resistance - frictional force with air - slows a falling object - increases as speed of object increases
 Terminal velocity - the fastest an object can fall - when the air resistance is equal to the weight of an object, the object stops accelerating - it is at a constant 'terminal' velocity
@@ -73,7 +124,7 @@ Force needed to stop car = 1/2 mv2 / distance
 Force = momentum change / time
 Inertia - how difficult it is to change an object's motion - high mass = high inertia
 
-###
+##
 Waves - transfer energy through a medium without transferring any matter
 Transerve waves - vibrations(up, down) perpendicular to direction of energy transfer(forward) - all EM waves, ripples/waves in water, waves on a string
 Longitudinal waves - oscillations/vibrations parallel to direction of energy transfer(forward) - Sound waves in air eg ultrasound, Shock waves - Compressions & rarefractions
