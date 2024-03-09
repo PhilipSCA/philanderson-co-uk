@@ -4,6 +4,7 @@
 - [computer science](#computer-science)
   - [contents](#contents)
   - [random terms](#random-terms)
+    - [Programming](#programming)
 
 ## random terms
 
@@ -61,10 +62,10 @@ Subroutine - Instruction to use another program for a task
 ```
 
 ```
-Hard Disk Drive - High capacity, read/write data. Cheap and reliable
-Solid State Drive - Fast and reliable. Expensive, no moving parts.
-Optical disks - Cheap and robust. Three forms
-Flash memory - SSD's, USB's and SD cards.
+Hard Disk Drive qualities - High capacity, read/write data. Cheap and reliable
+Solid State Drive qualities - Fast and reliable. Expensive, no moving parts and shock-proof
+Optical disks - Cheap and robust. Three forms (CD-ROM, CD-R, CD-RW)
+Flash memory - SSD's, USB's, SD cards and ROM chips
 Magnetic tapes - For archiving. Very high capacity, cheap, quite slow.
 Bitmaps images - Stored as series of pixels
 Colour depth - Number of bits per pixel
@@ -111,4 +112,85 @@ Selection flowchart - If statements/decisions, multiple ways to end
 Iteration flowchart - Contains a loop on a task.
 Binary search - Search algorithm, ordered list start from middle and half list
 Linear search - Search algorithm, checks each item one by one until found.
+```
+**_15/2/24_**
+```
+Bubble sort - In an unordered list, compare first two items and swap if in wrong place. Repeat until end = one pass. Repeat passes until fully solved. (Sorting algorithm)
+Merge sort - Divide-and-conquer, split list into several seperate items by dividing itself multiple times, then merge list back again and order correctly, doubling list length each merge.
+Insertion sort - One data item at a time, one item is taken and inserted where it belongs in the list.
+Variable - Location in memory to store a value
+Bits - Smallest measure of data, either 1 or 0.
+Bytes - 8 bits, 256 values (2^8)
+Kilobyte - 1000 bytes (or 1024)
+Base 10 - Decimal/Denary
+Base 2 - Binary, 1 and 0
+8 bit numbers - 0 to 255 (2^8)
+16 bit numbers - 0 to 65,535 (2^16)
+32 bit numbers - 0 to 4,294,967,295 (2^32)
+Binary shifts - Used to multiply (left) or divide by 2 (right).
+Base 16 - Hexadecimal, 16 digit syystem with 1-9 as numbers but 10-15 are shown with A-F
+Nibble - 1 hex digit, 4 bits
+Alphanumeric - Any character/symbol (letter,num,symbol)
+Computer - Machine that takes data, processes it and outputs it.
+Hardware - Physical components of your computer (CPU, Monitor etc.)
+Software - Apps/Programs that a computer system runs
+Embedded system - Computers inside a larger system or built into other devices. (Dishwashers, TV's, GPS)
+Power supply - Gives power to motherboard and hardware
+Fans - Extracts hot air from computer case and cools CPU.
+CPU - Processes all data, fetch-decode-execute cycle. (Central Processing Unit)
+Optical drive - For reading/writing of optical discs
+RAM sticks - Computer memory stores here, physical hardware.
+Motherboard - Main circuit board where hardware is connected
+Hard disk drive - Internal secondary storage.
+Control Unit (CU) - Overall control of CPU. Executes and decodes program instructions.
+Algorithm Logic Unit (ALU) - Calculations, logic operations such as boolean or binary shifts
+Cache - Very fast memory in CPU, slower than registers. Can be accessed quickly when needed. Expensive and low capacity
+Von Neumanns architecture - A system where CPU runs programs stored in memory and created fetch-decode-execute cycle.
+Registers - MAR, MDR and ACC, temporary stores of data that are accessed easily.
+Program Counter (PC) - Holds memory address of next instruction
+Accumulator (ACC) - Stores result of calculations from ALU
+Memory Address Register (MAR) - Holds memory address about to be used
+Memory Data register (MDR) - Holds instruction waiting to be written to memory.
+Fetch-decode-execute cycle - How instructions are processed and executed. PC -> MAR -> MDR -> PC(increment) -> CU.
+RAM - High speed, voltaile memory. Can be read/written to.
+Virtual memory - Secondary storage used as extra RAM.
+ROM - Non volatile memory, can only be read and used for computer boot up (BIOS).
+Clock speed - Number of instruction a processor carries out per second (Hz)
+Cache size - Larger cache size, faster access to more data for CPU.
+Number of cores - Cores in CPU's process data independently. More processed at once.
+Graphics processing Unit (GPU) - For CPU to process images and graphics.
+Magnetic hard disk - HDD, High capacity, reliable storage, cheaper
+CD-ROM disc - Compact disk, read only memory
+CD-R disc - Compact disc, recordable
+CD-RW disc - Compact disc, rewriteable
+```
+
+### Programming
+**_16/2/24_**
+```
+Integer - 2 or 4 bytes, a whole number
+Real - 4 or 8 bytes, a decimal number
+Boolean - 1 bit but 1 byte used, True/False.
+Boolean logic operators - AND, OR, NOT
+Character - 1 byte, a single letter/number/symbol.
+String - 1 byte for every character, it's text, a collection of characters
+Casting - Changing data type using functions (int(), str() etc.)
+<> or ! - Not equal to
+< - Less than
+> - Greater than
+Constants - Stores data value in memory but can't be changed
+Concatenation - Two strings being joined with '+'
+(string).upper - Changes all characters in the string to uppercase.
+(string).lower - Changes all characters in the string to lowercase.
+(string).length - Shows number of characters in the string.
+(string)[i] - Extract the character in position 'i' from string.
+(string).SubString(x,y) - Extracts a string starting at 'x' and ending at 'y'
+if statements - Check if a condition is true/false and carries out an action based on outcome
+Nested if statements - if statement within an if statement
+if-elseif statements - Checks for multiple conditions if first condition is false, as if multiple 'else:'s
+Switch-case statements - Can check if a variable has specific values. Can be used to give multiple options and perform different actions for the same variable.
+For loop - Repeats code a set number of times
+While loop - Loop that keeps going whilst a condition is true
+Do until loop - Loop that keeps going until a condition is true
+Do while loop - While loop but controlled at the end.
 ```
