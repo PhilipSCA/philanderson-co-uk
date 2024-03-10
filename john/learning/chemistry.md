@@ -58,6 +58,9 @@ Metal PROPERTIES:
 - strong but malleable
 - good heat and electricity conductors
 - high melting & boiling points
+- hard & shiny
+- solids at room temp.
+- Magnetic - iron, cobalt and nickel only
 
 Non-metals - found in right and top, have more electrons on outer shell, react and gain or share electrons and become negative.
 
@@ -148,7 +151,7 @@ Relative formula mass - atomic mass of all elements in the compound added togeth
 Mole - 6.02x10^23 - One mole of an element is the same atomic mass as one atom of the element
 Limiting reactant - the reactant that gets all used up and limits how much product is formed
 Volume of gas = (mass of gas/Mr of gas) x 24, at room temperature and pressure.
-Concentration - amount of solute there is in a given volume.
+Concentration - amount of solute there is in a given volume. - low concentration = dilute
 Concentration(g/dm3) = mass of solute(g)/volume of solvent(dm3)
 Moles = mass/Mr, Mass = moles/Mr
 Atom economy - the amount of useful product in the reactants. = (Mr of wanted product/Mr of all reactants) x 100
