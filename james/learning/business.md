@@ -135,6 +135,33 @@ Variable costs - Costs that vary with output. (Packaging, Wages, Materials etc.)
 Break even - Costs are equal to revenue, so business is no longer making a loss.
 Margin of safety - Gap between sales and break-even point
 
+----------------------------------------------------09/03/24-----------------------------------------------------------------
+Enterprise - Business that an entrepreneur starts
+Innovation - Adapting an existing invention and bringing it to the market
+Invention - A new idea or product made and sold on market
+Obsolete - Out of use product
+Gap in the market - An area in an industry which applies to no product.
+
+----------------------------------------------------10/3/24------------------------------------------------------------------
+Risk - Chance of loss/damage or gain
+Business failure - Owner losing savings -> breakdown
+Financial loss - Debts to be paid and liabilities
+Cash-flow forecast - See cash income/outcome, revenue and net/gross profits
+Business success - Surviving and making constant sales
+Profit - Money income is above costs
+Independence - Experience to run a business alone and lead
+Added value - Difference between the cost of material to selling price
+Good design - Products that look good can be charged for more
+Brand name - A brand means customers associate it with better quality
+Quality - Higher quality products will obviously be charged for more
+Convenience - Easier and quicker to access/use will allow people to pay more.
+Unique feature - Having a USP creates product differentiation
+E-commerce - An online business, a website
+Understanding customers - Learning about customers and what they do and why
+Price - Amount a customer is willing to pay for a product
+Efficiecny and reliability - Products need to be good standard consistently
+Great design - Add a premium customers could pay more for
+SMART - Specific, Measureable, Achieveable, Realistic and Time-bound
 
 ```
 
