@@ -65,10 +65,10 @@ Artificial Hearts - less likely to be rejected than donor, surgery -> bleeding a
 Biological valves - dont damage cells, less likely blood clots - needs replacing 10-20 yrs
 Mechanical valves - lasts a lifetime - can lead to blood clots, patients need to take anti-cloning drugs, valves can be loud enough to hear.
 Cancer - uncontrolled cell growth & division - forms a tumour - can be benign/malignant | Risk factors: Smoking, Obesity, UV exposure, Viral infection, Genetics (inheriting faulty genes)
-Benign tumour - tumour grows until there is no more room - stays in one place - isn't usually dangerous or cancerous
+Benign tumour - tumour grows until no more room - stays in one place - isn't usually dangerous or cancerous
 Malignant tumour - tumour grows and spreads to neighbouring tissues - cells can break off into bloodstream, invade healthy tissues - form secondary tumours - dangerous, can be fatal - cancerous
 ```
-##### Plants
+##### Leaves
 ```
 Upper and lower epidermis - protective layer of cells, covered in waxy cuticle to prevent transpiration
 Palisade mesophyll - underneath U.epidermis, transparent to let light reach palisade,contains chloroplasts for photosynthesis. Vertically block-shaped to fit as many as possible.
@@ -79,6 +79,15 @@ Phloem - tube of cellulose, transports water, food nutrients etc. both up and do
 Transpiration - loss of water from plant through evaporation and diffusion on leaves. Makes more water get drawn up through xylem called transpiration stream --> Water then diffuses out of stomata --> evaporates into air.
 Transpiration rate - affected by: light intensity, temperature, air flow, humidity
 Potometer - method to test for transpiration rate
+Adapted to photosynthesis by:
+1) Broad - surface area for light capture
+2) Thin - short diffuse distance in/out gases
+3) Chlorophyll - allow plants to absorb light energy
+4) Vessels - bring water from roots, taking glucose to plant
+5) Air space - allows CO2 in, O2 out of stomata
+6) Stomata - control gases leaking/water loss
+Photosynthesis - affected by: Temperature, CO2 concentration, Light intensity
+
 ```
 ### B5
 ```
@@ -137,6 +146,33 @@ Drug development stages:
 Herd immunity - immunisation of a large proportion of a population, which reduces spread of pathogens
 Placebo - inactive form of a drug, to see any psychological effects.
 ```
+
+### B9 - Exercise etc
+Aerobic respiration:
+ - Requires oxygen
+ - takes place in mitochrondria
+ - Glucose breakdown fully complete - releases a lot of energy
+Anaerobic:
+ - no oxygen needed
+ - glucose breakdown incomplete
+ - Product(mammals) - lactic acid. Plant/yeast = carbon dioxide & ethanol
+Organisms need energy for:
+1) Proteinsynthesis
+2) Digestion
+3) Muscle contractions
+4) Control of body temperature
+5) Active transport - moving ions against concentration gradient e.g root hair cells
+- respiration is exothermic as organisms feel warm to the touch
+Pulse - increases when more energy(Oxy+Gl) needed by mitochrondria in muscle cells - heart beats faster, breathe faster
+recovery time - time for heart rate to return to resting state
+ - fitter people have shorter recovery times
+Liver:
+1) removes alcohol/poisonous molecules from blood
+2) Breaks down old RBC, stores iron till needed to make RBCs
+3) makes bile for emulsification of fats in digestion
+4) removes lactic acid by convert to glucose then carbon dioxide & water
+Metabolism - net result of all reactions that happen in body - anabolic(building) or catabolic(breaking down)
+
 ##### B something - Yr 11 - Body responses
 ```
 Homeostasis - regulation of condition inside your body to maintain a stable internal environment, in response to internal/  external changes - body temperature, blood glucose level, water levels
