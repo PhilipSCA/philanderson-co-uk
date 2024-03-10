@@ -58,6 +58,9 @@ Metal PROPERTIES:
 - strong but malleable
 - good heat and electricity conductors
 - high melting & boiling points
+- hard & shiny
+- solids at room temp.
+- Magnetic - iron, cobalt and nickel only
 
 Non-metals - found in right and top, have more electrons on outer shell, react and gain or share electrons and become negative.
 
@@ -148,16 +151,18 @@ Relative formula mass - atomic mass of all elements in the compound added togeth
 Mole - 6.02x10^23 - One mole of an element is the same atomic mass as one atom of the element
 Limiting reactant - the reactant that gets all used up and limits how much product is formed
 Volume of gas = (mass of gas/Mr of gas) x 24, at room temperature and pressure.
-Concentration - amount of solute there is in a given volume.
-Concentration(g/dm3) = mass of solute(g)/volume of solvent(dm3)
+Concentration - amount of solute there is in a given volume. - low concentration = dilute
+Concentration(g/dm3) = mass of solute(g)/volume of solvent(dm3) (Can exchange mass with no. of moles)
 Moles = mass/Mr, Mass = moles/Mr
+Mole ratio - find original Mr, then divide the given Mr by it, to find the multiplier. Divide each element by original
 Atom economy - the amount of useful product in the reactants. = (Mr of wanted product/Mr of all reactants) x 100
 Percentage yield - the ratio of products formed to reactants used - %
 Titration - method of finding out concentration of ions - add increments of another solution until colour change
 ```
 ## C5 - Chemical changes
-```
+
 Acid - substance that produces H+ ions when dissolved in water. Has a pH of less than 7. Strong acids ionise completely in water, releasing more H+ ions.
+Alkali - substance that produces OH- ions in water. pH > 7. (Bases that dissolve in water)
 Base - any substance that makes a salt with an acid - has to be an ionic compound
 Salt - compound formed when hydrogen ions in the acid are replaced by metal ions.
 Neutralisation - acid + base --> salt + water
@@ -165,7 +170,9 @@ pH - measure of concentration of H+ ions in solution. has a base 10 logarithmeti
 Acid + metal Oxide(base) --> salt + water
 Acid + metal hydroxide(base) --> salt + water
 Acid + metal carbonate(base) --> salt + water + carbon dioxide
-MASH - Metal + acid --> salt + hydrogen
+MASH - Metal + acid --> salt + hydrogen 
+ - Excess metal needs to be added to acid
+ - Solution nees to be filtered into evaporating disk & concentrated by evaporation
 Metal + water --> Metal hydroxide + hydrogen
 Reactivity series:
 Potassium
@@ -187,7 +194,9 @@ copper, silver, gold, platinum
 Metals below carbon are extracted by heating it up with carbon, as the carbon takes the oxygen away from the metal, making CO2, reducing the metal.
 Displacement reaction - when a more reactive metal replaces a less reactive one in a compound
 Ionic equation - where only elements getting oxidised or reduced are shown, and the rest are spectator ions.
-```
+Ores - natural rocks rich in useful metals, which can be extracted
+
+
 ## C6 - Electrolysis
 ```
 Electrolysis - process of splitting up ionic compounds using electricity - very expensive

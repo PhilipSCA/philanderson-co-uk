@@ -85,8 +85,25 @@ Plug - Made of plastic - good insulator - Earth wire at top left, Neutral - bott
 Frequency - 1/Time period - Hertz(Hz) - number of times that ac reverses its direction per second
 Power efficiency - Useful power output/Total power input x 100
 
+## P6 - Density
+Volume of an irregular object - dropping object in a liquid and measuring displacement - using an eureka can
+irregular object density - weigh, find volume(eureka can) --> Density = m / v
+Float - lower density
+Sink - higher density
+evaporate - any temperature
+sublimation - solid to gas
+solid - fixed lattice - strong forces - least energetic state of matter
+liquid - particles random movement, in contact - more energy
+gas - particles move randomly, far apart - weak attraction - most energetic
+melting & freezing point - temperature of solid --> liquid || liquid --> solid 
+boiling & condensation point - temperature of liquid --> gas || gas --> liquid
+Latent heat - energy transferred from object changing state, temperature same
+specific latent heat fusion - energy to melt 1kg solid into liquid
+specific latent heat vaporisation - energy to boil 1kg liquid into gas
+State changes: 1) Temperature/kinetic energy same, 2) internal energy increases - potential energy increase - particles further apart
 
-## P6 - Radioactivity
+ 
+## P7 - Radioactivity
 Alpha particle - 2 protons, 2 neutrons (helium nucleus) - travels 5cm in air - highly ionising(charge of +2) - stopped by paper 
 Beta particle - 1 fast electron - travels 1m in air - midly ionising(charge of -1) - stopped by aluminium/metal foil
 Gamma wave - electromagnetic wave - infinite distance - low ionising, no charge - stopped by thick lead or metres of concrete
