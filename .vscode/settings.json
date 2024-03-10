@@ -17,5 +17,5 @@
         "173.231.197.91": "linux",
         "95.216.152.232": "linux"
     },
-    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.ignoreTrimWhitespace": true,
 }

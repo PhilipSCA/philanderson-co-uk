@@ -5,6 +5,7 @@
   - [contents](#contents)
   - [random terms](#random-terms)
     - [B1: Cell Biology](#b1-cell-biology)
+    - [B2: Cell division](#b2-cell-division)
     - [B4: The Heart and circulatory system](#b4-the-heart-and-circulatory-system)
     - [B6: Preventing and Treating disease (_05/01/24_)](#b6-preventing-and-treating-disease-050124)
 ## random terms
@@ -74,11 +75,42 @@ Nerve cell - Animal, Send electrical impulses to brain for senses to work.
 Skin cell - Animal, epidermis, makes up skin
 Palisade cell - Plant, for photosynthesis.
 Muscle cell - Animal, makes muscles for contracting
-Prokaryotic cell - Bacterial cell, no nucleus, smaller, no mitochondria/chloroplasts and has plasmids
+Prokaryotic cell - Bacterial cell, no nucleus, smaller, no mitochondria/chloroplasts and has DNA rings called plasmids
 Plasmids - Small circular DNA circle in bacteria, each one distinct and give bacteria benefits such as antibiotic resistance
 Eukaryotic cell - Plant, animal and fungal cells, have a nucleus, are larger than prokaryotic
 Chromosomal DNA - In bacteria cells DNA is found as one circular chromosome, not a nucleus
 
+-------------------------------------------------09/03/24-----------------------------------------------------------------
+Flagella - Tail-like to help bacteria move in liquid
+Cellulose - Inside cell walls to strengthen cell and keep it fixed.
+Diffusion - Particle movement from high concentration to low concentration to evenly spread them.
+Concentration gradient - Measure of concentration of particles
+Surface area:Volume - Single-celled organisms have a large SA:V so diffusion is easier
+Osmosis - Water molecules diffuse across all membranes from a dilute to concentrated solution through a membrane
+Independent variable - Variable that is changed deliberately (material)
+Dependent variable - Variable that is measured (mass, energy, heat)
+Control variable - Kept the same (time, temp, length)
+Active transport - Moves substances into cell from low (outside) to high concentration (inside)
+    - Requires energy from respiration
+    - Allows mineral ions to be absorbed into plant from dilute solutions in soil
+    - Allows sugar molecules to be absorbed into intestines in blood.
+Root hair cell concentration - High concentration of nitrate ions inside.
+Soil concentration  - Low concentration of nitrate ions.
+```
+### B2: Cell division
+-------------------------------------------------09/03/24-----------------------------------------------------------------
+```
+Chromosomes - Made of DNA, carries genes. Found in pairs with one from each parent
+Genes - Different codes for each protein to control development of each characteristic
+Cell cycle - Series of changes involving growth and division
+Mitosis - Process of cell division for growth, repair and asexual reproduction.
+    - 1. Parent cell has two pairs of chromosomes
+    - 2. Chromosomes replicate themselves
+    - 3. Chromosomes line up along centre opposite each other, ready to split
+    - 4. Nucleus and cell membrane divide to form 2 daughter cells with same genes.
+    - 5. Repeat steps 1-4 to from cell cycle.
+Stem cells - Undifferentiated cells with no purpose, then divide into a specialised cell. Usually found in bone marrow.
+Embryonic stem cells - Found in human embryos, in umbilical cord and other organs/tissues.
 ```
 
 ### B4: The Heart and circulatory system
