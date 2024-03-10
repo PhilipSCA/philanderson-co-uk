@@ -7,6 +7,7 @@
     - [Language techniques](#language-techniques)
     - [Structural techniques](#structural-techniques)
     - [Quotes](#quotes)
+      - [Macbeth](#macbeth)
       - [An Inspector calls](#an-inspector-calls)
 
 ## random terms
@@ -60,6 +61,35 @@ Omniscient narrator - 3rd person who knows everything
 Unreliable narrator - Perspective of this narrator makes the reader question its reasoning
 
 ### Quotes
+
+#### Macbeth
+Themes:
+   - Greed
+   - Masculinity
+   - Love
+   - Sexism
+   - Power
+   - Guilt
+   - Deception
+   - Evil/Witchcraft
+   - Betrayal
+
+1. "Now does he feel his title/ Hung loose about him, like a giant's robe upon a dwarfish thief" - Angus, Act 5
+   (Guilt) - Simile of giant's robe. Juxtaposition of 'giant' and 'dwarfish'. Imagery of Macbeth with a burden and a title unsuitable for him.
+   
+2. "Come to my woman's breasts, and take my milk for gall" - Lady Macbeth, Act 1
+   (Masculinity) - Juxtaposition of 'milk' and 'gall'. LM's desire to lose her feminine traits and to take on manlihood goes against Jacobean expectations of women. Motif of 'milk'
+
+3. "When you durst do it, then you were a man;" - Lady Macbeth, Act 1
+   (Masculinity, Power) - LM manipulating her husband by questioning his masculinity, shown as more powerful than Macbeth
+
+4. "There's daggers in mens smiles" - Donaldbain, Act 2 end
+   (Deception, Betrayal) - Macbeth uses a 'dagger' to kill Duncan but hides it with a 'smile'
+
+5. "This tyrant, whose sole name blisters our tongues" - Malcolm, Act 4
+   (Guilt/Shame) - Visceral image to reveal Macbeths evil. Macbeth is so hated his name reaks physical pain, illuminating his nature
+
+
 #### An Inspector calls
 -------------------------------------------------09/03/24-----------------------------------------------------------------
 Themes: 
@@ -95,7 +125,7 @@ Themes:
    (Guilt) - Was drunk and doesn't remember, the '-' shows his guilt as he is hesitating to boldly answer the question, impression of him muttering the last part in shame and realisation.
 
 8.  "Because you're not the kind of father a chap could go to when he's in trouble - thats why " - Eric, Act 3
-   (Old vs new generation) - Poor relationship with father, shows difference between older gen and newer, they can't exactly get along the same
+   (Old vs new generation) - Poignant and powerful, shows difference between older gen and newer, reveals lack of trust and love showing how Birlings are inadequate parents.
 
 9.  ""[nearly at breaking point]... you killed her - and the child she was going to have too - my child - your own grand child - you killed them both - damn you, damn you -" Eric, Act 3
    (Guilt) - Eric panicking and repitition of 'you' very targeting and aggressive, pointing fingers. Dashes to show
@@ -116,7 +146,7 @@ Themes:
    (Old vs New generation, Social responsibility) - Generational divide once again clearly shown by Sheila who realises the situation could've easily been bad if Eva's death was real.
 
 15. "Now look at the pair of them - the famous younger generation who know it all. And they cant even take a joke" - Mr Birling, Act 3
-   (Old vs New generation, Morality) - Mr Birling symbolising what exactly is wrong with society in the Jacobean era from Priestley's perspective, creates a foolish aura of him using irony. Sees it all as a 'joke' and brush it under the rug despite the wrong things they commit, arrogance and pride came with their money and class. Inability to change ways.
+   (Old vs New generation, Morality, Greed) - Mr Birling symbolising what exactly is wrong with society in the Jacobean era from Priestley's perspective, creates a foolish aura of him using irony. Sees it all as a 'joke' and brush it under the rug despite the wrong things they commit, arrogance and pride came with their money and class. Inability to change ways.
 
 16. "And I say there isn't a chance of war" - Mr Birling, Act 1.
    (Teachings) WW1 in 1914, WW2 in 1939, Play set in 1912. Dramatic Irony
