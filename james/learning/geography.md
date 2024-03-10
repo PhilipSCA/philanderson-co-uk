@@ -8,20 +8,21 @@
     - [Paper 2 : Challenges in the Human Environment](#paper-2--challenges-in-the-human-environment)
       - [Case study : London (HIC)](#case-study--london-hic)
     - [Paper 1: Living with the physical environment](#paper-1-living-with-the-physical-environment)
+      - [Section B: The Living World](#section-b-the-living-world)
       - [Section C: Physical landscapes in the UK](#section-c-physical-landscapes-in-the-uk)
 
 ## random terms
 
 ### Paper 2 : Challenges in the Human Environment
 ```
-Sustainability - Meeting todays needs without harming future
+**Sustainability** - Meeting todays needs without harming future
 Ecotourism - Sustainable tourism
 Pull factor - Attracts you to somewhere
 Push factor - Makes you want to leave somewhere
 Development gap - Gap between richest and poorest countries
 Choropleth map - Colour coded map of areas
 Dark tourism - Tourism in places to do with death/suffering
-Development - Progress in growth, technology and welfare
+**Development** - Progress in growth, technology and welfare
 GNI - Gross National Income, Value of goods and services - Wealth
 GNI per head - GNI divided by population of country for average - Wealth
 Birth rate - Live births per thousand per year - Health
@@ -32,7 +33,7 @@ Literacy rate - % of adults who can read and write - Education
 Access to safe water - % that get clean water - Health
 Life expectancy - Average age a person expects to live to - Health
 NEE - Newly Emerging Economy
-HDI - 3 measures, GNI per head, Life expectancy and Literacy rate. 0 - 1 measure
+**HDI** - 3 measures, GNI per head, Life expectancy and Literacy rate. 0 - 1 measure
 DTM - Demographic Transition Model, birth and death rates show population growth
 Population Pyramid - Shows population of a country by age. Gender and age
 Poor climate - Development factor, less food production
@@ -59,10 +60,10 @@ Globalisation - Countries connect more via businesses
 ```
 
 ```
-Regeneration - Long term upgrading of existing places to tackle inequalities
-Gentrification - Poor area changed by wealthier people moving in, maybe forcing out the poor
+**Regeneration** - Long term upgrading of existing places to tackle inequalities
+**Gentrification** - Poor area changed by wealthier people moving in, maybe forcing out the poor
 Pollution - Presence of a harmful/poisionous substance to the environment
-Urban deprivation - Living standard below the majority in a society with hardships
+**Urban deprivation** - Living standard below the majority in a society with hardships
 Poverty - State of being extremely poor
 Social - To do with people/citizens
 Economic - Involving money
@@ -70,8 +71,8 @@ Environmental - Involving the planet and nature
 
 Preventing challenges - Public transport, congestion charging and brown/green field sites.
 Urban area - A human settlement with high population density and infrastructure
-Brownfield site - Derelict area of land previously been built on.
-Greenfield site - Area of land that hasn't been built on before.
+**Brownfield site** - Derelict area of land previously been built on.
+**Greenfield site** - Area of land that hasn't been built on before.
 Urban sprawl - Rapid expansion of cities, by residential housing, zoning, and reliable transport.
 Congestion - Transport condition of slower speeds, longer trip times and increased queueing
 Population density - Average number of people in an area
@@ -121,10 +122,44 @@ London social opportunities - Tourism, Ethnic diversity, Education and Healthcar
 London economic opportunites - Jobs and Tourism etc.
 London environmental opportunites - Public transport, solar panels, brown/greenfield sites.
 London prevention methods - Public transport, congestion charging, brown/greenfield sites
-
 ```
 
 ### Paper 1: Living with the physical environment
+
+#### Section B: The Living World
+```
+----------------------------------------------------10/3/24----------------------------------------------------------------
+Ecosystem - Community of living organisms sharing an environment
+Producer - Photosynthesize for energy, low food chain
+Consumers - Feeds on producers or inferior consumers
+Decomposer - Feed on dead/decaying matter
+**Interdependence** - If one factor changes it affects others in the ecosystem
+Food chain - Shows transfer of energy between organisms
+Biome - A large ecosystem.
+Global-scale changes - Affect the globe (Climate change)
+Local-scale changes - Affect a local area (one habitat)
+Desert biome - Very low rainfall, hot, 15° - 35° N/S. Cacti
+Tundra - Low rainfall, short summers, long winters, high latitude. Arctic moss
+Tropical rainforest - 15° N/S, Hot and wet, high rainfall, tall trees.
+Mediterranean - 30° - 45° N/S, 2 seasons, olive trees, vines
+Shrub layer - Thick layer of decomposing leaves and roots, dense and dark, small plants
+Under canopy - Young, small trees competing for light under taller trees
+Main canopy - 'Roof' of forest, tall trees, vines and lianas, 50% of rainforest life.
+Emergent - Tallest of trees emerging out of canopy.
+**Biodiversity** - Variety of plant/animal life in a habitat or the world
+Climate graph - Shows temperature and ranfall (Bar and line graph)
+Poison dart frog - Bright skin signifying danger and skin excretes poison
+Drip tips - Leaves have waxy surface (run-off) and pointy tips (prevent algae)
+Trunks - Tall and thin to reach sunlight. Smooth bark for water run-off to roots.
+Deforestation - Cutting down trees for human needs
+Nutrient cycle - Soil withers, plants take nutrients, leaves fall on death and decompose
+Cactus - Adapted to deserts, spines, roots, thick stem, waxy skin, short growth season
+Camel - Adapted to deserts, Hump for fat, long eyelashes/eyebrows, leathery feet.
+Mojave Desert - Case study, West USA, borders California and Arizona. Colorado River. Death Valley and Grand canyon
+Mojave Desert opportunities - Farming, mining, energy production and tourism
+Mojave Desert challenges - Water, Extreme heat, Inaccessibility to transport
+```
+
 
 #### Section C: Physical landscapes in the UK
 ```
@@ -135,10 +170,10 @@ Swash - Water that rushes UP the beach
 Backwash - Water that flows BACK to the sea.
 Constructive wave - Love wave, strong swash and weak backwash
 Destructive wave - Weak swash, very strong backwash.
-Erosion - Wind, water, or other natural agents breaking rock and carrying them away.
+**Erosion** - Wind, water, or other natural agents breaking rock and carrying them away.
 Transportation - Movement of material in the sea.
 Deposition - Sea loses energy, sediment is dropped
-Hydraulic action - Wave power smashes into cliff. Trapped air breaks rock apart.
+**Hydraulic action** - Wave power smashes into cliff. Trapped air breaks rock apart.
 Abrasion - Pebbles grind along a rock platform, smoothen it.
 Attrition - Rocks in sea bash each other and become rounder.
 Solution - Seawater dissolves rock. (Limestone/Chalk)
@@ -147,9 +182,8 @@ Mechanical weathering - Breakdown of rocks. Scree at bottom of cliffs.
 Chemical weathering - Rainwater is slightly acidic, dissolves some rocks.
 Biological weathering - From flora/fauna. Plant roots and small animals in rocks.
 Mass movement - Downward movement/sliding from gravity.
-```
-**_12/2/24_**
-```
+
+----------------------------------------------------12/2/24------------------------------------------------------------------
 UK's upland areas - North and West have hard rock resistant to erosion
 UK's lowland areas - South and East have softer rock that erode easily
 Grampian Mountains - Part of highlands, home to Ben Nevis
