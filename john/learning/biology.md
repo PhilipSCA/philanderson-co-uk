@@ -1,7 +1,7 @@
 ## Biology
 Plasma - liquid on blood that carries everything around
 Platelet
-### B1 - Cells
+### B1 - Cell Structure and Transport
 ```
 Cell - group of tissues working together
 Nucleus - contains DNA for cell, controls cell
@@ -17,6 +17,11 @@ Diffusion - movement of molecules - from an area of high to low concentration. D
 Osmosis - movement of water molecules from an area of high to low concentration through a semi-permeable membrane - passive process
 Active transport - movement of molecules from an area of low to high concentration - active process, requires energy
 ```
+### Adaptations of exchanges
+Lungs - many alveoli - increase surface area - diffusion. Alveoli walls very thin - short diffusion distance. 
+  - Breathing - keeps lungs ventilated with removal of C02 and entry of O2 - provides steep concentration
+  - Good blood supply - removes carbon dioxide - steep concentration gradient
+Small intestine - covered with villi & micro-villi - larger surface area - increase nutrient absorption. Long length - more time to absorb. Digestive enzymes - bile help breakdown nutrients - diffusion/active transport
 ### B2
 ```
 Eukaryotic cells - complex cells with a nucleus.(plant & animal cells)
