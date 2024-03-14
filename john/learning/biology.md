@@ -30,7 +30,23 @@ Stem cells - undifferentiated cells found in bone marrow or embryos in body
 Embryonic stem cells - can turn into any cell in the body - replace faulty cells, therapeutic cloning. However, ethical concerns, can get contaminated and make patients more ill.
 Adult stem cells - can only become a limited number of cells, with specific functions. Less useful, but no ethical problems and safer.
 Meristem - plant stem cells - found in tip of roots and shoots and inbetween xylem or phloem
-Mitosis - type of cell division - diploid body cell copies itself and divides into two identical daughter cells
+Mitosis - asexual cell division - diploid(zygote) cell copies itself and divides into two identical daughter cells
+Meiosis - sexual cell division - haploid(gamete) cell replicates and divides into 4 genetically different gametes
+Sexual reproduction - gametes from two parents combine to produce genetically different offspring - gametes replicate meiosis. Plants & animals.
+  - Variation increases chance of species surviving to changes in environment - survival advantage
+  - Natural selection - organisms with good genes for that environment pass genes on successfully
+  - can use selective breeding - speed up natural selection.
+Fertilisation - when egg cell (mother) fuses with sperm cell (father) to form a zygote(46 chromosomes)
+Plants - reproduce sexually by pollen instead of sperm. - produce seeds
+Asexual reproduction - offspring genetically identical to parent(clone). Uses Mitosis. Bacteria, some plants & animals
+  - only needs one parent
+  - uses less energy | faster
+  - many identical offspring can be produced in favourable conditions
+Asexually and Sexually reproduce:
+- Malaria - reproduces sexually in mosquito, asexually when bitten into human
+- Fungi - Spores - asexual spores form genetically identical fungi, sexual spores have variation, produces due to unfavourable change in environment. Natural selection 
+- Plants - strawberries - 'runner' stems grow horizontally on surface, splits and forms identical 'runner' to original plant
+         - bulbs(e.g daffodils) - new bulbs can form and divide off, can grow into new identical plant
 Therapeutic cloning - using stem cells to clone organs for transplanting
 Microscopes - eyepiece, objective lens, stage, coarse focus knob, fine focus knob, light
 Binary fission - replicating process for prokaryotic cells.
