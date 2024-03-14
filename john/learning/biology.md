@@ -1,7 +1,7 @@
 ## Biology
 Plasma - liquid on blood that carries everything around
 Platelet
-### B1 - Cells
+### B1 - Cell Structure and Transport
 ```
 Cell - group of tissues working together
 Nucleus - contains DNA for cell, controls cell
@@ -17,6 +17,11 @@ Diffusion - movement of molecules - from an area of high to low concentration. D
 Osmosis - movement of water molecules from an area of high to low concentration through a semi-permeable membrane - passive process
 Active transport - movement of molecules from an area of low to high concentration - active process, requires energy
 ```
+### Adaptations of exchanges
+Lungs - many alveoli - increase surface area - diffusion. Alveoli walls very thin - short diffusion distance. 
+  - Breathing - keeps lungs ventilated with removal of C02 and entry of O2 - provides steep concentration
+  - Good blood supply - removes carbon dioxide - steep concentration gradient
+Small intestine - covered with villi & micro-villi - larger surface area - increase nutrient absorption. Long length - more time to absorb. Digestive enzymes - bile help breakdown nutrients - diffusion/active transport
 ### B2
 ```
 Eukaryotic cells - complex cells with a nucleus.(plant & animal cells)
@@ -25,7 +30,23 @@ Stem cells - undifferentiated cells found in bone marrow or embryos in body
 Embryonic stem cells - can turn into any cell in the body - replace faulty cells, therapeutic cloning. However, ethical concerns, can get contaminated and make patients more ill.
 Adult stem cells - can only become a limited number of cells, with specific functions. Less useful, but no ethical problems and safer.
 Meristem - plant stem cells - found in tip of roots and shoots and inbetween xylem or phloem
-Mitosis - type of cell division - diploid body cell copies itself and divides into two identical daughter cells
+Mitosis - asexual cell division - diploid(zygote) cell copies itself and divides into two identical daughter cells
+Meiosis - sexual cell division - haploid(gamete) cell replicates and divides into 4 genetically different gametes
+Sexual reproduction - gametes from two parents combine to produce genetically different offspring - gametes replicate meiosis. Plants & animals.
+  - Variation increases chance of species surviving to changes in environment - survival advantage
+  - Natural selection - organisms with good genes for that environment pass genes on successfully
+  - can use selective breeding - speed up natural selection.
+Fertilisation - when egg cell (mother) fuses with sperm cell (father) to form a zygote(46 chromosomes)
+Plants - reproduce sexually by pollen instead of sperm. - produce seeds
+Asexual reproduction - offspring genetically identical to parent(clone). Uses Mitosis. Bacteria, some plants & animals
+  - only needs one parent
+  - uses less energy | faster
+  - many identical offspring can be produced in favourable conditions
+Asexually and Sexually reproduce:
+- Malaria - reproduces sexually in mosquito, asexually when bitten into human
+- Fungi - Spores - asexual spores form genetically identical fungi, sexual spores have variation, produces due to unfavourable change in environment. Natural selection 
+- Plants - strawberries - 'runner' stems grow horizontally on surface, splits and forms identical 'runner' to original plant
+         - bulbs(e.g daffodils) - new bulbs can form and divide off, can grow into new identical plant
 Therapeutic cloning - using stem cells to clone organs for transplanting
 Microscopes - eyepiece, objective lens, stage, coarse focus knob, fine focus knob, light
 Binary fission - replicating process for prokaryotic cells.

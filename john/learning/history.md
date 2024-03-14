@@ -3,16 +3,15 @@
 ```
 Turnip Winter -1917 - naval blockade - 750,000 starved to death, producing 50% milk and 60% butter and meat
 Naval blockade - Allies' ships blocked off supplies to Germany 1914-19
-Kaiser - forced to abdicate - 1918
+Kaiser - abdicate - 1918
 Armistice - ceasefire, signed 11 nov 1918, government 'November criminals'
 
 Treaty Of Versailles - 1919 - weakened Germany heavily, land, military and economic terms (£6.6b in reparations)
 
-Nazi Party - made in 1920, had 6,000 members
+Nazi Party - made 1920, 6,000 members
 1921 - SA formed to protect Nazis from rival groups
-Munich Putsch - Nov 1923 - Weimar called off 'passive resistance' 2,000 ready to fight - got support of war hero Ludendorff. Putsch failed, Hitler arrested
+Munich Putsch - Nov 1923 - Weimar called off 'passive resistance' 2,000 SA to fight - support of war hero Ludendorff. Putsch failed, Hitler arrested
 Rentenmark - new currency introduced after hyperinflation in 1923
-356 political assassinations 1919-23
 1933 - Gestapo - 200,000 members
 1934 - 'Peoples Court' set up
 ```

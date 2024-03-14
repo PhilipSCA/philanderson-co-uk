@@ -240,12 +240,12 @@ Retained Profit - business money that is kept within its accounts, not paid to s
 ### Discuss (6 markers):
 - Only appear in Section A - no context
 - consider benefits/drawbacks of concept - Answers assessed on understanding + analysis
-- Level 3 - 5 linked strands for AO3 - analysis chains - must follow logical sense
+- Level 3: 5 linked strands for AO3 - analysis chains - must follow logical sense
 - 2 points - 2/3 strands each
 
 ### Analyse(6 markers):
 - Always require application to case study - AO2
-- Level 3 - 5 linked strands for AO3 - analysis chains - must follow logical sense
+- Level 3: 5 linked strands for AO3 - analysis chains - must follow logical sense
 - A02 - Apply context throughout answer
 - 2 points - 2/3 strands each
 - Good to start with a fact about business - context
