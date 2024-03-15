@@ -8,6 +8,8 @@
     - [Paper 2 : Challenges in the Human Environment](#paper-2--challenges-in-the-human-environment)
       - [Case study : London (HIC)](#case-study--london-hic)
     - [Paper 1: Living with the physical environment](#paper-1-living-with-the-physical-environment)
+      - [Section A: The Challenge of Natural hazards](#section-a-the-challenge-of-natural-hazards)
+        - [Typhoon Haiyan](#typhoon-haiyan)
       - [Section B: The Living World](#section-b-the-living-world)
       - [Section C: Physical landscapes in the UK](#section-c-physical-landscapes-in-the-uk)
 
@@ -125,6 +127,37 @@ London prevention methods - Public transport, congestion charging, brown/greenfi
 ```
 
 ### Paper 1: Living with the physical environment
+#### Section A: The Challenge of Natural hazards
+```
+---------------------------------------------------14/3/24------------------------------------------------------------
+Hurricanes - Happen in Atlantic and Northeast Pacific
+Typhoons - Happen in Northwest Pacific
+Cyclones - South Pacific and Indian Ocean
+Tropical storms form - Over water 27°+ (evaporation) and low wind shear between 5-30° of equator 
+Wind shear - Difference in wind speed between higher/lower parts of atmosphere is low
+Rising air - Low pressure, wet and stormy, more winds
+Falling air - High pressure, clear and dry
+Easterly winds - Move tropical storms West
+Trade winds - Surface wind moving back to equator, move left
+Westerlies - Surface wind moving away from equation, move right
+Coriolis effect - Earths rotation, in SH, winds flip vertically from NH, although stay in same direction.
+Tropical storms - Low pressure weather with intense rain and strong winds, spin clockwise in NH, anti-clockwise in SH.
+Eye - Center of storm, caused by falling air.
+Eye traits - 50km diameter, low pressure, light winds, no clouds, no rain, high temperature
+Eyewall - Surrounds eye, very strong winds of rising air and rain.
+```
+##### Typhoon Haiyan
+```
+Location - Philippines, China
+Date - 3th Nov 2013 - 11th Nov 2013
+Wind - 315km/h
+Saffir-simpson scale - Category 5 - Super Typhoon
+
+Primary effects - 8000 killed, 1mil+ homes gone, cost 13$million, flooded 600,000 hectares.
+Secondary effects - Flooding triggered landslides, 5.6 million lost jobs, Diseases.
+Immediate response - PAGASA broadcast warning 2 days before, 800000 evacuated,  pit latrines, aid offered
+Long-term response - UN appealed $300mil, charities built storm-resistant houses, tourism encouraged.
+```
 
 #### Section B: The Living World
 ```
