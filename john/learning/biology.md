@@ -1,6 +1,5 @@
 ## Biology
-Plasma - liquid on blood that carries everything around
-Platelet
+
 ### B1 - Cell Structure and Transport
 ```
 Cell - group of tissues working together
@@ -21,7 +20,21 @@ Active transport - movement of molecules from an area of low to high concentrati
 Lungs - many alveoli - increase surface area - diffusion. Alveoli walls very thin - short diffusion distance. 
   - Breathing - keeps lungs ventilated with removal of C02 and entry of O2 - provides steep concentration
   - Good blood supply - removes carbon dioxide - steep concentration gradient
-Small intestine - covered with villi & micro-villi - larger surface area - increase nutrient absorption. Long length - more time to absorb. Digestive enzymes - bile help breakdown nutrients - diffusion/active transport
+Small intestine - covered with villi & micro-villi - larger surface area - increase nutrient absorption. Long length - more time to absorb. Digestive enzymes - bile help breakdown nutrients. Very good blood supply - quick absorption - diffusion/active transport 
+Leafs - CO2 diffuse into air spaces within leaf, then into cells for photosynthesis. Adapted by:
+  - Stomata - exchange surface - CO2 diffuses through, Oxygen & Water vapour - diffuse out through stomata
+  - (water vapour lost from all over surface, mainly through stomata) - water vapour evaporates inside leaf, diffuses to outside of leaf.
+  - Guard cells - control water levels - close if lose water faster than being replaced by roots - without, plant would wilt
+  - Flat shape - increases area of exchange surface - more effective
+  - Cell walls - form another exchange surface - air spaces inside leaf increase area of surface - more time for CO2
+Gills:
+  - gas exchange surface for fish 
+  - Water enters mouth, passes out through gills. Oxygen diffuses into blood in gills, CO2 diffuses from blood into water
+  - Thin plates (gill filaments) - big surface area - gas exchange
+   - Gill filaments - made of lamellae - increase Surface Area even more
+  - Lamellae - many capillaries - speed diffusion. Thin surface layer - minimise gas diffuse distance
+  - lamallae - Blood flows one direction, water flows other direction - large concentration gradient
+  - Concentration of oxygen in water higher than blood - as much oxygen as possible diffuse into blood 
 ### B2
 ```
 Eukaryotic cells - complex cells with a nucleus.(plant & animal cells)
@@ -54,11 +67,14 @@ Gas Exchange - when gases swap via diffusion - happens with 02 and CO2 in alveol
 ```
 ### B3
 ```
-Tissue - group of similar cells working together
-Enzyme - biological catalyst for chemical reactions in body.
-Carbohydrase - breaks down carbs --> simple sugars eg Amylase (made in salivary gland, pancreas, small intestine)
-Proteases - converts proteins --> amino acids eg pepsin (made in stomach, pancreas, small intestine)
-Lipases - converts lipids --> glycerol and fatty acids (pancreas, small intestine)
+Tissue - group of similar cells working together. Can be more than one type of cell. Mammals:
+Muscular tissue - contracts to move attached limb/bone at joint
+Glandular tissue - makes and secretes hormones & enzymes
+Epithelial tissue - cover some parts of body (e.g inside of gut)
+Enzyme - biological catalyst for chemical reactions in body:
+- Carbohydrase - breaks down carbs --> simple sugars eg Amylase (made in salivary gland, pancreas, small intestine)
+- Proteases - converts proteins --> amino acids eg pepsin (made in stomach, pancreas, small intestine)
+- Lipases - converts lipids --> glycerol and fatty acids (pancreas, small intestine)
 Substrate - substance that an enzyme works on.
 Denature - an enzyme that changes shape because of broken bonds from overheating
 Optimum temperature - temperature where the enzyme is most active
