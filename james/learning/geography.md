@@ -10,6 +10,8 @@
     - [Paper 1: Living with the physical environment](#paper-1-living-with-the-physical-environment)
       - [Section A: The Challenge of Natural hazards](#section-a-the-challenge-of-natural-hazards)
         - [Typhoon Haiyan](#typhoon-haiyan)
+        - [Chile Earthquake 2010 - HIC](#chile-earthquake-2010---hic)
+        - [Nepal Earthquake 2015 - LIC](#nepal-earthquake-2015---lic)
       - [Section B: The Living World](#section-b-the-living-world)
       - [Section C: Physical landscapes in the UK](#section-c-physical-landscapes-in-the-uk)
 
@@ -145,6 +147,33 @@ Tropical storms - Low pressure weather with intense rain and strong winds, spin 
 Eye - Center of storm, caused by falling air.
 Eye traits - 50km diameter, low pressure, light winds, no clouds, no rain, high temperature
 Eyewall - Surrounds eye, very strong winds of rising air and rain.
+Extreme weather - Weather thats significantly different from the usual weather and can endanger humans.
+Natural hazards - Natural weather thats a threat to people/property
+Geological hazards - Caused by land and tectonic processes
+Meterological hazards - Caused by weather and climate
+Primary effects - Immediate impacts from the hazard
+Hazard risk - Probability of people being affected
+Vulnerability (Population density) - More people in an area, greater chance of hazard
+Capacity to cope - Richer countries can cope with hazards better
+Nature of hazards - Type of hazard can be worse than others
+Secondary effects - Result of primary effects, after-effects
+Tectonic plates - Crust is split on constantly moving plates
+Continental crust - Thicker and less dense
+Oceanic crust - Thinner and denser
+Plate margin - Where tectonic plates meet
+Destructive margin - Move towards each other, volcanoes form
+Constructive margin - Move away from each other, new crust
+Conservative margin - Move sideways, friction
+Earthquakes - From plate margin tension, creates shockwaves
+Epicentre - Point of surface vertically above focus.
+Moment magnitude scale - Measures energy released by an earthquake
+Shock waves - Cause earthquake
+Management - Reduces tectonic hazard effect.
+Monitoring - Looking at earths movements for warnings
+Prediction - Can predict WHEN a hazard with occur from plates
+Protection - Buildings can be strengthened (shock absorbers)
+Planning - Avoid high risk areas, emergency services, education, evacuation routes
+Global Atmospheric Circulation - Transfer of heat from equator by air
 ```
 ##### Typhoon Haiyan
 ```
@@ -157,6 +186,26 @@ Primary effects - 8000 killed, 1mil+ homes gone, cost 13$million, flooded 600,00
 Secondary effects - Flooding triggered landslides, 5.6 million lost jobs, Diseases.
 Immediate response - PAGASA broadcast warning 2 days before, 800000 evacuated,  pit latrines, aid offered
 Long-term response - UN appealed $300mil, charities built storm-resistant houses, tourism encouraged.
+```
+##### Chile Earthquake 2010 - HIC
+```
+8.8 Magnitude
+Nazca plate under South American plate
+
+Primary effects - 500 killed, $30 billion
+Secondary effects - Coastal areas flooded, landslides
+Immediate response - Rapid emergency services, roads repaired within a day, 30,000 emergency shelters
+Long-term response - Reconstruction plan to help 200000 households
+```
+##### Nepal Earthquake 2015 - LIC
+```
+Indo-Australian plate and Eurasian plate
+
+Primary effects - 9,000 killed, $5 billion
+Secondary effects - Avalanche from Mt Everest (19 killed), Landslides and flooding
+Immediate response - Overseas aid from charities, 300000 left Kathmandu
+Long-term response - International conference to appeal for funding, infrastructure rebuilt
+
 ```
 
 #### Section B: The Living World
