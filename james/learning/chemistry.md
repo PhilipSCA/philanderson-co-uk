@@ -4,6 +4,7 @@
 - [chemistry](#chemistry)
   - [contents](#contents)
   - [random terms](#random-terms)
+        - [C13 - Alkanes and Alkenes](#c13---alkanes-and-alkenes)
 
 ## random terms
 
@@ -165,4 +166,47 @@ Mass of an element in a compound - Ar x No. of atoms / Mr of compound
 The Mole - The amount of a substance in grams.
 ```
 
+##### C13 - Alkanes and Alkenes
+```
+----------------------------------------------------16/3/24---------------------------------------------------
+Organic chemistry - Compounds containing carbon
+Hydrocarbons - Only have hydrogen and carbon atoms
+Alkanes - Simplest hydrocarbon, CnH2n+2. Used in fractional distillation
+Homologous series - Organic compounds that react in similar ways
+Saturated compounds - Each carbon atom has 4 SINGLE covalent bonds
+Methane - CH4             H   H
+Ethane - C2H6             |   |
+Propane - C3H8        H - C - C - H
+Butane - C4H10            |   |
+Octane - C8H18            H   H
+Decane - C10H22            
+Complete combustion formula - Hydrocarbon + Oxygen --> Carbon dioxide + Water (+ energy)
+Complete combustion - All reactants are used up to form products, no excess. 
+Oxidation - Gain of oxygen
+Crude oil - Fossil fuel used in fractional distillation, mainly from plankton, drilled from rocks
+Finite - Is used faster than produced
+Fractional distillation - Separation of hydrocarbons by their boiling points using heated crude oil.
+Lubricants - Reduce friction
+Alkenes - Starting material for polymers. CnH2n
+Cracking - Thermal decomposition reaction, breaking molecules down by heating
+Vaporise - Turn into a gas
+Catalytic cracking - Long chain molecules split apart on surface of specks
+Ethene - 2 Carbon atoms (C2H4)
+Propene - 3 Carbon atoms (C3H6)
+Incomplete combustion - Not all reactants used up, can get toxic gas (carbon monoxide, sulfur etc) as a product
+Hydrogenation - Addition of hydrogen
+Double bond - Alkenes, unsaturated and means they have reactions with lots of compounds
+Halogens reaction - Can react with alkenes
+Ethanol - Alcohol that can be made by mixing ethene with steam then over a catalyst
+Polymers - Lots of same molecule joined together to form a chain. Make up plastics
+Addition polymerisation - Monomer molecules open up double bonds and form polymer chains
+Repeating units - How to draw polymers using a number to show chain length
+Alcohols - Homologous series, have an -OH functional group and end in -ol. Cn H2n+10 OH
+Carboxylic acid - Made when alcohols are oxidised
+Fermentation - Uses an enzyme in yeast to convert sugars to ethanol, C0² also produced
+Anaerobic conditions - No oxygen
+Limiting reactant - Reactant that is needed more of to create more of the product.
+Zero error - When the measuring system gives a false value when its meant to be 0.
+Resolution - Smallest change on a measuring system that can happen (Machine measures to 2 d.p so its +- 0.01)
+```
 [def]: #chemistry
