@@ -163,6 +163,53 @@ Efficiecny and reliability - Products need to be good standard consistently
 Great design - Add a premium customers could pay more for
 SMART - Specific, Measureable, Achieveable, Realistic and Time-bound
 
+----------------------------------------------------16/3/24------------------------------------------------------------------
+Adapting existing products - Finding new products that are based on original
+Bankrupt - Cant pay debts
+Cash-flow forecast - Estimating the likely flows of cash and balance over coming months
+Decentralised organisation - An organisation which allows staff to make decisions locally
+E-commerce - Selling online rather than in a physical place.
+M-commerce - Selling online using apps/phones
+Fairtrade - Social movement whose goal is to help producers in developing countries achieve better trading conditions and promote sustainability.
+Gap in the market - An area on a market map where few or no existing brands operate
+Imports - Goods/Services bought overseas
+Job description - A short account of the main features of the job.
+Legislation - Laws by government on business
+Managing quality - Choosing the right method for achieving good results and watching workers.
+Negative cash flow - Cash outflows > cash inflows
+Objectives - Clear measureable goal
+Qualitative data - In depth research to the opinions of a small group of potential customers
+Performance reviews - Discussion sessions between employees amd boss about employee performance
+Recession - Downturn in sales and output throughout economy, leads to unemployment
+Sales process - All factors required to ensure an interested customers makes a purchase
+Takeover - Obtaining control of another business by having over 50% of share capital
+Understanding customers - Learning why customers do what they do to make suitable products
+Value added - Difference in selling price and cost of producing.
+Bar chart - Data presented so height of bar represents quantity
+Demand - Number of units customers want
+Economic climate - Can be hot/cold, measurement of economic outlook
+Globalisation - Increasing tendency for countries to trade with other and buy goods abroad
+Hierarchical structure - Many layers of management
+Identifying customers - Who they are: Age, gender, lifestyle, incomes etc
+Job enrichment - Being given a range of tasks for worker to grow
+Lack of financial security - Uncertainty for business owner about daily assets
+Net profit margin - Net profit as a % of sales revenue
+Permanent contract - Agreement between a company and employee that accumulates income
+Person specification - Account of person who would fit the job 
+Quality - Getting what they want for the right price or better than expected
+Product differentiation - Extent to which consumers see your product as different
+Red tape - Laws that can sabotage businesspeople
+Sales revenue - Total value of sales made.
+Niche market - No or little competition
+Break even - Total costs and revenue are same, start making profit
+Pressure groups - People who try to influence business decisions, usually ethically
+Commission - Payment made to employees (as a %) based on the sales they made.
+Flotation - Business sells shares on stock market to public
+Organisational structure - How a business organises its staff, making the layers of management
+Short term finance - To help a business maintain a positive cash flow in hard periods.
+Short term finance methods - Overdrafts and Trade credit
+Overdraft - Agreement with a bank to overspend on an account. (loans)
+Trade credit - Buying stock and paying for it at a later date. Contract made 
 ```
 
 ### 2.3 - Making Operational Decisions
