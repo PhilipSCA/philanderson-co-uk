@@ -7,6 +7,27 @@ Midpoint of a line = (x1 + x2/2 , y1 + y2/2)
 Area of a trapezium = 1/2 (a+b) x height
 Volume of any prism = length x Cross-section area
 Cross-section area = width x height
+
+Permutations - combinations or different arrangements
+Binomial - expression that has two terms
+Coefficient - number before variable in expression (no equals)
+Hyperbola - curve in graph
+Relative freq. - probabilities based on results
+Invariant - points that don't change after transformation
+Equidistant - same distance
+Elevation - 2d view of 3d solid, viewed from front or side
+Frequency polygon - graph joining midpoints of data groups
+Geometric sequence - each term is product of previous term and constant(r) - an = a1 (r)^n-1
+Arithmetic - numbers with a common difference
+Completing square - quadratic in form: (x + b/2)^2 + (b/2)^2 + c
+Turning point - (x+a)2 + b (completed square) in form: (-a, b) (Maximum = if a is negative in quadratic)
+Continous data - can take any value within range
+Discrete data - only take certain values in given range (e.g goals scored)
+Cosine rule - a2 = b2 + c2 - 2bc x cos(a)
+            - Cos(A) = b2+c2 - a2 / 2bc
+Arc - section of circumference circle
+Bisector - line that divided line exactly in half
+
 ```
 
 ## Probability
