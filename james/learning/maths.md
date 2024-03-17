@@ -81,4 +81,11 @@ Corresponding angles - F shape, equal angles
 Alternate angles - Z shape, equal angles
 Co-interior angles - C shape, add to 180°
 Recurring decimals - Go on forever, Always n/9 depending on how many digits. (n/99 or n/999)
+
+------------------------------------------------16/03/24--------------------------------------------------
+Lower quartile formula - (n+1)/4 
+Upper quartile formula - 3(n+1)/4
+Cosine rule - a² = b² + c² -2bc x cosA
+Sine rule - sin(a)/a = sin(b)/b OR a/sin(a) = b/sin(b)
+Percentage change - (Change/original) x 100
 ```
