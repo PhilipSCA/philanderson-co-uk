@@ -1,67 +1,6 @@
 # Computer Science
-## Paper 1 - Computer Systems
-Decomposition - breaking a complex problem into smaller problems to solve individually
-Abstraction - filtering unnecessary information out of a problem and focusing on what is important.
-Algorithmic thinking - logical way of solving problems, step by step
+# Paper 1 - Computer Systems
 
-Pseudo-code - follows a similar structure of every coding language - easily readable - can be converted into any programming language
-Flowcharts - diagram showing algorithms, using different symbols, arrows.
-Casting - changing a data type
-Variable -  an identifier with a name that stores a(n adjustable) value - can be changed
-Constant - variable that cant be changed
-CASE statement - performs different actions for different values of same variable
-Selection - when program **interacts** with user
-Sequence - an order of instructions in a program
-Iteration - when the program uses loops (For, Repeat-until, while, do-while)
-Indefinite iteration - (Condition-contolled) when the loop repeats until a condition is met
-Definite iteration - (Count-controlled) when loop repeats exact number of times instructed.
-Nested iteration - loop inside another loop
-Subroutines - set of instructions stored under one name, function or procedure
-procedure - function that doesnt return a value
-Local variable - can only be used in the structure they're declared in (subroutine)
-Global variable - variable that can be used anywhere in code, after the declaration
-ASCII - 7-bit character set - (128 characters)
-ASCII extended - 8-bit - 256 characters
-Unicode - 16-bit - 65,000+ characters - every possible character in every language
-Syntax error - code doesn't follow rules or grammar of the language(SPaG error) - computer doesnt understand - program doesnt run
-Logic error - unexpected output - program does run (Human error)
-Bit - single binary digit
-Nibble - 4 bits
-Byte - 8 bits
-KiloByte(KB) - 1000 bytes
-Megabyte(MB) - 1000 Kilobytes
-Gigabyte(GB) - 1000 Megabytes
-Terabyte(TB) - 1000 GB
-
-Binary search - ordered lists - start in middle, slice etc
-Linear search - works in any list - start from beginning, check each item
-
-Bubble sort - sorts unordered lists - compares first values and swaps - biggest value to right
-Merge sort - decomposition method for sorting unordered lists - split, sort, merge back
-Insertion sort - sorts unordered lists - compares each value to first value, swaps - biggest value to left
-
-Array - data structure that can store a group of values, of one same type, under one name
-Record - data structure that can store different data types - single row in a data table
-Field - individual data items within a record - columns in the data table
-Parameter - variables that are passed as a value into a subroutine
-Argument - the values that you assign to the parameters
-Module - external python file which often contains functions
-Structured (modular) programming - decomposing the program that you want to write into manageable modules
-Input validation - checking if data meets certain criteria before passing it into the program
-Test plan - test to see if a program input is working by testing its boundaries
-Normal data - valid data that a user should input into a program
-Boundary data - data on the boundary of what the program should accept
-Erroneous data - invalid data the program shouldn't accept
-Trace table - table to test that a program is working
-NOT gate - output is opposite of input (0, 1)
-AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0. (0, 0, 0, 1)
-OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
-XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
-Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
-Character set - collection of characters that a computer can recognise from their binary number
-Colour depth - number of bits used per pixel - 2^(number of bits)
-Resolution - the concentration of pixels in an area - given as WidthxHeight
- 
 ## Components of a Computer System
 Hardware - physical items in a computer system - you can see them
 Software - programs or applications that computer system runs (e.g Operating System)
@@ -150,7 +89,7 @@ Disadvantages:
 
 ### Memory
 Main Memory - where all data, files, programs are stored when being used
-Primary storage - Memory areas that the CPU can access very quickly: (Registers, Cache, RAM, ROM, flash memory)
+Primary storage - Memory CPU can access very quickly: (Registers, Cache, RAM, ROM, flash memory)
 - fastest read/write times
 - mostly volatile
 RAM - main memory in computer - can be read & written to - volatile - slower than CPU cache
@@ -162,7 +101,7 @@ Secondary storage - non-volatile - where all data is stored when not in use: Mag
 - read/write times are alot slower than primary storage
 1) HDD - internal storage in PC/laptops - made up of stack of magnetised metal disks spinning at a rate of 5400-15000rpm - data stored magnetically in sectors within circular tracks, read/write heads access sectors on disk 
 - long lasting, reliable, cheap, high capacity
-2) SSD - no moving parts - most use flash memory - internal storage 
+1) SSD - no moving parts - most use flash memory - internal storage 
 - significantly faster read/write times than HDD - fastest secondary storage
 - dont need defragmenting
 - more shock-proof
@@ -170,7 +109,7 @@ Secondary storage - non-volatile - where all data is stored when not in use: Mag
 - shorter R/W life
 - hybrid drives exist, using SSD to boot up computer and HDD for data
 - limited number of read/writes - defragmenting shortens lifespan
-3) Optical discs - CD, DVD, Blu-ray - CD = 700 MB of data, DVD = 4.7GB, Blu-ray = 25GB,
+1) Optical discs - CD, DVD, Blu-ray - CD = 700 MB of data, DVD = 4.7GB, Blu-ray = 25GB,
   Read-only (CD-ROM, DVD-ROM, BD-ROM) - Write-once(CD-R, DVD-R, BD-R) - rewriteable(CD-RW, DVD-RW, BD-RW)
 - cheap, portable, durable from water or shocks
 - use is declining, low capacity
@@ -228,3 +167,110 @@ User access levels - different users can access more parts of network - help lim
 Anti-malware - software designed to find and stop malware from damaging network - e.g antivirus programs
 - firewalls - block unauthorised access - examine all data entering and leaving network, block any potential threats
 Encryption - data(plain text) translated into unreadable cipher text - only person with decryption key can access - essential for sending data over network securely - prevents passive attacks etc.
+
+# Paper 2 - Computational Thinking, Algorithms and Programming
+
+Casting - changing a data type
+
+CASE statement - performs different actions for different values of same variable
+
+Nested iteration - loop inside another loop
+ASCII - 7-bit character set - (128 characters) - uses less memory space
+ASCII extended - 8-bit - 256 characters
+Unicode - 16-bit - 65,000+ characters - every possible character in every language
+Syntax error - code doesn't follow rules or grammar of the language(SPaG error) - computer doesnt understand - program doesnt run
+Logic error - unexpected output - program does run (Human error)
+Bit - single binary digit
+Nibble - 4 bits
+Byte - 8 bits
+KiloByte(KB) - 1000 bytes
+Megabyte(MB) - 1000 Kilobytes
+Gigabyte(GB) - 1000 Megabytes
+Terabyte(TB) - 1000 GB
+
+Module - external python file which often contains functions
+Structured (modular) programming - decomposing the program that you want to write into manageable modules
+Input validation - checking if data meets certain criteria before passing it into the program
+Test plan - test to see if a program input is working by testing its boundaries
+Normal data - valid data that a user should input into a program
+Boundary data - data on the boundary of what the program should accept
+Erroneous data - invalid data the program shouldn't accept
+Trace table - table to test that a program is working
+NOT gate - output is opposite of input (0, 1)
+AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0. (0, 0, 0, 1)
+OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
+XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
+Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
+Character set - collection of characters that a computer can recognise from their binary number
+Colour depth - number of bits used per pixel - 2^(number of bits)
+Resolution - the concentration of pixels in an area - given as WidthxHeight
+
+## Algorithms
+### Computational Thinking
+Decomposition - breaking a complex problem into smaller problems to solve individually
+Abstraction - filtering unnecessary information, simplifying to important information in a problem
+Algorithmic thinking - logical way of solving problems, step by step
+
+Algorithm - ordered set of instructions to complete a task
+Pseudo-code - universal - follows similar structure of every coding language - easily readable - can be converted into any programming language - used to figure out structure of program
+Flowcharts - diagram showing algorithms, using different symbols, arrows.
+ - Start/End - oval
+ - Decision - Diamond
+ - Input/Output - parallelogram
+ - Process - rectangle
+
+Binary search - start in middle, slice - Adv: More efficient than linear, Dis: complex to program, only ordered lists
+Linear search - start from beginning, check each item - Adv: any list, Dis: not efficient - long time with long lists
+
+Bubble sort - compares first two values, swaps, moves to next value - biggest value to right - Adv: Simple, Dis: long time
+Merge sort - decomposition method - find middle, split, sort, merge back - Adv: (Most) Efficient, Dis: Slow
+Insertion sort - compares each value to first value, swaps - biggest value to left - Quick for small lists, slow for long
+
+### Programming
+Data type - String, Integer, Boolean, Real, Character
+Variable - identifier with name that stores value - can be changed in run-time
+Constant - variable that **cant** be changed whilst program is running
+Local variable - can only be used in the structure they're declared in (subroutine)
+Global variable - variable that can be used anywhere in code, after declared
+Exponentation - powers - e.g 2**3 or 2^3 
+Quotient DIV - DIV - integer division
+Modulo division -  MOD - Remainder
+Array - data structure - can store  group of values, of one same type, under one name
+1D-Arrays - list 
+2D-Array - table - lists within a list
+Sequence - order of instructions carried out chronologically in program
+Selection - when program **interacts** with user - decisions
+Iteration - when the program uses repitition/loops (For, Repeat(do)-until, while)
+- Indefinite iteration - (Condition-contolled) when the loop repeats until a condition is met - WHILE, DO-UNTIL
+- Definite iteration - (Count-controlled) when loop repeats exact number of times instructed. - FOR
+#### String manipulation
+x.length - Outputs length of string (Starts at 1)
+x.upper - changes string to all upper case
+x.lower - string all lower case
+x(i) - Outputs character in position of integer(i) (Starts from 0)
+x.substring(a,b) - Gives characters from a with length b. (e.g x=word, x.substring(2,2) = "rd")
+#### File handling
+openRead("myfile.txt") - Opens file in read mode
+openWrite("myfile.txt") - Opens in write mode
+.writeLine("Hello") - Writes line to file
+Line1 = myfile.readLine() - Reads 1 line of file
+.close - closes files
+endOfFile() - determines end of file
+
+Sub-program - set of instructions stored under a name, which can be called to run whole set
+Function - Sub-program that returns a value
+Procedure - doesnt return a value
+Parameter - variables  passed as a value into subroutine
+Argument - the values that you assign to the parameters
+Record - data structure - can store different data types - single row in a data table
+Field - each data items within a record - columns in the data table
+
+### Defensive Design
+Input sanitisation - removes any unwanted characters entered into program
+Input validation - Checks if data meets certain criteria before passing it through program. Following checks can be used:
+ - Presence check
+ - Length check
+ - Range check
+ - Format check
+ - Check digit
+ - Look-up table
