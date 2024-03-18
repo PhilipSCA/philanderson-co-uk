@@ -176,15 +176,7 @@ Casting - changing a data type
 ASCII - 7-bit character set - (128 characters) - uses less memory space
 ASCII extended - 8-bit - 256 characters
 Unicode - 16-bit - 65,000+ characters - every possible character in every language
-Syntax error - code doesn't follow rules or grammar of the language(SPaG error) - computer doesnt understand - program doesnt run
-Logic error - unexpected output - program does run (Human error)
-Bit - single binary digit
-Nibble - 4 bits
-Byte - 8 bits
-KiloByte(KB) - 1000 bytes
-Megabyte(MB) - 1000 Kilobytes
-Gigabyte(GB) - 1000 Megabytes
-Terabyte(TB) - 1000 GB
+
 
 Module - external python file which often contains functions
 Structured (modular) programming - decomposing the program that you want to write into manageable modules
@@ -281,6 +273,8 @@ Test plan - test to see if a program input is working by testing its boundaries
 Normal data - valid data that user would input into program
 Boundary data - data on boundary of what program should accept
 Erroneous data - data the program shouldn't accept
+Syntax error - doesn't follow rules or grammar of the language(SPaG error) - computer doesnt understand - program doesnt run
+Logic error - unexpected output - program does run but returns an unexpected output (human error)
 ### Logic gates
 NOT gate - output is opposite of input (0, 1)
 AND gate - if both inputs are 1, then output is 1. Otherwise 0. (0, 0, 0, 1)
@@ -290,3 +284,12 @@ A and B - A ^ B
 A OR B - A v B
 NOT A - ¬A
 Truth table - show all possible combinations of inputs and outputs in circuit
+- Computers use binary to represent flow of electricity in circuits. 1=on, 0=off
+Bit - single binary digit
+Nibble - 4 bits
+Byte - 8 bits
+KiloByte(KB) - 1000 bytes
+Megabyte(MB) - 1000 Kilobytes
+Gigabyte(GB) - 1000 Megabytes
+Terabyte(TB) - 1000 GB
+Petabyte(PB - 1000 TB)
