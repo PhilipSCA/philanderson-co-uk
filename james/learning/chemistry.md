@@ -208,5 +208,20 @@ Anaerobic conditions - No oxygen
 Limiting reactant - Reactant that is needed more of to create more of the product.
 Zero error - When the measuring system gives a false value when its meant to be 0.
 Resolution - Smallest change on a measuring system that can happen (Machine measures to 2 d.p so its +- 0.01)
+------------------------------------------------------18/3/24----------------------------------------------------
+Ammonia - 2NH3 (N² + 3H² --> 2NH³)
+Bond energy - Needed to break and make bonds
+Exothermic bonding - Forms bonds  ( Energy from forming bonds > Energy to break bond ), Negative result
+Endothermic bonding - Breaks bonds (Energy from forming bonds < Energy to break bond), Positive result
+Alkali + Acid --> Salt + Water
+Alcohol + Oxygen --> C02 + Water
+Exothermic reactions - Transfer energy to surrounding, temp increases
+Endothermic reactions - Absorb energy, temp decreases
+Activation energy - Energy required to start a reaction
+Examples of exothermic reactions - Respiration and combustion
+Example of endothermic reactions - Photosynthesis, melting ice and thermal decomposition
+Reaction profile - Shows energy at start and end of a reaction
+Endothermic reaction profile - Reactants energy < Product energy
+Exothermic reaction profile - Reactants energy > Product energy
 ```
 [def]: #chemistry
