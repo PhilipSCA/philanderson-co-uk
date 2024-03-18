@@ -172,9 +172,7 @@ Encryption - data(plain text) translated into unreadable cipher text - only pers
 
 Casting - changing a data type
 
-CASE statement - performs different actions for different values of same variable
 
-Nested iteration - loop inside another loop
 ASCII - 7-bit character set - (128 characters) - uses less memory space
 ASCII extended - 8-bit - 256 characters
 Unicode - 16-bit - 65,000+ characters - every possible character in every language
@@ -191,15 +189,9 @@ Terabyte(TB) - 1000 GB
 Module - external python file which often contains functions
 Structured (modular) programming - decomposing the program that you want to write into manageable modules
 Input validation - checking if data meets certain criteria before passing it into the program
-Test plan - test to see if a program input is working by testing its boundaries
-Normal data - valid data that a user should input into a program
-Boundary data - data on the boundary of what the program should accept
-Erroneous data - invalid data the program shouldn't accept
+
 Trace table - table to test that a program is working
-NOT gate - output is opposite of input (0, 1)
-AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0. (0, 0, 0, 1)
-OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
-XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
+
 Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
 Character set - collection of characters that a computer can recognise from their binary number
 Colour depth - number of bits used per pixel - 2^(number of bits)
@@ -243,6 +235,8 @@ Selection - when program **interacts** with user - decisions
 Iteration - when the program uses repitition/loops (For, Repeat(do)-until, while)
 - Indefinite iteration - (Condition-contolled) when the loop repeats until a condition is met - WHILE, DO-UNTIL
 - Definite iteration - (Count-controlled) when loop repeats exact number of times instructed. - FOR
+- Nested iteration - loop inside another loop
+CASE statement - performs different actions for different values of same variable
 #### String manipulation
 x.length - Outputs length of string (Starts at 1)
 x.upper - changes string to all upper case
@@ -266,11 +260,33 @@ Record - data structure - can store different data types - single row in a data 
 Field - each data items within a record - columns in the data table
 
 ### Defensive Design
+Defensive design - programmers test their code to: reduce number of errors, prevent misuses, for well-maintained code
 Input sanitisation - removes any unwanted characters entered into program
 Input validation - Checks if data meets certain criteria before passing it through program. Following checks can be used:
- - Presence check
- - Length check
- - Range check
- - Format check
- - Check digit
- - Look-up table
+ - Presence check - data has been entered
+ - Length check - data is correct length
+ - Range check - data within set range
+ - Format check - in correct format (e.g dd/mm/yy)
+ - Check digit - numerical data entered correctly
+ - Look-up table - checks against a table of accepted values
+Authentication - program confirms identity of user before giving access to full program. - user accounts, passwords
+Maintainability - well-maintained code = easy to edit without causing errors:
+ - Comments - other programmers understand code, easier to read
+ - Indentation - easy for programmers to see flow of diagram - easier to read, can convert to other languages easier
+ - related variable/subprogram names
+#### Testing
+Final testing - program tested once at end of development - all in one go
+Iterative testing - tested & changes made throughout development cycle - may go through process few times
+Test plan - test to see if a program input is working by testing its boundaries
+Normal data - valid data that user would input into program
+Boundary data - data on boundary of what program should accept
+Erroneous data - data the program shouldn't accept
+### Logic gates
+NOT gate - output is opposite of input (0, 1)
+AND gate - if both inputs are 1, then output is 1. Otherwise 0. (0, 0, 0, 1)
+OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
+XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
+A and B - A ^ B
+A OR B - A v B
+NOT A - ¬A
+Truth table - show all possible combinations of inputs and outputs in circuit
