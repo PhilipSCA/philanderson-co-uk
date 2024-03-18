@@ -88,4 +88,16 @@ Upper quartile formula - 3(n+1)/4
 Cosine rule - a² = b² + c² -2bc x cosA
 Sine rule - sin(a)/a = sin(b)/b OR a/sin(a) = b/sin(b)
 Percentage change - (Change/original) x 100
+Locus/Loci - A path or shape formed by satisfying an equation/rule at all times
+Turning point formula - (x+1/2a)² + c
+f(x) + a = Moves up, + y axis (Vector = (0,a))
+f(x) - a = Moves down, - y axis (0,-a)
+f(x + a) = Moves left, - x axis (-a,0)
+f(x - a) = Moves right, + x axis (a,0)
+-f(x) - Reflection in x axis
+f(-x) - Reflection in y axis
+Coefficient - Number before algebraic letter. (3x)
+Area of trapezium = 1/2 (a+b) x h
+SA of a cylinder = πr² + 2πrh
+
 ```
