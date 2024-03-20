@@ -193,7 +193,7 @@ Resolution - the concentration of pixels in an area - given as WidthxHeight
 ### Computational Thinking
 Decomposition - breaking a complex problem into smaller problems to solve individually
 Abstraction - filtering unnecessary information, simplifying to important information in a problem
-Algorithmic thinking - logical way of solving problems, step by step
+Algorithmic thinking - logical way of solving problems, step by step solution
 
 Algorithm - ordered set of instructions to complete a task
 Pseudo-code - universal - follows similar structure of every coding language - easily readable - can be converted into any programming language - used to figure out structure of program
@@ -293,3 +293,34 @@ Megabyte(MB) - 1000 Kilobytes
 Gigabyte(GB) - 1000 Megabytes
 Terabyte(TB) - 1000 GB
 Petabyte(PB - 1000 TB)
+
+### Languages
+High level language - need to be translated into machine code - cannot be understood by computer (Python, java)
+ - Each instruction is many machine code instructions
+ - Code transferable to many different computers and processors
+ - Data stored in structures (lists, arrays)
+ - Easy to read, understand
+ - Dis: Less memory efficient - no control over CPU
+Low level language - Machine code(binary) & Assembly:
+ - written for one particular machine/processor
+ - programmer needs to understand how CPU manages memory
+ - Difficult to read, understand
+ - Machine code can be executed without translators
+ - More memory efficient - control what CPU does
+
+Assemblers - turn assembly language to machine code
+Compilers - Translate all code in one - creates executeable file. (Source code --> assembly --> machine)
+ - can take a long time, but final code runs quickly
+ - gives list of errors for entire program
+ - Adv: Execution faster, no need for translation software at run-time, code optimised
+ - Dis: Source code easier to write in high-level, but program wont run with syntax errors - more difficult
+   - code needs to be recompiled when changed
+   - Designed for specific type of processor
+Interpreters - translates source code one line at a time.
+Adv: - Easy to write source code - program always runs, stops when finds syntax error
+     - does not need to be recompiled when changed - easy to try out commands when program finds error
+     - easy for beginner programmers to learn to write code
+Dis: - Translation software needed at run-time
+     - Slower
+     - code not optimised
+     - source code is needed
