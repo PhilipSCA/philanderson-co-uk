@@ -173,9 +173,6 @@ Encryption - data(plain text) translated into unreadable cipher text - only pers
 Casting - changing a data type
 
 
-ASCII - 7-bit character set - (128 characters) - uses less memory space
-ASCII extended - 8-bit - 256 characters
-Unicode - 16-bit - 65,000+ characters - every possible character in every language
 
 
 Module - external python file which often contains functions
@@ -185,9 +182,7 @@ Input validation - checking if data meets certain criteria before passing it int
 Trace table - table to test that a program is working
 
 Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
-Character set - collection of characters that a computer can recognise from their binary number
-Colour depth - number of bits used per pixel - 2^(number of bits)
-Resolution - the concentration of pixels in an area - given as WidthxHeight
+
 
 ## Algorithms
 ### Computational Thinking
@@ -316,7 +311,7 @@ Compilers - Translate all code in one - creates executeable file. (Source code -
  - Dis: Source code easier to write in high-level, but program wont run with syntax errors - more difficult
    - code needs to be recompiled when changed
    - Designed for specific type of processor
-Interpreters - translates source code one line at a time.
+Interpreters - translates source code one line at a time. - code translated every time it runs
 Adv: - Easy to write source code - program always runs, stops when finds syntax error
      - does not need to be recompiled when changed - easy to try out commands when program finds error
      - easy for beginner programmers to learn to write code
@@ -324,3 +319,29 @@ Dis: - Translation software needed at run-time
      - Slower
      - code not optimised
      - source code is needed
+IDE(Integrated Development Environment) - software with features that help programmers code
+ 1) Editors - line numbers, colour coding for different features of code
+ 2) Run-time environment - lets programmer run code quickly to test for errors
+ 3) Debugging tools - help find and solve errors
+ 4) Translator - translate code into machine code
+ 5) Breakpoints - stop program on certain lines
+
+### Data representation
+Binary addition - 0+0=0, 0+1=1, 1+1=0(carry 1) | 1+1+1 = 1 carry 1
+Binary shift - Left = multiply, Right=divide
+Character set - collection of characters recognised/represented by a computer system (by binary number)
+ASCII - 7-bit character set - (128 characters) - uses less memory space
+ASCII extended - 8-bit - 256 characters
+Unicode - 16/32-bit - 65,000+ characters - every possible character in every language
+Images - made up of pixels. Colour of each pixel is a binary number
+Colour depth - no. of bits used for each pixel - 2^(number of bits) = no. of colours
+Resolution - the concentration of pixels in an area - given as WidthxHeight - dpi(dots per inch) - higher resolution = better quality, bigger file size
+Metadata - information about image file, stored within it. (e.g height,width,colour depth,resolution, format, image time&date)
+Sound - has to be converted from analogue --> digital to be stored by computer. Done by sampling
+Sampling - Amplitude measured at regular intervals, creates digital representation of wave.
+  - more frequent samples = more accurate = better quality, bigger file size
+Compression - makes file size smaller - data faster to send, quicker to download, faster to load, less storage space
+Lossy - permanently removes some data from file - image/audio lower quality (JPEG, MPEG, MP3)
+Lossless - data temporarily removed, put back together when file opened. - useful for files that need all data in (PDF, GIF)
+  - reduces file less than lossy
+  - one method - RLE(run-length encoding)
