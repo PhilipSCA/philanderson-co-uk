@@ -35,3 +35,15 @@ Hyperbole - exaggeration to have an effect on the reader
 Inversion - altering normal word order
 Motif - recurring image or idea in a text
 Sensory - using the five senses
+
+### Macbeth Tragic Terms
+Tragic hero - usually of noble birth and start with good fortune. Downfall is rest of play - make flawed and immoral decisions, but also have admirable qualities.
+Hamartia - fatal flaw leading to tragic downfall of hero
+Peripeteia - reversal of fortune/turning point in characters fate - where downfall begins
+Hubris - excessive pride or self-confidence
+Come-uppance - character recieving consequence they deserve because of immoral or foolish actions
+Catharsis - Intense emotion in moment in play e.g satisfaction/pity audience feels when character recieves their comeuppance
+Anagnorisis - moment in play where character makes critical discovery - reveals mistake they made, realises own flaws/errors
+Tragic death - someone dies unnecessarily, usually not fulfulling their potential
+Pathos - making audience feel pity or empathise with a character
+Bathos - anti-climatic response/ sudden shift in mood to make something seem more trivial than it should be
