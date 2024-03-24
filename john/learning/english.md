@@ -47,3 +47,24 @@ Anagnorisis - moment in play where character makes critical discovery - reveals 
 Tragic death - someone dies unnecessarily, usually not fulfulling their potential
 Pathos - making audience feel pity or empathise with a character
 Bathos - anti-climatic response/ sudden shift in mood to make something seem more trivial than it should be
+
+### Macbeth
+#### Themes:
+Ambition & power:
+Hamartia - his fatal flaw - ambition - "I have no spur to prick the sides of my intent, but only vaulting ambition" - his only motivation - need for power. Lady Macbeth also has same hamartia
+
+
+Supernatural:
+- wicked thoughts/actions
+- Witches activities:
+  - Control weather (thunderstorms)
+  - Predict future, cast spells
+  - Witches talk in own language - rhyming couplets - otherworldy
+- Disruption of nature
+  - storm when Duncan dies
+  - Many unnatural occurences happen - horses eat each other, Owl kills falcon(represents macbeth killing Duncan, food chain disrupted.) Links to Great Chain of Being - unnatural death of king.
+  
+Appearance and reality:
+- Euphemisms
+- Visions - guilty conscience - "Mine eyes are made the fools o'th'other senses" & dagger vision
+- Sleeps & dreams - Macbeth & wife have trouble sleeping - tormented by dreams  
