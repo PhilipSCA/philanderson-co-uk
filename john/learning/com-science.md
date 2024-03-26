@@ -172,44 +172,23 @@ Encryption - data(plain text) translated into unreadable cipher text - only pers
 
 Casting - changing a data type
 
-CASE statement - performs different actions for different values of same variable
 
-Nested iteration - loop inside another loop
-ASCII - 7-bit character set - (128 characters) - uses less memory space
-ASCII extended - 8-bit - 256 characters
-Unicode - 16-bit - 65,000+ characters - every possible character in every language
-Syntax error - code doesn't follow rules or grammar of the language(SPaG error) - computer doesnt understand - program doesnt run
-Logic error - unexpected output - program does run (Human error)
-Bit - single binary digit
-Nibble - 4 bits
-Byte - 8 bits
-KiloByte(KB) - 1000 bytes
-Megabyte(MB) - 1000 Kilobytes
-Gigabyte(GB) - 1000 Megabytes
-Terabyte(TB) - 1000 GB
+
 
 Module - external python file which often contains functions
 Structured (modular) programming - decomposing the program that you want to write into manageable modules
 Input validation - checking if data meets certain criteria before passing it into the program
-Test plan - test to see if a program input is working by testing its boundaries
-Normal data - valid data that a user should input into a program
-Boundary data - data on the boundary of what the program should accept
-Erroneous data - invalid data the program shouldn't accept
+
 Trace table - table to test that a program is working
-NOT gate - output is opposite of input (0, 1)
-AND gate - if both inputs are 1, then output is 1. Otherwise its not the same and its 0. (0, 0, 0, 1)
-OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
-XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
+
 Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
-Character set - collection of characters that a computer can recognise from their binary number
-Colour depth - number of bits used per pixel - 2^(number of bits)
-Resolution - the concentration of pixels in an area - given as WidthxHeight
+
 
 ## Algorithms
 ### Computational Thinking
 Decomposition - breaking a complex problem into smaller problems to solve individually
 Abstraction - filtering unnecessary information, simplifying to important information in a problem
-Algorithmic thinking - logical way of solving problems, step by step
+Algorithmic thinking - logical way of solving problems, step by step solution
 
 Algorithm - ordered set of instructions to complete a task
 Pseudo-code - universal - follows similar structure of every coding language - easily readable - can be converted into any programming language - used to figure out structure of program
@@ -243,6 +222,8 @@ Selection - when program **interacts** with user - decisions
 Iteration - when the program uses repitition/loops (For, Repeat(do)-until, while)
 - Indefinite iteration - (Condition-contolled) when the loop repeats until a condition is met - WHILE, DO-UNTIL
 - Definite iteration - (Count-controlled) when loop repeats exact number of times instructed. - FOR
+- Nested iteration - loop inside another loop
+CASE statement - performs different actions for different values of same variable
 #### String manipulation
 x.length - Outputs length of string (Starts at 1)
 x.upper - changes string to all upper case
@@ -266,11 +247,101 @@ Record - data structure - can store different data types - single row in a data 
 Field - each data items within a record - columns in the data table
 
 ### Defensive Design
+Defensive design - programmers test their code to: reduce number of errors, prevent misuses, for well-maintained code
 Input sanitisation - removes any unwanted characters entered into program
 Input validation - Checks if data meets certain criteria before passing it through program. Following checks can be used:
- - Presence check
- - Length check
- - Range check
- - Format check
- - Check digit
- - Look-up table
+ - Presence check - data has been entered
+ - Length check - data is correct length
+ - Range check - data within set range
+ - Format check - in correct format (e.g dd/mm/yy)
+ - Check digit - numerical data entered correctly
+ - Look-up table - checks against a table of accepted values
+Authentication - program confirms identity of user before giving access to full program. - user accounts, passwords
+Maintainability - well-maintained code = easy to edit without causing errors:
+ - Comments - other programmers understand code, easier to read
+ - Indentation - easy for programmers to see flow of diagram - easier to read, can convert to other languages easier
+ - related variable/subprogram names
+#### Testing
+Final testing - program tested once at end of development - all in one go
+Iterative testing - tested & changes made throughout development cycle - may go through process few times
+Test plan - test to see if a program input is working by testing its boundaries
+Normal data - valid data that user would input into program
+Boundary data - data on boundary of what program should accept
+Erroneous data - data the program shouldn't accept
+Syntax error - doesn't follow rules or grammar of the language(SPaG error) - computer doesnt understand - program doesnt run
+Logic error - unexpected output - program does run but returns an unexpected output (human error)
+### Logic gates
+NOT gate - output is opposite of input (0, 1)
+AND gate - if both inputs are 1, then output is 1. Otherwise 0. (0, 0, 0, 1)
+OR gate - if one or more inputs is 1, output is 1. The output is only 0 if all inputs are 0 (0, 1, 1, 1)
+XOR gate(not needed) - exclusive OR - if exactly one input is 1, output is 1. Otherwise output is 0. (0,1,1,0)
+A and B - A ^ B
+A OR B - A v B
+NOT A - ¬A
+Truth table - show all possible combinations of inputs and outputs in circuit
+- Computers use binary to represent flow of electricity in circuits. 1=on, 0=off
+Bit - single binary digit
+Nibble - 4 bits
+Byte - 8 bits
+KiloByte(KB) - 1000 bytes
+Megabyte(MB) - 1000 Kilobytes
+Gigabyte(GB) - 1000 Megabytes
+Terabyte(TB) - 1000 GB
+Petabyte(PB - 1000 TB)
+
+### Languages
+High level language - need to be translated into machine code - cannot be understood by computer (Python, java)
+ - Each instruction is many machine code instructions
+ - Code transferable to many different computers and processors
+ - Data stored in structures (lists, arrays)
+ - Easy to read, understand
+ - Dis: Less memory efficient - no control over CPU
+Low level language - Machine code(binary) & Assembly:
+ - written for one particular machine/processor
+ - programmer needs to understand how CPU manages memory
+ - Difficult to read, understand
+ - Machine code can be executed without translators
+ - More memory efficient - control what CPU does
+
+Assemblers - turn assembly language to machine code
+Compilers - Translate all code in one - creates executeable file. (Source code --> assembly --> machine)
+ - can take a long time, but final code runs quickly
+ - gives list of errors for entire program
+ - Adv: Execution faster, no need for translation software at run-time, code optimised
+ - Dis: Source code easier to write in high-level, but program wont run with syntax errors - more difficult
+   - code needs to be recompiled when changed
+   - Designed for specific type of processor
+Interpreters - translates source code one line at a time. - code translated every time it runs
+Adv: - Easy to write source code - program always runs, stops when finds syntax error
+     - does not need to be recompiled when changed - easy to try out commands when program finds error
+     - easy for beginner programmers to learn to write code
+Dis: - Translation software needed at run-time
+     - Slower
+     - code not optimised
+     - source code is needed
+IDE(Integrated Development Environment) - software with features that help programmers code
+ 1) Editors - line numbers, colour coding for different features of code
+ 2) Run-time environment - lets programmer run code quickly to test for errors
+ 3) Debugging tools - help find and solve errors
+ 4) Translator - translate code into machine code
+ 5) Breakpoints - stop program on certain lines
+
+### Data representation
+Binary addition - 0+0=0, 0+1=1, 1+1=0(carry 1) | 1+1+1 = 1 carry 1
+Binary shift - Left = multiply, Right=divide
+Character set - collection of characters recognised/represented by a computer system (by binary number)
+ASCII - 7-bit character set - (128 characters) - uses less memory space
+ASCII extended - 8-bit - 256 characters
+Unicode - 16/32-bit - 65,000+ characters - every possible character in every language
+Images - made up of pixels. Colour of each pixel is a binary number
+Colour depth - no. of bits used for each pixel - 2^(number of bits) = no. of colours
+Resolution - the concentration of pixels in an area - given as WidthxHeight - dpi(dots per inch) - higher resolution = better quality, bigger file size
+Metadata - information about image file, stored within it. (e.g height,width,colour depth,resolution, format, image time&date)
+Sound - has to be converted from analogue --> digital to be stored by computer. Done by sampling
+Sampling - Amplitude measured at regular intervals, creates digital representation of wave.
+  - more frequent samples = more accurate = better quality, bigger file size
+Compression - makes file size smaller - data faster to send, quicker to download, faster to load, less storage space
+Lossy - permanently removes some data from file - image/audio lower quality (JPEG, MPEG, MP3)
+Lossless - data temporarily removed, put back together when file opened. - useful for files that need all data in (PDF, GIF)
+  - reduces file less than lossy
+  - one method - RLE(run-length encoding)

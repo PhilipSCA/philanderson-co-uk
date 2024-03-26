@@ -35,3 +35,36 @@ Hyperbole - exaggeration to have an effect on the reader
 Inversion - altering normal word order
 Motif - recurring image or idea in a text
 Sensory - using the five senses
+
+### Macbeth Tragic Terms
+Tragic hero - usually of noble birth and start with good fortune. Downfall is rest of play - make flawed and immoral decisions, but also have admirable qualities.
+Hamartia - fatal flaw leading to tragic downfall of hero
+Peripeteia - reversal of fortune/turning point in characters fate - where downfall begins
+Hubris - excessive pride or self-confidence
+Come-uppance - character recieving consequence they deserve because of immoral or foolish actions
+Catharsis - Intense emotion in moment in play e.g satisfaction/pity audience feels when character recieves their comeuppance
+Anagnorisis - moment in play where character makes critical discovery - reveals mistake they made, realises own flaws/errors
+Tragic death - someone dies unnecessarily, usually not fulfulling their potential
+Pathos - making audience feel pity or empathise with a character
+Bathos - anti-climatic response/ sudden shift in mood to make something seem more trivial than it should be
+
+### Macbeth
+#### Themes:
+Ambition & power:
+Hamartia - his fatal flaw - ambition - "I have no spur to prick the sides of my intent, but only vaulting ambition" - his only motivation - need for power. Lady Macbeth also has same hamartia
+
+
+Supernatural:
+- wicked thoughts/actions
+- Witches activities:
+  - Control weather (thunderstorms)
+  - Predict future, cast spells
+  - Witches talk in own language - rhyming couplets - otherworldy
+- Disruption of nature
+  - storm when Duncan dies
+  - Many unnatural occurences happen - horses eat each other, Owl kills falcon(represents macbeth killing Duncan, food chain disrupted.) Links to Great Chain of Being - unnatural death of king.
+  
+Appearance and reality:
+- Euphemisms
+- Visions - guilty conscience - "Mine eyes are made the fools o'th'other senses" & dagger vision
+- Sleeps & dreams - Macbeth & wife have trouble sleeping - tormented by dreams  
