@@ -7,6 +7,7 @@
     - [Language techniques](#language-techniques)
     - [Structural techniques](#structural-techniques)
     - [Quotes](#quotes)
+      - [The Sign of Four](#the-sign-of-four)
       - [Macbeth](#macbeth)
       - [An Inspector calls](#an-inspector-calls)
 
@@ -28,12 +29,14 @@ Juxtaposition - Two ideas contrasting each other
 Metaphor - Comparing saying it "is" the other
 Onomatopoeia - Written way to express sounds
 Oxymoron - Contradictory terms together
-Personification - Giving inhuman objects a human action
+Personification - Giving inanimate objects a human action/characteristic
 Repetition - Repeating a word/phrase several times
 Rhetorical question - Question without an answer - to get you thinking
 Rule of three - Three words that each have an impact
 Simile - Comparing things saying its "like" or "as" the other
 Symbolism - An idea reflected by a character/object
+Pathetic fallacy - Writer attributes human emotions to the weather to reflect character
+
 
 ### Structural techniques
 Clause - Group of words containing a subject(noun) and predicate(verb) on the subject
@@ -61,6 +64,62 @@ Omniscient narrator - 3rd person who knows everything
 Unreliable narrator - Perspective of this narrator makes the reader question its reasoning
 
 ### Quotes
+
+#### The Sign of Four
+Themes:
+ - Greed
+ - Social inequality
+ - Sexism
+ - Death
+ - Justice
+ - Victorian fear
+ - Imperialism
+ - Betrayal
+ - Love
+ - Prejudice
+
+1. "Never have I seen features so deeply marked with all bestiality and cruelty" - Watson
+   (Victorian fear, prejudice) Even Watson, a likeable character is fearful of Tonga - viewed as a complete savage with abstract nouns 'bestality' and 'cruelty'. Victorian England's fear of unknown
+
+2. "Detection is, or ought to be, an exact science, and should be treated in the same cold and unemotional manner" - Holmes
+   (Justice) Holmes replaces myths with science and examining basics to solve cases, illuminating the darkness. 'ought to be' shows Holmes strong views upon detective work .
+
+3. "How often have I said to you, that when you have eliminated the impossible, whatever remains, however improbable, must be the truth?" - Holmes
+   (Justice) Holmes demonstrates his methods through talking to the narrator, Watson, so that the reader understands his character's methodological thinking. Modal verb 'must'.
+   
+4. "We earned a living at this time by exhibiting poor Tonga at fairs and other such places as the black cannibal." - Jonathan Small
+   (Prejudice, Victorial fear, Greed) Victorian attitude to people from imperialised lands are extraordinary. Epithet 'black cannibal' shows disrespect towards Tonga.
+
+5. "The Agra Treasure intervened like an impassable barrier between us" - Watson
+   (Love, Social inequality, Victorian fear) Watsons fear of being viewed as a 'mere vulgar fortune seeker' was removed. Metaphor of a wall between them that cant be broken.
+
+6. "My mind" he said... - Holmes
+   
+7. "Women are never to be entirely trusted - not the best of them" - Holmes
+   (Sexism, Love) Victorian view from Holmes on women who were not seen as the important role in society, but people meant to stay in the home. Holmes has no emotional attachment and is sombre.
+
+8. "My heart softened to him, but again the thought of his treasure turned me hard and bitter" - Jonathan Small
+   (Greed) Small pursues a life of revenge from his greed, he would rather die than be in prison knowing someone else has his money. Greed brings corruption and prevents happiness.
+
+9. "Justice! snarled the ex-convict. A pretty justice! Whose loot is this if it not ours?" - Jonathan Small
+   (Justice, Greed) Jonathan Small is bitter and selfish, warped strong sense of justice by greed. His revenge is more important than justice over-time
+
+10. "We cannot tell how far justice may originally have been on your side" - Holmes
+    (Justice) Holmes has a strong sense of justice as he encourages Small to tell the complete truth. Legal justice comes with JS's arrest and Thaddeus released
+
+11. "Great, misshapen head and a shock of tangled, dischevelled hair" - Holmes (to tonga)
+    (Victorian fear, Prejudice) Tonga constantly feared and treated as an 'other'. Attitude towards non-whites shown.
+
+12. "Was ever such a dreary, dismal, unprofitable world?... What could be more hopelessly prosaic and material?" - Holmes
+    () Holmes shows his view on London with pathetic fallacy, the gloomy, sombre state of mind that Holmes has in reflected upon London.
+
+13. "Black devils let loose, and the country was a perfect hell" - Jonathan Small
+    (Victorian fear and prejudice) Metaphor to describe the Indian Rebellion 1857 as 'hell' because the monstrous animalistic 'black devils' - Indians were all over. Jonathan Small couldn't handle it.
+
+14. "Petty justice" - Jonathan Small
+    (Justice) Personifies justice to make it seem that justice has been unfair to him, an oxymoron.
+   
+15. 
 
 #### Macbeth
 Themes:
