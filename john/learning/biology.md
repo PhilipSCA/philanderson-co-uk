@@ -22,7 +22,7 @@ Lungs - many alveoli - increase surface area - diffusion. Alveoli walls very thi
   - Good blood supply - removes carbon dioxide - steep concentration gradient
 Small intestine - covered with villi & micro-villi - larger surface area - increase nutrient absorption. Long length - more time to absorb. Digestive enzymes - bile help breakdown nutrients. Very good blood supply - quick absorption - diffusion/active transport 
 Leafs - CO2 diffuse into air spaces within leaf, then into cells for photosynthesis. Adapted by:
-  - Stomata - exchange surface - CO2 diffuses through, Oxygen & Water vapour - diffuse out through stomata
+  - Stomata - exchange surface - CO2 diffuses through - Oxygen & Water vapour diffuse out through stomata
   - (water vapour lost from all over surface, mainly through stomata) - water vapour evaporates inside leaf, diffuses to outside of leaf.
   - Guard cells - control water levels - close if lose water faster than being replaced by roots - without, plant would wilt
   - Flat shape - increases area of exchange surface - more effective
@@ -39,6 +39,12 @@ Gills:
 ```
 Eukaryotic cells - complex cells with a nucleus.(plant & animal cells)
 Prokaryotic cells - single-celled organisms with no nucleus, just DNA. Contains plasmids, flagella, pili, ribosomes,cytoplasm, cell membrane and wall and a nucleoid(DNA).
+Cell diffentiation - process - cell changes to be specialised for job.
+1) Sperm cells - Reproduction - long tail, streamlined head - help it swim. Lots of mitochrondria - provide energy. Enzymes in head to digest through egg membrane
+2) Nerve cells - rapid signalling - long - cover more distance. Branched connections(axons) at ends to connect to othe rnerve cells & form a network
+3) Muscle cell - contraction - long - space to contract. Lots of mitochrondria - generate energy for contraction.
+4) Root hair cell - absorb water & nutrients - long hairs, stick out - big surface area for absorbing
+5) Phloem & Xylem - transport substances - cells long, joined end to end. Xylem - hollow in centre, Phloem - few subcellular structures - substances can flow easily through them. Pores in end walls - allow cell sap flow through.
 Stem cells - undifferentiated cells found in bone marrow or embryos in body
 Embryonic stem cells - can turn into any cell in the body - replace faulty cells, therapeutic cloning. However, ethical concerns, can get contaminated and make patients more ill.
 Adult stem cells - can only become a limited number of cells, with specific functions. Less useful, but no ethical problems and safer.
@@ -62,7 +68,8 @@ Asexually and Sexually reproduce:
          - bulbs(e.g daffodils) - new bulbs can form and divide off, can grow into new identical plant
 Therapeutic cloning - using stem cells to clone organs for transplanting
 Microscopes - eyepiece, objective lens, stage, coarse focus knob, fine focus knob, light
-Binary fission - replicating process for prokaryotic cells.
+Binary fission - replication for prokaryotic cells - replicate, stretch, split - no. of plasmids in each cell is random
+division time - time for one cell to replicate into two 
 Gas Exchange - when gases swap via diffusion - happens with 02 and CO2 in alveoli to red blood cells
 ```
 ### B3
