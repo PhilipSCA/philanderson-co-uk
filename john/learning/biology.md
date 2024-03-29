@@ -7,8 +7,8 @@ Nucleus - contains DNA for cell, controls cell
 Cytoplasm - gel-like substance that fills cell, where chemical reactions happen
 Mitochrondria - where respiration takes place due to enzymes, producing energy for cell
 Ribosomes - protein is made for cell by proteinsynthesis
-Cell membrane - controls what goes in/out of the cell, and keeps contents of cell inside
-Cell wall - provides structure and support for the cell
+Cell membrane - controls what goes in/out of cell, and keeps contents of cell inside
+Cell wall - provides structure and support for  cell
 Vacoule - contains fluids like water and cell sap
 Chloroplasts - produce energy via photosynthesis
 Chlorophyll - green pigment inside chloroplasts that absorb light for photosynthesis
@@ -41,7 +41,7 @@ Eukaryotic cells - complex cells with a nucleus.(plant & animal cells)
 Prokaryotic cells - single-celled organisms with no nucleus, just DNA. Contains plasmids, flagella, pili, ribosomes,cytoplasm, cell membrane and wall and a nucleoid(DNA).
 Cell diffentiation - process - cell changes to be specialised for job.
 1) Sperm cells - Reproduction - long tail, streamlined head - help it swim. Lots of mitochrondria - provide energy. Enzymes in head to digest through egg membrane
-2) Nerve cells - rapid signalling - long - cover more distance. Branched connections(axons) at ends to connect to othe rnerve cells & form a network
+2) Nerve cells - rapid signalling - long - cover more distance. Branched connections(axons) at ends to connect to other nerve cells & form a network
 3) Muscle cell - contraction - long - space to contract. Lots of mitochrondria - generate energy for contraction.
 4) Root hair cell - absorb water & nutrients - long hairs, stick out - big surface area for absorbing
 5) Phloem & Xylem - transport substances - cells long, joined end to end. Xylem - hollow in centre, Phloem - few subcellular structures - substances can flow easily through them. Pores in end walls - allow cell sap flow through.
@@ -268,4 +268,28 @@ Diabetes - affects cycle to control glucose level:
            - Person born with condition - genetics
   - Type 2 - person becomes resistant to their own insulin (still produce it) - glucose level can also rise to risky levels
            - Being overweight can increase chance of type 2 diabetes, obesity is a major risk factor
-           - Can be controlled by eating a carbohydrate controlled diet and getting regular exercise 
+           - Can be controlled by eating a carbohydrate controlled diet and getting regular exercise
+
+
+Plasma - liquid that carries nutrients, hormones, proteins in the body
+Artery - carries oxygenated blood away from heart, small lumen
+Vein - carries deoxygenated blood to heart, big lumen, thin outer wall
+Respiration - chemical reaction in cells to release energy stored in glucose - aerobic: glucose + oxygen --> carbon dioxide + water | anaerobic: glucose --> lactic acid
+Gas exchange - ventilation system - gases swap by diffusion - alveoli co2 in o2 out
+Trachea - windpipe - throat to lungs, rings of cartilage to keep open
+Bronchus - two pipes split from Trachea
+Bronchioles - tiny tubes split from Bronchus - covered in alveoli on ends
+Alveoli - tiny air sacs - diffusion with O2 and CO2 happen - large surface area
+Epidermal tissue - outer layer of plants organs,  below cuticle
+Palisade mesophyll - top middle layer, most photosynthesis happens, have chloroplasts
+Spongy mesophyll - bottom middle layer, gaseous exchange for photosynthesis/respiration
+Transpiration - process of water evaporating and diffusing out a leaf
+Stent - tube that keeps artery open -
+Statin - drugs that reduce level of cholestrol in arteries
+Cuticle - waxy 'skin' layer of leaf above epidermis
+
+Pathogen - microorganisms that enter the body and cause disease
+Bacteria - cells that rapidly reproduce inside body. Produce toxins - make you feel ill
+Virus - way smaller than cells - multiply rapidly inside cells until they burst - releasing more viruses & makes you feel ill
+Protists - single-celled eukaryotes that live on other organisms, cause damage - transferred by a vector
+Fungi - made of hyphae, can grow and penetrate human skin, producing disease & spores which can be spread
