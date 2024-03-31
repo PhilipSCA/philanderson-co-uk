@@ -7,7 +7,8 @@
     - [B1: Cell Biology](#b1-cell-biology)
     - [B2: Cell division](#b2-cell-division)
     - [B4: The Heart and circulatory system](#b4-the-heart-and-circulatory-system)
-    - [B6: Preventing and Treating disease (_05/01/24_)](#b6-preventing-and-treating-disease-050124)#
+    - [B6: Preventing and Treating disease (_05/01/24_)](#b6-preventing-and-treating-disease-050124)
+  
 ## random terms
 
 ```
