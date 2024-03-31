@@ -61,9 +61,7 @@ Urbanisation - Increase in population in urban areas
 Greenfield site - Undeveloped land
 Subsistence farming - Farmer provides for self
 Globalisation - Countries connect more via businesses
-```
 
-```
 **Regeneration** - Long term upgrading of existing places to tackle inequalities
 **Gentrification** - Poor area changed by wealthier people moving in, maybe forcing out the poor
 Pollution - Presence of a harmful/poisionous substance to the environment
@@ -93,10 +91,33 @@ River Tweed - Border of England and Scotland
 River Dee - River in Wales. Aberdeen got its name from this
 Northwest Highland - Top of Scotland.
 Grampian Mountains - Mountains in Scotland
+------------------------------------------------------------------28/3/24------------------------------------------------------------------
+Short-term aid - Money for emergencies for people to survive
+Long-term aid - For development projects. (Education, infrastructure)
+Top-down aid - Government decide how to use aid given.
+Bottom up aid - Money directly to local communities
+Quality of life - State of peoples health, wellbeing and welfare on average.
+Pollution - Toxic products  eleased harming the environment
+Tertiary - Selling of goods/services
+Transport links - Motorways, airports, trains etc.
+De-industrialisation - More machinery, less jobs
+Globalisation - Manufacturing overseas, less labour costs. (Foreign trade)
+Deregulation - Removing restrictions and tax on a business
+Biomass - Renewable material from plants/animals
+Trade - Exports/imports overseas
+Agriculture - Farming and land producing
+Cumbria - County in North-West England
+Somerset - Rural area in South-West England
+Healthcare - Service for ill, elderly or injured people
+North-South divide - In the UK, north more wealthy than south
+Regeneration - Bring new and more life to an area, reviving it.     
+
+
 ```
  
 #### Case study : London (HIC)
- *** 12/02/24 ***
+------------------------------------------------------------------12/2/24------------------------------------------------------------------
+
 ```
 London Olympic Park - North of Thames, land polluted by industry before building
 Olympic park social disadvantage 1 - Association of flats demolished
@@ -131,7 +152,7 @@ London prevention methods - Public transport, congestion charging, brown/greenfi
 ### Paper 1: Living with the physical environment
 #### Section A: The Challenge of Natural hazards
 ```
----------------------------------------------------14/3/24------------------------------------------------------------
+---------------------------------------------------14/3/24-----------------------------------------------------------------------------------------
 Hurricanes - Happen in Atlantic and Northeast Pacific
 Typhoons - Happen in Northwest Pacific
 Cyclones - South Pacific and Indian Ocean
@@ -205,12 +226,44 @@ Primary effects - 9,000 killed, $5 billion
 Secondary effects - Avalanche from Mt Everest (19 killed), Landslides and flooding
 Immediate response - Overseas aid from charities, 300000 left Kathmandu
 Long-term response - International conference to appeal for funding, infrastructure rebuilt
-
 ```
+```
+-----------------------------------------------------29/3/24------------------------------------------------------------------------------------------------
+Natural hazard - Natural process which causes death or disruption to humans or infrastructure
+Natural disaster - Natural hazard thats already happened.
+Geological hazard - Caused by land/tectonic processes
+Meterological hazard - Weather and climate processes
+Hazard risk - Probability of people being affected by a hazard in an area
+Vulnerability - More people in an area, higher chance of deaths
+Capacity to cope - The better they can cope economically, the lower the risk
+Nature of the hazard - Type of hazard can be harder to predict or fight against.
+Frequency of hazard - How often it occurs can increase risk
+Magnitude of hazard - 9.0 earthquake in Japan killed 15000
+Primary effects - Immediate impacts from hazards. (Infrastructure, deaths, crops/supplies damaged, electricity cables.)
+Secondary effects - After, as a result of the primary effects. Can trigger other hazards. (Inaccesible aid, Disease, Food shortages, weakened economy)
+Immediate response - Dealt with straight after hazard. (Evacuation, recovery, aid, food and drink, electricity/gas)
+Long-term respones - Rebuilding the area. (Repairing homes, buildings, water connects, forecast for future hazards)
+Continential crust - Thicker, less dense
+Oceanic crust - Thinner, more dense
+Convection currents - Move tectonics by the mantle
+Destructive margin - Towards each other, oceanic subducts under or fold upwards if same plate.
+Volcanoes - Occur at destructive and constructive plate margins.
+Moment magnitude scale - Earthquake measure
+Monitoring - Warnings from earths movement
+Prediction - Forecast from tectonic movement for WHEN it happens
+Planning - Preparation for a haard. Emergency services, education, evacuation routes
+Protection - Buildings can be strengthened. (Shock absorbers, material)
+Global Atmospheric circulation - Transfer of heat from equator to the poles by movement of air.
+Coriolis effect - Winds curve because of earths rotation.
+30° N and S - High pressure belt, trade winds
+60° N and S - Low pressure belt, westerlies
+High pressure - Wet and stormy, cloudy
+Low pressure - Clear and dry, little rainfall
+```  
 
 #### Section B: The Living World
 ```
-----------------------------------------------------10/3/24----------------------------------------------------------------
+----------------------------------------------------10/3/24------------------------------------------------------------------------------------------------
 Ecosystem - Community of living organisms sharing an environment
 Producer - Photosynthesize for energy, low food chain
 Consumers - Feeds on producers or inferior consumers
@@ -265,7 +318,7 @@ Chemical weathering - Rainwater is slightly acidic, dissolves some rocks.
 Biological weathering - From flora/fauna. Plant roots and small animals in rocks.
 Mass movement - Downward movement/sliding from gravity.
 
-----------------------------------------------------12/2/24------------------------------------------------------------------
+----------------------------------------------------12/2/24--------------------------------------------------------------------------------------------------
 UK's upland areas - North and West have hard rock resistant to erosion
 UK's lowland areas - South and East have softer rock that erode easily
 Grampian Mountains - Part of highlands, home to Ben Nevis
@@ -297,7 +350,5 @@ Rock type - Limestone,chalk etc. (Can affect weathering/mass movement).
 Climate - Freeze-thaw weathering (Can affect weathering/mass movement).
 Structure of a rock - Cracks or arches (Can affect weathering/mass movement).
 Vegetation - Biological weathering (Can affect weathering/mass movement).
-
-
 ```
  

@@ -99,5 +99,7 @@ f(-x) - Reflection in y axis
 Coefficient - Number before algebraic letter. (3x)
 Area of trapezium = 1/2 (a+b) x h
 SA of a cylinder = πr² + 2πrh
+Linear sequence - Increments by same amount
+Triangular sequence - +1, +2, +3, +4 (1, 2, 4, 7, 11, 16, 22)
 
 ```
