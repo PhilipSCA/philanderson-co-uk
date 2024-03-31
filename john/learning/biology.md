@@ -17,16 +17,33 @@ Osmosis - movement of water molecules from an area of high to low concentration 
 Active transport - movement of molecules from an area of low to high concentration - active process, requires energy
 ```
 ### Adaptations of exchanges
-Lungs - many alveoli - increase surface area - diffusion. Alveoli walls very thin - short diffusion distance. 
+Single-celled organisms - can diffuse directly in/out cell across cell membrane: larger SA:Volume ratio - enough substances exchanged aceoos membrane to supply volume of cell
+Multi-cellular - smaller SA:V ratio - need an exchange surface for efficient diffusion
+Exchange surfaces adaptations:
+- thin membrane - short diffuse distance
+- large SA - lots can diffuse at once
+- Animals - many blood vessels - stuff in/out blood quickly
+- Animals - ventilated - air moves in/out
+Lungs - many alveoli - transfer oxygen to blood, remove CO2 from it
   - Breathing - keeps lungs ventilated with removal of C02 and entry of O2 - provides steep concentration
   - Good blood supply - removes carbon dioxide - steep concentration gradient
-Small intestine - covered with villi & micro-villi - larger surface area - increase nutrient absorption. Long length - more time to absorb. Digestive enzymes - bile help breakdown nutrients. Very good blood supply - quick absorption - diffusion/active transport 
+Alveoli: 
+  - walls very thin - short diffusion distance. 
+  - enormous surface area - (75m in humans).
+  - moist lining for dissolving gases
+  - good blood supply - covered in capillaries
+Small intestine:
+  - covered with villi & micro-villi - larger surface area - increase nutrient absorption into blood
+  - single layer of surface cells
+  - Long length - more time to absorb.
+  - Digestive enzymes - bile help breakdown nutrients. 
+  - Very good blood supply - quick absorption     - diffusion/active transport 
 Leafs - CO2 diffuse into air spaces within leaf, then into cells for photosynthesis. Adapted by:
   - Stomata - exchange surface - CO2 diffuses through - Oxygen & Water vapour diffuse out through stomata
-  - (water vapour lost from all over surface, mainly through stomata) - water vapour evaporates inside leaf, diffuses to outside of leaf.
+  - Transpiration - (water vapour lost from all over surface, mainly through stomata) - water vapour evaporates inside leaf, diffuses to outside of leaf.
   - Guard cells - control water levels - close if lose water faster than being replaced by roots - without, plant would wilt
   - Flat shape - increases area of exchange surface - more effective
-  - Cell walls - form another exchange surface - air spaces inside leaf increase area of surface - more time for CO2
+  - Cell walls - form another exchange surface - air spaces inside leaf increase area of surface - more chance for CO2
 Gills:
   - gas exchange surface for fish 
   - Water enters mouth, passes out through gills. Oxygen diffuses into blood in gills, CO2 diffuses from blood into water
@@ -246,14 +263,12 @@ Body temperature - Cold: 1) Hairs stand up to trap insulating layer of air 2) No
                         4) Shivering - muscles contract, needs respiration which transfers energy to warm body
 Thermoregulatory centre - in brain, has receptors that are sensitive to temp of blood through brain and skin.
 ```
-###### Endocrine system
+#### Endocrine system
 Hormones - chemical molecules released into blood - only affect particular organs (target organs) - secrected in endocrine glands - tend to have long-lasting effects
 Pituitary gland - brain - produces many hormones for other glands that regulate body conditions
 Thyroid - produces Thyroxine - regulated things like rate of metabolism, heart rate and temperature
 Adrenal gland - produces Adrenaline - increases supply of oxygen & glucose to brain and muscles - 'fight or flight' response
 Pancreas - Insulin & Glucagon - regulated blood glucose levels
-Ovaries (female) - produce Oestrogen - needed for menstrual cycle
-Testicles (male) - produce Testosterone - controls puberty and sperm production
 Hormones vs nerves - nerves: very fast, short time, very precise area || Hormones: slower, long time, more general area
 
 Eating carbohydrates - puts glucose into blood from the gut - normal metabolism removes glucose from blood
@@ -269,6 +284,45 @@ Diabetes - affects cycle to control glucose level:
   - Type 2 - person becomes resistant to their own insulin (still produce it) - glucose level can also rise to risky levels
            - Being overweight can increase chance of type 2 diabetes, obesity is a major risk factor
            - Can be controlled by eating a carbohydrate controlled diet and getting regular exercise
+
+#### Menstrual Cycle
+Puberty - sex hormones released - trigger secondary sexual characteristics(facial hair, breasts) & cause eggs to mature in women
+Ovaries (female) - produce Oestrogen - needed for menstrual cycle, controls puberty
+Testicles (male) - produce Testosterone - controls puberty and sperm production
+Cycle Stages:
+1) - Day 1-4 - menstruation - uterus lining breaks down
+2) - Day 4-14 - uterus lining builds up, into thick spongy layer full of blood vessels, ready to recieve fertilised egg
+3) - Ovulation - Day 14 - Egg develops and is released
+4) Day 14-28 - Wall(uterus lining) maintained - if no fertilised egg landed on wall by 28, spongy lining breaks down and cycle repeats
+
+1) FSH(Follicle-Stimulating) - produced in pituitary gland - causes egg to mature in one ovary, in a follicle - stimulates ovaries to produce oestrogen
+2) Oestrogen - produced in ovaries - causes uterus lining to grow - Simulates LH(causes release of egg), inhibits FSH
+3) LH(Luteinising) - Produced in pituitary gland - Stimulates release of egg at 14 (ovulation) ^
+4) Progesterone - produced in ovaries by remains of follicle - maintains uterus lining after ovulation - inhibits LH & FSH
+
+Pregnancy - when sperm reaches ovulated egg
+Oestrogen - used in contraception - if taken every day, keeps level permanently high, inhibits FSH, egg development & production stop
+Progesterone - contraception - stimulates production of thick mucus - prevents sperm through
+
+###### Methods of Contraception:
+Hormonal:
+1) Pill - oral - contains oestrogen & progesterone - >99% effective at preventing pregnancy, side effects: headaches, nausea - doesn't protect against STDs.
+    - progesterone-only pill - fewer side effects, just as effective
+2) Patch - Oe & Pr - 5x5cm patch stuck onto skin - 1 patch lasts a week
+3) Implant - Pr - inserted under skin of arm - continous amount of Pr - can last for three years
+4) Injection - Pr - each dose lasts 2-3 months
+5) IUD(Intrauterine device) - T-shaped - inserted into uterus to kill sperm, prevent implantation of fertilised egg. 2 types: Plastic - release Pr, Copper - prevent sperm surviving in uterus
+
+Non-hormonal:
+1) Condoms - worn over penis - prevent sperm entering vagina - also female condoms worn inside vagina - Only contraception that protect against STDs
+2) Diaphragm - shallow plastic cup over cervix - forms barrier - has to be used with spermicide
+3) Spermicide - substance that disables/kills sperm - can be used alone, but only 70-80% effective
+4) Sterilisation - cutting/tying fallopian tubes or sperm duct - permanent - very small chance tubes can rejoin
+5) 'Natural methods' - finding out when in menstrual cycle woman is most fertile & avoiding intercourse - not very effective
+6) Abstinence - don't have intercourse - 100% - most effective
+
+Hormones to increase fertility - some women's levels of FSH are too low=can't get pregnant - give FSH&LH as drug to stimulate ovulation || Cons: doesnt always work, too many eggs can be stimulated - results in multiple pregnancies (twins, triplets)
+IVF(in-vitro fertilisation) - collects eggs from ovaries, fertilising in a lab with sperm - or ICSI - sperm injected directly into egg - useful if man has low sperm count
 
 
 Plasma - liquid that carries nutrients, hormones, proteins in the body
