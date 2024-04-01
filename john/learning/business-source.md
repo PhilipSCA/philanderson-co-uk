@@ -1,38 +1,56 @@
 # Business
 ```
-Aesthetics - how things seem eg to sight
-Aim - main goal
-Bankrupt - When someone doesnt have enough money to pay debts
-Branding - giving your products or services a recognisable name
-Break-even - when a business hasnt made a profit nor loss
+Bankrupt - When someone doesnt have enough money to pay debts & no personal assets can be sold
 Choice - giving customers a variety of options
-Commission - a percentage of your sales revenue
+Commission - being paid a percentage of your sales revenue
 Competitive advantage - features in a business that put it above other competitors
 Convenience - how time and energy efficient your product is
-CV - document of a person's qualifications and life experience for job applications
-Demand - how much customers want a product
-E-commerce - selling products and services online
-M-commerce - selling products and services on apps and mobile devices
+CV - document of a person's qualifications and life experience etc. for job applications
 Entrepreneur - someone who starts a business 
 Inflation - when the average prices for goods increase
-Margin of safety - the amount that sales can fall before businesses start making a loss
- - sales - break-even output
+Implementation - putting decision/plan into effect - execution of a plan
+Customer needs - what customers look for from your company
+Adapting products - finding new products, based off original - modifying/differientiating-NOT innovation
+Aesthetics - How a product appeals to senses (5 senses)
+Autonomy - independant power to decide on what you are going to do at work - 2.5 motivation
+Batch production - producing one batch of identical products, switching to another product
+Buffer stock - minimum stock level held always, to avoid risks if supplier fails to deliver on time
+Business plan - detailed document setting out aims, plans, forecasts
+Consumer spending - total spent by all shoppers throughout country
+Centralised organisation - most decisions made at office - higher-ups make decisions
+Decentralised - staff allowed to make decisions at a local level
+Design mix - product balance between Function, Aesthetics, Cost of manufacture.
+Distribution - how ownership changes as product goes from producer to consumer
+Dividends - payments to shareholders from company's yearly profits
+E-newsletters - updates on activities of business, sent electronically to actual or potential customers
+Product Life Cycle:
+1) Introduction
+2) Growth
+3) Maturity
+4) Decline
+4) Extension - attempt to prolong sales of product to prevent it from entering decline stage. Methods:
+    - Product differentiation
+    - Reducing price
+    - Rebranding
+    - Repositioning in new markets
+    - Increase marketing on product
 ```
 ```
-Market map - brands on a map scaled on two things like price and quality
-Market segmentation - dividing a market into different categories to reach different target audiences
-Footfall - the number of people who walk past your business per day
-Sole trader - when there is only one owner of a business
-Partnership - when there are two or more owners of a business, workload, liability and profits are shared.
-Unlimited liability - when your personal assets can be taken as debt
+Market map - brands in one market on map scaled on two things like price and quality
+Market segmentation - dividing market into different categories to reach different target audiences
+Footfall - number of people walking past your business per day
+Sole trader - only one owner of a business - do main work themselves - can have employees
+Partnership - two+ owners of a business, workload, liability and profits are shared.
+Unlimited liability - responsible for all debts - personal assets can be taken as debt
 Brick and mortar - a physical store
 Promotion - how you advertise your business
 ```
-## Theme 1: Investigating small businesses
+## Theme 1: Investigating small businesses - Paper 1
 ### 1.1 - Enterprise and entrepreneurship
 #### 1.1.1 - dynamic nature of business
 Business - organisation that seeks to satisfy needs and wants of consumers through production of goods/services
 Dynamic - continually changing
+Enterprise - business or company, economic activity
 Consumer - end user of product/service - buyer
 Obselete - outdated; declining sales and lifecycle has come to an end
 Entrepreneur - person who has a business idea and takes risk to develop it
@@ -48,7 +66,7 @@ Market research - gathering information through research for your business - hel
 Risks in a business: Financial loss, running out of materials, lack of security, business failure, poor management
 Rewards: Good business reputation, Profit, Independance, Winning business awards, Growth
 #### 1.1.3 - role of business enterprise
-Demand - how many customers want to buy a product
+Demand - how much customers want a product | how much they are willing to pay for product
 Capital - money
 Added value - difference between selling price and cost of a product/service - through extra processes
 Ways to add value: 1) Design - product looks more aesthetic, people will believe its a good product - charge more
@@ -56,7 +74,7 @@ Ways to add value: 1) Design - product looks more aesthetic, people will believe
 3) Branding - customers know what product they're getting - more reliable - if have good reputation, charge more
 4) Quality - better quality = more durable, more expens               sadwaive costs = more value - charge more
 5) USP (Unique Selling Point) - puts your product above competitors - can charge more than competitors - paying for extra feature
-Branding - creating an identity and representation of your business - consists of name, logo, design, tone of voice etc - helps consumers recall and remember your business.
+Branding - creating an identity and representation of your business - name, logo, design, tone of voice etc - helps consumers recall and remember your business - creates sense of personality
 USP - an original feature of a product that competitors dont offer (comp. advantage)
 Competitive advantage - feature of a business that helps it suceed against its competitors
 Business failure - collapse of a business, officially, leading to its closure
@@ -104,19 +122,19 @@ Role of social media - easy way to attract customers, spread your product - rais
 #### 1.2.3 - Market segmentation
 Market segmentation - process of dividing up a target market into sub-categories, to target individually: 
 Location - where the target market live - weather & activities in area etc, 
-Demographics - gender, religion, age, family type - wants and needs,
+Demographics - gender, religion, age, family type - wants and needs - statistical data relating to a population
 Behaviour - how do consumers behave when buying? - saving vs buying times,
 Lifestyle - what consumers do in their spare time - general interests,
 Income - amount of money they earn - willing to spend, affordable
 Market mapping - diagram of similar products or businesses in a market, scaled against their features, usually price and quality. Allows a business to: identify its competitors, spot any gaps in market(main reason), useful for analysing competitors - decision-making, see all products in market
-Gap in market - area on a market map where there is an opportunity
-Competitive environment - a market where there are other businesses producing the same or similar goods/services - competition is high
+Gap in market - area on market map where there is opportunity to fill unmet customer need
+Competitive environment -market where other businesses are producing same or similar goods/services - competition is high
 - More competition = less profits - more customers going to other businesses, lower prices
 
 ### 1.3 - Putting a business idea into practice
 #### 1.3.1 - aims and objectives
 Aim - a long-term goal a business wants to achieve
-Objective - more specific steps that a business takes to achieve its aim
+Objective - more specific, measurable steps to achieve a business's aim 
 Factors affecting aims and objectives: size of business, level of competition, type of business, different sectors
 Aims/Objectives need to be SMART:
 S - Specific
@@ -139,17 +157,18 @@ Interest - percentage charge on borrowed money/percentage reward for saving mone
  - % interest rate = (total repayment - borrowed amount) / borrowed amount x 100
  - Total repayment = amount borrowed + interest
 Monthly payments = total repayment / (years of loan x 12)
-Break-even - when total costs are the same as total revenue
 Profit and loss accounts - income statements - used to keep track of profits
 costs of goods sold - the amount of money used to make all products that were sold
 Expenses(overheads) - the costs that don't change as production changes. This includes interest paid on loans, insurance, salaries, and maintenance costs
 Gross profit = revenue - cost of goods sold
 Net profit = gross profit - expenses(overheads)
-Break-even point - the point where a business' costs is the same as their revenue - neither a profit or loss (in sales)
-Break-even point = fixed costs / selling price - variable costs per unit - Contribution - (in units/sales)
+Average rate of return(ARR) - average yearly profit as % of sum invested - shows profitability
+ - (average annual profit / inital investment cost) x 100
+Break-even point - point where business' costs is same as revenue - neither a profit or loss (in sales)
+Break-even point = fixed costs / (selling price - variable costs) per unit (Contribution) - (in units/sales)
 Contribution - selling price per unit - variable costs per unit - profit earned each sale
-Margin of safety - number of units sold above break-even point
-Margin of safety = sales in units - break-even output
+Margin of safety - number of units sold above break-even point | how much sales can fall before BEP
+Margin of safety = sales in units - break-even output | actual sales - break-even sales
 #### 1.3.3 - Cash flow
 Cash flow - flow of money into and out of a business
 Cash inflows - money into the business (interest recieved, rent recieved, gov. grants, sales, sale of premises, overdraft)
@@ -197,7 +216,7 @@ Share Capital - raising finance by selling shares in the company
       - Dis: Possible loss of control if owners sell over 50% of shares
       - Need to satisfy shareholders expectations of dividends, and share price growth
   - Shareholder - an owner of shares in a company
-Venture Capital - investors put money into small early-stage businesses for growth - between £10,000-£750,000
+Venture Capital - investors put money into small early-stage businesses for growth - between £10,000-£750,000 - get a share in later profits
     - Adv: Venture capitalists often make their own skills, experience and contacts
     - Adv: No security needed
       - Dis: Venture capitalists take long times to make a decision
@@ -218,7 +237,11 @@ Retained Profit - business money that is kept within its accounts, not paid to s
 ### 1.4 - Making the business effective
    
 ### 1.5 - Understanding external influence
-
+## Theme 2 - Paper 2
+### 2.1 - Growing the business
+Internal (Organic) growth - growth from within business -
+External (Inorganic) growth - growth from outside business - Mergers, takeovers
+### 2.4 - Making Financial Decisions
 
 
 ## Mark Scheme Tips:
