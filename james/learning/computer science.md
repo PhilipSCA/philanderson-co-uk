@@ -163,6 +163,31 @@ Magnetic hard disk - HDD, High capacity, reliable storage, cheaper
 CD-ROM disc - Compact disk, read only memory
 CD-R disc - Compact disc, recordable
 CD-RW disc - Compact disc, rewriteable
+----------------------------------------------------------------28/3/24-----------------------------------------------------------
+Binary addition 1 - 0 + 1 = 1
+Binary add 2 - 1 + 1 = 0 (carry 1)
+Binary add 3 - 1 + 1 + 1 = 1 (carry 1)
+Hexadecimal - Each hex character is = a nibble (4 bits) in binary 
+Cache - Very fast memory that stores regularly used data for quick access.
+Registers - Very quick to read/write to and hold bits of data for CPU.
+RAM - High speed volatile memory, stores data while being used
+Virtual memory - Secondary storage, slower and if CPU needs to read data it moves back to RAM
+ROM - For Boot-up. Non-volatile and only read to, flash memory, on motherboard, BIOS.
+Clock speed - Number of instructions carried out per second (Hz)
+Overclocking - Clock speed is larger than factory-set rate.
+Cores number - Each core processes data independently. More at once
+Cache size - Faster access to more data.
+GPU - Graphics Processing Unit, graphics and images. Graphics card
+LAN advantages - Share files and internet. Easier communication, cheaper, updating easier.
+WAN disadvantages - Expensive to use telephone links, satellite or radio links.
+Bandwidth - Amount of data transferred in a given time
+Cables - Faster, more reliable than wireless
+NIC - Connects devices on a network, on motherboard
+Switches - Connects devices on a LAN. Data received in frames and transmits to MAC address
+Routers - Transmits data between networks, direct the data (packets) and connects LAN to internet
+Wireless network - Uses radio waves to transmit data.
+Wi-Fi - Can be 2.4GHz or 5GHz. 2.4 has greater range but 5 is faster, less interference.
+Protocol - Set of rules for how data is transmitted and for communication
 ```
 
 ### Programming

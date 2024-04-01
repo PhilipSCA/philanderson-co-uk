@@ -80,6 +80,7 @@ Remuneration - All payments from work
 Stakeholder - Anyone involved in a business
 Unique Selling Point - Different feature on a product from rivals
 M-commerce - Applications
+Stock market flotation disadvantages - High risk for investor, Time consuming, less control for business, investors needs to be up to date.
 Customer needs - Price, Quality, Choice, Convenience
 Choice - More variety means more likely to purchase one thing
 Primary research - Firsthand, specific needs
@@ -95,7 +96,6 @@ Customer service - Can increase customer sales
 Indirect competition - Dont sell same product but can be seen as competition. (e.g:Travelling)
 Fairtrade - Social movement for fair wages to producers
 Legislation - Laws by government affecting a business
-Takeover - Obtaining over 50% of a business
 Understanding customers - Learning why they do what they do
 Aesthetics - How things appeal to senses
 Decentralised organisation - Staff make decisions locally at different places
@@ -210,6 +210,55 @@ Short term finance - To help a business maintain a positive cash flow in hard pe
 Short term finance methods - Overdrafts and Trade credit
 Overdraft - Agreement with a bank to overspend on an account. (loans)
 Trade credit - Buying stock and paying for it at a later date. Contract made 
+
+--------------------------------------------------------29/3/24----------------------------------------------------------------
+Sponsorship - Companies pay to have brand associated with someone/something
+Taxation - Charges placed bu government on goods, imports and people
+Temporary contract - Agreement between a company and employee that work and income are made for some time.
+Trade bloc - Group of countries that's agreed to have free trade
+Trade credit - Supplier provides goods but is willing to wait for pay.
+Unlimited liability - Treating business and owner as inseparable, all debts responsible for owner
+Venture capital - Capital provided by an investor in return for a share
+Viral advertising - People spread messages for you
+Aims - General statement of what you're heading for
+Automation - Using machines that can operate by themselves
+Autonomy - Independent power to decide what you'll do at work.
+ARR - Average rate of return, yearly profit as a % of investment
+Batch production - Producing a limited number of identical products in one go.
+Break-even - Sales where Costs = Revenue.
+Break-even output - Fixed costs/Price - Var cost per unit
+Buffer stock - Minimum stock at all times.
+Business operations - Section concerned with making and delivering to customer
+Choice - Giving customers options, increasing availability
+Commission - Paid a % of the value of a sale you've made.
+Consumer rights - Laws to empower consumer to demand minimum standards from supplier
+Crowdfunding - Raising capital online, from small investors
+CV - Document setting out one's qualifications, experience and other relevant facts
+Demographics - Study of statistical differences existing within a population in present or future.
+    - Payments made to shareholders from profits
+Economic manufacture - Cheaply made product for profit.
+External influence - Factors from outside a business, preventing/helping it.
+
+--------------------------------------------------------30/3/24----------------------------------------------------------------
+Product - Good that matches needs/wants of target market
+Design mix - Pyramid for main priorities on a product
+Economic manufacture (cost) - How much it is to produce
+Function - Design must work well and consistently, and be safe
+Product life cycle - Amount of time a product can sustain good sales
+Introduction - Lots of time and money used before launch. Low sales, high cost. No profit
+Growth - Product is known, high price, high sales, less advertising needed
+Maturity - Saturated, highly competitive. Sales flatten out, cash flow improves
+Decline - Sales and profits fall, become obsolete
+Extension strategy - Prolong maturity stage. (Find new use, upgrade/innovate it etc)
+Niche market - A small part of larger market which specific products are made for specific needs.
+Mass market - Low prices, heavy competition of weaker brands.
+Profit margins - Profit as a % of selling price or sales revenue.
+Branding - Brand name brings recognition
+E-newsletters - Updates on business electronically.
+Promotional strategy - Medium-long term plan for customer communication
+Viral advertising - People spread messages for you (social media, mouth)
+
+
 ```
 
 ### 2.3 - Making Operational Decisions

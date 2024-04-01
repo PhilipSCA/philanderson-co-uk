@@ -53,7 +53,51 @@ Periodicos - Newspapers
 Sano - Healthy
 Al aire libre - Outdoors
 Modelo a seguir - Role model
-Antes
+Antes - Before
+Uso... para.. - I use (app) to..
+La tengo desde hace ... semanas/meses - I have had it for ... weeks/months
+Buscar - To look
+Conocer - To meet
+Amplio/a - Wide
+Peligroso/a - Dangerous
+Util - Useful
+Un canal - A channel
+Enganchada - Addicted
+Unico - Only
+Esperar - To wait
+Respasar - To revise
+Cuidar a - Look after
+Detras - Behind
+Delante - In front of
+Enfrente de - Opposite
+Al lado de - Next to
+Los tebeos - Comics
+Los revistas - Magazines
+Protege - Protect
+Sobrino/a - Nephew/Niece
+Nieto/a - Grandson/daughter
+Rubio - Blond
+Castano - Mild brown
+Rizado - Curly
+Liso - Straight
+Ondulado - Wavy (hair)
+Fino - Fine
+De punta - Spiky
+Piel - Skin
+Cara - Face
+Redonda - Round
+Barba - Beard
+Bigote - Moustache
+Gastar - To spend (money)
+Olvidarme - Forget
+Asistir - To attend
+Una gira - A tour
+Ha batido - He has broken
+Creedo - Created
+Ha superado - He has overcome
+Un concurso - Contest
+
+
 ```
 
 #### Module 1 
@@ -88,6 +132,55 @@ Ganar - To win
 #### Module 5
 
 #### Module 6
+``
+----------------------------------------------------------------31/3/24---------------------------------------------------
+Me levanto - I get up
+Se levanta - He/she get up
+os levantais - you (pl) get up
+se levantan - They get up
+Huevo - Egg
+Marisco - Sea food
+Los galletas - Biscuits
+Verduras - Vegetables
+Algo dulce - Something sweet
+Hambre - Hungry
+Tener prisa - To be in a hurry
+Una lata de - A can/tin of
+Ajo - Garlic
+Atun - Tuna
+Maiz - Corn
+Cerdo - Pork
+Cordero - Lamb
+Ternera - Beef
+Harina - Flour
+Pimientos - Peppers
+Cebollas - Onions
+Fresas - Strawberries
+Uvas - Grapes
+Me despierto - I wake up
+Me ducho - I shower
+Me peino - I brush my hair
+Me visto - I get dressed
+Enseguida - Straight away
+Seguir - Continue/keep
+Catarro - A cold
+Dolor de cabeza - Headache
+Fiebre - Fever
+Bistec - Steak
+Brazo - Arm
+Espalda - Back
+Mano - hand
+Pierna - Leg
+Filete de cordo - Pork fillet
+Albondigas - Meatballs
+Gambas - Prawns
+Equivocarse - Make a mistake
+Atrevido - Daring
+Boca - Mouth 
+
+
+``
+
 
 #### Module 7
 
