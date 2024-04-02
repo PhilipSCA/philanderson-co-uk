@@ -6,15 +6,37 @@ Hardware - physical items in a computer system - you can see them
 Software - programs or applications that computer system runs (e.g Operating System)
 General purpose computer - designed to perform many tasks
 Dedicated systems - designed for one particular function
-Embedded system - systems, usually dedicated, built into another larger device. (E.g: Calculator, washing machine, car navigations, ATMs.)
+Embedded system - systems, usually dedicated, built into another larger device. (E.g: Calculator, washing machine, car navigations, ATMs.) - uses firmware
+  - Adv: Low energy consumption, robust & durable - tend to last longer
+  - Dis: difficult to program, hard to repair
 
-CPU - Central Processing Unit - processes all data & instructions - fetch-decode-execute cycle - executes instructions
-Control Unit(CU) - decodes, executes program instructions in cycle - controls flow of data in (to registers) and out (main memory, input/output devices) of CPU, controls hardware
+
+CPU - Central Processing Unit - processes all data & instructions (from memory) - fetch-decode-execute cycle - executes instructions
+Control Unit(CU) - decodes, executes instructions in cycle || controls flow of data in (to registers) and out (main memory, input/output devices) of CPU || controls hardware
 Arithmetic Logic Unit(ALU) - performs all calculations, logic operations and binary shifts needed - stores result in accumulator
 Cache - very fast primary memory - stores frequently used data for quicker access by CPU - more expensive, lower capacity than RAM, slower than registers, faster than RAM.
-Level 1 Cache - quickest, lowest capacity - closest to CPU
-Level 2 - slower, bigger capacity
-Level 3 - slowest, highest capacity
+Level 1 Cache - quickest, lowest capacity (64KB) - closest to CPU 
+Level 2 - slower, bigger capacity (512KB)
+Level 3 - slowest, highest capacity (2MB)
+Register - temporary stores for data being used in CPU
+##### Fetch-decode-execute cycle - PURPOSE OF CPU:
+Fetch:
+1) Program counter checked - holds address of next instruction
+2) Address sent to MAR - uses address to fetch instruction from main memory(RAM,Cache) - brings it to MDR
+3) Program counter incremented by 1 - go to next instruction
+Decode:
+- CU converts data/instruction in MDR into machine code to be understood - machine code different for every manufacturer of CPU.
+Execute:
+1) If instruction needs to perform a calculation then ALU performs calculation - stores result in AC - otherwise instruction goes straight to AC 
+ - This process repeats millions of times per instruction
+### CPU Performance
+Speed of computer measured in Hz or GHz
+Hertz - how many F-D-E cycles are performed per second (4 GHz = 4 Billion cycles)
+Core - individual processing unit in CPU - can process 1 instruction at a time
+1) Cache Size - more gives faster access to more data - if cache fills up, some commonly accessed instructions have to be stored on further level - slower. More = stays fast on higher capacities
+2) Cores - more cores means more instructions can be carried out at once = faster processing - 2 cores doesn't mean 2x speed as software might not need to use full capacity of both cores
+3) Clock speed - number of instructions processor can carry out per second - speed of core (Hz) = upgrading this will always mean faster processing
+
 
 ### System Software
 Operating System - OS - complex piece of software - manages hardware and runs software. Main functions:
@@ -51,6 +73,7 @@ Multi-tasking OS - can run multiple applications at once
 User account control - allows different users to be granted access to specific resources on a computer.
  - On most desktop OS, each user has their own personal data and desktop, but cant access other users' data
  - OS may have anti-theft measures to prevent other users from accessing locked devices/accounts to steal info. Accounts may be password, PIN, fingerprint, specific patterns or face ID protected
+###### Utility Software
 Defragmenting - reorganising storage on HDD to put fragmented files back together, & collects all free space to prevent further fragmentation. | Fragmented files makes reading & writing much slower as R/W head has to move back and forth.
  - An SSD uses flash storage(no moving parts) - cant be fragmented - can access data quickly no matter how arranged. SSDs have a limited number of read/writes, defragmenting shortens lifespan
 Backup - copy of files and settings stored externally. Data can be recovered in event of data loss
@@ -59,6 +82,7 @@ Full backup - copy is taken of every file on system. Use a lot of storage space 
 Incremental backup - only files created or edited since last backup copied. Use Less storage space, much quicker to create. A full system restore is slow as last full backup must be restored, and every incremental backup since then.
 Compression software - reduces size of files to take up less disk space. Used loads on internet. (.zip, .rar). Compressed files need to be extracted before used.
 Encryption software - encrypts data to stop third-parties from accessing it. Can be decrypted using a special 'key'
+#### Open Source vs Proprietary
 Open Source Software - software where source code is freely available. Users can legally modify source code to create own spin-off software, that can be shared under same license and terms as original. (Examples: Apache HTTP server, GIMP, Firefox, VLC, Linux)
   - Linux is hugely successful open source OS released in 1991 - most popular linux based OSs are: UBUNTU, Debian & Android
   - Popular open source software is always supported by a strong community - users actively help improve software
@@ -131,6 +155,46 @@ Advantages:
 - Can install and update software on all computers at once
 - cheap, easy communication with other members - instant messaging
 - User accounts stored centrally - users can log in from any device
+Disadvantages:
+- Increased security risks to data
+- Malware/viruses spread easily between computers
+- If server fails, computers connected to it don't work
+- Computers may run slowly if lots of data travelling on network
+WAN - Wide Area Network - large area, connecting multiple LANs together - Infrastructure between LANs leased from telecommunication companies - own, manage it - connected by telephone lines, fibre optic cables, satellite links
+Switch - hardware - sends data between computers on a LAN - recieve data in frames, segment traffic by forwarding traffic to correct computer, using MAC address.
+  - Usually connected by UTP copper cable - cheap, flexible = easy to install
+Router - sends data between different networks with packets - creates WAN - uses an IP to route traffic
+  - Usually connected with fibre optic cable - higher bandwidth, suffers less from interference
+WAP - allows devices to connect wirelessly, as a switch
+NIC - built-in hardware - allows devices to connect to a network
+Bluetooth - direct connection between 2 devices, connection range = 10m, low bandwidth
+Wifi - used by multiple devices, range = 40-100m, higher bandwidth, used in routers, desktops, laptops.
+Network performance; affected by:
+  - Wireless/Wired - + type of wire being used - fibre optic fastest
+  - Bandwidth
+  - Range 
+  - No. of people on network
+  - Obstacles between connecters - wireless - walls, distance, other devices
+Peer-to-peer(P2P) network 
+Client-server network
+
+### Topologies - layout of network
+Star - Dis: If central switch fails, whole network fails \\ Adv: If one device fails, network unaffected
+Ring - Data moves in one direction - removes collisions - only one device can send data at once
+Bus - slow - data collisions on single backbone cable
+Mesh - Each device connected to every device - can send data fastest route. adv: no single point where network can fail \\ Dis: very expensive - need a lot of wire
+
+### Protocols & Packets
+Internet - massive WAN all over world - based around TCP/IP
+- Internet is hardware of network - WWW is data, collection of websites hosted on web servers, accessed through http
+Packet switching - process of data broken down into packets, then reassembled in order at destination - file broken into packets of 512 bytes
+ - Data split into packets, numbered - each packet sent fastest route across internet by routers - rearranged in order by packet numbers - if packets missing - timeout message sent.
+ - each packet given: IP address of destination, IP of where sent, packet number to be put back in order, error checking data
+Protocol - set of rules for how devices transmit data across a network
+
+
+
+
 ### Network Threats - Malware
 Malware - malicious software - installed on a device without person's knowledge or consent
 Types of Malware (3 main ones):
@@ -171,19 +235,14 @@ Encryption - data(plain text) translated into unreadable cipher text - only pers
 # Paper 2 - Computational Thinking, Algorithms and Programming
 
 Casting - changing a data type
-
-
-
-
 Module - external python file which often contains functions
-Structured (modular) programming - decomposing the program that you want to write into manageable modules
-Input validation - checking if data meets certain criteria before passing it into the program
-
-Trace table - table to test that a program is working
-
-Binary shift - method to multiply/divide binary numbers by moving all values to left/right (Left = multiply, Right = divide)
-
-
+Structured (modular) programming - decomposing the program that you want to write into manageable modules - short, simple, easy to understand
+Trace table - table to test that a program is working - shows output of program - can find errors
+SQL(Structured Query Language) - language used to manage relational databases and perform various operations on data in them
+  - SELECT - * or name of column - what you want displayed to you
+  - FROM - (name of table)
+  - WHERE - condition - AND,OR, % or LIKE
+ 
 ## Algorithms
 ### Computational Thinking
 Decomposition - breaking a complex problem into smaller problems to solve individually
@@ -196,7 +255,7 @@ Flowcharts - diagram showing algorithms, using different symbols, arrows.
  - Start/End - oval
  - Decision - Diamond
  - Input/Output - parallelogram
- - Process - rectangle
+ - Process - rectangle - rectangle with 2 lines on each end = subroutine
 
 Binary search - start in middle, slice - Adv: More efficient than linear, Dis: complex to program, only ordered lists
 Linear search - start from beginning, check each item - Adv: any list, Dis: not efficient - long time with long lists
@@ -216,7 +275,7 @@ Quotient DIV - DIV - integer division
 Modulo division -  MOD - Remainder
 Array - data structure - can store  group of values, of one same type, under one name
 1D-Arrays - list 
-2D-Array - table - lists within a list
+2D-Array - table - lists within a list  
 Sequence - order of instructions carried out chronologically in program
 Selection - when program **interacts** with user - decisions
 Iteration - when the program uses repitition/loops (For, Repeat(do)-until, while)
@@ -333,15 +392,31 @@ Character set - collection of characters recognised/represented by a computer sy
 ASCII - 7-bit character set - (128 characters) - uses less memory space
 ASCII extended - 8-bit - 256 characters
 Unicode - 16/32-bit - 65,000+ characters - every possible character in every language
+
+Pixel - smallest area of an image - 1 dot
 Images - made up of pixels. Colour of each pixel is a binary number
-Colour depth - no. of bits used for each pixel - 2^(number of bits) = no. of colours
-Resolution - the concentration of pixels in an area - given as WidthxHeight - dpi(dots per inch) - higher resolution = better quality, bigger file size
+Colour depth - no. of bits used for each pixel (Bit depth)
+  - 2^(number of bits) = no. of colours
+  - improves quality, bigger file size
+Resolution - concentration of pixels in an area - given as WidthxHeight - dpi(dots per inch) - higher resolution = better quality, bigger file size
 Metadata - information about image file, stored within it. (e.g height,width,colour depth,resolution, format, image time&date)
-Sound - has to be converted from analogue --> digital to be stored by computer. Done by sampling
+
+Analogue sound - a pressure wave causing air to vibrate - computer cant interpret
+ - Amplitude - height - Volume
+ - Frequency - wavelength - pitch
+Speakers etc - sound converted from digital back to analogue - vibrating cone causes pressure waves
+Sound - has to be converted from analogue --> digital to be stored by computer. Done by sampling:
 Sampling - Amplitude measured at regular intervals, creates digital representation of wave.
   - more frequent samples = more accurate = better quality, bigger file size
+  - Sample rate = rate of interval recordings
+  - Can also improve quality by increasing no. of bits representing each sample (Sample resolution)
+
 Compression - makes file size smaller - data faster to send, quicker to download, faster to load, less storage space
 Lossy - permanently removes some data from file - image/audio lower quality (JPEG, MPEG, MP3)
-Lossless - data temporarily removed, put back together when file opened. - useful for files that need all data in (PDF, GIF)
+  - data transfer of file quicker
+  - useful for data not fully needed, can store more data and it runs quicker
+Lossless - data temporarily removed, put back together when file opened. - useful for files that need all data in (PDF, GIF, Text documents, .exe)
   - reduces file less than lossy
   - one method - RLE(run-length encoding)
+RLE - sequences displaying redundant data stored as single value
+ - e.g - a,a,a,b,c,c,c,c = a3,b1,c4
