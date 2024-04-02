@@ -160,10 +160,6 @@ Monthly payments = total repayment / (years of loan x 12)
 Profit and loss accounts - income statements - used to keep track of profits
 costs of goods sold - the amount of money used to make all products that were sold
 Expenses(overheads) - the costs that don't change as production changes. This includes interest paid on loans, insurance, salaries, and maintenance costs
-Gross profit = revenue - cost of goods sold
-Net profit = gross profit - expenses(overheads)
-Average rate of return(ARR) - average yearly profit as % of sum invested - shows profitability
- - (average annual profit / inital investment cost) x 100
 Break-even point - point where business' costs is same as revenue - neither a profit or loss (in sales)
 Break-even point = fixed costs / (selling price - variable costs) per unit (Contribution) - (in units/sales)
 Contribution - selling price per unit - variable costs per unit - profit earned each sale
@@ -239,11 +235,49 @@ Retained Profit - business money that is kept within its accounts, not paid to s
 ### 1.5 - Understanding external influence
 ## Theme 2 - Paper 2
 ### 2.1 - Growing the business
-Internal (Organic) growth - growth from within business -
+Internal (Organic) growth - growth from within business - don't have to share profit
 External (Inorganic) growth - growth from outside business - Mergers, takeovers
+Import - good/service brought into a country from another country
+Sources of Finance:
+Internal:
+- Selling assets
+- Stock market flotation
+External:
+- loan capital
+Aims & Objectives - change due to technology - market conditions of physical stores - consumers switch to E-commerce - less sales for physical store
+    - change as business evolves
+Tariff - tax on imported goods - barrier to international trade, pay more - more money on supplies/costs
+Ethics
+Stock market Flotation - transfering to a PLC by selling shares to public - Dis: 1.not in full control - clash of cultures, disagreements 2. Dividends to shareholders
 ### 2.4 - Making Financial Decisions
-
-
+##### .1 - Calculations
+Gross profit = revenue - cost of goods sold (Added value, total contribution)
+Gross profit Margin - GP/SR x 100
+Net profit = gross profit - expenses(overheads)
+  - Calculate net profit for: 1) comply with legislation - corporation tax 2) see internal finance left for investment 3) assess whether worth business continuing
+  - increase net profit: 1)Sourcing cheaper raw materials 2)Relocating to smaller premises
+Net profit margin - proportion of revenue left over after all costs paid - NP/SR x 100
+Average rate of return(ARR) - % of average yearly profit from sum invested - shows profitability
+ - (average annual profit / inital investment cost) x 100
+##### .2 - understanding business performance
+Quantitative Data - numerical/statistical data. Sources:
+ - graphs/charts
+ - financial data - sales revenue, costs, profit, tax, interest rates, valuation of assets - companies need to send this to Companies House each year, apart from sole traders, partnerships.
+ - Marketing data - primary&secondary market research - surveys, focus groups, feedback, retail/online footfall, government or trade publications, media - help forecast sales, make decisions
+ - Market data - characteristics and performance of market: 
+     - 1) Demographic data - markets population structure - age,gender,income
+     - 2) Market dimensions - size of market, market shares of competitors, rate of market growth, average prices
+     - 3) Investment data - price of commodities, exchange rates, stock market performance
+   - can help business identify and plan for new opportunities, spot external threats
+Financial data - used to:
+- identify trends, make calculations for comparison over time/other businesses
+- support external finance application eg loan
+- attract investors
+- support spending decisions
+- Limitations:
+  1) Different interpretations of data 
+  2) Data becomes out of date quickly
+  3) Qualitative factors ignored
 ## Mark Scheme Tips:
 - A01 - demonstrate knowledge and understanding of business concepts/issues
   - AO1a) knowledge
