@@ -138,13 +138,30 @@ Long Telegram - 1946 - George Kennan - Soviet Union heavily armed, wanted to des
 Novikov telegram - 1946 - Nikolai Novikov - USA wanted to take over world, even if they had to go to war with USSR to destroy communism.
 Satellite state - countries controlled or under the influence of USSR - many people unhappy in these countries but faced oppression if objected.
 Iron curtain - 'metaphor' - border between pro-capitalist European countries in West and pro-communist countries in the East.
+#### Soviet takeovers 1945-48
+Why: Stalin wanted security - Germany attacked twice - 25m Soviets dead in WW2 - wanted a buffer of friendly countries - helped communists seize power in E.Europe
+How: SALAMI TACTICS - Red Army(Soviet) soldiers in charge of E.europe after pushing Nazis out of places - arrested opponents e.g leader of Small Holders Party - Hungary, rigged elections - Romania won 70%, 16 non-communist Poles arrested,
+Consequence: Soviets more secure - 'buffer zone' between West
+   - forces US 'containment' policy - Truman Doctrine, Marshall plan 
+   - Soviets respond with Cominform & Comecon - Cold war rivalry & division deepens.
+Truman Doctrine - 1947 - promised aid to any country threatened by communism - Greece & Turkey $400m - increased tension, rivalry deepened
+Marshall Plan - 1947 - George Marshall advised - $12bn in aid to European countries - recover economy after war - won 16 countries over to capitalism - trade w USA increases
+Cominform - 1947 - USSR direct response to Marshall plan - put all European communist parties under their control, attempt to create trade network, prevent trading with West. Any communists with different views pushed out of parties. Published newspaper - ideals
+Comecon - 1949 - aimed to centralise planning of industry & agriculture in Eastern Bloc - promised financial aid - keep countries loyal (Molotov plan) - called Marshall plan 'Dollar Imperialism', banned countries from accepting Marshall aid - encouraged trade and specialise in certain areas: Hungary=food, E.Germany=industry(coal and steel)
 
-Marshall Plan - 1947 - George Marshall advised - $12bn in aid to European countries - recover economy after war - won 16 countries over to capitalism
-Cominform - 1947 - USSR direct response to Marshall plan - put all European communist parties under their control, attempt to create trade network, prevent trading with West. Published newspaper - ideals
-Comecon - 1949 - aimed to centralise planning of industry & agriculture in Eastern Bloc - promised financial aid - keep countries loyal (Molotov plan)
 Trizonia - 1948 - USA, Britain, France
-Berlin blockade - June 1948 - Stalin blocked all land routes to Berlin for Trizonia, hoping they would withdraw from West Berlin
-Berlin airlift - Trizonia flew supplies to W.Berlin, lasted for 11 months, cost $224m. On May 1949 - land blockade lifted
+Berlin blockade - June 1948 - Stalin blocked all land routes to Berlin for Trizonia, hoping they would withdraw from West Berlin - led to NATO & Warsaw Pact - CW tension greatly increased
+Berlin airlift - Trizonia flew supplies to W.Berlin 4000 tonnes a day, lasted for 11 months, cost $224m. On May 1949 - land blockade lifted
+
+#### Arms race 1945-60
+1949-53 - US increased military spending by $30bn \\ USSR by $10bn.
+1945 - USA - atomic bomb - Hiroshima,Nagisaki \\ USSR - 1949 - atomic bomb
+1952 - USA - first hydrogen bomb - 1000x powerful \\ 1953 - USSR tests own H bomb
+1957 - USSR - first ICBM \\ 1959 - USA - submarines capable of launching nuclear weapons at coast of USSR
+1961 - USSR - Tsar Bomb - most powerful H bomb ever created.
+1968 - USA - missile that can hit multiple targets \\ USSR - technology to shoot down incoming missiles 
+
+
 
 
 Sat History lesson:
