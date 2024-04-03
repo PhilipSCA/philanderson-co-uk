@@ -31,6 +31,7 @@ SMALL INTESTINE - The organ where digestion and absorption of food takes place i
 STAMEN - The male part of a flower. Where the pollen is made. Is made up from a FILAMENT and ANTHER.
 STIGMA - This is the part of a flower where pollen lands during pollination. It is at the top of the carpel, the female part of the flower
 TESTIS - Where sperm are manufactured in a human.
+Photosynthesis - The process by which plants manufacture glucose using carbon dioxide from the air and water from the soil using energy from the Sun
 TRACHEA	- Another name for the windpipe
 UMBILICAL CORD - A tube that connects the baby to the mother (before it is born). It consists of an artery and vein that connects the embryo's blood circulatory system to the placenta.
 URETER - The tube that carries urine from the kidney to the bladder
@@ -91,3 +92,6 @@ EVAPORTATION - change of state of matter from liquid to gas
 MELTING - change of state of matter from solid to liquid
 SUBLIMATION - change of state of matter from solid to gas
 DEPOSTION - change of state of matter from gas to solid
+
+Ribosomes - protiens are made in the cell
+Anions - ion with negative charge
