@@ -1,6 +1,6 @@
 ### random terms
 Optimum population - the standard of living being maintained because the resources can be used to their best advantage
-Wind sheer - difference in wind speeds
+Wind shear - difference in wind speeds
 Coriolis effect - winds curving because of Earth's rotation
 Elliptical orbit - oval shaped orbit of Sun from Earth
 Precession - Earth's axis wobbles like a spinning top
@@ -110,7 +110,7 @@ Hard engineering - man-made structures to control flow of rivers:
 2) Channel straightening - meanders removed by building straight, artificial channels. | Adv: water moves quicker, more water held at once - reduces flood risk | Dis: speeding up river may increase flood risk downstream, dredging needs doing frequently
    - Dredging - digging bottom of river so it can hold more water
 3) Embankments - built raised walls along river bank | Adv: quite effective - river can hold more water, floods less likely | Dis: unnatural, quite expensive, risk of severe flooding if they break, or too short, water sped up increases flood risk downstream
-4) Flood relief channels - divert water around built-up areas and join river later down course | Adv: Removes excess water from river, gates on channels - release of water is controlled | Dis: Expensive, can cause flooding where relief channel joins the river back
+4) Flood relief channels - divert water around built-up areas and join river later down course | Adv: Removes excess water from river, gates on channels - release of water is controlled | Dis: Expensive, can cause flooding where relief channel joins the river back   
 Soft engineering:
 1) Flood warnings - Environmental Agency - warnings through TV, radio, internet | Adv: residents can prepare sandbags/flood boards & move possessions upstairs, evacuate - reduces impact | Dis: Don't prevent flood, people may not have access to warnings, modifying buildings is expensive, doesn't guarantee safety - flash floods happen quickly
 2) Flood plain zoning - restricting building on floodplains that are likely to flood | Adv: risk reduced - fewer impermeable surfaces created(roads), impact is less, buildings wont be as damaged | Dis: Cant help areas with existing buildings, urban expansion limited, planners have to decide what type of flood to plan for
@@ -148,7 +148,7 @@ Plant adaptations:
 ### Rio De Janiero
 ### Urbanisation
 
-### Natural Hazards
+## Natural Hazards
 Geological hazards - hazard caused by land and tectonic processes - volcanoes, earthquakes, landslides
 Meteorological hazards - hazards caused by weather and climate
 Hazard risk - probability of people being affected by a hazard in an area
@@ -171,6 +171,27 @@ Logarithmic scale - scale 1-10, where each difference between two numbers is the
 Global atmospheric circulation - transfer of heat from equator to poles by movement of air.
 Seismometer - measures seismic waves, records motion of earthquake
 Saffir-simpson scale - measurement for hurricane wind speeds
+
+## Resource Managemenmt
+Resource - stock/supply of an essential item with value or purpose
+Food: not enough = malnourishment & undernourishment - limit children's development, increase ill chance
+Water: drink,cook, wash - need sanitation, or gets polluted by raw sewage - diseases(cholera) from water kill many people per year.
+Energy: Industry, transport, homes - electricity needed for development - Lifestyles in HICs depend largely on stable supply of energy. In LICs, no electricity = deforestation, releasing harmful fumes(kerosene stoves)
+- consumption of resources depends on countries wealth & availability
+#### Food
+Change in demand: Before 1960s, most fruit & veg were locally produces and seasonal - incomes increased=exotic fruit/veg/spices/coffee are more popular - often exported from LICs.
+   - Seasonal - Fruit and veg are imported all year round to meet demand for seasonal produce
+   - Organic - people concerned about environmental impacts of food production - organic strictly regulated, demand growing. Most is imported.
+Carbon Footprint - amount of greenhouse emissions produced from production of food. Higher footprint=global warming
+  - 10% of UK greenhouse emissions in 2017 from agriculture. 
+  - Imported foods have a lot of food miles
+  - People becoming aware - looking for local sources of food(farmers markets, farm shops) 
+Food miles - distance food is transported to market. More food miles = more CO2 pollution
+Agribusiness - large-scale, industrial farming controlled by large firms. Led to:
+   - farm sizes increased - food produced more cheaply - more land use
+   - chemicals in food production increasing - artificial fertilisers, pesticides, special food for animals
+   - workers in agriculture fell to 1.1% of UK total employment 2017 - due to machinery
+
 
 ## Mark Scheme Tips
 A01 - Knowledge - Show knowledge of locations, places, processes, environments, and different scales
