@@ -11,7 +11,6 @@ Treaty Of Versailles - 1919 - weakened Germany heavily, land, military and econo
 Nazi Party - made 1920, 6,000 members
 1921 - SA formed to protect Nazis from rival groups
 Munich Putsch - Nov 1923 - Weimar called off 'passive resistance' 2,000 SA to fight - support of war hero Ludendorff. Putsch failed, Hitler arrested
-Rentenmark - new currency introduced after hyperinflation in 1923
 1933 - Gestapo - 200,000 members
 1934 - 'Peoples Court' set up
 ```
@@ -19,7 +18,7 @@ Rentenmark - new currency introduced after hyperinflation in 1923
 Germany - republic - nationalists unhappy
 1) Proportional representation - voting method - made it hard to make decisions in the Reichstag - led to 22 coalitions 1919-1928 - unstable. Helped Hitler win power as coalitions fell apart with how to deal with Great Depression
 2) Article 48 - president power to act without parliaments approval, in emergency - power overused - weakened confidence in democracy - Hitler used in Reichstag fire - 4,000 locked up
-3) Same people in charge of army and courts - Generals and judges had served Kaiser - opposed new system - ex-soldiers assassinated opponents, biased judges didnt punish as much - encouraged 354 assassinations 1918-23 - undermining stability, from 1920-23, extreme nationalists tried to take control, but failed.
+3) Same people in charge of army and courts - Generals and judges had served Kaiser - opposed new system - ex-soldiers assassinated opponents, biased judges didnt punish as much - encouraged 356 assassinations 1918-23 - undermining stability, from 1920-23, extreme nationalists tried to take control, but failed.
 
 ### Threats to the Weimar Republic 1919-23
 Spartacist uprising - Jan 1919 - 50,000 communists tried to overthrow government in Berlin, quickly crushed by Freikorps - Rosa Luxembourg & 3,000 killed
@@ -34,6 +33,8 @@ Munich Putsch - 8/9th Nov 1923 - 600 SA leaders burst into a beer hall meeting -
 
 ## Golden Years
 ```
+Rentenmark - new currency introduced after hyperinflation in 1923
+Gauleiter - introduced in July 1923
 Dawes Plan - 1924 - 800m gold mark loans from USA - built 2m+ new homes, homelessness fell by 60%, wages up 10%
 SS formed - 1925
 Locarno Treaty - Oct 1925 - agreed borders with F.B.I - France, Belgium, Italy
@@ -41,7 +42,8 @@ League Of Nations - later joined in 1926 as a 'great power' - led to lots of tru
 1926 - Germany largest steel producer in Europe
 Media - 1927 - produce cutting-edge films like Metropolis - producing most films in Europe. German stars became world stars (Marlene Dietrich)
 Bauhaus - German art design - inspired many other art designs and used all around the world
-1929 - Wall Street Crash - Great Depression - too reliant on US loans - unemployment dropped to 6mil (25% workforce) by 1932
+
+1929 - Wall Street Crash - Great Depression - too reliant on US loans - unemployment dropped to 6mil (25% workforce) by 1932 - increased votes for nazis
 
 1928 - Nazis under 3% of vote
 Bruning -1930 - 'hunger chancellor' - cut unemployment pay by 60% - raised tax on beer and sugar
@@ -136,6 +138,14 @@ Long Telegram - 1946 - George Kennan - Soviet Union heavily armed, wanted to des
 Novikov telegram - 1946 - Nikolai Novikov - USA wanted to take over world, even if they had to go to war with USSR to destroy communism.
 Satellite state - countries controlled or under the influence of USSR - many people unhappy in these countries but faced oppression if objected.
 Iron curtain - 'metaphor' - border between pro-capitalist European countries in West and pro-communist countries in the East.
+
+Marshall Plan - 1947 - George Marshall advised - $12bn in aid to European countries - recover economy after war - won 16 countries over to capitalism
+Cominform - 1947 - USSR direct response to Marshall plan - put all European communist parties under their control, attempt to create trade network, prevent trading with West. Published newspaper - ideals
+Comecon - 1949 - aimed to centralise planning of industry & agriculture in Eastern Bloc - promised financial aid - keep countries loyal (Molotov plan)
+Trizonia - 1948 - USA, Britain, France
+Berlin blockade - June 1948 - Stalin blocked all land routes to Berlin for Trizonia, hoping they would withdraw from West Berlin
+Berlin airlift - Trizonia flew supplies to W.Berlin, lasted for 11 months, cost $224m. On May 1949 - land blockade lifted
+
 
 Sat History lesson:
  

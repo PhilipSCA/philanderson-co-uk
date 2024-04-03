@@ -8,6 +8,7 @@
     - [B2: Cell division](#b2-cell-division)
     - [B4: The Heart and circulatory system](#b4-the-heart-and-circulatory-system)
     - [B6: Preventing and Treating disease (_05/01/24_)](#b6-preventing-and-treating-disease-050124)
+  
 ## random terms
 
 ```
@@ -155,9 +156,8 @@ Efficacy - Whether the drug works
 Optimum dose - Most efficient dosage and few side effects
 Placebo - Patient takes ineffective drug thinking its real
 Toxicity - How harmful a drug is.
-```
-**_06/02/24_ - B6**
-```
+
+---------------------------------------------------------06/02/24-----------------------------------------------------------------
 Vaccine - Has dead/inactive pathogens inserted into body via syringe, to trigger immune system so the WBC's remember those specific pathogens for the future, responding to them quicker.
 Antigen - Sticks out a pathogen, where antibodies attach to destroy it.
 Relieving symptoms drugs - Aspirin, Paracetamol, Ibuprofen, Nurofen
@@ -179,4 +179,83 @@ Clinical trial (Step 3) - Tested on healthy human volunteers. Optimum dosage fou
 Placebo test - One patient is given actual drug, other is given fake drug and neither know whether it's real or not.
 Placebo effect - Patient believes treatment to work and feels better even if its fake, its in the mind.
 Double blind trial - Patient nor doctor know whether drug is real so doctors aren't influenced by their knowledge without realising
+```
+
+### B?? - Homeostasis
+``` 
+--------------------------------------------------------29/3/24---------------------------------------------------------------------
+Homeostasis - Maintaining a steady internal environment for a function in response to external environmental changes.
+3 factors for steady conditions - Body temperature, Blood glucose levels and Water content levels
+Stimulus - A change in the environment
+Nervous system - To react to surroundings and coordinate behaviour to be in sync.
+CNS (Central Nervous System) - Main co-ordination centre in vertebrates, the brain and spinal cord, connected to neurones.
+Sensory neurones - Carry information as electrical impulses FROM receptors to CNS
+Motor neurones - Carry impulses FROM CNS to effectors
+Effectors - Muscles/glands which move in response to impulses
+Glands - Secrete hormones
+Muscles - Contract
+Receptors - What detect stimuli. Can form a larger, complex organ (Eye retina)
+Synapses - Connect neurons togehter
+Reflexes - Rapid, automatic responses that dont use conscious part of brain. Help prevent injury
+Reflex arc - Passage of info from receptor to effector through spinal cord
+Relay neurone - Connects motor and sensory neurone in CNS, a synapse
+Reflex practical (ruler test ) - Hold out hand and ruler is dropped without warning, person has to catch it. Record cm on ruler
+```
+
+### B??  - Ecology
+```
+Ecology - Organisms and the environment, and how they interact
+Habitat - Place where an organism lives
+Population -  All organisms of one species in a habitat
+Community - Populations of different species in a habitat
+Abiotic factors - Non-living factors. (temperature/weather)
+Biotic factors - Living factors (Food)
+Ecosystem - Interction of a community of organisms with abiotic and biotic parts
+Plants - Need light and space, water and minerals
+Animals - Need space, food, water and to breed
+Food web - Series of connected food chains
+Light intensity - Affects photosynthesis. Sunlight
+Adaptation - Allow organisms to survive in different environments overtime.
+Structural adaptation - Body structure, shape or colour
+Behavioural adaptation - How organisms behave, migration to climates
+Functional adaptation - Inside the body (metabolism)
+Extremophiles - Adapted to live in most extreme conditions
+Photosynthesis - Plants make glucose for energy and oxygen from CO² and water.
+Quadrats - To study distributuion of small organisms. Square frame over grass.
+Transects - Study distribution of organisms, different methond to quadrats
+Quantitative data - Numbers in large amounts, integers usually
+```
+
+### B11 - Hormonal condition
+-------------------------------------------------------------30/3/24---------------------------------------------------
+```
+Oestrogen - Produced by ovaries. Causes uterus lining to grow and stimulates LH
+Menstrual cycle - 4 stage period over 28 days where egg is made and destroyed if not fertilised.
+Ovulation - Day 14, Egg is developed and released.
+FSH - Follicle stimulating hormone, Pituitary gland, causes egg to mature and stimulates oestrogen production
+LH - Luteinising hormone, causes egg to release at day 14, pituitary gland
+Progesterone - Produced in ovaries by remaining follice, maintains uterus lining for second half of cycle. Uterus lining breaks if this decreases
+The pill - Contains oestrogen and progesterone, over 99% effective
+Contraceptive patch - Stuck to skin, contains oestrogen and progesterone.
+IVF(In-virto fertilisation) - Eggs collected from ovaries and sperm collected from testes, fertilised in a lab to create embryo which is placed back in uterus. Low success rate
+ICSI - Sperm is injected directly into egg
+Ethical issues - IVF is killing potential human life from embryos.
+Hormones - Chemical messages sent in the blood
+Endocrine glands - Make Endocrine system, produce and secrete hormones
+Pituitary gland - Regulate body conditions, produces many hormones. Hormones can act on other glands to secrete hormones
+Ovaries - Produce oestrogen involved in menstrual cycle.
+Thyroid gland - Produces thyroxine for metabolism rate, heart rate and temperature
+Adrenal gland - Produces adrenaline, 'fight or flight'
+Pancreas - Produces insulin, regulates blood glucose level and glucagon
+Testes - Produce testosterone, controls puberty and sperm production  
+Carbohydrates - Puts glucose into blood
+Metabolism - Rate of chemical reactions within the body, turns glucose to energy
+Glycogen - Excess glucose in liver and muscles
+Glucagon - Tells liver to release glucose into blood
+Diabetes - Affects ability to control blood sugar level
+Type 1 diabetes - Not enough insulin from pancreas, glucose is too high.
+    - Born with this
+    - Requires injection
+Type 2 diabetes - Body becomes resistant to insulin from being overweight.
+
 ```

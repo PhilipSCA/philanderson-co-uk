@@ -6,7 +6,7 @@
   - [random terms](#random-terms)
         - [C13 - Alkanes and Alkenes](#c13---alkanes-and-alkenes)
 
-## random terms
+### random terms
 
 ```
 Neutralisation reaction = Acid + base neutralise
@@ -164,9 +164,31 @@ Silver nanoparticles - Have antibacterial properties, can be added to polymer fi
 Relative formula mass - Relative atomic mass of all atoms in the molecule added together
 Mass of an element in a compound - Ar x No. of atoms / Mr of compound
 The Mole - The amount of a substance in grams.
+-------------------------------------------------------------29/3/24--------------------------------------------------
+Stable electron structure - No charge, full outer shell
+Ionic bonding - Electrons trasnfering between metal and nom-metal
+Ionic compound - Compound with ionic bonds, regular lattice structure
+Giant ionic lattice - Closely paked structure with strong forces
+Empirical formula - Symbol formula
+Single bond - One atom shared
+Double bond - Two shared atoms
+Polymers - Long chains of repeating units
+Polyethene - C2H4
+Giant covalent structure - Atoms bonded by strong covalent bonds, macromolecules
+Diamond - Carbon structure, very rigid, 4 bonds per atom
+Graphite - Carbon structure, layers of hexagons that slide. 3 bonds per atom and one free electron
+Silicon dioxide - Sand
+Allotropes - Different structural forms of the same element
+Lubricating material - Reduces friction
+Graphene - One layer/sheet of graphite
+Fullerene - Molecules of carbon in spheres or tubes
+Nanotube - Cylindrical carbon structure, conduct thermal and electric energy
+Tensile strength - How strong when stretched or tensed
+Metallic bonding - Contains free electrons, very strong bonds
 ```
 
-##### C13 - Alkanes and Alkenes
+
+#### C13 - Alkanes and Alkenes
 ```
 ----------------------------------------------------16/3/24---------------------------------------------------
 Organic chemistry - Compounds containing carbon
@@ -223,5 +245,26 @@ Example of endothermic reactions - Photosynthesis, melting ice and thermal decom
 Reaction profile - Shows energy at start and end of a reaction
 Endothermic reaction profile - Reactants energy < Product energy
 Exothermic reaction profile - Reactants energy > Product energy
+```
+
+#### C4 - Quantitative Chemistry
+```
+-----------------------------------------------------30/3/24------------------------------------------------------------------
+Avogadro Constant - 6x10^23
+Concentration formula = Mass/Volume(g/dm³) or Moles/Volume(mol/dm³)
+Metal + Water --> Metal + Hydrogen hydroxide
+Metal carbonate + Acid --> Salt + Water + Carbon dioxide
+Base - Neutralises acids, contains OH- ions
+Test for C0² - Bubble C0² through limewater, turns milky if present
+Native metal - By itself, not a compound
+Electrolysis - Splitting up compounds with electricity
+Titrations - Measure concentration of solutions. Finds volume needed to neutralise acid/alkali.
+Phenolphthalein - Colourless in acids, pink in alkalis
+Litmus - Red in acids, blue in alkalis
+Methyl orange - Red in acids, yellow in alkalis
+Strong acids - Ionise fully in water, all particles dissolve
+Weak acids - Partially ionises in water, small H+ ions released
+Concentration change - H+ concentration changes by 10^n going down pH scale. (Alkalis down to acids)
+Acid + Metal hydroxide --> Salt + Water
 ```
 [def]: #chemistry

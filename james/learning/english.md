@@ -63,6 +63,43 @@ Omniscient narrator - 3rd person who knows everything
 2nd person - You, yours
 Unreliable narrator - Perspective of this narrator makes the reader question its reasoning
 
+### Poetry
+
+#### Ozymandias
+```
+Percy Shelley (1792 - 1822)
+    - Romantic poet
+    - A pacifist
+Ramses II - Egyptian pharoah from 1279BC - 1232BC
+Poem written when King George III was king
+Romantics - Movement in Europe. Emotion and individualism. Poetry was used to spread messages and ideas. Natural goodness of humans
+A sonnet - Form of poem
+Iambic pentameter - Ten syllables a line
+
+"And wrinkled lip and sneer of cold command"
+"The lone and level sands stretch far away"
+```
+#### Storm on the Island - Seamus Hearney
+```
+Born in Northern Ireland. 1939
+   - Catholic
+Farmer farmed in Derry
+Much of his poetry centred on countryside and farm life
+    - Nature vs man
+Strong natural images in poems
+Irish Islands - Lots of storms, small populations.
+Dramatic monologue
+Cyclical structure
+
+ "You might think the sea is company, exploding comfortably down on the cliff. But no"
+ "Which might prove company when it blows full Blast:"
+ "We just sit tight while wind dives" 
+```
+
+
+
+
+
 ### Quotes
 
 #### The Sign of Four
@@ -166,7 +203,7 @@ Themes:
    (Capitalism vs Socialism, Greed) - Every man for themself. Interrupted by Inspector midway through shows duality between Birling and Goole as he intercepts his ideas/viewpoint.
 
 2. "Rubbish! If you dont come down sharply on some of these people, they'd soon be asking for the earth" - Mr Birling, Act 1
-   (Greed, Capitalism) - Unfair society, lower-classed people can't ask for a payrise without punishment. 'these people' highlights prideful and belittling view of Mr Birling.
+   (Greed, Capitalism) - Unfai';#;r society, lower-classed people can't ask for a payrise without punishment. 'these people' highlights prideful and belittling view of Mr Birling.
    
 3. "And then she got herself into trouble there, I suppose" - Mr Birling, Act 1
    (Guilt) - Trying to pin the blame on her, assuming Eva was the problem.

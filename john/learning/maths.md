@@ -17,17 +17,19 @@ Invariant - points that don't change after transformation
 Equidistant - same distance
 Elevation - 2d view of 3d solid, viewed from front or side
 Frequency polygon - graph joining midpoints of data groups
-Geometric sequence - each term is product of previous term and constant(r) - an = a1 (r)^n-1
-Arithmetic - numbers with a common difference
-Completing square - quadratic in form: (x + b/2)^2 + (b/2)^2 + c
+Geometric sequence - each term is product of previous term and constant(r) - an = a1 x (r)^n-1
+Arithmetic - numbers with a common difference - normal sequence
+Completing square - quadratic in form: (x + b/2)^2 + (b/2)^2 + c (Simplified = (x+a)2 + b)
 Turning point - (x+a)2 + b (completed square) in form: (-a, b) (Maximum = if a is negative in quadratic)
 Continous data - can take any value within range
 Discrete data - only take certain values in given range (e.g goals scored)
 Cosine rule - a2 = b2 + c2 - 2bc x cos(a)
             - Cos(A) = b2+c2 - a2 / 2bc
+Used when: 1) Three sides, 2) Two sides and included angle
+Sine rule = Sin(A)/a = Sin(B)/b 
+Used when: 1) Two angles and one side, 2) Two sides and non-included angle
 Arc - section of circumference circle
 Bisector - line that divided line exactly in half
-
 ```
 
 ## Probability
@@ -44,4 +46,29 @@ A u B - union - A or B - both circles
 ```
 Direct proportion - when one value increase with the other - y = Kx
 Inverse proportion - when one value increases as the other decreases - y = K/x
-Constant of proportionality - represented as 'k' - the relation between two proportional numbers
+Constant of proportionality - represented as 'k' - the relatio  n between two proportional numbers
+
+
+1 Interior + 1 exterior = 180
+All exterior = 360
+Total interior angles = (n-2) x 180 (n=no. of sides)
+Compound measure - measure involves two+ other measures
+Pressure = force/area
+Congruent - same shape and size
+Mean in a table = multiply groups x frequency, divide that by n(no.of people in table)
+    - if group has range, find midpoint x frequency, divide it by n
+Linear scale factor
+Area scale factor = Linear squared
+Volume SF = Linear cubed
+Reciprocal - 1 divided by number (reciprocal of 5 = 1 divided by 5 = 1/5)
+Bearing - angle, clockwise from North of a point
+```
+### Circle Theroems 
+1) Angles subtended by same arc are equal
+2) Angle at centre twice angle at circumference
+3) Angle in a semicircle is 90 degrees - triangle in semi-circle = right-angled
+4) Alternate segment - angle between tangent and chord is equal to angle subtended by chord
+5) Cyclic quadrilateral - opposite angles in a quadrilateral = 180
+6) Angle between tangent and radius = 90
+7) Tangents that meet at point = equal in length
+8) Perpendicular of a chord that goes through centre, bisects chord

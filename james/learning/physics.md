@@ -115,3 +115,14 @@ Static charge - Caused from electrons moving to another surface
 Electric field - Around any electrically charged object.
 ```
 
+### P5 -  Forces
+```
+-----------------------------------------------------------------------30/3/24-------------------------------------------------------------
+Vectors - Have magnitude and direction (Forces, velocity, Displacement, acceleration, momentum)
+Scalars - Have magnitude, no direction (temperature, mass, distance, speed)
+Interaction pair - Pair of forces that are equal and opposite on two interacting objects.
+Free body diagram - Shows forces acting on an object, size of arrows indicates magnitude
+Resultant force - Overall force acting on a point/object.
+Moments - Turning effect of a force
+Moment formula - M = Fd (Moment = Force x distance)
+```
