@@ -41,8 +41,6 @@ Solution - Mixture formed by a solute and a solvent.
 Solvent - Mixture formed by a solute and a solvent.
 Stationary Phase - Phase in chromatography that does not move, for instance, the paper in chromatography.
 
-
-YEAR 7 REVISION BOOK
 Enviromentally Damaging: Harmful to water life
 Flammable: Catches on fire quick and easily
 Toxic: Can cause death, pain, burns if swallowed, breathed in or on skin
@@ -71,3 +69,56 @@ Nitric Acid: makes nitrate salts
 Sulphuric Acid: makes sulphate salts
 Hydrochloric Acid: makes chloride salts
 Greenhouse gas: the heat energy trapped in the atomsphere such as carbon dioxide. This gas keeps our planet warm
+
+Chemical weathering - corrosion of materials caused by chemical reactions
+Reactants - how much it reacted
+Collosion frequency - how often they collide
+Catalyst - subsatnce speeds up a reaction
+Enzymes - biological catalysts
+Dilute - process of decreasing concentration
+Thiosulfate - anionic elemetns compound
+Equilibrium - state where products dont change
+Homologous - grooup of chemicals similar properties
+Amine - type of compound that is derivied from NHS
+Amide - organic compound containing functional group
+Unsaturated
+Amu - atomic mass
+Hydrolysis - chemical reaction
+Radioactivity - emitting radian spontanesously
+Emulusion
+Monomer - small molecules formed to make polymers
+Litmus test
+Isomer
+Covalent bond - chemaical bond sharing electrons in molecule
+Deformation
+Spring contsant
+Methyl
+Chain reactions - one reaction causing many other reaction to react
+Magnetic flex
+Ossichs
+Fermatation - organic molecules to split into simpel substances
+Cathode - metallic electrode where electricy flows out
+Cation
+Combustion - burning
+Alloy - metal by mixing two or more metals togehter
+Chromotography - process separtationg components of mixture
+Inorgoranic - matter doesnt come from plants/animeals
+Condensation
+Inert - not moving
+Noble gas - unreactive gases
+Oxidation - oxygen combines with an element
+Absorbance
+Halide ion - single hologen
+Acyl group - molety removal of one or more hydroxel group
+Redox Indicatior - indicator changes colour at electrode potential
+Aether - unversial substance
+Enthaply - energy required to generate a system
+Percent yield - product obtained compared max mass
+Adultertant
+Diamganetic
+Petroleum - mixture of hydrocarbons
+Fission - splitting unstable nuclues in two or more nucleui
+Eutecitc
+Amphoteric
+Scanduim - metallic elemtns in minute qualities
+Ionization energy - amount of energy to delete electron from atom
