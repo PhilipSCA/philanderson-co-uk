@@ -166,23 +166,55 @@ Switch - hardware - sends data between computers on a LAN - recieve data in fram
 Router - sends data between different networks with packets - creates WAN - uses an IP to route traffic
   - Usually connected with fibre optic cable - higher bandwidth, suffers less from interference
 WAP - allows devices to connect wirelessly, as a switch
-NIC - built-in hardware - allows devices to connect to a network
-Bluetooth - direct connection between 2 devices, connection range = 10m, low bandwidth
+NIC - built-in hardware - allows devices to connect to a network - connects to router/WAP
+Bluetooth - direct connection between 2 devices, connection range = 10m, low bandwidth - 2.4GHz or 5GHz
 Wifi - used by multiple devices, range = 40-100m, higher bandwidth, used in routers, desktops, laptops.
+2 GHz - Adv: Greater range/coverage \\ Dis: More interference from other devices - crowded frequency
+5 GHz - Adv: Less crowded - higher transmission rates \\ Dis: Less able to penetrate through objects/walls
 Network performance; affected by:
   - Wireless/Wired - + type of wire being used - fibre optic fastest
   - Bandwidth
   - Range 
   - No. of people on network
   - Obstacles between connecters - wireless - walls, distance, other devices
-Peer-to-peer(P2P) network 
-Client-server network
+Server - computer that manages and stores files, or provides services to other computers
+Client - computer that relies on servers to provide data - have no control over network
+Peer - computer equal in rights and control as every computer on network - store own files
+Client-server network - data hosted on main server and accessed by client devices - server manages access, security, internet, printing, emails, backups - client makes requests to server for data
+  - Adv: Easier to manage security
+  - Easier to do backups of all data
+  - Easier to install software updates
+  - Dis: Expensive to setup & maintain
+  - Requires IT staff
+Peer-to-peer(P2P) network - all computers are equal in responsbility and status - no central switch - store own files and can be accessed by other peers. Both client and server
+  - Adv: Very easy to maintain
+  - Specialist staff not needed
+  - No dependancy on single server
+  - Cheaper - no expensive hardware needed
+  - Dis: Network less secure
+  - Users need manage own backup
+  - Viruses, malware more easily transferred over - no central firewall
+  - Difficult to maintain well-ordered file store
+Cloud Computing Applications - Google Drive, Onedrive, Dropbox - potentially limitless
 
 ### Topologies - layout of network
-Star - Dis: If central switch fails, whole network fails \\ Adv: If one device fails, network unaffected
+Star - all devices connected to a central switch:
+-  Adv: If one device fails, network unaffected
+-  Fast data transfer to hub - wires arent shared - no interference
+-  Easily add devices
+-  Dis: If central switch fails, whole network fails
+-  Needs additional hardware - switch, cables 
 Ring - Data moves in one direction - removes collisions - only one device can send data at once
 Bus - slow - data collisions on single backbone cable
-Mesh - Each device connected to every device - can send data fastest route. adv: no single point where network can fail \\ Dis: very expensive - need a lot of wire
+Mesh - Each device connected to every device - partial mesh used with star topology to create larger networks
+- Adv: can send data fastest route.
+- no single point where network can fail
+- Wireless mesh have massive potential to provide Wifi for organisations, cities, even countries
+- data can be sent simultaneously
+- new nodes can be added without interruption/interference
+- Dis: very expensive - need a lot of wire
+- Network maintenance and administration is dufficult
+- Some routes may be redundant - waste
 
 ### Protocols & Packets
 Internet - massive WAN all over world - based around TCP/IP
@@ -231,6 +263,8 @@ User access levels - different users can access more parts of network - help lim
 Anti-malware - software designed to find and stop malware from damaging network - e.g antivirus programs
 - firewalls - block unauthorised access - examine all data entering and leaving network, block any potential threats
 Encryption - data(plain text) translated into unreadable cipher text - only person with decryption key can access - essential for sending data over network securely - prevents passive attacks etc.
+  - Private key(Symmetric) - one key used to encrypt & decrypt data - must be given to recipient to decrypt
+  - Public key(Asymmetic) - two keys used - one public key to encrypt, and a personal private key to decrypt - more secure as you never have to reveal/share your decryption key
 
 # Paper 2 - Computational Thinking, Algorithms and Programming
 
