@@ -35,3 +35,7 @@ Blue plaque - deaths of famous insprirational people
 Smithing - pounding tin and copper
 Migration - movement of one place to another
 Invasion - going into a region/country with armed forcees
+
+Henry VIII had 6 wives; he beheaded 2, Anne Boleyn and Catherine Howard. He divorced Catherine Of Aragon, Jane Seymor survived as his last wife and Anne of cleves had died.
+When he married Anne Boleyn, it led to the establishment of the Church of England. Divorce as not allowed in the Catholic Church so he couldnt divorce Catherine of aragon and remarry Anne Boleyn so Henry broke with the papacy in Rome and established the church of england.
+- Henry VIII was born in June 28th 1491 and died in January 28th 1547
