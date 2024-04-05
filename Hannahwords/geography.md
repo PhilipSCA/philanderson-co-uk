@@ -101,3 +101,74 @@ LOGOON - a shallow body of water separated from a larger body of water by a narr
 MORAINE - material left behind by a moving glacier.
 SUBSOIL - layer of soil beneath earth overlaying bedrock
 ZEPHYR - slight wind
+
+##### Geography
+
+# What is geography?
+    Geography is the study of the worlds and involves looking at people and the relationship that people have with the enviroment.
+
+# General facts
+- Longitude: north to south line across the globe to show places in the world
+- Latitude: west to east line across the globe to show places in the world
+- Spot Heights: the exact height above the ground is measured and written onto a map
+- Layer colouring: areas of different heights are shown using different colours
+- Contours: brown lines drawing on a map which join up the same points that are the same height
+- Temperature: how cold or hot it is
+- Wind direction: the direction that air comes from
+- Wind Speed: how fast the air is moving
+- Air pressure: how dense the air is
+- Precipation: Any H20 falling from the sky (snow, sleet rain, hail, etc)
+- Cloud cover: the amount of clouds in the sky
+- Weather: the hourly/daily state of the atomsphere; it includes temperature, sunshine, rain and wind
+- Climate: the average wather of a place (what you would normally expect). Climate describes larger areas of the world (e.g. desert climate)
+- Meteorlogists: measure and create weaather forecasts, the study of weather
+- Convectional rainfall: forms from the ground heating up
+- Relief rainfall: forms from air forced to rise out hill to form cloud and rain
+- Frontal rainfall: when two air masses meet, when a warm air mass meets a cold air mass, the warm, less dense air is forced to rise over the cold, dense air; the warm air cools and the water vapour condeses into clouds and rain
+- Air mass: large mass of air which moves over Earth's surface. the temperature of an air mass depends on where it has come from. For example, a polar air mass comes from the polar regions so will bring cold air
+- Extreme weather: abnormal weather that we wouldnt typically get day-to-day like a natural disaster
+- Clouds are made form gas and water
+- Anemometer is used to measure wind speed
+- Biome: scientists divide the world into large natural areas called biomes
+    • each biome is known for certain types of plants, animals and climate
+- Population growth: large families and good jobs led to a striking increase in the human ppopulation around the masai mara
+- Poaching: poaching is the illegal hunting of animels. many people poach animals such as rhino horns to sell. This will have an impact as there will be less of that endangered species
+- Landlocked: only countries around their border and no water/sea/ocean meaning they will need t get water and seafood supplies across a country into their country
+- Rainwater Pits: the pits catch rainwater and this enables the water to inflirate into the ground, improving soil moisture
+
+
+# Physical geography
+- physical geography involves studying rivers, oceans, ice, weather, natural environment and coasts
+- three examples of physical geogrphy is studying what the planet is like, investigating the natural processes of the eath and studying the shape of earth
+
+# Human geography
+- human geography studies how and where people life nand how humans processes shape our planet
+- human geography involves studying settlement, deveoplment, tourism, industry and globisation
+  
+# Environmental geography
+- involves human and physical geography, it looks on how humans and environment interact and can involve styding climate change and resources
+
+05/04/24
+Geological hazard - cause by land and tectonic processes
+Meteorologist hazard - caused by weather and climate
+Primary effects - immediate immpacts caused by the hazard itself
+Secondary effects - as a result of the hazard of its primary effects
+Destructive margns - two place moving towards eachother to create a hazard
+Constructive margins - two plates moving away from eachother to create a hazard
+Conserative margins - two plate moving sideways past eachother to create a hazard
+Natural Hazard - natural processes which can cause death, injury, etc
+Vulnerability - the more people, the greater the chance of affectedness
+Oceanic crust - thinner and more desne 
+Continental crist - thicker and less dense
+Literacy rate - ability of a country to learn/read and write
+Economy - how much money someone has
+Epicentre - point on earths surface above focus of earthquake
+Moment magnitutude scale - measures energy release of earthquakes
+Monitoring - monitoring earths movements for warning of a hazard
+Management stratigies - can reduce the number of people killed
+Prediction - predicting a hazrad
+Global atompshereic circulation - transfer of the heat from equator
+Eye - center of a storrm
+Wind shear - difference in wind speed
+Tropical storms - low pressure water systems with rain and wind
+Territory - area to state

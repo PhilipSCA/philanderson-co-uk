@@ -121,4 +121,12 @@ Fission - splitting unstable nuclues in two or more nucleui
 Eutecitc
 Amphoteric
 Scanduim - metallic elemtns in minute qualities
-Ionization energy - amount of energy to delete electron from atom
+Ionization energy - amount of energy to delete electron from ato
+Deliquescence - pick up water vapour to form solution
+Amine - type of compound that is derivied from NH3
+Amide - organic compound containing functional group
+Enthalpy - energy required to generate a system
+Fission - splitting unstable nucleus in two or more nucleus
+Cathode - metallic electrode, elctricty flows out
+Oxidation - oxygen combines with an element
+Aether - universal substance

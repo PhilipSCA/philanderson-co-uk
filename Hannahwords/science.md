@@ -96,3 +96,21 @@
     • Coal is non-renewable, burned for fuel to generate electricity
     • Natural gas is non-renewable
     • Oil is non-renewable 
+
+05/04/24
+##### Science
+
+# Science facts
+- The oceans produce the majority of the oxygen on earth
+- The human stomach is so powerful that it can dissolve razor blades
+- Water can boil and freeze at the same tim
+- An indiviual blood cell takes around one minute to go around your body
+- There are creatures with 'indetermediate growth' meaning they never stop growing
+
+# Filtration and Distilliation
+Filtration separates insolube solids from liquids, you could use evaporation or cystallisation
+  - Insoluble means can't be dissolved
+  - Soluble means can be dissolved
+
+Simple distilliation is used to separate liquids from a solution
+Fractional distilliation is used to separate a mixture of liquids

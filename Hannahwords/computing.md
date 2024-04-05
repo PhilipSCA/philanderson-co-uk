@@ -40,3 +40,10 @@ Router - device that connects two or more networks
 Encode - sequence of characters into special format
 Compiler - program that translates a prgram language
 Tlenet - protocol provides command line ofr communtation
+Software - set of instructions
+Motherboard - component in a computer
+Computer system - consists of hardware and software
+Optical drive
+LAN - Local Area Network
+WAN - Wide Area Network
+Star topology - all devices connected to a central switch

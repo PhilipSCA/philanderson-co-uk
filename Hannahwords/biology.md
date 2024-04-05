@@ -95,3 +95,4 @@ DEPOSTION - change of state of matter from gas to solid
 
 Ribosomes - protiens are made in the cell
 Anions - ion with negative charge
+Pathogens - micro-organisms that enter the body and cause diseases
