@@ -11,13 +11,34 @@
       - [Macbeth](#macbeth)
       - [An Inspector calls](#an-inspector-calls)
 
-## random terms
+### Vocabulary
 Lexicon - Field/Idea of
 Cunning - Showing skill in achieving something with deceit/evasion. Sly
 Tentative - Not certain/unconfident
 Tenacity - A strong determination
 Skirmish - A small fight away from the main one.
-Manoeuvre - Movement/Action requiring dexterity.
+Manoeuvre - Movement/Action requiring dexterity. 
+Piquant - Pleasantly sharp flavour or appetising to the mind.
+Liberal - Respecting behaviour and opinions of others, acceptant of them.
+Confounded - 1. Defeated or 2. To emphasise annoyance or 3. Amazement
+Guile - Sly or cunning intelligence
+Beseech - Ask someone desperately/urgently
+Reviled - Criticised in an abusive way
+Adorn - Make more beautiful
+Courteous - Polite and considerate in manner
+Eschew - Deliberately avoid
+Sanctify - Declare holy or to purify/cleanse
+Lascivious - Openly revealing a sexual interest or desire
+Overt - Open and unconcealed, obvious
+Reproach - Express one's disapproval in their actions 
+Lucre - Wealth gained in a dishonourable way
+Sordid - Immoral or dishonourable actions, usually for gain. Giving moral distaste.
+Contempt - Disregarding something, viewing something as worthless
+Vigilant - Alert to avoid danger
+Adversary - An opponent
+Stedfast - Firm in belief, faithful
+Sovereignty - Supreme power or authority
+Pernicious - Having a harmful effect, in a subtle or gradual way.
 
 ### Language techniques
 Alliteration - Starting words with same letter/sound
@@ -36,6 +57,8 @@ Rule of three - Three words that each have an impact
 Simile - Comparing things saying its "like" or "as" the other
 Symbolism - An idea reflected by a character/object
 Pathetic fallacy - Writer attributes human emotions to the weather to reflect character
+Allusion - Reference to something external, usually using a simile or metaphor
+Allegory - Story/Novella with a hidden message behind it, like a fable
 
 
 ### Structural techniques
@@ -164,11 +187,15 @@ Themes:
    - Masculinity
    - Love
    - Sexism
-   - Power
+   - Power and ambition
+   - Pride
    - Guilt
    - Deception
-   - Evil/Witchcraft
+   - Evil
    - Betrayal
+   - Supernatural
+   - Prediction/Fate
+   - Heirs
 
 1. "Now does he feel his title/ Hung loose about him, like a giant's robe upon a dwarfish thief" - Angus, Act 5
    (Guilt) - Simile of giant's robe. Juxtaposition of 'giant' and 'dwarfish'. Imagery of Macbeth with a burden and a title unsuitable for him.
@@ -184,6 +211,35 @@ Themes:
 
 5. "This tyrant, whose sole name blisters our tongues" - Malcolm, Act 4
    (Guilt/Shame) - Visceral image to reveal Macbeths evil. Macbeth is so hated his name reaks physical pain, illuminating his nature
+
+6. "By the pricking of my thumbs, something wicked this way comes" - Witch 2, Act 4 S1
+   (Supernatural, Evil) - Rhyming couplet, Macbeth not named but "something wicked" instead. Tension to his arrival
+
+7. "Fair is foul and foul is fair" - Witches, Act 1 S1 
+   (Fate, Supernatural) - Witches speaking in riddles
+
+8. "O nation miserable with an untitled tyrant, bloody-sceptered" - Macduff, Act 4 S3
+   (Pride) - Macbeth is the reason for Scotlands downfall, a "miserable" nation after Duncan.
+
+9. "Stars hide your fires, let not light see my black and deep desires" - Macbeth, Act 1 S4
+   (Guilt, Deception) Rhyming couplet
+
+10. "Will all great Neptunes oceans wash this blood clean from my hand" - Macbeth, Act 1 S5
+   (Guilt) - Metaphor of Neptunes oceans, hyperbole. Neptune is a Roman god of water.
+
+11. "Come you mortal spirits, who tend on mortal thoughts, unsex me here" - LM
+   (Masculinity) - LM wants to be a man, opposes Jacobean stereotype.
+
+12. "Upon my head they placed a fruitless crown and a barren sceptre in my hand" - Macbeth, Act 3 S1
+   (Fate, Heirs) Macbeth has no heirs after him. Metaphor using "fruitless" and "barren" to show the uselessness of being King.
+
+13. "I have no spur to prick the sides of my intent, but only vaulting ambition" - Macbeth, Act 1 S7
+   (Power, Ambition) - Macbeth has ambition but nothing to motivate him
+
+14. "We have scorched the snake, not killed it" - Macbeth
+   (Betrayal, Guilt, Power and ambition) When he kills Banquo, he realises that everything is still not resolved.
+
+
 
 
 #### An Inspector calls
