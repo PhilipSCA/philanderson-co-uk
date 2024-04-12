@@ -6,7 +6,7 @@ Naval blockade - Allies' ships blocked off supplies to Germany 1914-19
 Kaiser - abdicate - 1918
 Armistice - ceasefire, signed 11 nov 1918, government 'November criminals'
 
-Treaty Of Versailles - 1919 - weakened Germany heavily, land, military and economic terms (£6.6b in reparations)
+  - 1919 - weakened Germany heavily, land, military and economic terms (£6.6b in reparations)
 
 Nazi Party - made 1920, 6,000 members
 1921 - SA formed to protect Nazis from rival groups
@@ -26,7 +26,7 @@ Kapp Putsch -1920 - 250,000 ex-Freikorps led by Wolfgang Kapp took over Berlin -
 Unpopularity - injustice(unfairness) of treaty - 'stab in the back' - politicians called 'November criminals' - army also not happy. - 376 political assassinations total - biased judges sympathised and fewer prosecutions
 Ruhr - Jan 1923 - 60,000 French & belgium troops invaded - took coal and timber - 130 died resisting, humiliation - led to hyperinflation
 Hyperinflation - workers on strike(passive resistance) - not mine coal for French - Government printed more money - loaf of bread, 250 marks to 200 billion - wheelbarrows for wallets, food shortages, rise in crime
-Munich Putsch - 8/9th Nov 1923 - 600 SA leaders burst into a beer hall meeting - forced leaders to rebel. 9th Nov - Hitler + 2000 SA members into Munich - police and army reinforcements there - 16 SA killed - Hitler arrested - made speeches over 24 days attacking government. Sentenced to 5 years, banned from public speaking.
+Munich Putsch - 8/9th Nov 1923 - 600 SA leaders burst into a beer hall meeting - forced leaders to rebel. 9th Nov - Hitler + 2000 SA members + Ludendorff into Munich - police and army reinforcements there - 16 SA killed - Hitler arrested - made speeches over 24 days attacking government. Sentenced to 5 years, banned from public speaking.
 
 
 
@@ -128,10 +128,10 @@ Yalta - Feb 1945 - Agreed to:
 4) Free elections in eastern european countries liberated from Nazi control
 Disagreements over how Poland should be run. - made it clear that agreements on eastern europe would be difficult.
 Potsdam - July 1945 - Agreed to:
-1) Divide Germany and Berlin into 4 zones
-2) Let the power in each zone take reparations in kind from its zone
-Stalin made Poland's government pro-communist - Truman and Churchill concerned Stalin wasnt going to allow free elections as agreed in Yalta.
-Stalin insisted Germany pay Soviet higher reparations to compensate for losses during war, but other members of Alliance refused.
+   1) Divide Germany and Berlin into 4 zones
+   2) Let the power in each zone take reparations in kind from its zone
+   - Truman & Churchill concerned Stalin wasnt going to allow free elections as agreed in Yalta - Stalin arrested 16 non-communist polish leaders - Poland pro-communist
+  - Stalin insisted double reparations to compensate for losses during war, but West refused - wanted Germany to recover
 Capitalism - ideal-everyone free to invest money to own land, businesses and property. Can keep any profits they make - democracy - hierarchy
 Communism - ideal-all land, businesses owned by state and profits made used for good of all. No individual profit-making - Elections from same party, all citizens equal.
 Long Telegram - 1946 - George Kennan - Soviet Union heavily armed, wanted to destroy capitalism. USSR threat to world peace, USA needed strong action
@@ -178,12 +178,46 @@ Consequence: 1) Strengthened control & Khr. power. Clear Warning to all satellit
 2) USA - saw this as confirming aggressive & brutal nature of communism. Khr. shown how brutal he could be - crushed hopes of a 'thaw' in relations
 3) Britain - took 20,000 refugees. Time magazine named Hungary freedom fighter 'Man of the Year' - CW rivalry deepened - both sides saw the worst of each other
 
+#### Berlin Crisis 1958-63 | Berlin Wall & Summits
+Why:
+  - Khr. calls W.Berlin a 'fishbone stuck in our throat'
+  - 100,000 refugees fled from East Germany through W.Berlin 1955-60
+  - ‘Brain drain’ - East Germany lost 3m(15-20%) of population - engineers, teachers, professors
+  - Khr. embarrassed - worried W.Germany stronger, E.Germany weaker - issues 6 month ultimatum
+What: 4 Summits:
+  1) Geneva - Khrushchev & Eisenhower - no agreement, reduces tensions, Khrushchev visits USA
+  2) USA - Camp David - Kh. in USA demonstrates better relations - no deal, agree to meet again in Paris - Khr. removes 6 month ultimatum
+  3) Paris - 1960 - U2 spy plane shot down over Soviet territory - 2 weeks prior. Eisen refuses to apologise - Khr. furious & storms out - Failure, tensions rose
+  4) Vienna - 1961 - Khr. reissues 6 month ultimatum - new President JFK takes tough line - after embarrassment of Bay of Pigs, fear of behind Soviets in space race - JFK rejects ultimatum - $3.5b increase on defence spending
+Consequences:
+  - Berlin Wall - Aug 1961 - Khr. starts barbed wire fence and wall - division solid - Checkpoint Charlie tensions - tanks face off, backchannels used - Soviets back tanks away then US - 170 died 1961-89 trying to cross
+  - JFK visits W.berlin - Berlin wall symbol of division in world - propaganda success for West
+  - stabilised relations - berlin less source of tension
+  - stopped refugee crisis - stabilised E.Germany - JFK 'a wall is better than a war'
+
+#### Cuba Crisis & Cuba missile crisis
+1959 - Castro overthrows Batista - US worried - Castro took control of US businesses in cuba - USA banned sugar imports to cuba - 90% of their trade - USSR offered help - sent economic, military, technical aid - Khr. wanted ally close to USA
+Bay of Pigs - 1961 - CIA trained cuban exiles - sent 1,400 to invade cuba - massive failure - within two days, 1,100 exiles captured & ransomed to USA in exchange for $53m of food, medicine.
+  - made Kennedy look weak & indecisive - strengthened USAs belief in need for containment
+  - USSR & Cuba developed closer ties - USSR gave military suppport to Cuba to threaten USA
+
+Cuban Missile Crisis:
+- Khr. building missile base in Cuba to: protect Cuba, retaliate against US missiles in Turkey pointed at USSR, show his strength to rest of world - US found out on 16th October 1962 - he wanted to act but didnt want to start world war.
+- '13 Days' on brink of nuclear war: 16-21 Oct - JFK set up ExComm to discuss action - wanted to appear strong - placed a naval blockade around Cuba to prevent Soviet ships docking - 18 SU ships turned around
+  - 22nd: JFK made televised address to US about missiles in Cuba & blockade
+  - 23-24: Khr. told Kennedy his ships would break through blockade - soviet ships turned back at blockade
+  - 25th: US spy planes reported increased building work at missile site in Cuba
+  - 26th: Kennedy recieves telegram - Khr. promised to remove launch sites if USA didnt invade Cuba
+  - 27th: second telegram - launch sites removed only if turkey missiles removed - JFK couldn't openly agree as NATO allies would object - said he wouldn't invade Cuba - secretly agreed to remove missiles in turkey. 28th: Khr. removes Cuba missiles
+Consequences: Kennedy - showed he was a strong leader who prevented USSR from delivering warheads to Cuba
+- Khrushchev - saved Cuba from American invasion - protected communism - forced USA to remove Turkey missiles
+- Hotline - direct line between White House & Kremlin - leaders could talk immediately - leaders aware of how close they were to war & prepared to co-operate to avoid it again - relaxed tensions 
+- hotline - led to Test Ban Treaty, Non-proliferation treaty & Detente
+
+#### Czechslovakian crisis
+
 
 Sat History lesson:
- 
-Potsdam:
-1) Mistrust of Stalin greater - had just arrested 16 non-communist polish leaders
-2) Stalin wanted double reparations agreed | West wanted Germany to recover
 
 Soviet Takeovers:
 Why:
