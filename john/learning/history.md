@@ -147,11 +147,14 @@ Consequence: Soviets more secure - 'buffer zone' between West
 Truman Doctrine - 1947 - promised aid to any country threatened by communism - Greece & Turkey $400m - increased tension, rivalry deepened
 Marshall Plan - 1947 - George Marshall advised - $12bn in aid to European countries - recover economy after war - won 16 countries over to capitalism - trade w USA increases
 Cominform - 1947 - USSR direct response to Marshall plan - put all European communist parties under their control, attempt to create trade network, prevent trading with West. Any communists with different views pushed out of parties. Published newspaper - ideals
-Comecon - 1949 - aimed to centralise planning of industry & agriculture in Eastern Bloc - promised financial aid - keep countries loyal (Molotov plan) - called Marshall plan 'Dollar Imperialism', banned countries from accepting Marshall aid - encouraged trade and specialise in certain areas: Hungary=food, E.Germany=industry(coal and steel)
+Comecon - 1949 - centralise planning of industry & agriculture in East - promised financial aid - keep countries loyal (Molotov plan) - called Marshall plan 'Dollar Imperialism', banned countries(It+Fr) from accepting Marshall aid - encouraged trade and specialise in certain areas: Hungary=food, E.Germany=industry(coal and steel)
 
 Trizonia - 1948 - USA, Britain, France
-Berlin blockade - June 1948 - Stalin blocked all land routes to Berlin for Trizonia, hoping they would withdraw from West Berlin - led to NATO & Warsaw Pact - CW tension greatly increased
+Berlin blockade - June 1948 - W.Berlin was capitalist advert in communist area - Stalin blocked all land routes to Berlin for Trizonia, hoping withdrawal from West Berlin - led to NATO & Warsaw Pact - CW tension greatly increased
+  - Consequences: Negotiations of agreed future of Germany gone, Germany divided-East&West
+  - NATO created to prevent soviet expansions - heightened tensions - shows wasr between USA and USSR was distinct possibility - Led to Warsaw Pact 1955
 Berlin airlift - Trizonia flew supplies to W.Berlin 4000 tonnes a day, lasted for 11 months, cost $224m. On May 1949 - land blockade lifted
+Warsaw Pact - 1955 - Response to W.Germany joining NATO - 8 countries - Soviet generals in charge of each country. Consequence: Greater Soviet control - pact troops used in Hungary&Czeckslovakia crisis
 
 #### Arms race 1945-60
 1949-53 - US increased military spending by $30bn \\ USSR by $10bn.
@@ -161,7 +164,19 @@ Berlin airlift - Trizonia flew supplies to W.Berlin 4000 tonnes a day, lasted fo
 1961 - USSR - Tsar Bomb - most powerful H bomb ever created.
 1968 - USA - missile that can hit multiple targets \\ USSR - technology to shoot down incoming missiles 
 
-
+#### Hungarian Uprising 1956
+Why: - Khrushchev 'Secret speech' - criticise Stalin - raised hope for change
+- Poland & Austria given more freedom, less soviet control - Hungarians inspired
+- Rakosi - hardline Stalinist - brutal secret police, 2,000 killed, 200,000 imprisoned since 1947
+  - Living standards fell - Fuel, food shortages - Hungarians began to protest - 'uprising' began
+What: October - Khr. sent in tanks to stop protests/restore order - 12 killed, hundreds wounded
+- Former PM Imre Nagy returned - more popular - tanks withdrawn
+- Nagy - announced reforms = free press, speech, elections - then said Hungary would leave Warsaw Pact
+- Khr. under pressure to act from other communist countries 
+    - 200,000 troops, 6,000 tanks - 3,000 killed & 200,000 refugees fled - Nagy sent to Romania, executed
+Consequence: 1) Strengthened control & Khr. power. Clear Warning to all satellite states to not try anything
+2) USA - saw this as confirming aggressive & brutal nature of communism. Khr. shown how brutal he could be - crushed hopes of a 'thaw' in relations
+3) Britain - took 20,000 refugees. Time magazine named Hungary freedom fighter 'Man of the Year' - CW rivalry deepened - both sides saw the worst of each other
 
 
 Sat History lesson:
