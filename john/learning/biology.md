@@ -234,7 +234,7 @@ Liver:
 4) removes lactic acid by convert to glucose then carbon dioxide & water
 Metabolism - net result of all reactions that happen in body - anabolic(building) or catabolic(breaking down)
 
-##### B something - Yr 11 - Body responses
+### B something - Yr 11 - Body responses
 ```
 Homeostasis - regulation of condition inside your body to maintain a stable internal environment, in response to internal/  external changes - body temperature, blood glucose level, water levels
 Negative feedback - when something gets too high/low, receptors detect the stimulus, coordination centre organises a response and effector acts to increase/decrease level - keeps on happening until not stimulated 
@@ -263,7 +263,7 @@ Body temperature - Cold: 1) Hairs stand up to trap insulating layer of air 2) No
                         4) Shivering - muscles contract, needs respiration which transfers energy to warm body
 Thermoregulatory centre - in brain, has receptors that are sensitive to temp of blood through brain and skin.
 ```
-#### Endocrine system
+### Endocrine system
 Hormones - chemical molecules released into blood - only affect particular organs (target organs) - secrected in endocrine glands - tend to have long-lasting effects
 Pituitary gland - brain - produces many hormones for other glands that regulate body conditions
 Thyroid - produces Thyroxine - regulated things like rate of metabolism, heart rate and temperature
@@ -285,7 +285,7 @@ Diabetes - affects cycle to control glucose level:
            - Being overweight can increase chance of type 2 diabetes, obesity is a major risk factor
            - Can be controlled by eating a carbohydrate controlled diet and getting regular exercise
 
-#### Menstrual Cycle
+### Menstrual Cycle
 Puberty - sex hormones released - trigger secondary sexual characteristics(facial hair, breasts) & cause eggs to mature in women
 Ovaries (female) - produce Oestrogen - needed for menstrual cycle, controls puberty
 Testicles (male) - produce Testosterone - controls puberty and sperm production
@@ -324,6 +324,58 @@ Non-hormonal:
 Hormones to increase fertility - some women's levels of FSH are too low=can't get pregnant - give FSH&LH as drug to stimulate ovulation || Cons: doesnt always work, too many eggs can be stimulated - results in multiple pregnancies (twins, triplets)
 IVF(in-vitro fertilisation) - collects eggs from ovaries, fertilising in a lab with sperm - or ICSI - sperm injected directly into egg - useful if man has low sperm count
 
+### Inheritance, Variation & Evolution
+##### Inheritance
+Heterozygous - two different alleles for characteristic (pl=heterozygote) - Bb
+Homozygous - two identical alleles for characteristic (pl=homozygote) - BB, bb
+Genotype - alleles present in a person for characteristic (BB, Bb, bb) - expressed as phenotype
+Phenotype - physical appereance of characteristic - what you actually see 
+Allele - different versions of gene, that code for a different characteristic - 2 for each characteristic
+Dominant - Only 1 dominant allele needed for characteristic to show - capital letter - B
+Recessive - only expressed if both alleles recessive - lowercase - b
+Gamete - sex cell - egg or sperm cell
+
+Cystic fibrosis - excessive thick, sticky mucus in lungs & pancreas - must have 2 recessive alleles to inherit
+Polydactyly - baby born with extra fingers/toes - caused by dominant allele - only 1 parent needs to have it
+
+Genetic testing - analysis of persons DNA to see if they carry genetic disorders
+Antenatal testing - analyse baby before born - offered to couples who have increased risk of producing a disordered baby - cant detect all risks of inherited disorders.
+Neonatal testing - analysing a sample of blood from a baby's heel - detects disorders to treat them early
+Pre-implantation genetic diagnosis (PGD) - used on embryos before implantation - fertility drugs stimulate release of several eggs, then collected & fertilised in Petri dish (IVF) - cells tested for disordered alleles - embryos that dont contain disorder implanted into uterus
+
+##### Variation
+Environmental causes - climate, diet, accidents, culture, lifestyle
+    - features that show environmental variation - scars, accent/language, flower colour in hydrangeas
+Genetic causes - every gamete contains half of genetic information needed for a person - haploid - fuses during fertilization to make a zygote/diploid containing mother and father information
+Mutation - change in gene or chromosome - spontaneous, continually
+Selective breeding - humans breed plants/animals for particular characteristics - select best offspring and repeat
+ - Desired characteristics in plants: Disease resistance in crops | wheat with lots of grain | large/unusual flowers
+ - Desired ` animals: produce lots of milk/meat | chickens that lay large eggs | domestic dogs with gentle nature
+  Benefits: 
+  - new varieties may be economically important - producing better/more food
+  - animals selected that can't cause harm - e.g cattle without horns
+  Risks: 
+  - reduced variation could mean attack by specific insects/disease - would be extremely destructive
+  - rare disease genes can be selected as part of positive trait - problems with specific organisms
+  - create physical problems in specific organisms 
+Genetic engineering - cut pieces of DNA from one organism, join them into a gap in DNA of another organism
+  - Uses: insect/disease resistant crops, golden rice (more Vitamin A - helps sight) 
+  - Ethical issues with genetic modification - possible health risks with G.M food
+  Benefits:
+  - Faster, more efficient than selective breeding
+  - Improves crop yields/quality - important in developing countries
+  - Herbicide, insect, pest resistance = less herbicide used, insects eat less crops - crop not wasted
+  - Sterile insects can be created - infertile offspring - reduce spread of diseases (e.g mosquitos & malaria)
+  Risks:
+  - What benefits one plant may harm another
+  - not ethical to interfere with nature - GM crops more expensive - poorer people cant afford
+  - GM crops can be harmful - toxins have been detected in peoples blood - can harm pollen and insects who transfer it
+  - GM crops can cause allergic reactions in people
+
+##### Evolution
+Antibiotic resistance - bacteria reproduce at a fast rate - evolve quickly - 1) random mutation occurs 2) bacteria without mutation die or cannot reproduce with antibiotic 3) resistant bacteria reproduces with less competition from normal strains
+
+
 
 Plasma - liquid that carries nutrients, hormones, proteins in the body
 Artery - carries oxygenated blood away from heart, small lumen
@@ -346,4 +398,4 @@ Pathogen - microorganisms that enter the body and cause disease
 Bacteria - cells that rapidly reproduce inside body. Produce toxins - make you feel ill
 Virus - way smaller than cells - multiply rapidly inside cells until they burst - releasing more viruses & makes you feel ill
 Protists - single-celled eukaryotes that live on other organisms, cause damage - transferred by a vector
-Fungi - made of hyphae, can grow and penetrate human skin, producing disease & spores which can be spread
+Fungi - made of hyphae, can grow and penetrate human skin, producing disease & spores which can be spread 
