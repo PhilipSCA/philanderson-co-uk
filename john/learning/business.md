@@ -145,6 +145,26 @@ T - Time
 - Objectives help a business as - it encourages entrepreneurs to improve - it sets out your clear goals - influences better decision-making.
 - Financial aims and objectives: Survival - no risks, Profit, Market share, Sales, Financial security
 - Non-financial goals: Social objectives, Personal satisfaction, Challenges, Independance & control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### 1.3.2 - Revenue, costs and profits
 Revenue - income earned by a business over a period(eg. sales revenue, turnover) - Quantity sold x price
 Costs - expenses involved in making a product
@@ -165,6 +185,47 @@ Break-even point = fixed costs / (selling price - variable costs) per unit (Cont
 Contribution - selling price per unit - variable costs per unit - profit earned each sale
 Margin of safety - number of units sold above break-even point | how much sales can fall before BEP
 Margin of safety = sales in units - break-even output | actual sales - break-even sales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 #### 1.3.3 - Cash flow
 Cash flow - flow of money into and out of a business
 Cash inflows - money into the business (interest recieved, rent recieved, gov. grants, sales, sale of premises, overdraft)
