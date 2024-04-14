@@ -72,3 +72,54 @@ Bearing - angle, clockwise from North of a point
 6) Angle between tangent and radius = 90
 7) Tangents that meet at point = equal in length
 8) Perpendicular of a chord that goes through centre, bisects chord
+
+
+
+## year 7-10
+
+# Maths
+
+## Maths
+
+```
+Congruent - when two shapes are identical in shape and angles and form.
+Parallel - two lines that are straight and never meet
+Polygon - a polygon  is a plane figure that is formed by three or more straight lines called
+sides because no shape has two or one sides.
+Perpendicular - A line that is at a 90-degree angle on a line that makes a right angle
+Right angle - A 90-degree angle 
+Acute angle - An angle
+Quadratic 
+equation - a math problem
+Calculate - to work out and find a result of something
+Horizontal - going West to East or the other way round.
+Vertical - going North to South or the other way round.
+Oriented - to align and position something in line to their points of a compass  or other 
+specific positions
+Column - a row that goes vertically  across something like in a grid there are rows
+(horizontal lines) columns (vertical lines)
+Angle - the position of something or where it is compared to another point or place
+
+```
+
+# Revision
+    - Unit 5
+        - Sin cos tan
+            - cos 90 = 0
+            - sin 0 = 0
+            - sin 45 = **√**2/2
+            - tan 0 = 0
+            - cos 30 =  **√**3/2
+            - 
+        - Pythagoras theorem = a² + b² = c²
+        - 
+    - Unit 6
+        - Midpoint  (x1 + x2)/2 , (y1+y2)/2 
+    - Unit 7
+        - Circumference = 2 x π x r
+        - Area of circle = π x r²
+        - Diameter = 2r
+        - Surface area of sphere = 4πr²
+        - Volume of sphere = 4/3 πr³
+        - Area of sector = $\frac {angle} {360}$ x π x d
+        - Radius of a cylinder = r = $\sqrt\frac {V} {π x h}$

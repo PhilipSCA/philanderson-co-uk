@@ -398,4 +398,344 @@ Pathogen - microorganisms that enter the body and cause disease
 Bacteria - cells that rapidly reproduce inside body. Produce toxins - make you feel ill
 Virus - way smaller than cells - multiply rapidly inside cells until they burst - releasing more viruses & makes you feel ill
 Protists - single-celled eukaryotes that live on other organisms, cause damage - transferred by a vector
-Fungi - made of hyphae, can grow and penetrate human skin, producing disease & spores which can be spread 
+Fungi - made of hyphae, can grow and penetrate human skin, producing disease & spores which can be spread
+
+
+
+
+## year 10
+
+
+```
+Organs - the vital parts of your body that you need to survive
+Digest - to break down food in your body and turn it into waste by it going 
+through yourbody
+Epidermis - the outer layer of the surface of your skin
+Chloroplast - a plastid in plants and flowers which contains chlorophyll and
+photosynthesis occurs
+Nucleus - the center of a cell or object which is vital for it to grow or move.
+Ventricle - one of the bottom chambers of the heart that collects and releases 
+blood from the atrium to the peripheral beds
+Atrium - one of the upper cavities of the human heart  that gives blood to the
+ventricle and the right atrium gets deoxygenated blood from the veins  and the 
+left gets oxygenated blood from the pulmonary vein
+Appendix - a tube-shaped sack attached to the opening of the lower end of the
+ large intestine. In humans, the appendix has no known function.
+Carnivores - these are animals that only eat meat
+Herbivore - these are animals that only eat plants
+Respiration -  the act of breathing, inhaling and exhaling
+Fibula - leg bone below your knee
+Femur - leg bone
+Pupil - this is the black, blue, or green circle in the middle of your eye. 
+The opening of the iris. The pupil may appear to open (dilate) and close 
+(constrict), but it is really the iris that is the prime mover; the pupil is 
+merely the absence of the iris. The pupil determines how much light is let 
+into the eye. Both pupils are usually of equal size.
+Fertilization - the action process of fertilizing an egg or animal or plant, 
+involving the fusion of male and female...
+Vertebrates - an animal with spine
+Carbohydrates - inside particular foods
+Malnutrition - lack of food and nutritions for their body
+Photosynthesis - the plant produces seeds by the sun
+Respire - to breathe
+Cervical - to do with the entrance of the womb
+Cervex - Entrance to the woman’s womb
+```
+
+- End of Topic Test - Ecology
+    - Water Transport in a plant
+        - First, water osmoses into the root hair cells
+            - Root hair cells are cells on roots that have projections, creating a large surface area for osmosis
+        - Water then goes into the root cortex cells
+        - Xylem vessels then collect the water from the root cortex and transports it up the plant's stem.
+        - When it reaches a leaf, water osmosis out of the xylem into the leaf's mesophyll cells.
+        - So it goes, Root hair cells to Root cortex cells to Xylem vessels and Mesophyll cells in the leaf
+
+        
+    - Translocation
+        - Translocation is the process by which food produced in photosynthesis is transported from the leaves to the growing regions of plants and storage organs.
+        - Translocation happens through phloem tubes
+            - Phloem tubes are made up of columns of elongated cells that have holes in the end walls that allow cell sap to pass between the cells
+        - Translocation is bidirectional which means movement is both up and down the plant
+- Yr 9 End Of Topic Test - Cells
+    - Revision and Terms
+        - Nucleus - The 'brain' of the cell. Every cell has a nucleus
+        - Cell membrane - the outer edge of the cell that keeps the cell together. Found in plant and animal cells
+        - Cell Wall - A wall around the cell and cell membrane to protect it. Only found in plant cells
+        - Ribosomes - Where proteinsynthesis takes place in a plant cell, making the protein for the cell. Only found in plant cells.
+        - Mitochrondria - structures in cytoplasm where aerobic respiration takes place, releasing energy for the cell. Found in plant and animal cells.
+        - the 7 Different types of cells are - Red blood cells, Guard cells, Root hair cells, Sperm cell, Nerve cell, Skin cell and Palisade cell.
+        - MRS GREN - 7 types of life processes - Movement, Respiration, Senses, Growth, Reproduction, Excretion, Nutrition
+        - Diffusion - Diffusion is the process of particles travelling from an area of high concentration to an area of low concentration. This means to diffuse is to spread out.
+            - Diffusion does not require energy because it is a passive process.
+            - The molecules are said to move down a concentration gradient.
+        - Osmosis - Osmosis is the process of water molecules moving from an area of low concentration to an area of high concentration across a partially-permeable membrane.
+        - partially-permeable membrane - A wall that has tiny holes in it that are small enough to only let small molecules like water across but larger molecules cant get through. Plant and animal cells are surrounded by these.
+        - Lysis - when osmosis causes animal cells to swell up and burst by too much water entering the cell.
+        - Crenation - When osmosis causes concentrated solutions, which have a low concentration, to lose water and shrink.
+        - Isotonic - When the concentration outside a cell is the same as the concentration inside a cell.
+        - Hypertonic - When the concentration inside the cell is higher than the concentration outside the cell
+        - Hypotonic - When the concentration inside the cell is lower than the concentration outside the cell. (The opposite of hypertonic)
+        - Plasmolysis - this is when the cell shrinks and the cell membrane, vacuole and nucleus push away from the cell wall due to osmosis.
+        - Active Transport
+- Terms
+    - Nucleus - The brain of the cell
+    - Cell membrane - the edge of the cell needed to keep the cell in shape
+    - Cell Wall - This is a protective wall around the cell.
+    - Chloroplasts - This is where photosynthesis takes place in a plant cell
+    - Mitochrondria - structures in the cell where aerobic respiration takes place, releasing energy for the cell
+    - Ribosomes - where proteinsynthesis takes place making all the proteins for the cell.
+    - Diffusion - when particles travel from an area of high concentration to an area of low concentration to spread out in the air. They are said to move down a concentration gradient.
+        - Diffusion is a passive process - no energy is needed
+    - Osmosis - when water molecules travel from an area of low concentration to an area of high concentration solution across a partially permeable membrane
+        - Osmosis requires energy
+    - partially-permeable membrane - A sort of wall membrane with tiny holes in it that can only let small molecules like water get through but not bigger molecules.
+    - Isotonic - when the concentration outside the cell is equal to the concentration inside the cell
+    - Hypertonic - when a solution has a higher concentration than the concentration outside the solution(cell).
+    - Hypotonic - When a solution has a lower concentration than the concentration outside the solution(cell) - basically the opposite of hypertonic
+    - Plasmolysis - when the cell shrinks and the vacuole and cell membrane pull away from the cell wall.
+    - Active transport - when particles travel from an area of low concentration to an area of high concentration. Basically the opposite of diffusion. Active transport works by absorbing particles outside the cell (low concentration) to inside the cell where there is a high concentration. An example is when the roots in a plant absorb minerals from the ground.
+- Reproduction
+    - Gametes - these are cells that are given from each partner. The male
+- Cells
+    - Red blood cells
+        - Red blood cells are adapted to carry oxygen around the body.
+        - Red blood cells contain haemoglobin.
+        - Red blood cells have no nucleus
+        - They have a large surface area in a bi-concave disc shape
+    - Guard Cells
+        - Oval cell that guards the tiny holes in a leaf.
+        - This controls the gases that go into the plant
+    - Root hair cells
+        - Root hair cells absorb mineral ions.
+        - Root hair cells also absorb water from the soil
+        - They have a large surface area
+        - The cell wall is thin to make absorption easier
+    - Sperm cells
+        - male sex cell
+        - has a tail to swim ti an egg cell.
+    - Neurones/Nerve cells
+        - Neurones send and recieve messages from the nervous system.
+        - They are long and thin and so can transport messages over large distances around the body.
+        - They can be 2m long
+        - They have lots of branches and so can connect with other neurones
+    - Skin cells
+        - A thin, flat cell that protects the body
+    - Palisade cells
+        - Palisade cells absorb light for plants to photosynthesise
+        - They are found in the upper surface of leaves
+        - They contain lots of chloroplasts which are close to the edge of the cell
+    - Ciliated cells
+        - Ciliated cells have tiny hairs on their surface called cilia.
+        - Cilia are long and thin hairs that ling the airways.
+        - They move in a sweeping motion to trap microbes from the air in mucus.
+            - When the microbes are trapped in mucus, the cilia move them up to the mouth so they can be swallowed.
+        - Smokers can develop a smokers cough.
+            - This is when the cilia are destroyed and so the mucus can not be swept up to the mouth and hence they have a constant cough to try and remove the mucus.
+    - A collection of cells make a Tissue.
+    - A collection of tissues make an Organ.
+    - A collection/group of organs make an Organism
+    - Some organisms are made up of only one cell. This is called a uni-cellular organism
+    - Other organisms are made up of multiple cells. This is called a multi-cellular organism.
+- Food chain
+    - A species may depend on another for pollination
+    - A species may depend on another to spread its seeds
+    - A species may depend on another for shelter
+    - A species may depend on another for food
+    - Producer
+        - A producer is an organism that makes its own organic nutrients, using usually energy from sunlight.
+    - Consumer
+        - A Consumer gets its energy by feeding on other organisms.
+        - Depending on the position of the consumer in the food chain, it may be classed as primary, secondary or tertiary.
+    - Herbivore
+        - A herbivore is an animal that get its energy by eating plants
+        - They are primary consumers
+    - Carnivore
+        - A carnivore is an animal that gets their energy from eating other animals
+        - They are secondary and tertiary consumers.
+    - A Food Web shows networks of interconnected food chains.
+- Ecosystems
+    - Organisms are dependant on one another for a wide range of reasons:
+        - They provide a food source
+        - They help with pollination
+        - They provide shelter
+- Plants and the body
+    - Aerobic respiration is when you break down glucose with oxygen to produce carbon dioxide and water.
+        - Aerobic respiration = Glucose + oxygen ➟➟➟ carbon Dioxide + water
+        Aerobic respiration = C6H12O6 + 02 ➟➟➟ CO2 + H2
+        
+    - The liquid part of your blood is called 'plasma'
+    - Oxygen joins your red blood cells because they contain **haemoglobin**
+    - Respiration happens inside the mitochondria, which is in your cells
+    - A leaf is split into 2 layers, spongy and palisade
+    - The tiny holes at the bottom on the leaf are stomata
+    - Plants and algae are called Producers
+    - Water gets into a plant by diffusing the root hair cells
+    - gases get into a plant by carbon dioxide diffusing into the leaf and oxygen diffusing out
+    - Photosynthesis takes place in the chloroplasts in the leaf cells
+    - Leaves are green because they contain chlorophyll
+    - Phloem tubes in a leaf transports glucose
+    - Biotechnology is the use of biological processes or organisms to create useful products.
+    - **Phosphorus** is the element associated with **flower growth**
+    - **Phosphates** are used for **Healthy roots**
+    - **Nitrates** are used for **Healthy growth**
+    - **Magnesium** is used for **making chlorophyll**
+    - **Potassium** is used for **Healthy leaves and flowers**
+    
+- B1 - Cell Structure and Transport
+    - Animal Cell
+        - Cytoplasm - empty part of the cell, this is where reactions take place
+        - Nucleus - contains the characteristics of the cell; the DNA and genes
+        - Cell membrane - controls what goes in and out of cell
+        - Mitochrondria - Where aerobic respiration takes place, making energy for the cell
+        - Ribosomes - Where  proteinsynthesis takes place in the cell, making food for the cell
+    - Plant Cell
+        - Cytoplasm - empty part of the cell, this is where reactions take place
+        - Nucleus - contains the characteristics of the cell; the DNA and genes
+        - Cell membrane - controls what goes in and out of cell
+        - Cell Wall - Provides structure and support for the cell
+        - Mitochrondria - Where aerobic respiration takes place, making energy for the cell
+        - Ribosomes - Where  proteinsynthesis takes place in the cell, making food for the cell
+        - Vacoule - Filled with fluids like water and cell sap
+        - Chloroplast - Contains chlorophyll
+        - Chlorophyll - Green pigment that absorbs light for photosynthesis
+    - Diffusion
+        - Diffusion is the movement of molecules from an area of high concentration to low concentration.
+        - Diffusion is a passive process which means it doesnt require energy
+        - There are three factors that affect the rate of diffusion: temperature, distance, and the concentration.
+    - Osmosis
+        - Osmosis is the movement of water molecules from an area of high concentration to low concentration through a semi-permeable membrane.
+        - Osmosis is also a passive process so it does not require energy
+    - Active Transport is movement of molecules from an area of low concentration to high concentration. It is an active process so it requires energy.
+    - Microscopes
+        - Image size = Actual size x magnification
+        - Actual size = Image size / magnification
+        - Magnification =  image size / actual size
+        - Magnification of a microscope = magnification of an eyepiece x magnification of objective lens
+        - 1 Micrometre = 1000mm
+        - Parts of a Microscope
+            - Eyepiece
+            - Nosepiece
+            - Coarse focus
+            - Fine focus
+            - Objective lens
+            - Clips
+            - Stage
+            - Mirror
+- B2 - Cell division
+    - Cells can either be eukaryotic or prokaryotic
+        - Eukaryotic cells are complex and include all plant and animal cells. These have a nucleus
+        - Prokaryotic cells are single celled organisms. They do not have a nucleus. (e.g Bacteria)
+    - Differentation - when a cell changes to become specialised for its job/task
+    - Specialised cells
+        - Sperm cell
+        - Red Blood cell
+        - Muscle cell
+        - Nerve cell
+        - Root hair cell
+    - Cells that are undifferentiated are called Stem Cells
+    - Stem Cells
+        - Embryonic
+            - Found in human embryos
+            - These can turn into any cell in the body
+            - Can be used to replace faulty cells in sick people
+            - Therapeutic cloning
+            - They can get contaminated and make the patient more ill
+            - Some people believe that these stem cells are a potential human life, so it goes agaisnt their beliefs.
+        - Adult Stem Cells
+            - Found in the adult bone marrow
+            - Can only turn into specific cells
+            - Less useful
+            - Does not have any ethical problems
+        - Plant stem cells are found in the meristem.
+    - Chromosomes and Mitosis
+        - 46 chromosomes (23 pairs) in body cells
+        - 23 chromosomes in gametes (sex cells)
+        - Mitosis
+            - Mitosis is cell division - for growth and to replace damaged cells
+            - Mitosis produces two identical daughter cells.
+    
+- B3 - Organisation
+- B4 Revision - Organising animals and plants
+    - Body and Heart
+        - Blood components
+            - Red Blood Cell
+            - White blood Cell
+            - Platelets
+            - Plasma
+    - Plants
+        - Structure
+            - Spongy Mesophyll contains many air spaces, which help with gas exchange through the leaf
+            - Epidermal Tissue covers the outer surface of the leaf
+            - Palisade mesophyll is a row of cells located below the upper epidermis. These cells are exposed to a lot of sunlight and have lots of chloroplasts to maximise photosynthesis.
+            - Stomata
+                - found in the lower epidermis
+                - the make the diffusion of gases in and out the leaf easier.
+        - Transpiration
+            - Xylem vessels carry water and minerals from the roots, up the stem and into the leaves
+            - Once the water reaches the leaves, most of it evaporates and the water vapour diffuses out through the stomata
+            - This process is called transpiration
+            - The four factors that affect transpiration are: temperature, humiditity, wind and light because the make water evaporate faster
+            - A potometer is used to measure rate of transpiration.
+            - The measuring of a potometer is an estimate
+        - plant organs are: roots, leaves, stem
+- B5 - Communicable diseases
+    - Pathogens
+        - Bacteria
+            - large living microbe which divides by splitting in two
+            - killed with antibiotics
+            - Salmonella - food poisoning
+            - Gonorrhoea - STD
+        - Virus
+            - Smallest microbe
+            - Non-living
+            - Cannot be killed by antibiotics - they dont have a cell wall like bacteria and reproduce inside cells so they have to destroy cell to destroy virus,
+            - Reproduce inside cells
+            - Measles
+            - Hiv - can turn into AIDS
+            - TMV - affects photosynthesis in plants
+        - Fungi
+            - Rose black spot - affects photosynthesis in plants
+        - Protists
+            - Malaria
+        - Pathogens can be spread by air, contact and water
+    - White blood cells - How your immune system protects you from disease
+        1. Phagocytosis - engulf and ingest microbes/pathogens
+        2. Then Produces antibodies - locks onto pathogen’s antigens and destroy pathogen
+        3. Produces antitoxins - cancel out any toxins produced by pathogen
+    - Human defences
+        1. Skin barrier - covers your body
+        2. Nose - hair and mucus act as a trap
+        3. Trachea and bronchi - covered in cilia and mucus
+        4. Stomach - produces acid to destroy
+        5. Immune system - White blood cells
+    - A disease travels through a plant through its xylem/phloem
+    - Communicable disease - Infectious and can be passed from one to another
+    - Non-communicable - cannot be transmitted from one person to another
+- B6 - Preventing and treating disease
+    - Vaccines
+        - Dead or inactive form of the pathogen injected
+        - Antigens stimulate WBCs to produce antibodies
+        - The white blood cells have memory cells, which remember and can recognise the pathogen if it comes again.
+        - If you are infected with that disease, WBCs recognise the disease, adapt and quickly kill it, stopping you from getting infected.
+        - If a higher % of the population is vaccinated the disease spreads way less, there are less cases and it is easier to manage. If everyone gets vaccinated it is possible the disease will eventually die.
+    - Medical Drug development
+        - 4 Thing to conside during drug development(SESUAR):
+            - Safe (no unwanted side effects)
+            - Effective (good at treating disease)
+            - Stable (can be stored for long periods and used in normal conditions)
+            - Uptake and removal (The body absorbs the drug, and clears it when its used)
+        - When making a new drug, consider:
+            - Efficiacy (how effective it is)
+            - Toxicity (Is the drug toxic to humans?)
+            - Dosage (How often its needed)
+        - Order in how medical drugs are made
+            1. Drug tested using computer models and cells grown in a lab
+            2. Drug is tested on animals ( worms, fruit flies, mice) to study any side effects
+            3. Drug tested on small number of volunteer patients who have the illness, to ensure it works
+            4. Drug tested on small group of healthy human volunteers to check its safety
+            5. Drug tested on large group of volunteers to monitor drug effectiveness, safety, dosage and side effects
+            6. Drug approved and can be prescribed
+    - Placebo - a drug with nothing in it, but the patient thinks there is something in it.
+    - Double blind trial - when the doctor nor the patient knows who has been given the drug or the placebo.
+- B7 - Non-communicable diseases

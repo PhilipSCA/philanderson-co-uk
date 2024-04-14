@@ -310,3 +310,383 @@ Government - 1660 - Charles II issued charter to set up Royal Adventures trading
 Economic: - Flemish & Walloons - 1500s - help Canterbury grow, 1,000 looms, employ 1000s
 Huguenots - train 500 apprentices - new techniques like brocade and taffeta - fashion industry grows
 Huguenots - 10% of funds to set up Bank Of England - helped set up Sheffield Steel Industry
+
+
+
+
+
+## year 7-10
+
+# History
+
+## History Words
+
+```
+**History - The subject of learning about times and the past and studying them.**
+**Historian - a person that studies history and looks back at events**
+
+Wealth = How much money you have, if you're wealthy, you have a lot of money
+Dehydration = When you don't have enough water you're dehydrating, being thirsty means
+you're dehydrated.
+Slum = A place in a country where the living quality is low and it's very poor there.
+Revolution = When someone overthrows a government of social order, to create a new system.
+Plantation = Where food is planted, usually on a big field
+Expensive = It cost a lot of money
+Chronological - this means it is in the correct order or sequence
+
+Artifact - an ancient object that an archaeologist has dug up or found
+Primary - evidence from the actual time in history
+Ancient - if something is ancient it is really old and has been around maybe underground
+or a massive building.
+Archaeologist - a person who digs up things and finds ancient artefacts and studies the object
+to find out more information about the past
+Obedience - this means that you obey and listen and do every command someone tells you to.
+If you do this then you have obedience to them.
+National - when it is famous and well-known all across lands or a land.
+Mosaic - a puzzle or picture made out of small squares in Roman times.
+Origin - the point or place where a big event in history **occurred** or something which lasts 
+for a long period
+Genesis - beginning of something
+Heritage - to pass down something through generations or to younger people.
+Theory - a supposition or a system of ideas intended to explain something, especially
+one based on general principles independent of the thing to be explained.
+Voyager - a person who sails the seas.
+Biography - a true story about someone's life
+Vacancy - available place/room
+
+```
+
+# **Revision**
+
+- Roanoke Island - England's first colony in 1585
+    - In the 1500's Europeans knew little about North America and what was beyond the horizon of the Atlantic Ocean.
+        - They thought the horizon was the edge of the world.
+    - Sir Walter Raliegh
+        - He was fascinated by the world across the ocean
+        - He had a number of problems to the colony in 1585
+    - Richard Grenville
+        - He was a heavy drinker
+            - He had a silver drinking cup
+            - When his silver drinking cup was stolen, he burned down an American village called Aquasoqic, which was the village that stole his cup.
+            - Being drunk or drinking during the colony could of lead to massive bad decision making or doing unwise things.
+        - He was inexperienced at sea
+            - It was his first time at sea
+        - He had a fiery temper
+        - he hated the Spanish
+        - He put all the supplies on one ship called The Tiger - Big mistake!
+        - He was the leader of the colony
+    - Wancheso and Manteo were two Native Americans that Walter Raleigh brought back to London in 1584
+    - A violent storm called Puerto Rico destroyed most of the supplies as it hit The Tiger - the name of the ship with all the supplies.
+        - This meant that the Native Americans had to share some of their supplies with the English, as they didn't have much of their own.
+    - Mid June 1585, they arrived at Roanoke Island
+- James Wolfe - Battle Of Quebec in 1759
+    - The Battle Of Quebec
+        - The Battle of Quebec was very important because whoever won that battle would gain control of Canada and the 13 American colonies
+        - The Battle Of Quebec was part of the Seven Years War which lasted seven years from 1756 - 1763
+        - Quebec was also at the mouth of the Saint Laurence river.
+            - This river was very important for trade and commerce
+        - Quebec was heavily guarded with thousands of French Soldiers commanded by General Montcalm
+            - General Montcalm was the Leader of the French
+        - Quebec was situated ontop of a sheer cliff called the HEIGHTS OF ABRAHAM
+        - General Montcalm made a massive mistake! This could of been the reason the French lost the battle.
+        - General Montcalm allowed some of his men to help local farmers with the harvest.
+            - This a lot left less men guarding Quebec.
+        - The British had won the Battle and the French were defeated.
+    - James Wolfe
+        - The Row Formation
+            - The Formation would normally have 3 rows. The first and second row would kneel down and the third row would stand up and shoot.
+            - After the third row shot, they would reload their muskets and the first row would stand up and shoot.
+            - After the First row shot, they would reload and the second row would stand up and shoot.
+            - By the time that the first and second row had shot, the third row would be ready to fire.
+            - This cycle would repeat over and over, leading to a constant fire.
+            - The Row Formation was a good formation that Wolfe used in the Battle of Quebec.
+        - Born in English county of Kent
+        - Intelligent child and wanted to be a soldier from a young age
+        - James Wolfe was a young General, at only 32 years old.
+        - James Wolfe led the British army in the Battle Of Quebec in 1759.
+        - James Wolfe had better strategies and tactics than the French, Wolfe thought everything out well.
+        - The Heights of Abraham
+            - There was an easier but longer route to get to the Heights Of Abraham
+                - The French were expecting the British (James' army) to take this route.
+                - James ordered his men to climb to the Heights Of Abraham (longer route)
+                    - This really surprised the French and they were not prepared for their attack
+        - James made his army smaller but better by keeping only the fit and good soldiers and the bad ones he would get rid of.
+            - This is because the not so fit people would be a liability
+        - When the British climbed the cliff, the French started panicking and Montcalm ordered his men to attack
+            - The French rushed towards the British
+            - James Wolfe ordered his men not to fire their muskets until the French were in firing range of 36 metres.
+                - Muskets back then didn't have good accuracy so he wanted the Men to be in range to make sure the bullets hit.
+                    - James Wolfe also put 2 bullets in each musket.
+            - When the English fired, hundreds of French soldiers were killed.
+        - During the Battle, Wolfe was wounded twice and died shortly after the battle.
+        - The British had won.
+- Black Slavery
+    - Slavery is the inhuman or cruel treatment of human beings by other human beings
+    - The type of slavery we will be examining is the inhuman or cruel treatment of human beings kidnapped from West Africa in the 1600s, 1700s and 1800s.
+    - The slave trade we will be looking at was part of the Triangular Slave Trade.
+    - The Triangular slave trade
+        - This was a three part journey that slave ships sailed on.
+        - The first part of the journey was usually from the 13 colonies across the Atlantic Ocean to Britain with usually edible cargo
+        - The second part of the journey was from England or Britain to the West Coast of Africa. These ships were loaded with food and guns for the local African chiefs.
+        - The third part of the journey was called the MIDDLE PASSAGE.
+    - The Middle Passage
+        - The middle passage was the worst part of the journey.
+        - This was the part where the slaves were kidnapped from the west coast of Africa and they were put on slave ships in order to sail across the Atlantic Ocean.
+        - The middle passage was the middle of the triangle and it went from the west coast of Africa to the Caribbean or America
+            - The journey would last 8 or 9 weeks and would cover 3000 miles.
+            - Conditions onboard for the slaves were HORRENDOUS
+                - Triple Bunk
+                - Tight Pack
+                - Your life expectancy also depended on which bunk you were allocated on.
+                    - If you got the bottom bunk your chances of survival were halved.
+                - Once a week, usually on a Sunday morning, the cargo (slaves)
+- World War One
+    - World War One began in 1914 after the assasination of Franz Ferdinand
+    - Germany unified in 1871
+    - A zeppelin was a big German airship
+    - Franz Ferdinand
+        - Assasinated by Gavrilo Princip
+            - He was part of the black hand gang who wanted to kill Franz
+            - Gavrilo Princip was Serbian
+        - Archuke and heir to the throne of Austro-Hungary
+    - Alliances
+        - Austria-Hungary declared War on Serbia
+        - Russia and Serbia are allies
+        - Germany and Austria-Hungary are allies
+        - Britain and France are allies
+        - The Triple Alliance was made of 3 countries who were all allied; Germany, Austria-Hungary and Italy.
+        - The Triple Entente was made of 3 countries who were all Allied; Britian, France and Russia
+    - Trenches
+        - Homework - Leaflet
+            - Probably different to what most soldiers expect
+            - Alot worse than they thought
+            - Trench Foot
+                - Your feet swell up to two or three
+        - There were 4 trenches, Frontline, Support, Reserve and Communication trench
+        - Trenches were zigzagged so if an enemy got in they wouldnt be able to shoot straight down
+        - 
+    - The Battle Of the Somme
+        - General Haig
+            - He was called the Butcher of the Somme because of how many people died for such little gain.
+        - English attacked the Somme to get the Germans off the French at Verdun
+        - Britain lost 420,000 men, France lost nearly 200,000 men and Germany lost 500,000 men.
+        - In December 1915, there was a stalemate on the Western Front.
+        - theory of attrition - that eventually you would grind down your enemy and they would have to give in.
+        - Week of bombardment before the battle but did not do much because the German trenches
+        - On July 1st, the order was given to go over the top.
+        - September, tanks were used for the first time.
+    - Weaponry
+        - Tanks
+        - Flamethrowers
+        - Machine guns
+        - Gas
+    - Empire Soldiers
+        - Indo China - Vietman, Laos and Cambodia
+        - Spahis - Light calvary regiments of the french army recruited primarily from Algeria, Tunisia, and Moroco
+        - India
+            - India had 1.3 million soldiers!
+            - There was 80-90,000 casualties from Indian soldiers
+            - India already had an experienced and well-trained army.
+            - Over 600,000 Indians helped in other ways - porters, labourers and railway builders. This was very helpful for the British
+        - Africa
+            - The Africans/Muslims had 46,000 soldiers
+            - Africa supplied loads of goods and money as well as soldiers. This is because Africa is rich in resources.
+        - The Carribean/West Indies only had 15,500 soldiers
+        - In 1914, Britain ruled over 1 quarter of the worlds surface area and 434 million people.
+        - Britain only had 150,000 soldiers
+        - Volunteers from other Empires therefore welcomed over 8 and a half million men
+        - Most of the fighting took place in West Africa
+        - In East Africa the battles were fought mainly by black africans, but Indians and Europeans troops
+        - Empire Soldiers were very important as they gave loads of supplies and goods to Britain and gave them a way bigger army - 1.3 million soldiers came from India alone.
+        - **The Carribean donated aid worth £54 million and 9 aircrafts. This helped Britain alot.**
+- Nazi Germany
+    - Weimar republic problems 1919-1923
+        - Spartacist uprising
+            - Communists like Rosa Luxembourg tried to seize power
+            - They led an armed uprising in Berlin in January 1919
+            - President Ebert and government had to leave Berlin
+            - Freikorps (army of nationalist ex-soldiers) stopped this - 3,000 were killed and the two leaders were arrested and executed
+            - On March 1919 there was another attempt to seize Berlin - more than 1,000 were killed
+            - The Freikorps again saved the government
+            - 50,000 communists took to the streets
+        - Kapp Putsch
+            - After the treaty of Versailles, the Freikorps were not allowed.
+            - The Weimar government said they had to disband.
+            - This made them all very angry and they tried to take over.
+            - In March 1920 Wolfkapp Kapp led the Freikorps into Berlin. This was known as the Kapp Putsch. It was an armed rebellion and a big threat to the government.
+            - The army refused to attack the Freikorps and they were in big trouble -
+            - They were saved by the workers of Berlin going on a general strike, which brought the city to a halt and the Freikorps could not succeed.
+            - Wolfgang Kapp fled to Sweden.
+        - Ruhr
+            - France & Belgium invaded Ruhr (a coal mine) with 60,000 troops. Timber and coal was taken from Germany.
+            - 130 German workers were killed resisting
+            - Government ordered workers to go on strike to not help France and Belgium with the coal mines.
+            - German income was down. Germany was suffering with low income as most of it came from Ruhr.
+            - Germany started to print more money - led to hyperinflation
+            - a loaf of bread went from 250 marks to 200 billion
+            - wheelbarrows for wallets
+            - German money became worthless
+            - Food shortages and rise in crime.
+        - Putsch - an armed attack to overthrow a government and take power
+        - Freikorps - an army of 250,000 nationalist ex-soldiers, which had to disband due to the treaty of Versailles.
+        - Interpretation 2 Answer
+            - 2 PEE’s on partly agree that Kapp Putsch was biggest threat.
+                - 1 PEE about freikorps turning against them & attack in berlin,  and it made Weimar look weak and humiliating.
+                - 1 PEE about army refusing to fire & workers going on strike and it led to economic problems
+            - 2 PEE’s on more agree that with Int. 1 - Spartacist uprising and Ruhr
+                - 1 PEE on Spartacist Uprising - 3,000 killed - leaders executed - They did not want democracy - effected Weimar as government had to flee and people were killed - bad reputation for Weimar.
+                - 1 PEE on Ruhr - workers had to go on strike - hyperinflation & loaf of bread 250 marks to 200 billion - wheelbarrows for wallets - German economy crashed and money became worthless. Food shortage, rise in crime, Germany was in a chaotic state. Humiliating and led to Munich Putsch.
+            - Conclusion - i disagree with Int. 2 as spartacists and Ruhr had a bigger effect on weimar than Kapp Putsch. Spartacists got 3,000 killed and was humiliating, Ruhr crashed German economy and caused hyperinflation. Rise in crime - chaotic state.
+        - TOV
+            - 100,000 men in army
+            - 13% of land was lost - left 6m Germans outside Germany
+            - Saar, Upper Silesia to Poland, Alsace-lorraine to France
+            - Lost 11 colonies
+            - 6.6b reparations
+            - 15% coal and 50% iron resources lost
+- Yr9 EOY Revision
+    - France, Russia and Germany each had an army of over 1 million men by 1913
+    - By 1914, Britain owned 1/3 of the land in the world
+    - Empire Soldiers
+        - Volunteers from the Empire were therefore welcomed
+        - Over 8 and a half million men volunteered
+        - India
+            - India had a well-trained and experienced army
+            - Over 1 million Indians fought
+            - and over 600,000 helped in other ways: porters, labourers and railway builders
+            - Over 100,000 Indians were reported dead, wounded or missing
+        - Africa
+            - East Africa fought - The King’s African Rifles
+            - Africa supplied many goods and money as well as soldiers.
+            - The success of campaigns depended on porters to transport supplies
+            - Allied troops conquered German Togoland (Ghana) in 1914
+            - In East Africa the battles were fought mainly by Black Africans, but Indian and European troops also fought
+            - In total, about 250,000 Africans fought. 62,000 were killed or wounded
+            - 
+        - West Indies/Carribean
+            - In 1915, the British West India Regiment was formed. It had 15,600 men from Jamaica, Barbados, British Guyana and Trinidad
+            - They suffered 1325 casualties and 81 men recieved medals
+            - They gave donations of money and goods to help the British war effort
+            - They donated aid worth £54 million, 9 aircrafts and 11 ambulances
+            - 
+    - The Treaty of Versailles
+        - Land
+            - Alsace-Lorraine had to be returned to France
+            - Rhineland had to be demilitarised
+            - The Saar Coal Fields were given to France
+            - All of Germanies colonies were taken away
+            - Not allowed to form a union with Austria
+        - Army
+            - Army not to be allowed to be larger than 100,000 men
+            - Air Force had to be disbanded
+            - Navy limited to 6 battleships and no submarines
+        - Money
+            - Germany had to pay reparations of £6.6 billion (£217 billion today)
+            - Germany’s economy was greatly damaged because of the losses of the land
+        - Blame
+            - Article 231 meant that Germany had to take all the blame for starting the war
+            - Germany were also not allowed to join the newly formed League Of Nations
+    - The Wall Street Crash
+        - Loans from the USA were the foundations of Germanys recovery
+        - In 1929, America’s biggest companies and businesses crashed in price
+        - By 1929, much of Germany had experienced 5 years of prosperity.
+        - Great Depression
+            - Unemployment rised in the early 1930s and by Januray 1932, the total number of unemployed people were over 6 million
+
+- Yr10 EOY Revision
+    - Why there was a revolution in 1918
+        - P) One reason there was a revolution in Germany was because Germany was losing the war, and anger and protests spread.
+        - E) For example, during WW1, The British and the Allies set up a naval blockade, that resulted in food shortages across Germany. An estimated 750,000 people died.
+        - E) The winter of 1917 was nicknamed the ‘Turnip Winter’ since food shortages were so bad that turnips were the only thing people ate.
+        - A) The people used the Kaiser as their scapegoat and revolted. Kaiser recieved hate and anger.
+        - P)Another reason why there was a revolution was because people wanted the Kaiser to abdicate and the war to end.
+        - E) In October 1918, sailors had mutinied at a port - Kiel - and protests spread.
+        - E) General strike in Berlin, clashes broke out between communists and soldiers.
+        - A) President Ebert was worried about communists taking power and Germany, and therefore pressured Kaiser to abdicate
+        - P) Another reason why there was a revolution was because the USA didnt want to ceasefire with the Kaiser in charge.
+        - E) Fighting in the streets between nationalists and communists.
+        - A) Kaiser pressured to take the blame and forced to abdicate. A new constitution was made for Germany. Germany had undergone a revolution.
+        1. Germany losing war, anger and protests to Kaiser
+        2. Naval blockade, 750,000 dead
+        3. People starved - Turnip Winter
+        4. Sailors mutinied at sea 
+        5. USA didnt want Wilhelm as Kaiser and refused to ceasefire
+    - Weimar republic problems 1919-1923
+        - Spartacist uprising
+            - Communists like Rosa Luxembourg tried to seize power
+            - They led an armed uprising in Berlin in January 1919
+            - President Ebert and government had to leave Berlin
+            - Freikorps (army of nationalist ex-soldiers) stopped this - 3,000 were killed and the two leaders were arrested and executed
+            - On March 1919 there was another attempt to seize Berlin - more than 1,000 were killed
+            - The Freikorps again saved the government
+            - 50,000 communists took to the streets
+        - Kapp Putsch
+            - After the treaty of Versailles, the Freikorps were not allowed.
+            - The Weimar government said they had to disband.
+            - This made them all very angry and they tried to take over.
+            - In March 1920 Wolfkapp Kapp led the Freikorps into Berlin. This was known as the Kapp Putsch. It was an armed rebellion and a big threat to the government.
+            - The army refused to attack the Freikorps and they were in big trouble -
+            - They were saved by the workers of Berlin going on a general strike, which brought the city to a halt and the Freikorps could not succeed.
+            - Wolfgang Kapp fled to Sweden.
+        - Ruhr
+            - France & Belgium invaded Ruhr (a coal mine) with 60,000 troops. Timber and coal was taken from Germany.
+            - 130 German workers were killed resisting
+            - Government ordered workers to go on strike to not help France and Belgium with the coal mines.
+            - German income was down. Germany was suffering with low income as most of it came from Ruhr.
+            - Germany started to print more money - led to hyperinflation
+            - a loaf of bread went from 250 marks to 200 billion
+            - wheelbarrows for wallets
+            - German money became worthless
+            - Food shortages and rise in crime.
+        - Putsch - an armed attack to overthrow a government and take power
+        - Freikorps - an army of 250,000 nationalist ex-soldiers, which had to disband due to the treaty of Versailles.
+        - Interpretation 2 Answer
+            - 2 PEE’s on partly agree that Kapp Putsch was biggest threat.
+                - 1 PEE about freikorps turning against them & attack in berlin,  and it made Weimar look weak and humiliating.
+                - 1 PEE about army refusing to fire & workers going on strike and it led to economic problems
+            - 2 PEE’s on more agree that with Int. 1 - Spartacist uprising and Ruhr
+                - 1 PEE on Spartacist Uprising - 3,000 killed - leaders executed - They did not want democracy - effected Weimar as government had to flee and people were killed - bad reputation for Weimar.
+                - 1 PEE on Ruhr - workers had to go on strike - hyperinflation & loaf of bread 250 marks to 200 billion - wheelbarrows for wallets - German economy crashed and money became worthless. Food shortage, rise in crime, Germany was in a chaotic state. Humiliating and led to Munich Putsch.
+            - Conclusion - i disagree with Int. 2 as spartacists and Ruhr had a bigger effect on weimar than Kapp Putsch. Spartacists got 3,000 killed and was humiliating, Ruhr crashed German economy and caused hyperinflation. Rise in crime - chaotic state.
+        - TOV
+            - 100,000 men in army
+            - 13% of land was lost - left 6m Germans outside Germany
+            - Saar, Upper Silesia to Poland, Alsace-lorraine to France
+            - Lost 11 colonies
+            - 6.6b reparations
+            - 15% coal and 50% iron resources lost
+    - How far the years 1294-29 were ‘Golden Years’
+    - Reasons for the rise of support for the Nazis
+    - How Hitler went from being chancellor to dictator - how he consolidate his grip on power
+        - Reichstag Fire - Feb. 1933
+            - 6 Days before new election
+            - A Dutch communist was found at the scene of the fire - Marinus Van Der Lubbe
+            - Hitler passed Emergency Decree, allowing police to search people and put people in protective custody without trial.
+            - 4000 Communists locked up
+            - Vote increased by 10%
+        - Enabling Act - March 1933
+            - Allowed government to rule for 4 years without the Reichstag
+            - Banned all political parties in July 1933,
+            - Banned 18 local parliaments called Lander
+            - Banned all trade unions and arrested trade union officials
+            - made strikes illegal
+            - Set up German Labour Front (DAF) to control workers and wages
+        - Night of the Long Knives - June 1934
+            - The SA was 3m strong - potential threat
+            - Rohm was talking about merging with army, which army did not want
+            - 400 SA leaders killed, including Rohm - won armies support
+            - Other political potential rivals killed like Von Schleicher and Kahr.
+    - Nazi attitudes towards families and women
+        - P) Motherhood - wanted more mothers to have children
+        - E) For example, women were encouraged to have more children. They made a law for encouragement of marriage - 1,000 mark loans for young couples to get married and 250 marks for each child given birth.
+        - 800,000 loans issued medals were awarded. Gold medal for 8, silver for 6, bronze for 4
+        - A) There was an increase in marriages and births by 45%. They wanted mothers to have more children for the army, and to increase the population and strengthen Germany.
+        - P) Employment - women should stay at home and not work
+        - E) For example, women were forced to give up their jobs, like doctors, judges, civil servants and teachers. Girls were discouraged from getting qualifications for professional jobs.
+        - 6 million women joined the ‘German Workers Enterprise’ that trained women in household skills
+        - However in 1937 with massive rearmament under way women were needed . By 1939 3m more women were working. Women only earned 2/3 of what men earned. Employers preferred to employ women.
+        - A) This impacted the lives of women as it changed their wages, and their professions. They had to be trained in household skills and were encouraged to work at home.
+        - P) Appearance - Nazis had a traditional view of the appearance of women
+        - E) For example, women were not allowed to wear make-up, smoke or drink. Posters and propaganda showed blond-haired ‘Aryan’ women wearing traditional, not fashion clothes, and as mothers.
+        - Weight loss was frowned on as it could be bad for child rearing.
+        - A) This changed the lives of women as in the 1920s, women smoked, drinked, cut their hair short and had short skirts etc, but now they were much less free in those decisions.

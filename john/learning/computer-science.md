@@ -454,3 +454,129 @@ Lossless - data temporarily removed, put back together when file opened. - usefu
   - one method - RLE(run-length encoding)
 RLE - sequences displaying redundant data stored as single value
  - e.g - a,a,a,b,c,c,c,c = a3,b1,c4
+
+
+
+
+
+## year 10 
+
+### Revision
+
+- Concatenation is when you join 2 strings together
+- You can find the length of a string by using the len() function
+    - len("Hello") would give 5
+- A substring is a part of a longer string
+    - In psuedocode, we use the function: stringname.subString(StartPos, numberOfChars)
+        - This takes a substring starting at the 'startPos'th character, and takes the number of stated characters
+- Types Of Errors
+    - Syntax Errors
+        - A syntax error is a mistake or error in the way the code is written
+        - Syntax errors prevent programs from running as a translator needs code to be syntactically correct.
+        - Examples
+            - example of an error : prnt("Hello,  World!");
+                - Spelling error
+            - another example: newbalance = newBalance * 1.05;
+                - Wrong capitalisation
+            - error: myBoolean = True NOT False;
+                - NOT does not take two operands
+    - Logic errors
+        - Logic errors are hard to detect because the translator will not detect them for us
+        - Logic errors are mistakes in the logic of the program
+        - The program will run but the outcome will not be as intended
+        - Examples
+            - Mixing up AND and OR: True AND False = False, True OR False = True
+    - Runtime Errors
+        - Runtime errors are errors that Happen while the program is running.
+        - Runtime errors cannot be found during translation
+        - These errors can only be detected while a program is running\
+        - The chance of experiencing a runtime error can be reduced through testing.
+        - Examples
+            - Bad inputs that throw out an unhandled exception
+            - Receiving unexpected or corrupted data
+            - Running out of memory
+- Python
+    - Python is a high-level interpreted programming language
+    - Python is used for general purpose programming
+    - One of the key considerations in Python development is the readability of code.
+    - Programming Paradigms
+        - Programming Paradigms are different styles of programming
+            - Python is a multi-paradigm language and allows code to be written procedurally or in an object oriented style.
+- Fetch Decode Execute cycle
+    - Fetch:
+        - The program counter is checked as it holds the address of the next instruction to be executed.
+        - The address is sent to the Memory Address Register (MAR) - holds address of where data is to be fetched or stored from - in order to fetch the instruction needed from Main memory (Cache or RAM) and bring it to the Memory Data Register (MDR).
+        - The PC is incremented by 1.
+    - Decode:
+        - The MDR sends the instruction to the Control Unit (CU), which decodes and converts the data into binary so it can be understood.
+        - Machine code is different for every manufacturer of CPU.
+    - Execute:
+        - The instruction is sent back to the Cache to pass the instruction of that address, and place it in the MDR.
+        - If the instruction has to perform a calculation, then it will be sent to the Algorithmic Logic Unit(ALU) to do the calculation. It will then store the result in the accumulator.
+        - If not, then it will go straight to the accumulator
+- Hertz - how many full cycles of F.D.E cycles can be performed in 1 second.
+- Clock speed - the speed at which a computer operates.
+- Core - processing unit within a CPU
+- Embedded system - a system with a dedicated purpose and is limited to what it can do. eg - Microwave, TV, toaster, camera, kettle, wifi router, radio, satnav. difficult to program and hard to repair
+- 
+
+- Test Revision
+    - Data types
+        - String
+            - A piece of text eg ‘Hello’
+        - Real
+            - Any number eg 3.67
+        - Integer
+            - A whole number eg 5
+        - Boolean
+            - True or false
+    - Casting
+        - Casting is the process of converting data from one type to another.
+        - One of the most common reasons for casting is output.
+        - Output must be formatted as a string, and so we may need to convert a certain piece of data to a string.
+        - All input also comes as a string, and must then be converted to other data types.
+        - Casting to a string can be done with the str function
+            - str(5) gives 5
+        - Casting to an integer can be done with the int function
+            - int(5.4) gives 5
+        - Casting to an float can be done with the float function
+            - float("3.7") gives 3.7
+    - Operators
+        - DIV is integer division, it returns the whole part of a division
+        - MOD gives the remainder of a division
+        - Addition is +
+        - Subtraction is -
+        - Division is /
+        - Multiplication is *
+        - Exponentiation is ^
+    - SQL
+        - SELECT,FROM,WHERE
+        - SELECT = what is included in your range of data, or the type of data you are selecting
+        - FROM = where you get the data from
+        - WHERE = the condition that has to be met for it to be selected
+        - SELECT * = Selects all
+        - 
+- Test Revision 2
+    - Sound
+        - Sound is a pressure wave that causes the air to vibrate
+        - A computer cannot interpret an analogue sound wave. It must be turned into binary numbers or digitised.
+        - Sample rate - In order for a computer to store sounds digitally, a sample is taken at regular intervals. This is sample rate, measured in Hz
+        - The sample measures the voltage and converts it into binary
+        - The more samples you take per second, the better the audio quality.
+        - Sample resolution - Another way to improve audio quality is increase the number of bits used to represent each sample, or sample resolution
+        - Speakers allow devices to generate sound from these binary numbers
+        - A vibrating cone in the speaker causes pressure waves, which we hear as sound
+        - Amplitude is the height of the wave. Higher the amplitude, higher the volume.
+        - Frequency is how close the waves are. Higher frequency is higher pitch
+    - Images
+        - Image file types
+            - BMP
+            - JPG
+            - GIF
+            - PDF
+            - TIF
+        - Each pixel is a single colour and is given a binary value which represents that colour.
+        - Resolution - concentration of pixels within a specific area - defined by width and height - eg. 72x72 is used for web pages
+        - Each pixel value represents a different colour, using one bit per pixel
+        - Larger image resolution, quality and higher colour depth will increase file size
+        - Metadata - data/information about an image - date, author, resolution, file size
