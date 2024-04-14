@@ -15,6 +15,7 @@
       - [Module 6](#module-6)
       - [Module 7](#module-7)
       - [Module 8](#module-8)
+  - [Year 9 Random words](#year-9-random-words)
 
 ### Role play - Higher
 
@@ -186,3 +187,34 @@ Boca - Mouth
 
 #### Module 8
 
+
+
+
+    
+            
+
+## Year 9 Random words
+    
+```
+Como persona, es - As a person, he/she is
+Trabajador/ora - Hard working
+Perezoso/a - Lazy
+Hablador/a - Chatty
+Timido/a - Shy
+Gracioso/a - Funny
+Fiel - Loyal
+Me llevo bien con - I get on well with
+Me divierto con - I have a good time with
+Me peleo con - I argue with
+Un buen amigo/a es alguien que - A good friend is someone who
+Te ayuda - He/she helps you
+Te apoya - He/she supports
+Te conoce bien - He/she knows you well
+Te acepta - He/she accepts you
+Te hace reir - He/she makes you laugh
+Te dice la verdad - He/she tells you the truth
+conoci a - I met
+Hace cuatro anos - Four years ago
+Tenemos mucho en comun - We have a lot in common
+
+```
