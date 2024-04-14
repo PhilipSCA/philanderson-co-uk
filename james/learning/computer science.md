@@ -5,6 +5,7 @@
   - [contents](#contents)
   - [random terms](#random-terms)
     - [Programming](#programming)
+  - [Year 9](#year-9)
 
 ## random terms
 
@@ -219,3 +220,100 @@ While loop - Loop that keeps going whilst a condition is true
 Do until loop - Loop that keeps going until a condition is true
 Do while loop - While loop but controlled at the end.
 ```
+
+
+
+## Year 9 
+
+- HTML components
+    - tags
+        
+        <opening> </closing>
+        
+        <em> </em> = italics
+        
+        <b> </b> = bold
+        
+        <ol> </ol> = ordered list
+        
+        <li> </li> = list
+        
+        <center> </center> = Centres text in between tags
+        
+        <body> <head> <p> <h1> <h2> <br></br> <a href = "(website link)"> <img src =    "(image link)"> <body BGcolor = (color)>  <FONT color = "(color)">  <FONT face = "(font)"> 
+        
+- Operating Systems
+    
+    An operating system is system software.
+    
+    An operating system is the most important software on a computer. It manages the memory, processes, software and hardware. It also allows you to communicate with a computer without knowing the computers language.
+    
+    - GUI
+        
+        A GUI stands for Graphical User Interface. Its how we interact with the computer, without it we would just see binary. Its how we use programs and access the internet.
+        
+    - Types of Operating Systems
+        
+        Windows (Desktop/server/mobile)
+        
+        MAC OS X (Unix) (Desktop/server)
+        
+        Apple iOS (Mobile)
+        
+        Ubuntu (Linux) (Desktop Server)
+        
+        Android (Mobile)
+        
+    
+    Open Source and Closed source. Open source is when you can modify it and closed is when you are not allowed to modify the code.
+    
+    - Firmware and drivers
+        
+        Firmware is the software that runs on the device. Like a printer.
+        
+        A driver is the software that tells your operating system how to communicate with the device.
+        
+- Operators
+    - Basic operators
+        
+        Addition = +
+        
+        Subtraction = -
+        
+        Division = /
+        
+        Multiplication = *
+        
+        Exponentiation = ^
+        
+        Equal to = "=="
+        
+        Not equal to = "!="
+        
+        Integer division = division without remainder (5 DIV = 2)
+        
+        Modulo operator = Remainder (5 MOD 2 = 1)
+        
+    - Boolean operators
+        
+        True AND True = True
+        
+        True AND False = False
+        
+        False AND True = False
+        
+        False AND False = False
+        
+        NOT True = False
+        
+        NOT False = True
+        
+        True OR True = True
+        
+        True OR False = True
+        
+        False OR True = True
+        
+        False OR False = False
+        
+    

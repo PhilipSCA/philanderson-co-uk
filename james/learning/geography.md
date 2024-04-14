@@ -14,6 +14,8 @@
         - [Nepal Earthquake 2015 - LIC](#nepal-earthquake-2015---lic)
       - [Section B: The Living World](#section-b-the-living-world)
       - [Section C: Physical landscapes in the UK](#section-c-physical-landscapes-in-the-uk)
+  - [Year 9](#year-9)
+- [Geography](#geography-1)
 
 ## random terms
 
@@ -351,4 +353,295 @@ Climate - Freeze-thaw weathering (Can affect weathering/mass movement).
 Structure of a rock - Cracks or arches (Can affect weathering/mass movement).
 Vegetation - Biological weathering (Can affect weathering/mass movement).
 ```
- 
+
+
+## Year 9
+
+
+- Words/Vocabulary
+    
+    ```
+    Contours = Lines on OS maps to show how high something is, if contour lines are close 
+    together, it is steep, of they are quite far apart from each other, it means it is gentle
+    Relief = The shape and height of a piece of land
+    Spot heights = A dot showing the height of a place on a map.
+    Deforestation = When trees are cut down/destroyed
+    Mouth = Where a river enters the sea/ends
+    Corrosion = When chalk and limestone dissolve in water
+    Meander = A bend in a river
+    Temperature = How hot or cold it is in the air or on an object and is measured in degrees
+    Celcius 
+    Air pressure = The force the air uses on an area due to its weight. The pressure is usually low
+    or high and low pressure is warm air rising, and high pressure is caused by  cool air 
+    sinking.
+    Wind = Wind is the movement of air. Wind speed is measured by an anemometer. Wind direction
+    is observed by a wind vane.
+    Precipitation
+    Clouds
+    Air
+    Mountain
+    Heats
+    Cools
+    Rises
+    Thunder
+    Lightning
+    Condenses
+    Summit
+    Descend
+    Warmer
+    Evaporate
+    Cold front
+    Warm front
+    Frontal rain
+    Relief
+    Convectional rainfall
+    Frontal
+    Weather
+    Barometer
+    Degrees Celcius
+    Forecast
+    Predict
+    Depressions
+    Anticyclones
+    Meteorologist
+    Low pressure
+    High pressure
+    Isobars
+    Satellite
+    Dark surface
+    Light surface
+    Reflect
+    Infra-Red
+    Occupied
+    Oktas
+    Surface Run-off
+    Channel flow
+    Atmosphere 
+    Water vapour
+    Transpiration
+    Infiltration
+    Antarctic - this means it's related to the south pole or Antarctica
+    Asia - one of the seven continents that are separated on earth
+    Azimuth- and angular measurement in a sphere which is in between the 
+    two vectors called a projected vector and a reference vector
+    Altitude - the measurement of how high up in the atmosphere someone or something is
+    Atlas - An atlas is a book full of maps, flat printed globes, clues or charts to do
+    with planets(especially the earth) which tell where things are and percentages of things
+    happening.
+    Border- the line that separates two countries  apart 
+    Cartographer - a person who draws maps and reads them very well.
+    Compass - this is a device used to tell you the directions of north, south, east and 
+    west and the degrees.(north=0 degrees,east =90 degrees)
+    Geography - Earth Writing (Geo = Earth, Graphy = Writing) Geography is Latin for
+    Earth writing.
+    Physical geography - Land, ocean, seas and the atmosphere
+    Human geography - The human life, electricity, buildings and roads
+    Environmental geography - The interaction between natural life and human life, like 
+    farms because the animals and grass are natural but the tractors and the farm they 
+    take care of is human because they've changed it by adding barns and everything.
+    OS symbols - Ordnance Survey symbols, used on OS maps
+    Relief - The shape and height of a piece of land
+    Contour lines - When contour lines are close together it means the slope/hill is steep.
+    When the contour lines are widely spaced it means the slope/hill is gentle.
+    Spot heights - These give the exact height pf a point on the map. They are shown as a
+    blue dot and each dot has a number next to it.  The number is the height in metres. A
+    triangular pillar is used to show height. These are drawn as blue triangles with a dot
+    inside on the map.
+    Layer colouring - This can also be called layer shading. Areas of different height are
+    shown by bands of different colours. Brown is usually used for height ground and green
+    for lowest ground.
+    
+    **Revision:**
+    
+    The one child policy was a policy in China that a family could only have
+    1 child unless their **firstborn** was a girl.
+    
+    China has the **highest population** in the world. Its population is 1.443B
+    
+    The **Great Wall Of China** is approximately **21,196 km** long
+    
+    China is located in the East of **Asia.**
+    
+    The Yangtze river is located in China and flows **6,300 km (3,900 miles)** to reach the
+    **East China sea near Shanghai.** The Yangtze river is the **third** longest river in the world.
+    
+    **Primary Sector:**
+    Any industry involved in the extraction and production of raw materials, such as
+    farming, logging, hunting, fishing, and mining.
+    
+    **Secondary Sector:**
+    Includes all branches of human  activities that transform rawm aterials into products 
+    or goods.
+    
+    **Tertiary Sector:**
+    Involves the selling of services and skills. They can also involve selling goods and
+    products from primary and secondary industries.
+    
+    **Quaternary Sector:**
+    Consists of those industries providing information services, such as computing, ICT 
+    (information and communication technologies), consultancy (offering advice to
+    businesses) and R&D (research, particularly in scientific fields).
+    
+    ---------------------------------------------------------------------------------------
+    **Revision:
+    1) 
+    
+    1)**Solution
+    **2)**Abrasion
+    **3)**Attrition
+    **4)**Hydraulic Action
+    
+    **2)** Erosion is when the sea hits the land and it breaks away rocks slowly.
+    **3)** 
+    
+    ```
+    
+- Revision
+    - Plate boundaries
+        - Constructive plate
+            
+            
+        - Conservative plate
+            
+            
+        - Destructive plate
+            
+            
+        - Collision (destructive) plate
+            
+            
+    - Volcanoes
+        
+        
+    - Earthquakes
+        
+        
+    
+- Revision 2: 17/2/22
+    - Global Atmospheric Circulation
+        
+        Global = Earth
+        
+        Atmospheric = The air above our heads
+        
+        Circulation = The circular movement of air around the earth, known as cells. These cells join together and move heat.
+        
+        - Describe how sunlight intensity varies across the globe (2)
+            
+            **It is hotter at the equator because the curvature of the earth makes the solar radiation have to pass through more of the atmosphere at higher latitudes, which reduces the energy. It is more concentrated at the equator as it is the closest to the suns rays. (2)**
+            
+            - Latitude - Measurement of distance in degrees south or north of the equator.
+        
+        **Hot air rises - Low pressure and it is wet and stormy weather**
+        
+        **Cold air sinks - High pressure and it is clear and dry weather**
+        
+        Coriolis effect - Causes winds to turn right north of the equator and left south of the equator, due to the Earths rotation.
+        
+        - Explanation
+            
+            Warm air rises at the equator
+            
+            As it rises it cools and moisture within the air condenses and forms cloud and rain.
+            
+            Because the air is rising the pressure is low
+            
+            Air cools as it moves away from the equator
+            
+            At about 30 degrees north/south the cold air falls towards the earth surface.
+            
+            As it does it tends to warm and tends to reduce rainfall
+            
+            Pressure in these areas tends to be high
+            
+            Once the air reaches the surface, pressure differences cause air to move along the surface back towards the equator.
+            
+        - Different cells
+            - Ferrel cell - At 60 degrees North and South of the equator, the surface air meets colder air from the poles, which causes it to rise, creating a belt of low pressure. This air either moves back towards the equator or the poles.
+            - Hadley cell - At the equator, air is warm. This air rises as its less dense.  The hot air tries to move back to the poles. At about 30 degrees North/South it cools and sinks, going back to the equator.
+            - Polar cell - At the two poles there is a band of high pressure, and the cold air sinks to the equator.
+    - Formation of tropical storms
+        - Tropical storms form at low latitudes between 5-30 degrees.
+        - The ocean temperature needs to be 27 degrees for a tropical storm to form
+        - In the northern hemisphere they spin anti-clockwise and clockwise in the Southern due to Coriolis effect.
+        - Order of how they form
+            - Warm, moist air above the ocean rises, creating an area of low pressure
+            - Surrounding cooler air is drawn into the area of low pressure, causing winds
+            - The cool drawn-in air now warms up and takes moisture, causing it to rise
+            - The large mass of rising, warm air cools and condenses, forming large cumulonimbus clouds and heavy rain.
+            - Latent heat released during condensation helps to power the storm
+            
+    - Typhoon Haiyan
+        
+        Typhoon Haiyan was in the Phillipines, 3 Nov - 11 Nov 2013
+        
+        **Primary impact - Direct result of natural hazard**
+        
+        **Secondary impact - Occur as a result of primary impact**
+        
+        - Measuring hurricanes
+            
+            The measure typhoons/hurricanes with a Saffir-Simpson scale.
+            
+            It tells the wind speed and storm surge in feet.
+            
+            There are 5 categories
+            
+            [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGyv-kaUl0tNn_Xd8VPo08SBWcnUZmBElDyg&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGyv-kaUl0tNn_Xd8VPo08SBWcnUZmBElDyg&usqp=CAU)
+            
+    - Tornadoes
+        
+        We categorise tornadoes using the Fujita tornado scale. (USA 1920 - 1998)
+        
+        [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOSLWET9rM4ydmGMGtmj_wlO6Itw40TiY1A&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOSLWET9rM4ydmGMGtmj_wlO6Itw40TiY1A&usqp=CAU)
+        
+        - How tornadoes form:
+            - Ground temperature increases, moist air is heated and rises.
+            - The warm moist air punctures the layer of cold dry air above it. A thunder cloud may form.
+            - A storm quickly develops.
+        - Tornado Alley
+            
+            Kansas
+            
+            Oklahoma
+            
+            Missouri
+            
+            Arkansas
+            
+            South-Dakota
+            
+        - Upwards movements of air can become rapid. Winds from different directions cause it to rotate.
+        - A cone or funnel drops out of the clouds
+            - The vortex of wind varies in size and shape.
+            - A tornado can last several seconds to more than an hour.
+        
+    - UK’s Heatwave
+        
+        Heatwave - A prolonged period of abnormally hot weather
+        
+        Was in 2018, the joint hottest year on record
+        
+        The UK’s highest temperature  ever recorded was 38.5 degrees in August 2003.
+        
+        The Uk’s hot temperature in 2018 in Faversham, Kent was 35.3 degrees.
+        
+        The average temperature was 15.8 degrees
+        
+    - Great storm on 1987
+        
+        **Depression** caused the storm
+        
+        **Depression is an area of low pressure which moves from west to east in the Northern hemisphere. Winds blow anti-clockwise in a depression along the isobars. You can work out the wind direction by following the isobars. Where warm air meets cold air, the warm air is pushed upwards where it cools, condenses and precipitates.**
+        
+        Frontal rainfall - Warm air forced to rise over cold air and rains heavily alont the front
+        
+    
+    **3 P’s**
+    
+    **Protection**
+    
+    **Planning**
+    
+    **Prediction**
+    

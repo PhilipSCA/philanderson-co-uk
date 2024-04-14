@@ -3,9 +3,12 @@
 
 - [english](#english)
   - [contents](#contents)
-  - [random terms](#random-terms)
+    - [Vocabulary](#vocabulary)
     - [Language techniques](#language-techniques)
     - [Structural techniques](#structural-techniques)
+    - [Poetry](#poetry)
+      - [Ozymandias](#ozymandias)
+      - [Storm on the Island - Seamus Hearney](#storm-on-the-island---seamus-hearney)
     - [Quotes](#quotes)
       - [The Sign of Four](#the-sign-of-four)
       - [Macbeth](#macbeth)
@@ -39,6 +42,28 @@ Adversary - An opponent
 Stedfast - Firm in belief, faithful
 Sovereignty - Supreme power or authority
 Pernicious - Having a harmful effect, in a subtle or gradual way.
+Maternal - Relating to mothers
+Manipulation - to influence or control someone/a situation to your advantage.
+Flashback - A vivid reliving of a past experience
+Exploitation - Take advantage of someone for personal gain
+Morality - A code of right and wrong, people who do right are moral and people who do 
+wrong are immoral.
+Culpable - Responsible/to blame
+Manslaughter - The legal term for an accidental murder
+Trauma - An emotionally distressing experience or series of events that impacts mental
+health negatively.
+Keen - Intense or sharp, determined
+Flabbergasted - Astonished or surprised and shocked
+Plummet - Fall/drop straight down at high speeds
+Inevitable - Unavoidable/Unpreventable
+Prudent - Showing care or thought for the future
+Spontaneous - Said or done without being planned in advance
+Frugal - Avoiding waste
+Compromise - An agreement in which both sides agree
+Scrutinize - Examine carefully
+Adversity - A diffucult or unpleasant situation
+Benevolent - Showing or motivated by sympathy and understanding
+
 
 ### Language techniques
 Alliteration - Starting words with same letter/sound

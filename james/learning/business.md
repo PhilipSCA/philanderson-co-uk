@@ -6,6 +6,8 @@
   - [contents](#contents)
     - [random terms](#random-terms)
     - [2.3 - Making Operational Decisions](#23---making-operational-decisions)
+  - [Year 9](#year-9)
+- [Business Studies](#business-studies)
 
 
 ### random terms
@@ -282,3 +284,123 @@ Customer engagement - Attempt to make customer feel part of something
 Customer feedback - Comments, praise or criticisms given to reflect.
 Customer service - Methods used by a business to look after customers.
 ```
+
+
+## Year 9 
+
+
+
+
+# Business Studies
+
+- The Dynamic Nature of Business
+    - Business Ideas
+        
+        **Reasons for new business ideas:**
+        
+        - Technology
+        - Changes in consumer wants
+        - Products and services becoming obsolete
+        
+        **How new business ideas come about:**
+        
+        - Original ideas
+        - Adapting existing ideas/products
+        
+        New business ideas come about because of the **dynamic nature of business**
+        
+    - Risk and Reward
+        
+        Entrepreneurs face risk and reward when starting a business
+        
+        - **Risks**
+            - Risk of failure
+                - Most likely to fail in the early days
+            - Financial loss
+            - Lack of security
+                - If the business is not making any profit, the entrepreneur may have no money to live off.
+                
+        - **Rewards**
+            - Financial reward
+            - Dissatifaction with their current job
+                - Many have had full time jobs that they haven’t enjoyed that much.
+            - Pursue an interest
+                - Simply want to set up a business about something they are interested in.
+            - Be their own boss
+            - Business Success
+            - Independence
+    - The Role of Business Enterprise
+        - Goods
+            - Tangible and physical items
+            - e.g PlayStation
+        - Services
+            
+            Non-physical actions to help a customer
+            
+            e.g Snapchat (Apps)
+            
+        
+        **B2B - Business to Business**
+        
+        **B2C - Business to Customers**
+        
+        - Needs
+            
+            Things people cant live without
+            
+            e.g Food and water
+            
+        - Wants
+            
+            Things you dont need but would like to have.
+            
+    - The Role of the Entrepreneur
+        
+        **The Skills of an Entrepreneur:**
+        
+        - Time management
+        - Leadership
+        - Identify business opportunities
+        - Risk taking
+        - Good communication
+        - 
+        
+        **They have to be:**
+        
+        - Innovative
+        - Hardworking
+        - Organised
+        - Willing to take risks
+    - Added Value
+        - Five reasons for Added value
+            - Quality
+            - Brand name
+            - Convenience
+            - Design
+            - USP (Unique Selling Point)
+        - Four factors of production
+            - Capital
+            - Land
+            - Labour
+            - Enterprise.
+    - Key terms
+        - Innovation
+        - Gaps in the market
+        - Invention
+        - Obsolescence
+        - Consumer taste
+- 1.1 and 1.2 Revision
+    - 9 and 12 Markers
+        - 9 Marker
+            
+            **How to answer a Justify - 9 marker**
+            
+            1. Make a decision to which option you think is best
+            2. **Paragraph 1:** Give an advantage of the option you chose - Your **Point -** Use three connectives… (”which means”… “therefore”… “resulting in”…)
+            3. **Paragraph 2:** Give an advantage of the other option - State the point - Use two more connectives (”this means that”… “so”…)
+            4. **Paragraph 3:** Conclusion
+                1. Answer the question - Overall, I think the business should do (option 1**/**option 2)
+                2. Justify why you’ve chose that option - Use “not only would it be good because” then (refer to points in previous paragraph). Then say it would also be good because (give additional information in context of case study)
+                3. It depends on - State what your judgement depends on by explaining at least one **it depends on** factors that your judgement hinges too.
+                    
+                

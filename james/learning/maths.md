@@ -5,6 +5,7 @@
 - [maths](#maths)
   - [contents](#contents)
   - [random terms](#random-terms)
+  - [Year 9/10](#year-910)
 
 
 ## random terms
@@ -103,3 +104,28 @@ Linear sequence - Increments by same amount
 Triangular sequence - +1, +2, +3, +4 (1, 2, 4, 7, 11, 16, 22)
 
 ```
+
+## Year 9/10
+   
+- Random word list
+  
+  ```
+  Congruent - when two shapes are identical in shape and angles and form.
+  Parallel - two lines that are straight and never meet
+  Polygon - a polygon  is a plane figure that is formed by three or more straight lines called
+  sides because no shape has two or one sides.
+  Perpendicular - A line that is at a 90-degree angle on a line that makes a right angle
+  Right angle - A 90-degree angle 
+  Acute angle - An angle below 90-degrees
+  Obtuse angle - An angle above 90-degrees but below 180-degrees
+  Reflex angle - An angle above 180-degrees but below 360-degrees
+  Perimeter - Length of all the sides on a shape added together
+  Rounding - When a number is either 1,2,3 or 4 you round down (back to zero) when its
+  either 5,6,7,8 or 9, you round up (up to the next ten/hundred/thousand)
+  Area of a square formula = A=s2 (the area is the sides squared)
+  Area of a rectangle = b x h (base x height)
+  Area of a parallelogram = b x h (base x height)
+  Area of a triangle = 1/2 b x h  (base x height times divided by 2)
+  
+  ```
+  
