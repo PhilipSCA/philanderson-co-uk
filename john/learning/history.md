@@ -311,6 +311,23 @@ Economic: - Flemish & Walloons - 1500s - help Canterbury grow, 1,000 looms, empl
 Huguenots - train 500 apprentices - new techniques like brocade and taffeta - fashion industry grows
 Huguenots - 10% of funds to set up Bank Of England - helped set up Sheffield Steel Industry
 
+## Anglo-Saxons
+### Government
+Kings Powers include:
+- making new laws
+- controlling minting & circulation of new coins 
+- Taxes
+- Executing God's will on earth
+- Giving/taking away land
+- raising fleet and army (fyrd)
+Witan - King's council
+Wergild - money paid to end/avoid blood feuding
+Shire reeve - Sheriff - King's representative in local government - King gave orders through 'writs'
+Thegns - Local lords
+Ceorl - free peasants
+Population 10% slaves, 90% lived on countryside
+Bishops - controlled church districts
+
 
 
 
