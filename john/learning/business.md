@@ -280,6 +280,10 @@ Financial data - used to:
   1) Different interpretations of data 
   2) Data becomes out of date quickly
   3) Qualitative factors ignored
+
+
+
+
 ## Mark Scheme Tips:
 - A01 - demonstrate knowledge and understanding of business concepts/issues
   - AO1a) knowledge
