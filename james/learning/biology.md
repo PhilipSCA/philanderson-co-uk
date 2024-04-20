@@ -8,6 +8,10 @@
     - [B2: Cell division](#b2-cell-division)
     - [B4: The Heart and circulatory system](#b4-the-heart-and-circulatory-system)
     - [B6: Preventing and Treating disease (_05/01/24_)](#b6-preventing-and-treating-disease-050124)
+    - [B?? - Homeostasis](#b---homeostasis)
+    - [B??  - Ecology](#b----ecology)
+    - [B11 - Hormonal condition](#b11---hormonal-condition)
+  - [Year 9/10 Revision](#year-910-revision)
   
 ## random terms
 
@@ -259,3 +263,170 @@ Type 1 diabetes - Not enough insulin from pancreas, glucose is too high.
 Type 2 diabetes - Body becomes resistant to insulin from being overweight.
 
 ```
+
+## Year 9/10 Revision
+                    
+- Random Vocabulary
+  
+  ```
+  Cell - what makes up living things
+  Nucleus - Main part of a cell
+  Cytoplasm - The semi-fluid in a cell
+  Vacuole - Main part of a Plant cell
+  Mitochondria - Small parts in a cell
+  Cell membrane - The edge of an animal cell
+  Cell wall - the edge of a plant cell
+  Diffusion - process of particles travelling from an area of high concentration to
+  an area of low concentration
+  Osmosis - Diffusion in water, there are three types of osmosis; Isotonic, hypotonic
+  and hypertonic.
+  ```
+  
+- Genes
+  - Natural selection
+      - Continuous variation
+          
+          This type of variation is difficult to group. There are some extreme examples and most people fall in the middle. Some examples are height and weight.
+          
+          These are represented on a line graph.
+          
+      - Discontinuous variation
+          
+          This type of variation is easier to group. Groups have hard borders and you cannot fall between groups. Some examples are sex and blood group
+          
+          Discontinuous data can be represented on a bar or pie chart.
+          
+      - Variation
+          
+          Animals in the same species vary because of their slightly different genes
+          
+          For example, not all cheetas can run at the same speed. Some are slightly faster and some are slower than others.
+          
+          This is to do with the genes that control muscle size, aerodynamic head shape and so on.
+          
+      - Competition
+          - Because of the differences, some cheetas are better adapted to survive.
+              - They find it easier to hunt, eat and live to an older age so that they can breed.
+          - If they are more likely to breed, those genes that made them such good hunters will be passed onto their offspring.
+          - The cheetahs that were slow don’t survive, and don’t pass on the genes for slowness or poor aerodynamics.
+          - Over time, the cheetah population is refined and becomes better suited to its environment.
+  - Relationships between Organisms
+      - Organisms in the same habitat
+          
+          Organisms are dependent on one another for a wide range of reasons:
+          
+          - They provide a food source (any organism that is consumed)
+          - They help with pollination (insects such as bees)
+          - They provide shelter (some species of tree)
+      - Pollination
+          
+          Humans depend on pollination more than others considering how we farm crops for large-scale agriculture and consumption.
+          
+      - Negative Impacts
+          - Some organisms can affect their environment and often impact other species negatively.
+          - An example is:
+              - When a species over hunts a particular population causing them to die out - this can have implications for other organisms.
+      - Human impacts
+          - If pollutants from humans make it into the environment, this can cause an accumulation of toxins in certain apex predators.
+          - This can kill the predators.
+          - Large-scale destruction of habitats (e.g. cutting down a rainforest) can have a huge effect on the organisms who live in that environment.
+  
+- Revision 2
+  - Catalysts and Enzymes
+      - A catalyst speeds up a reaction without being used up. It can be used over and over again.
+      - Lock and Key theory
+          
+          This is a theory that each substrate can fit into a certain enzyme that has an active site (A gap where the substrate can fit into). Like one key can fit in one lock to unlock it.
+          
+          E + S → ES → EP → E + P
+          
+      - Proteins
+          - **Proteins - They build up tissues and make up enzymes**
+          - Protein rich foods include meat, fish, pulses and cheese.
+          - Proteins are sequences of units called amino acids
+          - Proteins can denature of the **temperature** is **too high** or **pH** is **too high or low**
+      - Digestion of Proteins
+          - There are **20 natural amino acids**
+          - Proteins are broken down by protease
+          - Protein is 3 amino acids long, so the **max combination is 20³ = 8000**. (20 different amino acids)
+          - Amino acids are **covalently bonded** in a protein
+          - Proteins are folded, coiled and twisted giving a **unique 3D shape.**
+          - When a protein loses its shape it becomes **denatured**
+      - Metabolism - All the reactions that happen in a cell/the body
+      - Anabolism - Building up large molecules from smaller ones, opposite of digestion.
+      - Catabolic - Breaking up (one → many)
+      - Isomerisation - They change one molecule into another (one → one)
+      
+- Revision 3 - Year 10 - Blood Vessels and the Heart
+  - Key points
+      
+      
+      - Blood - A tissue of blood plasma, red blood cells, platelets and white blood cells
+      - Plasma - Yellow liquid that transports
+          - Red and white blood cells
+          - Wasted Carbon dioxide to the lungs
+          - Urea from liver to kidneys
+          - Digested nutrients to cell
+      - Red Blood cells - Biconcave disks, no nucleus, packed with red haemoglobin that carries oxygen to the body cells
+      - White Blood cells - Part of the body’s defence against microorganisms
+      - Platelets - Small pieces form scabs over cuts
+      - Circulatory System - Transports substances to/from body cell. Made up of
+          - Blood
+          - Blood vessels
+          - The Heart
+      - The three main blood vessels:
+          - Arteries - Carry blood away from the heart at high pressure
+          - Veins - Carry blood back to your heart, Valves are used to stop blood flow
+          - Capillaries - Network of tiny, thin vessels
+      - Coronary Arteries - Blood vessels that supply heart with oxygen
+      - Aerobic Respiration - Process by which all living things get energy from Glucose and Oxygen
+          
+          Glucose + Oxygen → Carbon dioxide + Water 
+          
+- Revision
+- Nutrıtıon
+  - Balanced diets
+      
+      There are seven key parts to a healthy diet:
+      
+      Carbohydrates - An energy source
+      
+      Lipids (fats) - An energy source
+      
+      Proteins - for growth and repair of tissues
+      
+      Vitamins - help prevent deficiency diseases
+      
+      Minerals - are needed for key chemicals in your body.
+      
+      Fibre - helps keep you regular and avoid constipation
+      
+      Water - so you can stay hydrated
+      
+  - Deficiency diseases
+      
+       If you lack a significant amount of particular nutrients you may develop a particular disease. Examples of deficiency diseases include:
+      
+      - Scurvy - This comes from not eating enough vitamin C. It causes issues in your connective tissues.
+          
+          Scurvy is caused by a vitamin C deficiency
+          
+          The body cant make enough collagen which can lead to bleeding and swollen gums, tiredness and muscle pain.
+          
+      
+      Rickets - This comes from not eating enough vitamin D. This vitamin is vital for bone development so not consuming enough will lead to a softening of your bones. Rickets gives you bowed legs.
+      
+      Goitre - This comes from not eating enough iodine. The thyroid gland in your neck swells up.
+      
+      - Anaemia - This comes from not eating enough iron. It is where you dont have enough red blood cells. Iron is a key component of haemoglobin, the chemical that transports oxygen around your body. This is why blood has a metallic taste.
+          
+          Anaemia is caused by a lack of iron in the diet or blood loss.
+          
+          The body cant make enough haemoglobin and red blood cells, which leads to tiredness, pale skin and shortness of breath 
+          
+      
+      Kwashiorkor - This is caused by severe protein deficiency. The body cant grow and repair its tissues, and the immune system becomes weak. It can also cause stunted growth and a swollen belly.
+      
+  
+  If you consume too many calories you are likely to become obese, or overweight. If you consume too few calories you are likely to become underweight. The average amount of energy a man must eat in a day is 2,500 kcal. The average amount of energy a woman must eat in a day is 2,000 kcal.
+  

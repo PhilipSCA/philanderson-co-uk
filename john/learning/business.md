@@ -145,6 +145,7 @@ T - Time
 - Objectives help a business as - it encourages entrepreneurs to improve - it sets out your clear goals - influences better decision-making.
 - Financial aims and objectives: Survival - no risks, Profit, Market share, Sales, Financial security
 - Non-financial goals: Social objectives, Personal satisfaction, Challenges, Independance & control
+
 #### 1.3.2 - Revenue, costs and profits
 Revenue - income earned by a business over a period(eg. sales revenue, turnover) - Quantity sold x price
 Costs - expenses involved in making a product
@@ -165,6 +166,7 @@ Break-even point = fixed costs / (selling price - variable costs) per unit (Cont
 Contribution - selling price per unit - variable costs per unit - profit earned each sale
 Margin of safety - number of units sold above break-even point | how much sales can fall before BEP
 Margin of safety = sales in units - break-even output | actual sales - break-even sales
+ 
 #### 1.3.3 - Cash flow
 Cash flow - flow of money into and out of a business
 Cash inflows - money into the business (interest recieved, rent recieved, gov. grants, sales, sale of premises, overdraft)
@@ -191,7 +193,7 @@ Trade credit - arrangement to buy something and pay for it later
       - Dis: Difficult for new start-up businesses to get supplier - risk business will fail
       - Dis: expensive if payment date missed
  - Credit limit - max amount of money you can borrow on your credit card at a time
- - Credit period - days that a customer is allowed to wait before paying an invoice
+ - Credit period - days customer allowed to wait before paying an invoice
 Long Term:
 Personal Savings - money that a person keeps in an account, can be used for the business
     - Adv: Limits amount of debt needed
@@ -278,6 +280,10 @@ Financial data - used to:
   1) Different interpretations of data 
   2) Data becomes out of date quickly
   3) Qualitative factors ignored
+
+
+
+
 ## Mark Scheme Tips:
 - A01 - demonstrate knowledge and understanding of business concepts/issues
   - AO1a) knowledge
@@ -327,4 +333,263 @@ Conclusion: AJH
 - For top-level - add an 'it depends on' factor
 
 ### Evaluate (12 marker):
-- 
+
+
+
+
+
+
+
+
+
+
+# exam spec
+
+### 9 marker
+
+- Option 1,2 or 3
+    - Option 2 - Pro and then a con
+    - Option 1 - Pro or con then another pro or con
+    - Option 3 - Pro or con of option 1 then pro or con of option 2
+    - Conclusion
+        - AJH - Answer the question, Justify, However…
+        - Answer the question
+        - ‘Justify’ - compare options and choose which one you think is best
+        - However…
+
+### 12 marker
+
+- ‘Evaluate’ - You have to decide what to do and explain why
+- P1. identify a benefit/reason for success and develop
+- P2. Counteract P1 with a however point
+- P3. Identify another benefit and develop
+- P4. Counteract P4 again with a ‘however’ point
+- P5. Conclusion - AJH and your decision
+- Conclusion - same as 9 marker - AJH
+
+## Topic 1.1 & 1.2
+
+- Topic 1.1
+    - E-commerce - businesses profit from using the internet online like websites
+    - M-commerce - businesses profit from using your phone and apps
+    - Entrepreneur - someone willing to take risks to start a business
+    - Main customer needs
+        - Price
+            - Better prices will attract more customers to buy it, if it satisfies them
+        - Quality
+            - Improves customer satisfaction, reputation of business and more sales
+        - Convenience
+            - Increases customer satisfaction, easier to use, make them buy it again
+        - Choice
+            - Customers need choice because they want new stuff
+            - You will lose customers without variety
+    - Market research
+        - Primary research
+            - Questionarres, surveys, focus groups, Interviews, observation
+            - first-hand research yo ucarry out by yourself
+        - Secondary research
+            - The internet, books, statistics, magazines, market/mintel reports
+            - Research already done by other people
+    - Adding value
+        - Design
+        - Brand
+        - Convenience
+        - Quality
+    - USP - Unique Selling Point- a feature about your business that competitors dont have
+    - Qualititative data - descriptive data that cannot be measured using numbers. Opinions etc.
+    - Quantitative data - numerical data - statistics and graphs etc.
+- Topic 1.2
+    - Market segmentation
+        - Separating a market into different categories
+        - Location - where are people most likely to be etc
+        - Demographics - religion, age, gender, things about you
+        - Behaviour - How customers will behave e.g - In summer, people will want water bottles etc
+        - Lifestyle
+        - Income - how much money they have, what the can afford
+        - Age - how old they are
+        - Businesses use market segmentation to help them reach the right target audience leading to more sales off of the product due to their consumer wants.
+    - Market mapping
+        - A diagram which sets out similar competitors in a market, mapping them with their features, usually price and quality
+        - Helps spot gaps in a market, leading to making new products and different from competitors, attract customers
+
+## Topic 1.3
+
+- Formulas
+    - Revenue = Quantity x price per unit
+    - Profit = revenue - total costs
+    - Variable cost = cost per item x number sold
+    - Gross profit = revenue - cost of sales
+    - Net profit = Gross profit - other expenses
+    - Interest(%) = (total repayment - borrowed amount /  borrowed amount) x 100
+    - Break-even point = fixed cost/contribution
+    - Contribution = selling price per unit - variable cost per unit
+    - Margin of safety = actual sales in units - break-even level of output
+    - Net cash flow = cash inflow - cash outflow
+    - Closing balance = opening balance + net cash flow
+    - Opening balance = closing balance of last month
+- Variable costs - cost that changes with the level of output e.g packaging, bills, materials
+- Fixed costs - costs that stays the same with the level of output e.g rent, salaries, tax, insurance
+- Profit and Loss accounts
+    - also known as income statements
+    - Businesses use this to keep track of revenue and costs to see if the business is making a profit or loss
+    - Losses are shown in brackets
+- Break-Even
+    - the point a businesses costs equals their revenue. They have made neither a profit or loss
+    - A business will know how many products they need to sell to earn enough revenue to pay their expenses.
+    - Margin of safety - number of units sold above the break-even point
+    - Break-even diagrams help a business make better business decisions.
+- Cash flow
+    - Cash flow - process of money into and out of a business
+    - Insolvency - when a business does not have the money to pay its debts
+    - Cash flow forecast - prediction of money coming in and out of a business over time, usually month by month.
+- Sources of Finance
+    - Short-term - a quicker, shorter way of getting finance to help maintain a positive cash flow
+    - long-term - a source of finance designed to be paid back over a long period of time. Often a larger sum of money.
+    - Short-term: Bank Overdraft
+        - allows the business to withdraw funds from its account that they dont have, up to an agreed limit, to then pay back.
+        - Advantages - interest only paid on the amount used
+        - Drawback - cannot be used for large borrowing
+    - Short-term: Trade Credit
+        - Trade credit is when a business has goods from another business then pays for it at a later date.
+        - Drawbacks
+            - danger of bad reputation and losing future credit arrangements with supplier, if bills not paid on time
+            - difficult for new start-up businesses to do trade credit as risk that business will fail
+        - Advantage - buyer loyalty
+    - Long-term: Personal Savings
+    - Long-term: Bank Loans
+        - An amount of money borrowed from the bank with an agreed repayment schedule.
+        - Advantages
+            - Guaranteed the money for a certain period - generally 3 to 10 years
+            - Interest rates may be fixed for the term, making it easier
+        - Disadvantages
+            - Time-consuming
+            - Security - normally has to be given back on some of the assets of the businesses personal assets
+            - Lack of flexibility
+    - Long-term: Share capital
+        - Small or new business that are set up as private or public limited companies can raise finance by selling shares in the company
+        - Benefits
+            - Large sum of money can be raised
+            - Capital doesnt have to be repaid
+            - No interest
+        - Drawbacks
+            - Possible loss of control if original owners sell more than 50% of total shares
+            - Need to satisfy shareholders and share price growth
+            
+    - Long-term: Venture capital
+        - gained from professional investors, who typically invest £10,000 - £750,000 into smaller business
+        - Benefit
+            - Venture capitalists often make their own skills, experience and contacts available to the firm
+        - Drawback
+            - Venture capitalists take a long time to make a decision
+    - Long-term: Crowd funding
+        - Crowd funding involves many people investing small amounts of money in a business, usually online.
+        - Benefit
+            - Provides cheap investment when other sources may not be available.
+        - Drawback
+            - A lot of scammers
+            - expensive and a lot of effort
+    - Long-term: Retained Profit
+        - Profit that the owner puts back into the business
+        - Benefits
+            - cheap, no interest paid
+            - Flexible - homes have complete control
+        - Drawback
+            - If a business needs some temporary finance, then it is unlikely to have anymore profits
+            - Growth may be slow
+
+## Topic 1.4
+
+- 1.4.1
+    - Sole trader - a business owned and run by one person
+    - Advantages of being a sole trader
+        - You get all the profit
+        - You make all the business decisions - no arguments
+        - Quick and easy to set up
+        - Financial information is kept private
+    - Disadvantages of being a sole trader
+        - Big workload
+        - Unlimited liability
+        - Difficult to run and grow business themselves
+        - Few holidays and breaks
+        - Unincorporated
+    - Partnership - a business jointly owned by 2-20 people
+    - Advantages of being a partnership
+        - Shares liability - risk and decisions
+        - Shares workload
+        - Better decisions/more ideas
+        - More start-up capital
+    - Disadvantages of being a partnership
+        - Unlimited liability
+        - Unincorporated
+        - Possible disagreements with partners
+        - Profits are shared
+    - Private limited company (LTD) - a business owned by multiple shareholders who have invested each a sum into the business.
+    - Advantages of being a LTD
+        - Limited liability
+        - Greater availability of finance
+        - Incorporated
+        - Business continues to trade even if shareholders change
+        - Easier to raise capital
+    - Disadvantages of being a LTD
+        - Expensive to set up
+        - Must publish accounts every year publicly
+        - Profits are shared between shareholders
+        - Possible disagreements between shareholders
+    - Franchise
+        - Franchisor - a person or business who allows others to buy into their franchise business
+        - Franchisee - someone who buys into the franchise
+        - Advantages of being a franchise
+            - Franchisee gets access to free training and marketing
+            - Franchisee part of an established business - already successful
+            - Easier to make money, obtain finance
+            - Lower risk than setting up a new business
+        - Disadvantages of being a franchise
+            - Franchisee has to pay a royalty fee
+            - Expensive to set up
+            - Franchisee cannot make individual business decisions without consulting with franchisor.
+    - Unlimited liability - the owner is responsible for all debts and personal assets can be taken away.
+    - Limited liability - the business owner is not fully responsible and can only lose money invested in the business.
+- 1.4.2
+    - Location
+        - Proximity to market - how close a business is to their customers.
+        - Proximity to labour - how close a business is to their workers.
+        - Proximity to materials - how close a business is to their supplies and materials
+        - Proximity to competitors - how close a business is to their competitors in the same market
+        - 4 factors on location:
+            - Raw material
+            - transport
+            - market
+            - capital
+        - The internet impacts location because they can pick a cheap location, not having to worry about proximity to thier customers - market, which can save money on location and put it in a better spot for materials or labour.
+    - 3 benefits of E-commerce:
+        - No need for a physical store
+        - Can reach a bigger target audience, easier accessibility
+        - Easier to set up for entrepreneurs
+- 1.4.3
+    - Marketing mix 4 P’s
+        - Price
+        - Product
+        - Place
+        - Promotion
+            - The aim of promotion is to make people aware of their product, or business and to persuade people that their product is different to their competitors.
+        - Competitive environment - Understanding your competitors is important as you can adapt your business to beat your competitors. This includes changing or adding: price, location, product range, USP to challenge your competitor.
+        - Changes in customer needs or trends - if you dont adapt to the newest trends and styles, you will not be meeting your customer needs, which is key to a business. You need to make sure you are meeting customer needs to keep your customer base and maintain sales.
+        - Changes in technology - if you don’t also keep up with new technology, you can easily fall behind and become obselete like blockbusters. You need technology to run your business and using good technology will make things more convenient and better dated for your business.
+- 1.4.4
+    - Business plan - written document that outlines how their business will be set up and run. A business plan includes:
+        - Business idea
+        - Business aims and objectives
+        - Target market and market research findings
+        - Revenue forecast, costs and profits
+        - Cash flow forecast
+        - Sources of finance
+        - Marketing mix
+    - Advantages of a business plan
+        - Review business progress and ideas
+        - Reduces risk by providing a guide for busienss
+        - Requires market research - useful
+    - Disadvantages
+        - miss business opportunities
+        - unreliable, estimates could be wrong
+        - Time and effort to keep checking plan
+        - Constantly update plan as new circumstances come

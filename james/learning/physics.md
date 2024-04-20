@@ -6,6 +6,8 @@
 - [physics](#physics)
   - [contents](#contents)
   - [random terms](#random-terms)
+    - [P5 -  Forces](#p5----forces)
+  - [Year 10](#year-10)
 
 ## random terms
 
@@ -126,3 +128,259 @@ Resultant force - Overall force acting on a point/object.
 Moments - Turning effect of a force
 Moment formula - M = Fd (Moment = Force x distance)
 ```
+
+## Year 10 
+- Random words
+```
+Motion - the act or vibration of movement, which can be seen.
+Gas - one of the three states of matter, gas is something in the air which you can
+not touch or see and the particles are widely spread.
+Joule - this is the unit of measurement for energy and its equal to 1 watt-second
+Momentum - the product of an object's mass and its velocity which makes things go
+further or curve if you hit them with momentum. This can differ depending on how
+much force is put on the object.
+Influence - when a secondary substance affect other substances making it different 
+from its original place or form
+Variation- this is when a change is made. this especially happens in experiments when
+trying to find different outcomes of something.
+X-ray- when radiation of electromagnetic waves are scanned on your body to see through
+your skin and show your bones to see any broken bones or how badly it is broken.
+Velocity = Speed
+Asteroid - A big rock in space 
+Axis - A line that something rotates on (earth's axis)
+Season - Winter, Autumn, Spring, and Summer, every 3 months the season changes so it
+fits all of the seasons in a year
+Heliocentric - The sun is the center and the planets are observing and orbiting it.
+Ammeter = Measures electric current
+Cell = An electrical power supply 
+Bulb = For light to shine in
+Battery = a source of energy
+Voltmeter = Measures volts
+CLosed switch = Where electricity can flow
+Motor = Converts electrical energy to mechanical energy
+Open switch =  When energy can not flow through 
+Voltage = A force expressed in volts
+P.D = Potential difference, the difference of electrical potential between two points.
+measured in Volts (V)
+Current = Electrons moving
+Force = A push, pull or twist
+Circuit = A thing that loops by starting and finishing at the same place
+Resistance = An electrical quantity that measures how the device or material reduces
+```
+
+- Revision (15/12/21)
+- Energy
+    - Conservation of energy
+        
+        Energy can be transferred or stored, but cannot be created or destroyed
+        
+    - Energy stores
+        - Chemical
+        - Electrical
+        - Thermal
+        - Gravitational Potential
+        - Kinetic
+        - Elastic
+        - Nuclear
+        - Electro-static
+        - Light
+        - Sound (Usually wasted energy)
+        - Heat
+        - Magnetic
+        
+    - How energy can be transferred
+        - Mechanically - Force through distance
+        - Radiation - Waves (light, sound)
+        - Electrically - Electric current
+        - Heating - Temperature difference
+    - Energy formula's
+        
+        J = Joules,   N = Newtons,  kg = Kilograms,   ?/s = speed/velocity ((varies) per second) ,    m = metres,   W = Watts (Joules/s),   s = seconds
+        
+        - Work done
+            
+            Work done**(J)** = energy transferred**(J)** - (500J of work = 500J of energy)
+            
+            Work done = Fd = Force **(N)** x Distance **(m)**
+            
+        - Distance
+            
+            Work done**(J) /** Force**(N)**
+            
+        - Force
+            
+            Work done**(J) /** Distance**(m)**
+            
+        - Gravitational potential energy (GPE)
+            
+            GPE**(J)** = mgh = mass**(kg)** x gravitational field strength**(10)** x height**(m)**
+            
+            Weight**(N)** x length**(m)**
+            
+            Weight = mass x gravitational field strength
+            
+            - Mass
+                
+                M**(kg)** = GPE**(J)** **/** gh **(10 x m)**
+                
+            - Height
+                
+                H**(m)** = GPE**(J)** **/** gm **(10 x kg)**
+                
+        - Kinetic Energy (KE)
+            
+            KE **(J)** = 1/2 x m **(kg)** x v² **(m/s)**
+            
+            = KE = 1/2mv²
+            
+            - Mass
+                
+                m **(kg)** = 2KE**(J)** **/** v² **(m/s)**
+                
+            - Velocity
+                
+                V (**m/s) =** 2KE **(J)** **/** m **(kg)**
+                
+        - Energy efficiency
+            
+            Efficiency = Useful output energy **(J) /** Total input energy **(J)**
+            
+            - Useful energy
+                
+                Useful **(J)** = Total **(J)** - Wasted **(J)**
+                
+                Useful **(J)** = Efficiency **(J)** x Total **(J)**
+                
+            - Wasted energy
+                
+                Wasted **(J) =** Total **(J)** - Useful **(J)**
+                
+        - Power
+            
+            Power **(W)** = Energy **(J)**  **/** Time **(s)**
+            
+            = M **(kg)** x G **(10)** x H **(m) /** T **(s)**
+            
+            = Force **(N)** x Distance **(m) /** Time **(s)**
+            
+        - Energy
+            
+            P x t = Power **(W)** x time **(s)**
+            
+        - Elastic Potential Energy
+            
+            Ee **(J) =** 1/2 x spring constant k **(N/m)** x extension² **(m²)**
+            
+    
+
+- Revision - Yr 10 Circuits - 9/10/22
+- **Components:**
+    - **Diode**
+        - Makes the current flow in only one way
+    - **Resistor**
+        - Resists the flow of current
+        - Resistance stays constant, the current is proportional to p.d(v)
+    - **Variable resistor**
+        - Resistor but resistance can be set by a human.
+    - **LED**
+        - A diode that gives off light.
+    - **Lamp**
+        - Gives off light when current flows through it.
+        - Resistance increases as the temperature increases
+    - **Thermistor**
+        - Resistance decreases as temperature increases.
+    - **LDR**
+        - Resistance decreases as the light intensity increases (gets brighter)
+    - **Cell and Battery**
+        - Provides the p.d(v) and energy for a circuit
+    - **Voltmeter**
+        - Measures p.d(voltage) across a component
+    - **Ammeter**
+        - Measures current throguh a component.
+    - **Fuse**
+        - Resistor that melts if current is too high.
+    
+
+**Series Circuits:**
+
+- Current is always the same
+- Voltage is split up across all components
+
+**Parallel Circuits:**
+
+- Current in each branch adds up to the supply
+- Voltage is the same in each branch
+- Formulas
+    - Charge
+        
+        Charge(Q) = Current(I) x Time(s)
+        
+        Charge is measured in Coulombs but symbol is Q.
+        
+    - Potential difference (Voltage)
+        
+        Work done (W) per coulombs of charge (Q)
+        
+    - Energy Transferred
+        
+        Energy transferred (J) = Charge (Q) x Voltage (V)
+        
+    - Resistance
+        
+        Resistance (Ohms, Ω) = Potential difference (V) / Current (A)
+        
+    - Current
+        
+        Current (A) = Potential difference (V) / Component resistance (R)
+        
+        I = V/R
+        
+- Revision P5 - Electricity in the home
+- Key words
+    
+    DC - Direct Current, Current flows one way
+    
+    AC - Alternating Current, current changes direction.
+    
+    Frequency - The number of times a second that alternating current reverses its direction, measured in Hertz(Hz)
+    
+    Oscilloscope - Voltage and time graphs.
+    
+    Step-up transformers increase voltage and decrease current in the national grid
+    
+    Step-down transformsers increase current and decrease voltage in the national grid
+    
+    Brown wire - Live wire
+    
+    Yellow and Green - Earth (Green for ground)
+    
+    Blue wire - Neutral wire
+    
+    Insulator - Electrical current doesnt pass through it
+    
+    Metal is a conductor.
+    
+    Power - Energy transferred per second
+    
+- Formulas
+    
+    Power = Current x Voltage
+    
+    Energy = Power x Time
+    
+    Power = Energy / Time
+    
+    Cost per kWh = kWh x Cost
+    
+    Power = Current² x Resistance
+    
+    Energy transferred = Charge x Potential difference
+    
+    Charge = Current x Time
+    
+
+What influences how much energy a device uses?
+
+Time is it used for
+
+The power supplied to it

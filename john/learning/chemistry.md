@@ -299,3 +299,174 @@ Human activity affecting greenhouse gases:
 - Agriculture - more farm animals produce methane - digestive waste
 - Creating waste - landfill sites & waste from agriculture - more CO2 and methane released from decomposition of waste
 
+## Conversion Units
+Concentration = mass/volume(g/dm3)
+ - 1 dm3 = 1000 cm3
+mol/dm3 --> g/dm3 = x by Relative formula mass
+g/dm3 --> mol/dm3 = / by relative formula mass
+mega = x 1,000,000
+kilo = x 1000
+milli = /1,000
+micro = /1,000,000
+nano = /1,000,000,000
+
+
+## year 10
+
+
+## Chemistry
+
+```
+**Chemistry - a type of science, which is the study of elements and substances being
+mixed. The Periodic table.
+Chemist - a person who uses chemicals and makes elements as science.**
+
+Consisted - to be composed or made up of lots of substances
+Molecule - this is a microorganism that makes every single thing in the world. 
+This is loads of atoms joined together.
+Particles		little things that make everything
+Solubility - the ability to be dissolved into a solvent
+Alkali - If it has a pH of more than 7, then its alkali. Alkali can be a base.
+Mixture - the process of mixing or being mixed or a combination of different things
+in which the component elements are individually distinct.
+ Nitrogen - the chemical element of atomic number 7, a colorless, odorless unreactive
+gas that forms about 78 percent of the earth's atmosphere. Liquid nitrogen (made by
+distilling liquid air) boils at 77.4 kelvins (−195.8°C) and is used as a coolant. It
+can also be used to accelerate something quickly (boost)
+Carbon Dioxide - air that humans breathe out.
+Unreactive - can't have a reaction
+Lithium - a material
+Uranium - a strong type of metal
+
+
+- Terms
+    - Atom - The atom is the smallest particle of a substance.
+    - Ion - An ion is an atom that has gained or lost electrons and is now charged.
+    - Isotope - A species of an element but the mass number is different from the original element. It has gained or lost neutrons.
+    - Element - A substance made up of only one type of atom. You can find all the elements on the periodic table.
+    - Compound - Two or more different atoms joined together with a chemical bond.
+    - Mixture - made up of two or more substances (elements or compounds) that are not chemically bonded.
+    - Chromatography - A separation technique used to show all the substances or colours in something. e.g used to see all the colours in black ink.
+    - Proton - This is inside the nucleus of the atom and has a positive charge.
+    - Neutron - This is also inside the nucleus of an atom and has a neutral charge
+    - Electron - These are outside circling the atom in shells. Electrons have a negative charge
+    - The amount of protons is always the same as the amount of electrons.
+    - Mass number - The mass number in a element is the larger, normally top number and it is the amount of protons + neutrons or the amount of sub-atomic particles in the nucleus.
+    - Atomic number - The atomic number is the smaller, normally bottom number in an element that tells you how many protons and electrons there are.
+    - Conservation of mass - No atoms can be created or destroyed in a reaction.
+    
+- C1 - Atoms and Elements - Atomic structure
+    
+    **Atoms**
+    
+    - Atoms are made up of 3 subatomic particles:
+        - Protons
+            - Protons have a positive charge
+            - A proton has a relative mass of 1 and a relative charge of +1
+            - The protons are found in the nucleus
+        - Neutrons
+            - Neutrons have a neutral charge and they are neither positive or negative
+            - A neutron has a relative mass of 1 and a relative charge of 0.
+            - Neutrons are also found in the nucleus.
+        - Electrons
+            - Electrons have a negative charge.
+            - Electrons have a relative mass of 1/2000 (or 0.0005), but sometimes you can just say 0, and have a relative charge of -1.
+            - Electrons orbit the nucleus of the atom in shells.
+    - Most of the mass in an atom is concentrated in the nucleus.
+    - The nucleus is where the protons and neutrons are.
+    - The nucleus has an overall positive charge.
+    - The amount of protons in an atom is the same as the amount of electrons.
+    - History of The Atom
+        - In 1803, **John Dalton** discovered atoms and described them as solid spheres, and that different spheres make different elements.
+        - In 1897, **J.J Thompson** discovered electrons. This showed that atoms weren't solid and indivisible. The 'solid sphere' idea of atomic structure had to be changed. The new model was known as the 'Plum Pudding Model'
+        - In 1909, **Ernest Rutherford** and his students Hans Geiger and Ernest Marsden conducted their famous gold foil [experiment.](http://experiment.Th) They fired positively charged alpha particles at a very thin sheet of gold. Some particles passed through and some deflected back so he made the 'nuclear model' where a positively charged nucleus was surrounded by a cloud of negative electrons.
+        - Then **Niels Bohr** saw that in the nuclear model the electrons would quickly spiral down into the nucleus, causing the atom to collapse. He proposed a new model of the atom where electrons exist in shells or orbits of fixed energy.
+    
+    **Elements**
+    
+    - All elements are made up of one type of atom.
+    - Elements all have their element symbol, the atomic number and the Mass number.
+        - The Atomic number is the smaller number in either the top or bottom left corner. The atomic number is the number of protons in the nucleus.
+        - The Mass number is the total number of protons and neutrons in an atom. The mass number is always the bigger number.
+        - To find the amount of neutrons in an atom  you do mass number - atomic number.
+    - An ion is an atom that has lost or gained electrons. Negative ions have more electrons than protons because they have gained an electron. Positive ions have fewer electrons but still the same number of protons. You cant lose or gain protons, only electrons.
+- C2 - Periodic Table
+    - History of the periodic table
+        - John Newlands
+            - Created the first periodic table in 1864
+            - He ordered them by atomic weight
+            - The table was incomplete and some elements were placed in wrong groups
+        - Dimitri Mendeleev
+            - He added gaps to John Newlands table for undiscovered elements
+            - He predicted the properties and masses of these undiscovered elements
+        - Dimitri Mendeleev started the development of the periodic table, arranging elements by atomic mass. He predicted the discovery of other elements and left gaps for them.
+        - John Newlands made the law of octaves in the periodic table
+    - Group 1
+        - The trend in Group 1 is that when you go down the group, the elements get more reactive because the outer electron gets further away from the nucleus and loses its electro-static force. This means that it is easier to lose that outer electron and react.
+        - Group 1 elements are called Alkali metals
+        - Group 1 elements react with oxygen so you have to store them in oil.
+            - As you go down the group, the melting and boiling points get lower and lower because as the ions get larger the distance between the electron and positive nucleus gets further, reducing the overall attraction.
+        - Group 1 elements only have 1 electron on the outer shell so to react they just have to lose their 1 electron.
+    - Group 7
+        - The trend in group 7 Halogens gets less reactive going down the group because the amount of electron shielding increases (more electrons and shells), meaning that the electron is less attracted to the nucleus. This makes it harder to react.
+        - Group 7 elements are called Halogens.
+        - Group 7 elements all require one more electron to obtain a full outer shell and become stable. They need to react with another atom and share an electron to become stable and form a covalent bond.
+            - Group 7 elements react by gaining an electron.  When halogens react they form halides.
+        - In Group 7, melting and boiling points increase going down the group
+    - Group 0
+        - Noble Gases
+        - They are unreactive because they have a full outer shell
+    - Metals are found on the left side of the periodic table because they have few electrons on their outer shell.
+    - Non-Metals are found in the right side because they have many electrons on their outer shell
+    
+- C3 - Bonding and Structure
+    - Ionic bonding
+        - bonding between metals and non-metals
+        - attraction between oppositely charged ions
+        - The ionic bond is the electrostatic force of attraction between a positively charged metal ion and a negatively charged non-metal ion
+        - Ionic compounds form giant ionic lattices that are held together by strong electrostatic forces called ionic bonds
+    - Covalent bonding
+        - Bonding between non-metals
+        - Involves atoms sharing electrons to make the outer shells become stable.
+        - The covalent bonds in polymers are strong.
+        - Covalent bonds are stronger than intermolecular forces
+    - Metallic bonding
+        - an attraction between positively charged ions and negative delocalised electrons
+        - Bonding in metals
+        - The Metallic bond is the force of attraction between the delocalised free-moving electrons and positive metal ions.
+        - Metallic bonds are strong so they can contain a solid structure
+        - They usually have high melting and boiling points because there are a lot of bonds to be broken
+    - Positive ions are called cations
+    - Negative ions are called anions
+    - Group 1 metals always lose 1 electron and become a positive ion
+    - Group 2 metals always lose 2 electrons and become a +2 ion
+    - Group 6 and 7 metals always gain electrons to become negative ions
+    - Small molecules have weak intermolecular forces. This means that they have low melting and boiling points.
+    - Small molecules are often liquids or gases at room temperature.
+    - Small molecules cannot conduct electricity because they don't contain delocalised electrons
+    - An example of a small molecule is Chlorine
+    - Bigger molecules attract other molecules with strong intermolecular forces.
+    - Bigger molecules have higher melting and boiling points than small molecules.
+    - Bigger molecules still don't conduct electricity because they don't contain delocalised electrons
+    - Because ions are in layers, they slide over each other easily when a force is applied
+    - Metals are good conductors of heat and electricity because their delocalised electron can carry both charge and heat.
+    - Allotrope - a substance made up of the same element but in a different arrangement
+    - Buckminsterfullerene - Formula of C60 and is spherical
+    - Diamond
+        - Made up of carbon atoms - Allotrope
+        - Diamond has a very high melting and boiling points - this is because a lot of heat energy is needed to break the covalent bonds.
+        - Diamond cannot conduct electricity - there are no free electrons or ions to carry a charge
+        - Diamond is very hard and has alot of covalent bonds
+        - Each carbon atom is bonded to 4 other carbon atoms by strong covalent bonds
+    - Graphite
+        - Graphite is soft and slippery
+        - layers can easily slide over each other because the weak force of intermolecular forces is easily broken. This is why graphite is used as a lubricant
+        - Graphite conducts electricity - the free electron from each carbon means that each layer has delocalised electrons, which can carry charge.
+        - Graphite is the only non-metal to conduct electricity.
+        - Each carbon atom in graphite is bonded to 3 other carbon atoms by stong covalent bonds
+        - Each layer is held together by intermolecular forces, which is why the layers slide over each other easily.
+- C4 - Chemical Calculations
+- C5 - Chemical Changes
+- C6 - Electrolysis
+
+```

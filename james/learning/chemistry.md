@@ -3,8 +3,10 @@
 ## contents
 - [chemistry](#chemistry)
   - [contents](#contents)
-  - [random terms](#random-terms)
-        - [C13 - Alkanes and Alkenes](#c13---alkanes-and-alkenes)
+    - [random terms](#random-terms)
+      - [C13 - Alkanes and Alkenes](#c13---alkanes-and-alkenes)
+      - [C4 - Quantitative Chemistry](#c4---quantitative-chemistry)
+  - [Year 9/10](#year-910)
 
 ### random terms
 
@@ -267,4 +269,181 @@ Weak acids - Partially ionises in water, small H+ ions released
 Concentration change - H+ concentration changes by 10^n going down pH scale. (Alkalis down to acids)
 Acid + Metal hydroxide --> Salt + Water
 ```
+
+## Year 9/10
+
+- Vocabulary
+
+```
+Elements = different types of atoms
+Molecule = 2 or more atoms join together that are the same
+Compound = 2 or more different atoms or elements join together
+Atom - what makes up everything
+Li2OH = Lithium Hydroxide + Hydrogen = LiHO + H
+```
+
+- Revision
+
+Ion - An atom that has gained or lost an electron.
+
+- Isotope - An atom that has a different amount of neutrons to protons and electrons.
+    - Calculating Relative atomic mass (Ar)
+        
+        This is how to calculate relative atomic mass:
+        
+        ![Untitled](James%200401168870e340ec884f07eddb471741/Untitled.png)
+        
+        - The sideways M below means 'sum of'
+            
+            ![Untitled](James%200401168870e340ec884f07eddb471741/Untitled%201.png)
+            
+        - The numerator is 'the sum of the isotope abundance X the isotope mass' (total mass of atoms)
+        - The denominator is 'the sum of all the isotope abundances' (total number of atoms)
+            - Example:
+                - Cl exists as 2 isotopes, ***35***Cl and ***37***Cl
+                - Isotope abundances:
+                    - 75% ***35***Cl
+                    - 25% ***37***Cl
+                        - Ar = (75 x 35) + (25 x 37) = 3550
+    - Hydrogen has 3 isotopes
+        - Protium
+            - 1 proton and 0 neutrons
+            - 99.98% of hydrogen atoms are protium
+            - Used in hydrogen fuel cells and plastic production
+        - Deuterium
+            - 1 proton and 1 neutron
+            - 0.02% of hydrogen atoms are deuterium
+            - Used in nuclear fusion
+        - Tritium
+            - 1 proton and 2 neutrons
+            - Very rare
+            - Used in thermonuclear fusion weapons
+- Electronic Stucture
+    - Electrons fill an atoms shell in order of increasing energy
+        - The closer a shell is to the nucleus, the lower its energy level, so the first shell that is filled is the closest to the nucleus.
+    - Electron configuration tells us how an atoms electrons are organised.
+    - The innershell (closest to the nucleus) can have a maxiumum of 2 electrons and the next two shells can have a maximum of 8 electrons.
+    - Any extra electrons are then put into a fourth shell
+- History of the atom
+    - John Dalton 1803 - Sphere model
+        - Some elements are identical
+        - Atoms are hard spheres
+        - Combinations make compounds
+    - JJ Thompson 1904 - Plum pudding model
+        - Electrons discovered in 1897
+        - Electrons scattered through a cloud of positive charge
+    - Ernest Rutherford 1911 - Nuclear model
+        - Mostly empty space
+        - Fired positive alpha particles at gold foil and some went through.
+    - Niels Bohr 1913 - Planetary model
+        - Electrons move around the nucleus
+        - Electrons had to fit into specific energy levels
+    - Erwin Schrodinger 1926 - Quantum model
+        - Clouds where electrons exist
+        - Electrons do not orbit in a predetermined path around the nucleus.
+    
+- Revision 2
+- Key words
+    
+    Halides - When halogens have reacted they end in -ide not -ine.
+    
+    Diatomic element - An element that has been bonded by a covalent bond
+    
+    Covalent bond - When two atoms share an electron to have a full outer shell.
+    
+- History of the periodic table
+    - John Newlands made first periodic table in 1864, it was set in octaves. He arranged them by relative atomic mass
+    - Some elements weren’t discovered
+- Trends in the periodic table
+    - Gets more reactive down group 1
+        - The electron on the outer shell is further away from the nucleus so the electro-force is weaker, meaning it’s easier to lose the electron
+- Group 7 - Halogens
+    - The Elements in order
+        
+        Fluorine (F)
+        
+        Chlorine (Cl)
+        
+        Bromine (Br)
+        
+        Iodine (I)
+        
+        Astatine (At)
+        
+    - All halogens require one more electron to obtain a full outer shell, they always have 7 electrons before reacting.
+    - Each atom shares one electron with another atom to form a covalent bond.
+    - All halogens are diatomic molecules
+        - N**² -** Nitrogen
+        - H**² -** Hydrogen
+        - F**² -** Flourine
+        - O**² -** Oxygen
+        - I**²** - Iodine
+        - Cl**² -** Chlorine
+        - Br**² -** Bromine
+    - Group 1 elements need to lose 1 electron to become stable. If they shared electrons both would still need to lose electrons to be stable.
+    - Halogens get less reactive down the group, group 1 is the opposite.
+    - Halogens react because they gain an electron easier, as the closer the electron is to the nucleus, the easier it is to gain. The exact opposite is for group 1. Halogens gain an electron whereas group 1 loses an electron.
+    - The molecules in group 7 get larger down the group.
+    - They form with a -1 charge
+    - The melting and boiling points **increase** going down group 7
+- Group 1 - Alkali metals
+    - The Elements in order
+        
+        Lithium (Li)
+        
+        Sodium (Na)
+        
+        Potassium (K)
+        
+        Rubidium (Rb)
+        
+        Caesium (Cs)
+        
+        Francium (Fr)
+        
+    - Group 1 elements get more reactive down the group
+    - The melting and boiling points of group 1 decrease down the group
+    - With Group 1 elements, there is one electron on the outer shell and it gets easier to lose that electron down the group. This is because the electron on the outer shell is further away from the nucleus down the group, meaning that the electro-static force from the nucleus is reduced, making it easier to lose.
+    - Group 1 elements are stored under oil so they do not react with oxygen.
+    - They form with a 1+ charge as the outer shell electron is lost.
+- Revision 3
+- Small molecules cannot conduct electricity - no delocalised electrons
+- Key terms
+    
+    Alloy - A mixture of two elements, where at least **one** is a metal. Can be two or more metals.
+    
+    ![Untitled](James%200401168870e340ec884f07eddb471741/Untitled%202.png)
+    
+    Allotrope - When two or more structures are made up of the same element, but in a **different** **formation.**
+    
+    Ion - A charged atom
+    
+    Intermolecular forces - The weak forces found between small molecules.
+    
+    Intramolecular forces - The strong covalent bonds found within small molecules.
+    
+- Ionic bonding
+    - Ionic bonding is between metals and non-metals
+    - It makes a giant lattice structure with electro-static forces
+    - Ionic compounds
+        
+        Ionic compounds form giant ionic lattice structures
+        
+        These are held together by strong electro-static forces
+        
+        When ionic compounds are melted or dissolved in water, the ions become free to move, meaning they can carry a charge
+        
+- Covalent Bonding
+    - Covalent Bonding is between non-metals
+    - It is when two or more atoms share electrons to make a full outer shell
+    - Giant covalent structures have a very high melting point
+- Metallic Bonding
+    - Metallic Bonding is between metals
+    - The delocalised electrons can carry a charge
+    - Metals
+        - They are electrical conductors because delocalised electrons can carry heat and a charge
+        - They have high melting and boling points
+        - Pure metals are soft and malleable because the ions slide off each other, as they are arranged in layers
+        - Alloys are strongers than pure metals as they cannot slide due to variety in size of atoms
+
 [def]: #chemistry
