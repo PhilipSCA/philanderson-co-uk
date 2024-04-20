@@ -299,7 +299,16 @@ Human activity affecting greenhouse gases:
 - Agriculture - more farm animals produce methane - digestive waste
 - Creating waste - landfill sites & waste from agriculture - more CO2 and methane released from decomposition of waste
 
-
+## Conversion Units
+Concentration = mass/volume(g/dm3)
+ - 1 dm3 = 1000 cm3
+mol/dm3 --> g/dm3 = x by Relative formula mass
+g/dm3 --> mol/dm3 = / by relative formula mass
+mega = x 1,000,000
+kilo = x 1000
+milli = /1,000
+micro = /1,000,000
+nano = /1,000,000,000
 
 
 ## year 10

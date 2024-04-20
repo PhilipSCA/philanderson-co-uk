@@ -326,7 +326,7 @@ Shire reeve - Sheriff - King's representative in local government - King gave or
 Thegns - Local lords
 Ceorl - free peasants
 Population 10% slaves, 90% lived on countryside
-Bishops - controlled church districts
+Bishops - controlled church districts 
 
 
 
