@@ -29,9 +29,9 @@ Fission - Neutron collides into atom, splitting it and releasing energy
 Gamma ray - Penetrating form of electromagnetic radiation, low ionisation
 Becquerel - Unit for radiation
 Refraction - Change in direction for waves
-Specific heat capacity - Energy required to raise 1kg by 1 degree | Change in E = mc x change in temp
+Specific heat capacity - Energy required to raise 1kg by 1 degree | Change in E = mc x change in temp (c = specific heat capacity, m = mass)
 Oscilloscope - Tool for analysing waveform of signals
-Terminal velocity - Max velocity
+Terminal velocity - Max velocity. Air resistance equals velocity.
 Inertia - Unchanged
 Atmospheric pressure - Average air pressure at sea level, measurement
 Alternating current (AC) - Flow of current changes at intervals. Found in mains
@@ -114,7 +114,7 @@ Polythene and Acetate rod - Example with cloth dustor showing static from fricti
 Static charge - Caused from electrons moving to another surface
 Electric field - Around any electrically charged object.
 ```
-
+  
 ### P5 -  Forces
 ```
 -----------------------------------------------------------------------30/3/24-------------------------------------------------------------
