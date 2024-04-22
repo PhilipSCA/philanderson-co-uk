@@ -111,7 +111,7 @@ Agriculture - Farming and land producing
 Cumbria - County in North-West England
 Somerset - Rural area in South-West England
 Healthcare - Service for ill, elderly or injured people
-North-South divide - In the UK, north more wealthy than south
+North-South divide - In the UK, south more wealthy than north
 Regeneration - Bring new and more life to an area, reviving it.     
 
 
@@ -271,7 +271,7 @@ Producer - Photosynthesize for energy, low food chain
 Consumers - Feeds on producers or inferior consumers
 Decomposer - Feed on dead/decaying matter
 **Interdependence** - If one factor changes it affects others in the ecosystem
-Food chain - Shows transfer of energy between organisms
+Food chain - Shows transfer of energy between organisms 
 Biome - A large ecosystem.
 Global-scale changes - Affect the globe (Climate change)
 Local-scale changes - Affect a local area (one habitat)
