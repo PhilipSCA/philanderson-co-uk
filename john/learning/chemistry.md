@@ -81,7 +81,7 @@ Alkali metals - Group 1 metals - soft, low density. Have 1 electron on outer she
 
 1) Increased reactivity - outer shell is further away from nucleus, weakening electrostatic forces, less energy required for it to be lost.
 
-2) Lower melting & boiling points - same reason
+2) Lower melting & boiling points 
 
 3) Higher atomic mass
 
@@ -89,7 +89,7 @@ Halogens - Group 7 non-metals - coloured vapours - all come as diatomic molecule
 
 1) Less reactivity - harder to gain electron when outer shell electrons are further away from nucleus, less attraction
 
-2) Higher melting & boiling points
+2) Higher melting & boiling points - molecules increase in size = intermolecular forces increase = more energy needed 
 
 3) Higher atomic mass
 
@@ -144,6 +144,7 @@ Fullerene - hollow balls or nanotubes, made of hexagons and pentagons.
 Metallic bonding - two metals bonding in a sea of delocalised electrons. Properties same as metals. (strong but malleable as layers can slide, high melting and boiling points, solids at room temp, conductors)
 Alloy - mixture of atleast one metal. Harder than pure metals
 States of matter - solid(s), liquid(l), gas(g), aqueous(aq)
+- Other metals added to metals (Aluminium) = Metals have different sizes = layers distorted, cannot slide = alloy harder/strong
 ```
 ## C4 - Chemical calculations
 ```
@@ -161,7 +162,8 @@ Titration - method of finding out concentration of ions - add increments of anot
 ```
 ## C5 - Chemical changes
 
-Acid - substance that produces H+ ions when dissolved in water. Has a pH of less than 7. Strong acids ionise completely in water, releasing more H+ ions.
+Acid - substance that produces H+ ions when dissolved in water. Has a pH of less than 7. 
+Strong acids - ionise completely in water(aqueous solution), releasing more H+ ions. - react at a greater rate than weaker
 Alkali - substance that produces OH- ions in water. pH > 7. (Bases that dissolve in water)
 Base - any substance that makes a salt with an acid - has to be an ionic compound
 Salt - compound formed when hydrogen ions in the acid are replaced by metal ions.
@@ -310,6 +312,15 @@ milli = /1,000
 micro = /1,000,000
 nano = /1,000,000,000
 
+## Any practicals:
+To find order of reactivity of 3 metals - temperature change with HCl:
+1) Measure amount of HCl with measuring cylinder, pour into a polystyrene cup
+2) Measure initial temperature of HCl with thermometer
+3) Get first metal and add it into cup - quickly put a lid over, poke thermometer through and stir
+4) Measure highest temperature reached and calculate temp. change
+5) Repeat for each metal, with all same - amount of HCl, mass & state of metal, inital temp.
+6) Record results and rank metals in order of reactivity, with most reactive metal having most temperature change
+ 
 
 ## year 10
 
