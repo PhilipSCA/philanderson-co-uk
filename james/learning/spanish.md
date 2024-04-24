@@ -191,7 +191,7 @@ Boca - Mouth
 
 
     
-            
+        
 
 ## Year 9 Random words
     
@@ -218,3 +218,17 @@ Hace cuatro anos - Four years ago
 Tenemos mucho en comun - We have a lot in common
 
 ```
+
+## Speaking
+
+### Theme 2
+
+#### Modulo 1
+Q1: Que haces en verano?
+En verano a veces voy al extranjero con mi familia o me quedo en casa y voy al parque con mis amigos siempre o visita mis hermanas mayores. Tambien, en vacaciones vamos a la playa mucho para tomar el sol o nadar en el mar.
+
+Q2:Donde prefieres pasar las vacaciones? por que?
+Prefiero no ir al extranjero y quedarme en casa porque no me gusta hacer las maletas, es tan aburrido. Tambien, puedo salir con mis amigos.
+
+Q3: Adonde fuiste de vacaciones el ano pasado?
+Lo mejor fue cuando fuimos a la bolera con mi familia porque hay muchos personas en mi familia y entonces fue muy entretenido y emocionante.
