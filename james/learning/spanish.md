@@ -16,6 +16,11 @@
       - [Module 7](#module-7)
       - [Module 8](#module-8)
   - [Year 9 Random words](#year-9-random-words)
+  - [Speaking](#speaking)
+    - [Theme 2](#theme-2)
+      - [Modulo 1](#modulo-1)
+      - [Module 5:](#module-5-1)
+      - [Module 8:](#module-8-1)
 
 ### Role play - Higher
 
@@ -222,13 +227,35 @@ Tenemos mucho en comun - We have a lot in common
 ## Speaking
 
 ### Theme 2
-
 #### Modulo 1
-Q1: Que haces en verano?
+Q1: Que haces en verano? - What do you do in summer?
 En verano a veces voy al extranjero con mi familia o me quedo en casa y voy al parque con mis amigos siempre o visita mis hermanas mayores. Tambien, en vacaciones vamos a la playa mucho para tomar el sol o nadar en el mar.
 
-Q2:Donde prefieres pasar las vacaciones? por que?
-Prefiero no ir al extranjero y quedarme en casa porque no me gusta hacer las maletas, es tan aburrido. Tambien, puedo salir con mis amigos.
-
-Q3: Adonde fuiste de vacaciones el ano pasado?
+Q2: Adonde fuiste de vacaciones el ano pasado? - Where did you go on holiday last year?
 Lo mejor fue cuando fuimos a la bolera con mi familia porque hay muchos personas en mi familia y entonces fue muy entretenido y emocionante.
+
+Q3: Que planes tienes para tu proximo verano? - What plans do you have for next summer?
+Mis planes para el verano proximo son ir al extranjero a Italia, Roma en avion. Voy a ir con mis padres y mi hermano gemelo. Va a ser genial!
+
+#### Module 5:
+Q4: Como es la ciudad donde vives? - What is your town like?
+Mi ciudad, Enfield, esta situada al norte de Londres. Enfield es muy diversa y tan facil para desplazarse. Tiene muchas actividades para hacer pero llueve muy a menudo. En general, me gusta Enfield.
+
+Q5: Que es lo mejor de donde vives? y lo peor? - What is the best thing about where you live? and the worst?
+En mi ciudad lo mejor es la comunidad porque los gente es muy simpaticas. Hay un polideportivo donde juego con mi hermano. Lo peor es que es ruidoso y bastante industrial.
+
+Q6: Que hiciste recientemente en tu zona? - What did you do recently in your area?
+En mi zona esta rodeada de bosques y es montanosa, entonces ayer fui solo de caminata y disfrute de las vistas. Tambien, la fin de semana pasado, fui al centro del Londres con mis amigos, fuimos muchas tiendas y la plaza mayor. Lo pasemos super bien!
+
+#### Module 8:
+Q7: Que opinas de las drogas? - What do you think about drugs?
+En mi opinion, las drogas son lo peor porque son tonteria dado que es un malgasto de dinero y afecta tu capacidad para tomar decisiones. Pienso que es un problema muy serio. !Que asco!
+
+Q8: Como se deberia cuidar el medio ambiente? - How should you look after the environment?
+Para cuidar el medio ambiente, se deberia reciclar es plastico y el vidrio y no se deberia malgastar el agua. Si es posible, tambien deberiamos caminar para reducir la huella de carbono.
+
+Q9: Que haces en casa para proteger el medio ambiente? - What do you do at home to protect the environment?
+En casa, yo ahorro energia desenchufando apartos electricos y apagando la luz. Sin embargo, podria hacer mas como por ejemplo separar la basura y comprar productos verdes.
+
+Q10: Cuales son los problemas globales mas serios hoy en dia? - What are the worst global issues currently?
+En mi opinion, el problema mas serio es el problemas del medio ambiente que tanta contaminacion y como el aire esta contaminado. Tambien, la tasa del gente sin techo es demasiada alta. !Es esencial que el gobierno solucione esto porque me preocupo!
