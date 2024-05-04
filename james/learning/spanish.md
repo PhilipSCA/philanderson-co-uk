@@ -17,8 +17,12 @@
       - [Module 8](#module-8)
   - [Year 9 Random words](#year-9-random-words)
   - [Speaking](#speaking)
+    - [Theme 1](#theme-1)
+      - [Module 3:](#module-3-1)
+      - [Module 4:](#module-4-1)
+      - [Module 6:](#module-6-1)
     - [Theme 2](#theme-2)
-      - [Modulo 1](#modulo-1)
+      - [Modulo 1:](#modulo-1)
       - [Module 5:](#module-5-1)
       - [Module 8:](#module-8-1)
 
@@ -225,11 +229,44 @@ Tenemos mucho en comun - We have a lot in common
 ```
 
 ## Speaking
+### Theme 1
+
+#### Module 3:
+Q1: Como es para ti un buen amigo? - What is a good friend to you?
+Un buen amigo es muy pensativo y fiel. Tambien, te hacen reir y te ayudan cuando tu tienes problemas.
+
+Q2: Que aplicaciones usas para estar en contacto con tus amigos o tu familia? - Apps... stay in contact with...?
+Uso Whatsapp siempre para estar en contacto con mi familia, y poco amigos, pero para contactar mis mejores amigos uso Snapchat. La mayoria del tiempo, enviamos mensajes de audio.
+
+Q3: Que planes tienes con tus amigos o con tu familia este fin de semana? - What plans do you have this weekend?
+Este fin de semana, voy a ir al parque con tres amigos, y despues de ver una pelicula en el cine. Ademas, voy a jugar videojuegos con mis hermanos el domingo. Va a ser flipante!
+
+#### Module 4:
+Q4: Que sueles hacer en tus ratos libres? - What do you usually do in your free time?
+En mis ratos libres suelo juegas videojuegos a veces con mis amigos pero tambien duermo mucho despues del insti y veo videos o serie, porque me hace reir y me ayudan relajarme.
+
+Q5: Hablame de la ultima vez que participaste en un deporte - Tell me about the last time you played a sport.
+La ultima vez que participe en un deporte fue en un campeonato de la temporada. Fue muy flipante sin embargo lo malo es que perdi el partido pero marque un gol porque entrene mucho.
+
+Q6: Quien es tu modelo a seguir? por que? - Who is your role model? Why?
+Mi modelo a seguir es Jesucristo, es un buen modelo a seguir porque es amable y inteligente, y ayuda a toda la gente. Ademas, el es muy justo. El piensa en los demas. El es lo mejor!
+
+#### Module 6:
+Q7: Como vas a celebrar tu proximo cumpleanos? - How are you going to celebrate your next birthday?
+
+
+Q8: Cual es tu cantante / grupo favorito? por que? - Who is your favourite singer / band? Why? 
+
+
+Q9: Te interesan ir al festival de musica? por que (no)? - Are you interested in going to a music festival? Why?
+
+
+Q10: Te gustaria ir a una Fiesta de espana? Cual? - Would you like to go to a Spanish festival? Which one?  
 
 ### Theme 2
-#### Modulo 1
-Q1: Que haces en verano? - What do you do in summer?
-En verano a veces voy al extranjero con mi familia o me quedo en casa y voy al parque con mis amigos siempre o visita mis hermanas mayores. Tambien, en vacaciones vamos a la playa mucho para tomar el sol o nadar en el mar.
+#### Modulo 1:
+Q1: Que haces en verano? - What do you do during the summer?
+En verano a veces voy al extranjero con mi familia o me quedo en casa y voy al parque con mis amigos a menudo o visita mis hermanas mayores. Tambien, en vacaciones vamos a la playa mucho para tomar el sol o nadar en el mar.
 
 Q2: Adonde fuiste de vacaciones el ano pasado? - Where did you go on holiday last year?
 Lo mejor fue cuando fuimos a la bolera con mi familia porque hay muchos personas en mi familia y entonces fue muy entretenido y emocionante.
