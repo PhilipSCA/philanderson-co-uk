@@ -253,15 +253,16 @@ Mi modelo a seguir es Jesucristo, es un buen modelo a seguir porque es amable y 
 
 #### Module 6:
 Q7: Como vas a celebrar tu proximo cumpleanos? - How are you going to celebrate your next birthday?
-
+Voy a tener una fiesta para mi cumpleanos. Voy a comer mucho comida delicioso, por ejemplo, el flan, albondigas y chuletas de cordero asadas. Va a ser guay!
 
 Q8: Cual es tu cantante / grupo favorito? por que? - Who is your favourite singer / band? Why? 
-
+Mi grupo favorito es ABBA, me apasionan sus coreografias y estan imaginativo. Ademas, soy un fan de las canciones de iglesia porque su musica es muy emocionante y las letras son preciosos.
 
 Q9: Te interesan ir al festival de musica? por que (no)? - Are you interested in going to a music festival? Why?
-
+Si, me interesa ir a un festival de musica porque es muy energetica y animado. Tambien soy un fanatico de la musica electronica. Sera un inolvidable experiencia! 
 
 Q10: Te gustaria ir a una Fiesta de espana? Cual? - Would you like to go to a Spanish festival? Which one?  
+Si, me gustaria ir de fiesta en espana. Me encanta los Sanfermines porque me gustan las actividades peligrosas y ademas la adrenalina me motiva.
 
 ### Theme 2
 #### Modulo 1:
