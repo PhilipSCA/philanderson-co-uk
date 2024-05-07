@@ -270,7 +270,7 @@ Q1: Que haces en verano? - What do you do during the summer?
 En verano a veces voy al extranjero con mi familia o me quedo en casa y voy al parque con mis amigos a menudo o visita mis hermanas mayores. Tambien, en vacaciones vamos a la playa mucho para tomar el sol o nadar en el mar.
 
 Q2: Adonde fuiste de vacaciones el ano pasado? - Where did you go on holiday last year?
-Lo mejor fue cuando fuimos a la bolera con mi familia porque hay muchos personas en mi familia y entonces fue muy entretenido y emocionante.
+El ano pasado, fui a Espana con mi familia. Fuimos en avion porque es mas rapido.  Lo mejor fue cuando fuimos a la bolera con mi familia. Fue muy entretenido y emocionante.
 
 Q3: Que planes tienes para tu proximo verano? - What plans do you have for next summer?
 Mis planes para el verano proximo son ir al extranjero a Italia, Roma en avion. Voy a ir con mis padres y mi hermano gemelo. Va a ser genial!
