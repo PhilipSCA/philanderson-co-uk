@@ -319,7 +319,7 @@ Themes:
 13. "Probably a socialist or some sort of crank" - Mr Birling, Act 3
    (Old vs New generation, Socialism vs Capitalism) - Mr Birling back to being arrogant and hasn't changed, seen as extremely foolish and a joke by audience who receive Priestley's message. Mr Birling and Inspector contrast each other as Mr Birling said, Goole is a socialist, but was in the right and he directly opposes Mr Birling with opposite ideals.
 
-14. "The worst part is... Everything we said had happened really had happened. If it didn't end tragically, then thats lucky for us. But it might've done" - Sheila, Act 3
+14. "The worst part is... Everything we said had happened really had happened. If it didn't end tragically, then thats lucky for us. But it might've done" - Sheila, Act 3 
    (Old vs New generation, Social responsibility) - Generational divide once again clearly shown by Sheila who realises the situation could've easily been bad if Eva's death was real.
 
 15. "Now look at the pair of them - the famous younger generation who know it all. And they cant even take a joke" - Mr Birling, Act 3
