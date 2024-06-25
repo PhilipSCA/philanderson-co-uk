@@ -8,7 +8,6 @@
     },
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
-    "workbench.activityBar.visible": true,
     "git.autofetch": true,
     "phpserver.phpPath": "C:\\Program Files\\PHP\\v7.4\\php.exe",
     "phpserver.phpConfigPath": "C:\\Program Files\\PHP\\v7.4\\php.ini",
