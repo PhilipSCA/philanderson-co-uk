@@ -8,7 +8,7 @@ y = "Hi Stupid!"
 print(x)
 print(y)
 
-===========
+=========
 x = 5
 y = "John"
 

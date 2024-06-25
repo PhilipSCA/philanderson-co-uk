@@ -7,13 +7,13 @@
     <title>Chapter 23</title>
 </head>
 <body>
-    <h1>Chapter 23</h1>
+    <h1>Chapter 23:Strings: Finding segments</h1>
     <div id="output"></div>
     <div id="out"></div>
     <script>
         console.log("Chapter 23:Strings: Finding segments")
 
-        let text = "here is some text and here is some more text"
+        let text = "'Here is some text and here is some more text.'"
         let searchText = "text"
 
         var firstChar = text.indexOf(searchText);
@@ -21,21 +21,22 @@
 
         // print out firstChar
         console.log(`Printing out firstChar ${firstChar}`);
-        let outputText = `We find text ${searchText} inside ${text} at position ${firstChar} and also at position ${lastChar}`
+        let outputText = `We find the first character of '${searchText}' inside ${text} at position ${firstChar} and the last character of the second ${searchText} at position ${lastChar}`
         console.log(outputText)
         document.getElementById('output').innerText=outputText
 
 
         // start here
 
-        let text2 = "This is some text"
+        let text2 = "'This is some text.'"
         let searchText2 = "text"
+        let searchText3 = "some"
 
         var firstSeg = text2.indexOf(searchText2);
-        var lastSeg = text2.lastIndexOf(searchText2);
+        var lastSeg = text2.lastIndexOf(searchText3);
 
         console.log(`Printing out firstSeg ${firstSeg}`);
-        let output = `We find text ${searchText2} inside ${text2} at position ${firstSeg} and also at position ${lastSeg}`
+        let output = `We find ${searchText2} inside ${text2} at position ${firstSeg} and the last character of '${searchText3}' at position ${lastSeg}`
         console.log(output)
         document.getElementById('out').innerText = output
         console.log(text2.slice(4, 12));

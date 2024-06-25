@@ -9,12 +9,25 @@
 <body>
     <h1>Chapter 11</h1>
     <h2>Febuary 6th 2021</h2>
+    <div id="chapter-112"></div>
+    <div id="chapter-113"></div>
+    <div id="chapter-11"></div>
     <script>
         var x = 1
         var y = "1"
         console.log(x == y)
         console.log(x === y)
-
+        outputx = "x is " + x + "(number)"
+        outputy = "y is " + y + "(string)"
+        chapter11Output = "x == y is true \n" + "x === y is false"
+        chapter112 = document.getElementById("chapter-112")
+        chapter112.innerText = outputx
+        chapter113 = document.getElementById("chapter-113")
+        chapter113.innerText = outputy
+        chapter11 = document.getElementById("chapter-11")
+        chapter11.innerText = chapter11Output 
+        
+        
 
     </script>
 </body>
