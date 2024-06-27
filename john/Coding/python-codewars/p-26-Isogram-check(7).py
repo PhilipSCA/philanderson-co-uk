@@ -6,5 +6,5 @@ def is_isogram(string):
         letterCount = string.count(char)
         print(letterCount)
         if letterCount > 1:
-            return False#
+            return False
     return True
