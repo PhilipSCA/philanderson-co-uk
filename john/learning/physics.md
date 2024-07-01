@@ -12,6 +12,10 @@ Equilibrium - when all forces on an object give a resultant force of 0
 Stretching, compressing, bending transfers energy
 Moment - turning effect of a force
 
+## Practicals
+S.H.C - calculate SHC for water/metal
+1) Measure mass of water/block with a balance
+2) 
 ## P1
 8 energy stores:
 - Kinetic energy - movement energy store - depends on mass and speed
@@ -125,66 +129,186 @@ Gamma - Radiotherapy - cancer treatment - gamma rays fired at mutated cells, kil
 Fission - type of nuclear reaction - releases gamma/kinetic energy from large, unstable atoms by splitting them - neutron hit & absorbed by nucleus, atom split into 2 lighter elements - shoots out more neutrons to start a chain reaction
 Fusion - opposity - two light nuclei collide at high speed, fuse to create a larger, heavier nucleus | mass of big nucleus is smaller than two smaller nuclei - some mass converted to energy | releases more energy than fission
 
+## Physics paper 2 vid
+Scalar & Vectors:
+Contact force - physically touching (friction, air resistance)
+Non-contact force - not touching (magnetic, gravity, electrostatic force)
+Scalar - quantity  - only has MAGNITUDE (size) - distance, speed, mass, temperature
+Vector - quantity - has magnitude and DIRECTION - displacement, velocity, acceleration, force
+Resultant vector - adding them (can be negative) - if at right angles, use pythagoras. 
+ - if resultant = 0, means no acceleration - can still be moving
+Weight = force that gravity pulls an object down with
+work done = energy transferred by a force
+Springs:
+- any object that deforms elastically obeys hooke's law (force & extension are directly proportional)
+Practical:
+1. add weight (1kg = 10N) onto a spring
+2. Measure extension with ruler at each weight
+3. Plot a graph of force against extension, gradient = spring constant
+4. Avoid systematic error by lining up 0cm with bottom of spring, parallax by measuring on eye level
+
+Moment (Nm) = force x distance from pivot (m)
+Principle of moments - total of clockwise moment = total of anti-clockwise moment - equilibrium, doesn't turn
+Gears - used to increase moments - drive large gear w smaller one - doulbe diameter = double moment
+
+Graphs:
+Distance/Displacement - time graph - gradient = speed/velocity (v)
+Speed/v - time graph - gradient = acceleration (m/s^2) || negative gradient = decelerating
+ - area under graph = distance
+
+s - displacement(m)
+u - initial velocity (m/s)
+v - final 
+t - time (s)
+a - acceleration (m/s²)
+- formula u get - v² - u² = 2as
+Formulas u might not need: v = u + at || s = (u+v/2) x t
+- if starts at rest, u = 0, if stops, v = 0
+
+## Newtons Laws of motion
+1st - if no resultant force acts on an object, its motion wont change
+inertia - tendency for an object's motion to stay constant when no force
+2nd - F = ma
+ - Practical: Accelerate a trolley on a track with mass on a string over pulley 
+ - 2. Use light/photogates at 2 points to measure acceleration
+ - 3. Change force by removing mass & placing on trolley - keep total mass same
+ - Plot F against acceleration, gradient = total mass
+3rd - for every action, there is an equal and opposite reaction - NOT balanced forces
+
+
 ## P10
-Acceleration due to gravity - freefalling acceleration - 9.81m/s2 (10m/s2)
+Acceleration due to gravity - freefalling acceleration - 9.81m/s² (10m/s²)
 Air resistance - frictional force with air - slows a falling object - increases as speed of object increases
 Terminal velocity - the fastest an object can fall - when the air resistance is equal to the weight of an object, the object stops accelerating - it is at a constant 'terminal' velocity
-Momentum = mass x velocity (p = mv)
+Momentum = mass x velocity (p = mv) (kgm/s)
 Conservation of momentum - momentum is not created or destroyed in a closed system
+ - rebounds - m1 u1 = m1v1 + m2v2 (m = object 1/2, u = initial v, v = final)
+ - joining - m1 u1 = mv
+ - recoil - 0 = m1 v1 + m2 v2
 Stopping distance - time it takes for a car to stop in an emergency = thinking distance + braking distance
 Thinking distance - distance car travels between their reaction time = speed x reaction time
+ - 2x speed = 2x thinking distance
+- Factors affecting reaction time - 1) Drugs/Alcohol, 2) Distractions, 3) Tiredness
 Braking distance - distance car travels between applying brake and it stops
-Factors affecting reaction time - 1) Drugs/Alcohol, 2) Distractions, 3) Tiredness
-Factors affecting braking distance - 1) Car's brakes or tyres, 2) car speed, 3) road conditions
+ - 2x speed = 4x braking distance
+ - Factors affecting braking distance - 1) Car's brakes or tyres, 2) car speed (proportional), 3) road conditions
 Work done, when braking = inital kinetic energy = 1/2 mass x velocity^2 (Work = force x distance)
 Force needed to stop car = 1/2 mv2 / distance
 Force = momentum change / time
 Inertia - how difficult it is to change an object's motion - high mass = high inertia
 
-## random 
+## Waves
 
-```
 Waves - transfer energy through a medium without transferring any matter
-Transerve waves - vibrations(up, down) perpendicular to direction of energy transfer(forward) - all EM waves, ripples/waves in water, waves on a string
-Longitudinal waves - oscillations/vibrations parallel to direction of energy transfer(forward) - Sound waves in air eg ultrasound, Shock waves - Compressions & rarefractions
+Longitudinal waves - oscillations/vibrations parallel to direction of energy transfer(forward) - Sound waves eg ultrasound, Shock waves - Compressions & rarefractions (spread out)
+Transerve waves - vibrations(up, down) perpendicular to direction of energy transfer(forward) - all EM waves, ripples/waves in water, seismic waves
+ - x-axis = equilibrium (time or distance), y-axis = displacement
+ - Sound: frequency = pitch, amplitude = volume
 Wave speed - speed energy is being transferred = Frequency x wavelength
+period - time for one wave to pass
+Frequency - number of waves passing every second
+- speed of sound waves in air = 330 m/s
+Practicals:
+Ripple tank:
+- set motor dipper to low frequency (20Hz)
+- use a light and paper underneath to see waves
+- measure distance of 10 waves, divide by 10 to get wavelength
+- use formula v = fxwavelength to find speed
+- Wave on string:
+  - oscillator/vibration generator attached to a string with mass on end over a pulley
+  - change frequency until simplest stationary wave formed (one loop) - wavelength = 2 x string length
+Sound waves:
+- attach microphone to oscilloscope
+- clap next to microphone, sound echos off wall & back a known distance away
+- measure time it took, use sound = d/t 
 
+Earth's temperature:
+absorbing > emitting = temp increasing
+absorbing = emitting - constant
+absorbing < emitting - decreasing
+depends on rate of light and IR radiation emitted & absorbed by earth's surface/atmosphere
+high frequency IR absorbed by earth, low freq reflected (greenhouse)
 
+EM Spectrum:
+1. Radio - communication - Phones, TV, Wifi
+ - transmitted easily through air, reflectable - creates a.c when absorbed
+2. Micro - cooking, satellites
+ - easily absorbed by food, pass easily through atmosphere
+3. Infra-red - cooking(absorbed by surface)
+ - all objects emit infra-red light - heat - absorbed by chemical bonds, heating them up
+4. Visible light
+ - used in fibre optics - glass fibre to receiver
+5. Ultra-violet - tan, can cause skin cancer
+6. X-rays - medical scans, dangerous - cause mutations, cancer
+7. Gamma rays - sterilising, tumour treatment, dangerous - mutations,cancer
 
+- EM transfer energy as radiation, can travel through vacuum
+- EM waves emitted when electrons lose energy, absorbed by electrons (not gamma - emmited by nuclei)
+- EM waves travel at 300 million m/s through a vacuum
+- Ionising radiation - when energy of wave is high enough, it removes electrons, ionising atoms (UV, x-ray, gamma)
+  - 1000 mSv = 1 Sv
 
+Practical: show Matte black best Infra-red(IR) emitter & absorber:
+1. use leslie cube on heat resistant mat - fill to top with boiling water, replace lid, leave for 1 min
+2. use IR thermometer/detector to measure each side - plot bar graph.
+3. use ruler to make sure distance same each time
+ - shiny materials the worst emitters/absorbers - matte black best
+Absorbtion: shine light at test tubes with thermometer, wrapped around different materials - same distance - dark = best absorb
 
-Thermal conductivity - measure of how well material conducts energy when heated (W/m/oC). High thermal conductivity = heats quick = energy transfer fast
-Repel - objects with same charge push away from each other
-Insulator - doesn't allow heat to pass through - traps heat, doesnt release
-Conductor - allows heat/electricity to pass through easily - metals
-Mass - amount of 'matter' in an object (kg)
-Weight - gravity acting on object - W = m x g (N) - changes with gravity
-Centre of mass - centre of an objects weight - where gravity affects
-Uniform object - same density throughout - a regular shape
-Free body diagram - shows all forces on an object - arrows show magnitude & direction
-Resultant force - overall force acting on object
-Equilibrium - when resultant force is 0
-Stretching, compressing, bending - transfers energy
-Moment - act about a point - turning effect of a force - Fd
-System - single/group of objects that you're looking into
-Closed system - system where no matter or energy can enter or leave
-Limit of proportionality - point where extension is no longer proportional with force
-Power - rate of doing work/ rate of energy transfer - Watts
-Watts - joules of energy transferred per second
-```
+### Reflection & Refraction
+Reflection:
+Angle of Incidence = angle of reflection
+- Normal - line perpendicular to surface
+- angle of incidence - angle between ray and normal (AOI)
+- angle of refraction - between reflected/fracted ray and normal
+- Diffuse reflection: rough surface - light scattered, distorted image (water)
 
+Refraction:
+- when waves enter a new medium, speed & angle changes
+- wavelength changes, frequency stays same
+- light disperses through prism - different wavelength refracted different amounts - violet most(high freq.), red least
+- only need to draw rays, not wavefronts
+- when wave slows dows, bends towards Normal - angle of refraction smaller than AOI
+- denser the medium, slower light travels
 
-## radioactivity
+## Electromagnets
+- When current flows through coil it produces a magnetic field
+- cant turn permanent magnet off, can turn electromagnet off
+- direction of current wont change strength of electromagnet
+- solenoid - core with coil wrapped around it + North and South pole
+- Steel - hard to magnetise, keeps its magnetism
+- Iron - easily magnetised, loses its magnetism easily
 
-```
-Alpha particle - 2 protons, 2 neutrons (He) - 5cm in air - highly ionising(charge of +2) - stopped by paper
-Beta - fast electron - 1m in air - moderately ionising(charge -1) - stopped by aluminium/metal foil
-Gamma - EM wave - infinite distance - low ionising(no charge) - stopped by thick lead or metres of concrete
-Radioactive decay - unstable nuclei emitting radiation to become stable
-Activity - rate of decay(Becquerels(Bq)) - short half-life = high activity
-Half-life - time it takes for amount of radioactive nuclei to halve|| time for activity to halve
-```
+Permanent magnet - molecules permanently aligned, always produce field
+induced - magnetised when in another field - magnetic
+- mini compasses/iron filings put in magnetic field to visualise 
+Field lines always go from NORTH to SOUTH pole - always complete loops, never touch
+Iron, cobalt, nickel, steel = magnetic (can be induced magnets) - attract to either pole
+Motor effect - right-hand rule:
+- a current-carrying wire in a magnetic field will experience a force
+- fingers = field direction (Tesla), thumb = wire/current direction
+- if wire parallel to field lines = no force
+Fleming's left-hand rule - direction of force:
+- Thumb = force - F
+- 1st/index finger = field - B
+- 2nd/middle = currect - I
+- make a gun with all 3 perpendicular - FBI
+Practical: finding flux density
+1. place magnet on balance, tare, measure mass - convert to Newtons
+2. Measure length of wire
+3. Measure current with ammeter
+4. rearrange F = BIL to find B (B = F/IL)
 
+Motors:
+both sides of coil experience force in opposite direction, turns
+- split-ring communicator needed to ensure current reversed every half-turn to keep coil spinning (current always + to -)
+To increase motor speed:
+- add more turns to coil
+- increase current
+- use stronger magnet
+Loudspeaker:
+- motor that goes back and forth 
+- current sent from source causes coil to vibrate, causes speaker cone to vibrate, producing sound waves
 
 ## year 10
 
@@ -227,13 +351,6 @@ Sun - a large,burning hot star that heats earth and is the center of our Solar S
 Earth - the planet we live on,that orbits the sun
 
 
-- Electromagnets
-    - When current flows through a coil it produces a magnetic field
-    - You cant turn a permanent magnet off, where as you can turn an electromagnet off
-    - The direction of a current wont change the strength of the electromagnet
-    - A solenoid is when there is a core with coil wrapped around it and a North and South pole
-    - Steel is hard to magnetise but it keeps its magnetism
-    - Iron is easily magnetised but loses its magnetism easily
 
 
 - Yr9 EOY Revision

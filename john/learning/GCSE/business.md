@@ -36,8 +36,7 @@ Product Life Cycle:
     - Increase marketing on product
 ```
 ```
-Market map - brands in one market on map scaled on two things like price and quality
-Market segmentation - dividing market into different categories to reach different target audiences
+
 Footfall - number of people walking past your business per day
 Sole trader - only one owner of a business - do main work themselves - can have employees
 Partnership - two+ owners of a business, workload, liability and profits are shared.
@@ -59,6 +58,7 @@ How business ideas come about: Invention & innovation
 Invention - creating an original, brand new idea
 Innovation - adapting and upgrading an existing idea
 E-commerce - selling products/services online, using the internet
+ - Disadvantages: More competition, Procedure for deliveries and processing returns, need to maintain website - staff & security software - expensive
 M-commerce - selling products/services through mobile apps, with your phone
 Profit - money gained (revenue - total costs)
 Market research - gathering information through research for your business - helps: identify & understand customer needs, find gaps in the market, make better business decisions and reduce risks
@@ -126,7 +126,7 @@ Demographics - gender, religion, age, family type - wants and needs - statistica
 Behaviour - how do consumers behave when buying? - saving vs buying times,
 Lifestyle - what consumers do in their spare time - general interests,
 Income - amount of money they earn - willing to spend, affordable
-Market mapping - diagram of similar products or businesses in a market, scaled against their features, usually price and quality. Allows a business to: identify its competitors, spot any gaps in market(main reason), useful for analysing competitors - decision-making, see all products in market
+Market mapping - diagram of similar businesses in market, scaled against their features, usually price and quality. Allows a business to: identify its competitors, spot any gaps in market(main reason), useful for analysing competitors - decision-making, see all products in market
 Gap in market - area on market map where there is opportunity to fill unmet customer need
 Competitive environment -market where other businesses are producing same or similar goods/services - competition is high
 - More competition = less profits - more customers going to other businesses, lower prices
@@ -235,6 +235,8 @@ Retained Profit - business money that is kept within its accounts, not paid to s
 ### 1.4 - Making the business effective
    
 ### 1.5 - Understanding external influence
+
+
 ## Theme 2 - Paper 2
 ### 2.1 - Growing the business
 Internal (Organic) growth - growth from within business - don't have to share profit
@@ -257,7 +259,7 @@ Gross profit = revenue - cost of goods sold (Added value, total contribution)
 Gross profit Margin - GP/SR x 100
 Net profit = gross profit - expenses(overheads)
   - Calculate net profit for: 1) comply with legislation - corporation tax 2) see internal finance left for investment 3) assess whether worth business continuing
-  - increase net profit: 1)Sourcing cheaper raw materials 2)Relocating to smaller premises
+  - increase net profit: 1)cheaper raw materials 2)Relocating to smaller premises
 Net profit margin - proportion of revenue left over after all costs paid - NP/SR x 100
 Average rate of return(ARR) - % of average yearly profit from sum invested - shows profitability
  - (average annual profit / inital investment cost) x 100
@@ -280,6 +282,79 @@ Financial data - used to:
   1) Different interpretations of data 
   2) Data becomes out of date quickly
   3) Qualitative factors ignored
+
+#### Sales process
+1. customer interest - attract attention, product knowledge, sales approach
+2. speed & efficiency service - customers willing to pay more
+3. customer engagement 
+4. post-sales
+5. customer loyalty - customer come back (repeat customer) - cost-effective - 
+- all contribute to customer satisfaciton
+1. Product knowledge - can help/advise customers effectively - adds value - need to do training/courses
+sales approach - hard approach - actively seek out customer, advise & encourage a purchase - face-to-face / cold calling
+- soft approach - show that you're available, only help if they require - in their own time
+2. speed,efficiency - damaged products replaced quickly, delivery quick & good condition, simple purchasing process(no queues)
+3. engagement - interaction to customer - salesperson build relationship, keeps them engaged, builds brand image - social media likes&follows
+4. post-sales - assistance/help desk/support - dealing with complaints - build positive relationships, gather, act on feedback
+
+#### Stock
+Procurement - getting right supplies from right supplier
+logistics impact: costs, reputation, satisfaction
+low - business can run out of stock, lose customers & sales - customer unsatisfied
+high - storage costs, more waste(expires), less income if sell excess on clearance(reduced price)
+JIT:
+- dont store any materials, no buffer(minimum) stock
+- smaller, frequent stock
+- need good relationship with suppliers - cost, quality, delivery, trust
+Adv:
+1. free up space
+2. fresher products
+3. wont have stored capital in stocks - could be wasted
+4. reduced production costs - price competitively
+Dis:
+1. cant meet unexpected demand changes
+2. can't use bulk-buy discounts
+3. going out of stock - poor customer service
+
+#### Production
+##### Job 
+Adv:
+- high profit margin for specific product
+- specialist staff motivated
+- high customer satisfaction
+Dis:
+- high skilled staff needed - costly, maybe not available - training expensive
+##### Batch:
+Adv: make variety of size/flavours
+can be automated
+more products than job
+Dis: not specific to customers like job
+- costs higher than flow - expensive machinery to switch
+##### Flow:
+Adv: large quantities
+- products identical, customer knows what he getting
+- highly automated - no staff
+Dis:
+- profit margin low in competitive markets
+- not specific to customers - like job
+- machinery for automation expensive
+improve productivity - machinery, motivation, training - lowers variable cost
+
+Quality control - one check at end - feedback, inspectors, manager/owner inspects
+Dis: at end - more expensive/wasteful to fix at end than immediately
+Quality assurance - check at each stage - need good business culture - employees motivated & care
+- production process is most important
+- every worker responsible
+- reduce costs if done well (both)
+
+## 2.5
+Full time = 35 hours
+#### Part time shifts
+Adv:
+- cheaper for the business
+- difficult to schedule
+Dis: - employees less available
+
 
 
 
@@ -317,17 +392,14 @@ Financial data - used to:
 - Application throughout answer to the case study
 - 
 Structure:
-Option 1 - Pro/con of chosen option - with linked strands
-         - A second pro/con of chosen option - with linked strands
 Option 2 - Pro of chosen option - with linked strands
          - Con of chosen option - with linked strands
-Option 3 - Pro/Con of option 1 - linked strands
-         - Pro/Con of option 2 - linked strands - NOT RECOMMENDED
+
 
 Conclusion: AJH
 - **Answer** the Question
 - **Justify** answer
-- **However**..., it depends, ...
+- **However**..., it depends on, ...
 - Extra evaluation - try not to repeat same points
 - State what option is best and why
 - For top-level - add an 'it depends on' factor

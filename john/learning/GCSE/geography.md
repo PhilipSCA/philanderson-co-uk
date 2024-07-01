@@ -117,6 +117,37 @@ Soft engineering:
 3) Planting trees - intercepts rainwater | Adv: increases lag time, decrease discharge, reduces soil erosion, provides habitats | Dis: less land available for farming
 4) River restoration - making river natural (eg. removing levees) so can flood naturally | Adv: Little maintenance needed, discharge reduced, better habitats | Dis: Local flood risk can increase 
 
+## Case studies
+### Case study - Boscastle Cornwall
+- 58 properties flooded
+- 89mm rain in 1 hour
+Economic:
+- 25 businesses destroyed
+- £20m insurance
+- tourist number reduced while boscastle recovered
+
+#### Hurricane Katrina - tropical storms
+- 1800 killed
+- 300,000 houses destroyed
+- $150 billion cost
+Responses:
+- 75% New Orleans evacuated before hurricane reached
+- 50,000 people rescued - coastguard, police, fire, army
+- US - $16bn funded for rebuilding || $14.5bn for improved flood defense in New Orleans
+
+#### Japan vs Nepal
+Japan:
+- 20,000 deaths
+- $112bn cost
+- caused tsunami with 8m wave
+Responses:
+- early warning system/text alerts
+Nepal:
+- 9000 deaths
+- $5bn cost
+- Response - search&rescue teams, water&medical teams from UK, China, India
+ 
+
 ## The Living World
 ### Ecosystems
 Biotic - living
@@ -127,6 +158,9 @@ Consumer - gets its energy by eating other organisms, producers or consumers
 Decomposer - organism that gets its energy by breaking down dead material, dead producers and consumers (fallen leaves or animal remains. Bacteria/ fungi)
 Food chain - diagram - transfer of energy from ONE organism to another and another by eating
 Food web - diagram - a network of food chains, linking multiple organisms in one ecosystem together - transfer of energy in an ecosystem.
+Flora = plants, fauna = animals
+Freshwater Pond ecosystem:
+- Pond bottom - decomposers/scavengers live here - feed on dead material
 ### Tropical Rainforests
 Climate - 20-28C over year, high rainfall - 2000mm per year - rains every day
 Epiphyte - plants that grow on other plants, take nutrients/moisture from air (e.g fern, orchids)
@@ -141,12 +175,44 @@ Plant adaptations:
 - Smooth, thin bark - no need to protect trunk from cold weather. Smooth surface - water run-off easier and quicker
 - Large, stable buttress roots - support tall tree trunks, and get more nutrients
 - Plants drop leaves gradually throughout year - meaning they grow all year round
-### Hot Deserts
-
-## Urban Issues & Challenges
-### London
-### Rio De Janiero
-### Urbanisation
+### Hot DesertsMojave Desert
+- 100km east of Pacific Ocean, Western USA.
+- Opportunities in desert
+    - Energy
+        - Solar power - Ivanpah Solar Thermal Farm with 170,000 mirrors, powers 140,000 california homes, renewable energy
+        - H.E.P - Hoover Dam - powers 200,000 homes, 4 billion kw/hour, renewable energy.
+    - Tourism
+        - Skywalk -  400,000 people a year
+        - Las vegas - major tourist destination
+    - Farming
+        - The Imperial Valley - Water irrigated by drip tip from River Colorado. Provides $1 billion worth of food a year.
+    - Mining
+        - Deserts have valuable resources of minerals which are exported globally
+        - Bingham Copper mine
+- Less than 250mm rainfall per year
+    - Temperatures are extreme due to lack of cloud cover - can reach 45C in day and below 0 at night.
+    - low soil fertility - lack of leaf fall limits soil fertility, little rainfall means soil often dries out.
+    - Desertification - where land is gradually turned into a desert, on the edges of an existing desert.
+        - Caused by natural events like droughts and poor land management.
+        - Caused by Climate change, Deforestation, over-grazing, over-cultivation. All driven by population increase
+    - Plants
+        - Cactus adaptations - Seguaro cactus
+              - Plant roots are extremely long, 50m, and can spread very wide near the surface to absorb as much water as possible. Taproot
+              - Succulent - large, fleshy stems for storing water. Can store up to 1 ton of water
+              - thick, waxy skin to reduce transpiration(water loss)
+              - thorns to prevent water loss, break up wind
+              - lives up to 200 years
+              - can grow up to 50 feet tall
+        - Plant growth is sparse due to low rainfall, only adapted plants like cacti and thornbushes grow
+    - Animals
+        - Camel adaptations
+            - Fat respired for water in hump
+            - changes body temperature
+            - Transparent, long eyelids to stop sand
+            - Larger, webbed feet to stop sinking
+            - can close their nostrils to stop sand getting
+        - mammals tend to be small and nocturnal - kangaroo rats
+        - Most bird leave the desert during the harshest conditions but some birds can live there all year round.
 
 ## Natural Hazards
 Geological hazards - hazard caused by land and tectonic processes - volcanoes, earthquakes, landslides
@@ -172,25 +238,292 @@ Global atmospheric circulation - transfer of heat from equator to poles by movem
 Seismometer - measures seismic waves, records motion of earthquake
 Saffir-simpson scale - measurement for hurricane wind speeds
 
+
+
+## Urban Issues & Challenges
+
+### London
+- Londons population reached 9 million and is set to reach 10 million by 2030
+- London generates 22% of the UK GDP
+- Advantages of London’s site
+    - Easy to import/export - River Thames
+    - Good transport - eurostar, airports, national rail
+    - Major time zone advantages for doing business with Asia
+    - Flat land - encourages industry
+- Migration
+    - 37% of Londoners born outside the UK
+    - largest foriegn born are from India, Nigeria and Jamaica
+    - 8 million immigrants in UK
+    - 6/10 EU migrants come to London for work
+    - Impacts
+        - Hard working and motivated workforce
+        - Enriching city cultural life
+        - Contribution to local and national economy via taxes
+        - Challenge of integration into the wider community
+        - Pressure on housing and employment
+- Challenges
+    - Social & Economic
+        - Traffic
+            - London is responsible for 40% of UK’s traffic congestion
+            - Only 3% of commuters use bicycle, compared to 50% of Copenhagen
+        - London’s employment rate was 74% in 2016, below the average of 76% for the UK.
+        - House prices and rents in London are highest in the UK. More people rent than own their house.
+        - Some that pay rent pay more than half their salary towards it.
+        - People in wealthy areas tend to live longer than those in poorer areas. The 2011 census showed the most people who reported themselves as not in good health, live in areas of low income.
+        - Social deprivation - over 2 million people living in poverty.
+        - Clear inequality in exam grades across London. Schools in areas of high deprivation score lowest GCSE points per pupil.
+    - Urban Sprawl
+        - The edges of cities are known as the rural urban fringe. There has been increased housing redevelopments in these areas, despite greenbelt laws protecting the land. This outward spread is known as urban sprawl.
+    - Environmental
+        - Dereliction
+            - 250 hectares of brownfield site wasteland, that can be used
+            - Expensive to clear old buildings, clean up sites.
+            - Unattractive for investment
+        - Building on Green and brown field sites
+            - Greenfield site - any area of land that has not been developed previously
+                - Building on these sites may reduce traffic and congestion
+                - Easier to build on as nothing need to be cleared, and more attractive to retail parks
+                - Land is often cheaper so commercial and housing development can be larger.
+                - Wildlife may be lost and habitats may be destroyed.
+                - Government reluctant to allow development on this land, harder to gain planning permission
+                - People may protest towards building on these sites
+                - Strict planning regulation needed.
+            - Brownfield site - old industrial or inner site site that is cleared for a new building development
+                - Brownfield redevelopment eases pressure on greenfield sites
+                - More sustainable - good to reuse land
+                - Easier to get planning permission by government
+                - Infrastructure already exists in urban areas
+                - House prices increase in inner city areas as people are encouraged back into area.
+                - development results in more people coming to the area - puts strain on local services
+                - Hazardous material from a previous land may need to be removed
+        - Greenbelt - an area of open land consisting of farmland, woodland, open recreational areas. They are protected by law from new building, unless government deems it necessary to build there
+        - Waste disposal
+            - A lot of waste ends up in landfill sites or is burnt - Wasting resources and food, burning increases climate change.
+            - In a year 39 million cubic meters of sewage flows into the River Thames
+- Opportunities & sustainability
+    - Economic
+        - Transport -TFL and crossrail
+            - Crossrail - £40m benefit to the UK economy
+            - Crossrail - Better links to the capitals major commercial and business districts - Heathrow, the west end
+            - Crossrail - 55,000 full time jobs and 75,000 business opportunites during construction of railway
+    - Environmental
+        - Waste disposal
+            - If we can get zero landfill by 2025 will give london more space for housing and infrastructure.
+            - Increase London’s energy from organic and non-recycled waste - can power millions of homes and save electricity and money.
+        - Green space
+            - 47% of London is green space.
+            - green space lower than before due to people paving driveways and horizontal expansion for houses and buildings
+            - Reduce stress and help mental wellbeing
+            - Cardiovascular health - More space, easier to exercise
+            - Improves air quality from trees
+            - Places/Parks for children to have fun and for adults to relax
+            - Increase biodiversity
+            - Tourists visit parks and attracts tourists.
+            - Trees reduces drainage and flooding
+        - Urban sustainability - a sustainable city is one in which there is minimal damage to the environment, the economic base is sound, and there is a strong sense of community.
+        - Sustainability - meeting the needs of people today, without putting the needs of future generations at risk.
+
+
+### Rio De Janiero
+- Social Challenges/opportunities
+    - Problems
+        - Half of all children continue education after 14
+        - shortage of schools and teachers
+        - poor teacher training
+        - Only 60% of pregnant females get medical care
+        - Life expectancy is 63
+        - Health service is very poor
+        - 50% of homes in Rio’s favelas have no sewage
+        - 30% of favelas have no electricity
+        - 12% have no running water
+        - Unemployment rates over 20%
+        - high murder and infant mortality rate
+    - Solutions
+        - Encourage local people to volunteer to help in school
+        - giving school grants to poor families to keep children in school
+        - Opening a private university in a favela
+- Economic Challenges/opportunities
+    - Informal sector - part of an economy that is neither taxed, nor monitored by any form of government. People just trying to make money by any means necessary. eg drug dealing
+    - Formal sector - opposite of informal sector - proper government paid and monitored jobs e.g bankers, construction.
+    - Low economy - most people have to go into informal sector jobs for income
+    - High unemployment due to not enough jobs or bad education
+    - Economic opportunities
+        - Tourism - Beaches and hotels - boosts economy
+        - People can have a good time on beaches with activites.
+        - Tour guides to famous places - Sugar loaf mountain, Christ the redeemer
+- Environmental challenges
+    - Air pollution
+        - Problems
+            - Estimated to cause 5000 deaths in Rio
+            - Caused by heavy traffic and congestion on roads.
+            - Mist from Atlantic ocean mixes with vehicle exhaust fumes and pollutants from factory chemicals
+            - Number of cars in Rio have grown by 40% over the last decade
+            - People travel by car because of high crime rate
+        - Solutions
+            - Expanded metro system hoping more people can take public transport
+            - New toll roads built to try and reduce congestion
+            - Heavily congested roads made one-way during rush hour to improve traffic flow
+    - Water pollution
+        - Problems
+            - Guanabara bay is highly polluted causing major threat to wildlife
+            - Commercial fishing declined by 90% in the last 20 years
+            - Pollution could spread and affect other places like Ipamena and Copacabana beach.
+            - Polluting the major tourist hotspots - beaches - will damage local economy
+            - 50 tonnes of industrial waste enter the bay each day
+            - runoff from open sewers in favelas - 200 tonnes raw sewage enters the bay daily
+            - Ships empty their fuel tanks in the bay - no facilities to dispose the fuel properly
+        - Solutions
+            - Overseas aid used to reduce sewage in bay by: Ships get fined for discharging fuel into the bay illegally.
+            - 12 new sewage works built since 2004
+            - 5km of new sewage pipes have been installed around badly polluted areas
+    - Waste pollution
+        - Problems
+            - Favelas built on steep slopes and few proper roads - hard to get a waste collection truck
+            - Waste is dumped and pollutes water system
+            - Causes diseases like cholera and encourages rats.
+        - Solutions
+            - A power plant has been set up using methane gas(biogas) from rotting rubbish. It consumes 30 tonnes of rubbish a day and produces enough electricity for 1000 homes.
+
+
+### Urbanisation
+- there are 21 megacities
+- Megacity - a city with over 10 million people
+- 7 in 10 people will live in megacities by 2050
+- Urbanisation - the increase in the proportion of the worlds population living in cities and urban areas.
+- Urbanisation is higher for LICs then HICs because people move into cities for jobs and money. The healthcare is also worse there meaning a higher death rate but also a higher birth rate because cant afford contraception etc
+- Reasons for urbanisation
+    - Natural increase - This happens when the birth rate is higher than the death rate.
+        - When there is a high proportion of young adults and more children are likely to be born.
+        - A smaller population of older people means lower death rate.
+        - Improvements in healthcare mean lower death rate.
+    - Rural to urban migration - people moving from a rural area to an urban area due to push and pull factors
+        - Pull factors
+            - more well-paid jobs
+            - A higher standard of living
+            - Friends and family living there
+            - Better chance of education
+            - Public transport is better
+            - More entertainment and activities
+            - Better medical facilities
+        - Push factors
+            - Farming is hard and poorly paid
+            - Drought and climate hazards reduce crop yields
+            - Farming is often subsistence level, producing enough for the family, leaving nothing to sell
+            - Poor harvest leads to malnutrition or famine
+            - Few doctors or hospitals
+            - Schools provide a very basic education
+            - Rural areas isolated due to poor roads
+
+
+## Changing Economic World
+### India
+- Statistics of development
+    - Population - 1.4 billion
+    - 2.7 children average per mother
+    - Life expectancy - 64
+    - $2930 GDP per person
+    - 30 doctors per 10,000 people
+    - majority of workers in agriculture
+    - Democratically elected government
+    - HDI = 0.61
+- Job Sectors
+    - Industrial structure - the relative proportion of workforce employed in different sectors of the economy (primary, secondary, tertiary, quarternary)
+    - Primary - involves gathering raw materials from the Earth (fishing, farming, mining)
+        - Primary is just above 50% of the workforce, but only generates around 17% of its GDP.
+    - Secondary - involve making, building or processing raw materials into finished products, usually (factories, car manufacturers, builders, steel workers)
+        - Secondary is around 22% of the workforce, and generates 30% of its GDP
+    - Tertiary - provides a service to others (teachers, lawyers, doctors, bus drivers)
+    - Quarternary - do high-tect research to develop new things (programmers, IT specialists, financial planners)
+        - Tertiary and Quarternary is about 28% of the workforce, but generates most of India’s GDP of 53%
+- TNCs in India
+    - TNC - TransNational Corporation - a company that has operations in more than one country. Many TNCs are large and have well-known brands
+    - Unilever - big food and consumer goods manufacturers.
+    - Advantages of TNCs
+        1. **Provide employment** - Unilever employs 16,000 people in India
+        2. **Greater income from tax** - Unilever has annual sales of over $4.5 billion
+        3. Some TNCS runs **development programs** in India - Project Shakti helps poor women in rural villages become entrepreneurs by providing loans and products to sell.
+        4. Unilever works with **charities** - help run hygiene education programs and provide sanitation to 115 million people in India.
+    - Disadvantages of TNCs
+        1. Some profits from TNCs leave India - Unilever is a Dutch-British language company
+        2. Can cause **environmental problems** - mercury contaminated glass from a Unilever factory was not disposed safely. Mercury is a poisonous chemical.
+        3. TNCs may move around India to take advantage of local government incentives.
+
+
+### Development
+- Causes of uneven development
+    - Historical
+        - Colonialism - left colonised countries weak and without resources, making it a lot harder for them to climb and develop.
+    - Physical
+        - Landlocked
+        - Weather
+        - Size of country
+        - Natural disasters
+- Ways of closing the development gap
+    - HICs giving aid and investing into LICS/NEEs
+    - The multiplier effect - HICs investing in infrastructure like schools, roads and services.
+    - Tourism - can generate a lot of money and for good tourist countries be a big part of their economy. Easy to invest into tourism.
+        1. A growth in number of jobs in tourist industry
+        2. Local people earn more money from working in tourist industry
+        3. Local people spend more money in local businesses
+        4. Taxes to the government from businesses and people go up
+        5. Government has more money for improving infrastructure and attractions, to bring more tourists
+        6. More tourists arrive (loop back to 1)
+
+
+
 ## Resource Managemenmt
 Resource - stock/supply of an essential item with value or purpose
 Food: not enough = malnourishment & undernourishment - limit children's development, increase ill chance
 Water: drink,cook, wash - need sanitation, or gets polluted by raw sewage - diseases(cholera) from water kill many people per year.
 Energy: Industry, transport, homes - electricity needed for development - Lifestyles in HICs depend largely on stable supply of energy. In LICs, no electricity = deforestation, releasing harmful fumes(kerosene stoves)
 - consumption of resources depends on countries wealth & availability
+Insecurity - when people don't have enough supply of it to be sustainable
 #### Food
+Malnourished - bad diet - can be fat
+Undernourished - not enough nutrients - skinny
 Change in demand: Before 1960s, most fruit & veg were locally produces and seasonal - incomes increased=exotic fruit/veg/spices/coffee are more popular - often exported from LICs.
    - Seasonal - Fruit and veg are imported all year round to meet demand for seasonal produce
    - Organic - people concerned about environmental impacts of food production - organic strictly regulated, demand growing. Most is imported.
 Carbon Footprint - amount of greenhouse emissions produced from production of food. Higher footprint=global warming
   - 10% of UK greenhouse emissions in 2017 from agriculture. 
-  - Imported foods have a lot of food miles
+  - Imported foods have many food miles
   - People becoming aware - looking for local sources of food(farmers markets, farm shops) 
 Food miles - distance food is transported to market. More food miles = more CO2 pollution
 Agribusiness - large-scale, industrial farming controlled by large firms. Led to:
    - farm sizes increased - food produced more cheaply - more land use
    - chemicals in food production increasing - artificial fertilisers, pesticides, special food for animals
    - workers in agriculture fell to 1.1% of UK total employment 2017 - due to machinery
+#### Case study - Thanet Earth
+Thanet Earth - agribusiness in Kent
+- heated greenhouse (28oC) to grow in-demand crops all year + same amount of light
+- cable drips water, nitrogen, phosphate, potassium & magnesium - 50m gallons water in reservoirs
+- covered in white to reflect sunlight
+- each building own heat & power plant - use mains gas for electricity 
+### Water
+50% UKs water used in toilet, baths
+21% demand wasted through leakage
+Demand for water rise by 51% by 2030
+Main sources: rivers, reserviors, aquifers
+- 2006 - water grid to transfer water from surplus to deficit
+### Energy
+Energy use fallen:
+1. Deindustrialisation
+2. Energy-efficient tech (washing machines, cars)
+3. Insulation
+1990 - coal for 70% energy
+2007 - 35% gas, 30% nuclear+coal
+2022 - gas 40%, Wind 30%
+Nuclear PP:
+- very expensive
+- Decommisionning old PP expensive
+- construction gives job opportunities, boost local economy
+distribution uneven - development gap, economy
+
+### Rice Husks Bihar India
+- rice husk - biomass - waste product burnt in Power plant
+- 84 PPs by 2015 - supply 200,000
+- PPs also provide employment - management/building
+- using biomass reduce fossil fuels - 0% c emissions
 
 
 ## Mark Scheme Tips
@@ -229,6 +562,32 @@ Evaluate -
 Discuss - 
 Justify - 
 To what extent - 
+
+## Paper 3 
+Human enquiry: Does Housing Inequality exist in WOTN
+Old hall lane & Saville street:
+- Old Hall:
+  - houses bigger
+  - 
+
+
+Physical: is LONGSHORE DRIFT effectively managed by HARD ENGINEERING at WOTN
+- LSD moving eroded sediment away from Walton
+### Housing
+- 340,000 
+Greenfield sites: 
+Adv: - more space - attractive to buyers
+- cheaper to buy & develop
+Dis: - removes woodland, drain wetlands, destroy farmlands
+- Urban sprawl - countryside being swallowed up 
+Brownfield sites: 
+Adv: - Infrastructure & road networks already in place
+- rundown areas redeveloped & improved
+Dis: - disturb urban wildlife habitats
+- Demolition/decontamination needed before development
+
+
+
 
 
 ## year 9 
@@ -380,7 +739,7 @@ and it repeats as a cycle
 That's the Water Cycle!
 ```
 
-# **Revision**
+## **Revision**
 
 ## Weathering
 
@@ -633,277 +992,10 @@ That's the Water Cycle!
         - Epiphyte - plants that grow on other living plants, and take nutrients and moisture from the air. (fern, orchids)
         - Cecropia trees - hollow stems, produce an energy-rich foodstuff at base of their leaves
 - Hot Deserts - Mojave Desert
-    - Mojave Desert
-        - 100km east of Pacific Ocean, Western USA.
-        - Opportunities in desert
-            - Energy
-                - Solar power - Ivanpah Solar Thermal Farm with 170,000 mirrors, powers 140,000 california homes, renewable energy
-                - H.E.P - Hoover Dam - powers 200,000 homes, 4 billion kw/hour, renewable energy.
-            - Tourism
-                - Skywalk -  400,000 people a year
-                - Las vegas - major tourist destination
-            - Farming
-                - The Imperial Valley - Water irrigated by drip tip from River Colorado. Provides $1 billion worth of food a year.
-            - Mining
-                - Deserts have valuable resources of minerals which are exported globally
-                - Bingham Copper mine
-    - Less than 250mm rainfall per year
-    - Temperatures are extreme due to lack of cloud cover - can reach 45C in day and below 0 at night.
-    - low soil fertility - lack of leaf fall limits soil fertility, little rainfall means soil often dries out.
-    - Desertification - where land is gradually turned into a desert, on the edges of an existing desert.
-        - Caused by natural events like droughts and poor land management.
-        - Caused by Climate change, Deforestation, over-grazing, over-cultivation. All driven by population increase
-    - Plants
-        - Cactus adaptations - Seguaro cactus
-            - Plant roots are extremely long, 50m, and can spread very wide near the surface to absorb as much water as possible. Taproot
-            - Succulent - large, fleshy stems for storing water. Can store up to 1 ton of water
-            - thick, waxy skin to reduce transpiration(water loss)
-            - thorns to prevent water loss, break up wind
-            - lives up to 200 years
-            - can grow up to 50 feet tall
-        - Plant growth is sparse due to low rainfall, only adapted plants like cacti and thornbushes grow
-    - Animals
-        - Camel adaptations
-            - Fat respired for water in hump
-            - changes body temperature
-            - Transparent, long eyelids to stop sand
-            - Larger, webbed feet to stop sinking
-            - can close their nostrils to stop sand getting
-        - mammals tend to be small and nocturnal - kangaroo rats
-        - Most bird leave the desert during the harshest conditions but some birds can live there all year round.
+    
 - Ecosystems
     - Ecosystem - all the biotic(living) and abiotic(non-living) parts of an area interjoined that work together to survive in an area. Tundras, Grassland, Boreal forests, Tropical rainforests, Deciduous forests, Polar, Desert
     - Producer - something that uses photosynthesis to produce food, a plant or grass
     - Consumer - something that gets its energy by eating other organisms. They can eat producers (Primary) or other consumers. Primary, secondary and tertiary.
     - Decomposer - an organism that gets energy from breaking down dead material, like dead leaves or animals etc. Bacteria and fungi are decomposers.
 
-## Urban Issues and Challenges
-
-### Rio de Janeiro
-
-- Social Challenges/opportunities
-    - Problems
-        - Half of all children continue education after 14
-        - shortage of schools and teachers
-        - poor teacher training
-        - Only 60% of pregnant females get medical care
-        - Life expectancy is 63
-        - Health service is very poor
-        - 50% of homes in Rio’s favelas have no sewage
-        - 30% of favelas have no electricity
-        - 12% have no running water
-        - Unemployment rates over 20%
-        - high murder and infant mortality rate
-    - Solutions
-        - Encourage local people to volunteer to help in school
-        - giving school grants to poor families to keep children in school
-        - Opening a private university in a favela
-- Economic Challenges/opportunities
-    - Informal sector - part of an economy that is neither taxed, nor monitored by any form of government. People just trying to make money by any means necessary. eg drug dealing
-    - Formal sector - opposite of informal sector - proper government paid and monitored jobs e.g bankers, construction.
-    - Low economy - most people have to go into informal sector jobs for income
-    - High unemployment due to not enough jobs or bad education
-    - Economic opportunities
-        - Tourism - Beaches and hotels - boosts economy
-        - People can have a good time on beaches with activites.
-        - Tour guides to famous places - Sugar loaf mountain, Christ the redeemer
-- Environmental challenges
-    - Air pollution
-        - Problems
-            - Estimated to cause 5000 deaths in Rio
-            - Caused by heavy traffic and congestion on roads.
-            - Mist from Atlantic ocean mixes with vehicle exhaust fumes and pollutants from factory chemicals
-            - Number of cars in Rio have grown by 40% over the last decade
-            - People travel by car because of high crime rate
-        - Solutions
-            - Expanded metro system hoping more people can take public transport
-            - New toll roads built to try and reduce congestion
-            - Heavily congested roads made one-way during rush hour to improve traffic flow
-    - Water pollution
-        - Problems
-            - Guanabara bay is highly polluted causing major threat to wildlife
-            - Commercial fishing declined by 90% in the last 20 years
-            - Pollution could spread and affect other places like Ipamena and Copacabana beach.
-            - Polluting the major tourist hotspots - beaches - will damage local economy
-            - 50 tonnes of industrial waste enter the bay each day
-            - runoff from open sewers in favelas - 200 tonnes raw sewage enters the bay daily
-            - Ships empty their fuel tanks in the bay - no facilities to dispose the fuel properly
-        - Solutions
-            - Overseas aid used to reduce sewage in bay by: Ships get fined for discharging fuel into the bay illegally.
-            - 12 new sewage works built since 2004
-            - 5km of new sewage pipes have been installed around badly polluted areas
-    - Waste pollution
-        - Problems
-            - Favelas built on steep slopes and few proper roads - hard to get a waste collection truck
-            - Waste is dumped and pollutes water system
-            - Causes diseases like cholera and encourages rats.
-        - Solutions
-            - A power plant has been set up using methane gas(biogas) from rotting rubbish. It consumes 30 tonnes of rubbish a day and produces enough electricity for 1000 homes.
-
-### London
-
-- Londons population reached 9 million and is set to reach 10 million by 2030
-- London generates 22% of the UK GDP
-- Advantages of London’s site
-    - Easy to import/export - River Thames
-    - Good transport - eurostar, airports, national rail
-    - Major time zone advantages for doing business with Asia
-    - Flat land - encourages industry
-- Migration
-    - 37% of Londoners born outside the UK
-    - largest foriegn born are from India, Nigeria and Jamaica
-    - 8 million immigrants in UK
-    - 6/10 EU migrants come to London for work
-    - Impacts
-        - Hard working and motivated workforce
-        - Enriching city cultural life
-        - Contribution to local and national economy via taxes
-        - Challenge of integration into the wider community
-        - Pressure on housing and employment
-- Challenges
-    - Social & Economic
-        - Traffic
-            - London is responsible for 40% of UK’s traffic congestion
-            - Only 3% of commuters use bicycle, compared to 50% of Copenhagen
-        - London’s employment rate was 74% in 2016, below the average of 76% for the UK.
-        - House prices and rents in London are highest in the UK. More people rent than own their house.
-        - Some that pay rent pay more than half their salary towards it.
-        - People in wealthy areas tend to live longer than those in poorer areas. The 2011 census showed the most people who reported themselves as not in good health, live in areas of low income.
-        - Social deprivation - over 2 million people living in poverty.
-        - Clear inequality in exam grades across London. Schools in areas of high deprivation score lowest GCSE points per pupil.
-    - Urban Sprawl
-        - The edges of cities are known as the rural urban fringe. There has been increased housing redevelopments in these areas, despite greenbelt laws protecting the land. This outward spread is known as urban sprawl.
-    - Environmental
-        - Dereliction
-            - 250 hectares of brownfield site wasteland, that can be used
-            - Expensive to clear old buildings, clean up sites.
-            - Unattractive for investment
-        - Building on Green and brown field sites
-            - Greenfield site - any area of land that has not been developed previously
-                - Building on these sites may reduce traffic and congestion
-                - Easier to build on as nothing need to be cleared, and more attractive to retail parks
-                - Land is often cheaper so commercial and housing development can be larger.
-                - Wildlife may be lost and habitats may be destroyed.
-                - Government reluctant to allow development on this land, harder to gain planning permission
-                - People may protest towards building on these sites
-                - Strict planning regulation needed.
-            - Brownfield site - old industrial or inner site site that is cleared for a new building development
-                - Brownfield redevelopment eases pressure on greenfield sites
-                - More sustainable - good to reuse land
-                - Easier to get planning permission by government
-                - Infrastructure already exists in urban areas
-                - House prices increase in inner city areas as people are encouraged back into area.
-                - development results in more people coming to the area - puts strain on local services
-                - Hazardous material from a previous land may need to be removed
-        - Greenbelt - an area of open land consisting of farmland, woodland, open recreational areas. They are protected by law from new building, unless government deems it necessary to build there
-        - Waste disposal
-            - A lot of waste ends up in landfill sites or is burnt - Wasting resources and food, burning increases climate change.
-            - In a year 39 million cubic meters of sewage flows into the River Thames
-- Opportunities & sustainability
-    - Economic
-        - Transport -TFL and crossrail
-            - Crossrail - £40m benefit to the UK economy
-            - Crossrail - Better links to the capitals major commercial and business districts - Heathrow, the west end
-            - Crossrail - 55,000 full time jobs and 75,000 business opportunites during construction of railway
-    - Environmental
-        - Waste disposal
-            - If we can get zero landfill by 2025 will give london more space for housing and infrastructure.
-            - Increase London’s energy from organic and non-recycled waste - can power millions of homes and save electricity and money.
-        - Green space
-            - 47% of London is green space.
-            - green space lower than before due to people paving driveways and horizontal expansion for houses and buildings
-            - Reduce stress and help mental wellbeing
-            - Cardiovascular health - More space, easier to exercise
-            - Improves air quality from trees
-            - Places/Parks for children to have fun and for adults to relax
-            - Increase biodiversity
-            - Tourists visit parks and attracts tourists.
-            - Trees reduces drainage and flooding
-        - Urban sustainability - a sustainable city is one in which there is minimal damage to the environment, the economic base is sound, and there is a strong sense of community.
-        - Sustainability - meeting the needs of people today, without putting the needs of future generations at risk.
-
-### Urbanisation
-
-- there are 21 megacities
-- Megacity - a city with over 10 million people
-- 7 in 10 people will live in megacities by 2050
-- Urbanisation - the increase in the proportion of the worlds population living in cities and urban areas.
-- Urbanisation is higher for LICs then HICs because people move into cities for jobs and money. The healthcare is also worse there meaning a higher death rate but also a higher birth rate because cant afford contraception etc
-- Reasons for urbanisation
-    - Natural increase - This happens when the birth rate is higher than the death rate.
-        - When there is a high proportion of young adults and more children are likely to be born.
-        - A smaller population of older people means lower death rate.
-        - Improvements in healthcare mean lower death rate.
-    - Rural to urban migration - people moving from a rural area to an urban area due to push and pull factors
-        - Pull factors
-            - more well-paid jobs
-            - A higher standard of living
-            - Friends and family living there
-            - Better chance of education
-            - Public transport is better
-            - More entertainment and activities
-            - Better medical facilities
-        - Push factors
-            - Farming is hard and poorly paid
-            - Drought and climate hazards reduce crop yields
-            - Farming is often subsistence level, producing enough for the family, leaving nothing to sell
-            - Poor harvest leads to malnutrition or famine
-            - Few doctors or hospitals
-            - Schools provide a very basic education
-            - Rural areas isolated due to poor roads
-
-## Changing Economic World
-
-### India
-
-- Statistics of development
-    - Population - 1.4 billion
-    - 2.7 children average per mother
-    - Life expectancy - 64
-    - $2930 GDP per person
-    - 30 doctors per 10,000 people
-    - majority of workers in agriculture
-    - Democratically elected government
-    - HDI = 0.61
-- Job Sectors
-    - Industrial structure - the relative proportion of workforce employed in different sectors of the economy (primary, secondary, tertiary, quarternary)
-    - Primary - involves gathering raw materials from the Earth (fishing, farming, mining)
-        - Primary is just above 50% of the workforce, but only generates around 17% of its GDP.
-    - Secondary - involve making, building or processing raw materials into finished products, usually (factories, car manufacturers, builders, steel workers)
-        - Secondary is around 22% of the workforce, and generates 30% of its GDP
-    - Tertiary - provides a service to others (teachers, lawyers, doctors, bus drivers)
-    - Quarternary - do high-tect research to develop new things (programmers, IT specialists, financial planners)
-        - Tertiary and Quarternary is about 28% of the workforce, but generates most of India’s GDP of 53%
-- TNCs in India
-    - TNC - TransNational Corporation - a company that has operations in more than one country. Many TNCs are large and have well-known brands
-    - Unilever - big food and consumer goods manufacturers.
-    - Advantages of TNCs
-        1. **Provide employment** - Unilever employs 16,000 people in India
-        2. **Greater income from tax** - Unilever has annual sales of over $4.5 billion
-        3. Some TNCS runs **development programs** in India - Project Shakti helps poor women in rural villages become entrepreneurs by providing loans and products to sell.
-        4. Unilever works with **charities** - help run hygiene education programs and provide sanitation to 115 million people in India.
-    - Disadvantages of TNCs
-        1. Some profits from TNCs leave India - Unilever is a Dutch-British language company
-        2. Can cause **environmental problems** - mercury contaminated glass from a Unilever factory was not disposed safely. Mercury is a poisonous chemical.
-        3. TNCs may move around India to take advantage of local government incentives.
-
-### Development
-
-- Causes of uneven development
-    - Historical
-        - Colonialism - left colonised countries weak and without resources, making it a lot harder for them to climb and develop.
-    - Physical
-        - Landlocked
-        - Weather
-        - Size of country
-        - Natural disasters
-- Ways of closing the development gap
-    - HICs giving aid and investing into LICS/NEEs
-    - The multiplier effect - HICs investing in infrastructure like schools, roads and services.
-    - Tourism - can generate a lot of money and for good tourist countries be a big part of their economy. Easy to invest into tourism.
-        1. A growth in number of jobs in tourist industry
-        2. Local people earn more money from working in tourist industry
-        3. Local people spend more money in local businesses
-        4. Taxes to the government from businesses and people go up
-        5. Government has more money for improving infrastructure and attractions, to bring more tourists
-        6. More tourists arrive (loop back to 1)
