@@ -56,9 +56,9 @@ Multi-tasking OS - can run multiple applications at once
     - GUI - Graphical UI - visual, interactive, intuitive - optimised for specific input methods - WIMP (Windows, Icons, Menus, Pointers) or touchscreen - Android, iOS - use finger gestures like swiping, pinching 
     - Command-line interface - text based - user enters specific commands for tasks - less resource heavy than GUIs - for advanced users, far more efficient and powerful than GUIs - can automate processes using scripts
 3&4) OS helps CPU carry out multi-tasking by efficiently managing memory and CPU processing time: (app = application)
-   - When an app is opened, OS moves necessary parts of app to memory, followed by additional parts when they are required. OS decides if apps or features have been used recently - if not, they may be removed from memory
-   - To run multiple apps, OS needs to make sure apps dont overwrite or interfere with each other. A memory manager allocates certain apps certain memory addresses, so their processes are placed in separate locations
-   - Only one process is processed by CPU at a time - OS divides CPU time between open apps and may prioritise other processes in order for instructions to be executed in the most efficient order
+   - When app opened, OS moves necessary parts of app to memory, + additional parts when required. OS decides if apps or features been used recently - if not, maybe removed from memory
+   - multiple apps=OS makes apps not overwrite/interfere another. A memory manager allocates certain apps certain memory addresses, so their processes are placed in separate locations
+   - Only one process processed by CPU at once - OS divides CPU time between open apps, prioritises processes in order for most efficient order
    - When required, OS organises movement of data to and from virtual memory
 5) File & disk management - organisation of data in a useable hierarchical structure - movement, editing, deletion of data.
    - file extensions (.jpg, .mp3, .mpeg) tell computer which software used to open file
@@ -88,10 +88,10 @@ Open Source Software - software where source code is freely available. Users can
   - Popular open source software is always supported by a strong community - users actively help improve software
 Advantages:
 1) Usually free
-2) Made for greater good - not profit - benefits everyone, encourages collaboration, sharing of ideas
-3) Software can be adapted by users to fit needs
-4) Wide pool of collaborators can be more creative and innovative than original programmers.
-5) Popular software - very reliable and secure - any problems quickly solved by community.
+   1) Made for greater good - not profit - benefits everyone, encourages collaboration, sharing of ideas
+2) Software adapted by users to fit needs
+3) Wide pool of collaborators can be more creative and innovative than original programmers.
+4) Popular software - very reliable and secure - any problems quickly solved by community.
 Disadvantages:
 1) Small projects may not be regularly updated - can be buggy/have unpatched security holes
 2) Limited user documentation
@@ -123,9 +123,9 @@ ROM - Read Only Memory - can only be read - non-volatile - built into the mother
 
 Secondary storage - non-volatile - where all data is stored when not in use: Magnetic HDDs, SSD, CD, Magnetic tapes, SDs
 - read/write times are alot slower than primary storage
-1) HDD - internal storage in PC/laptops - made up of stack of magnetised metal disks spinning at a rate of 5400-15000rpm - data stored magnetically in sectors within circular tracks, read/write heads access sectors on disk 
-- long lasting, reliable, cheap, high capacity
-1) SSD - no moving parts - most use flash memory - internal storage 
+1) HDD - internal storage in PC/laptops 15000rpm - data stored magnetically in sectors within circular tracks, read/write heads access sectors on disk 
+- long lasting, reliable, cheap, high capacity | less portable, durable, slower
+2) SSD - no moving parts - most use flash memory - internal storage 
 - significantly faster read/write times than HDD - fastest secondary storage
 - dont need defragmenting
 - more shock-proof
@@ -133,13 +133,13 @@ Secondary storage - non-volatile - where all data is stored when not in use: Mag
 - shorter R/W life
 - hybrid drives exist, using SSD to boot up computer and HDD for data
 - limited number of read/writes - defragmenting shortens lifespan
-1) Optical discs - CD, DVD, Blu-ray - CD = 700 MB of data, DVD = 4.7GB, Blu-ray = 25GB,
+3) Optical discs - CD, DVD, Blu-ray - CD = 700 MB, DVD = 4.7GB, Blu-ray = 25GB,
   Read-only (CD-ROM, DVD-ROM, BD-ROM) - Write-once(CD-R, DVD-R, BD-R) - rewriteable(CD-RW, DVD-RW, BD-RW)
 - cheap, portable, durable from water or shocks
 - use is declining, low capacity
 - very slow R/W times
 - poor reliability
-1) Magnetic tapes:
+4) Magnetic tapes:
 - greater capacity than HDDs (very high)
 - extremely low cost per GB (cheapest S.Storage)
 - very slow when finding specific data, but fast R/W speeds when data in correct place.
@@ -156,8 +156,7 @@ Advantages:
 - cheap, easy communication with other members - instant messaging
 - User accounts stored centrally - users can log in from any device
 Disadvantages:
-- Increased security risks to data
-- Malware/viruses spread easily between computers
+- Increased security risks to data - Malware/viruses spread easily between computers
 - If server fails, computers connected to it don't work
 - Computers may run slowly if lots of data travelling on network
 WAN - Wide Area Network - large area, connecting multiple LANs together - Infrastructure between LANs leased from telecommunication companies - own, manage it - connected by telephone lines, fibre optic cables, satellite links
@@ -225,7 +224,34 @@ Packet switching - process of data broken down into packets, then reassembled in
  - Data split into packets, numbered - each packet sent fastest route across internet by routers - rearranged in order by packet numbers - if packets missing - timeout message sent.
  - each packet given: IP address of destination, IP of where sent, packet number to be put back in order, error checking data
 Protocol - set of rules for how devices transmit data across a network
+#### Layers 
+- protocols divided, protocols with similar functions grouped
+Layer 1: Data Link - Send data over network (cables/physical network) - Ethernet
+2: Network - Direct data packets, handle traffic, used by ROUTERS - IP
+3: Transport - Control flow of data (protocols, packet size, speed) - TCP
+4: Application - Turn data into app/website - HTTP, FTP, SMTP
+Advantages:
+- Each layer independent - can be modified without disrupting other layers
+- Breaks communication into manageable pieces - developers concentrate on one area on its own
+- Set rules for each layer = companies make compatible, universal hard+software, brands can work with each other in same way.
 
+### Internet
+Internet - network of networks - global WAN - based around TCP/IP
+WWW - collection of websites | hosted on web servers - HTTP
+URL - address to access web servers and resources - protocol :// domain - linked to an IP / Path - specific page
+DNS - Domain Name Server - translates domain into IP address 
+Cloud - internet hosting for general storage & online software::
+Hosting - business using its servers to store other business' files
+Advantages: Can access from any connected device 
+ - Easy to increase storage
+ - No expensive hardware
+ - No IT staff management
+ - Provides security & backups for you, updates automatically
+Disadvantages:
+ - Needs internet connection
+ - Dependent on host for security/back-ups
+ - Vulnerable to hackers/malware !!!
+ - Subscription fees for software
 
 
 
@@ -268,17 +294,77 @@ Encryption - data(plain text) translated into unreadable cipher text - only pers
   - Private key(Symmetric) - one key used to encrypt & decrypt data - must be given to recipient to decrypt
   - Public key(Asymmetic) - two keys used - one public key to encrypt, and a personal private key to decrypt - more secure as you never have to reveal/share your decryption key
 
+### Data representation
+Binary addition - 0+0=0, 0+1=1, 1+1=0(carry 1) | 1+1+1 = 1 carry 1
+Binary shift - Left = multiply, Right=divide
+Character set - collection of characters recognised/represented by a computer system (by binary number)
+ASCII - 7-bit character set - (128 characters) - uses less memory space
+ASCII extended - 8-bit - 256 characters
+Unicode - 16/32-bit - 65,000+ characters - every possible character in every language
+
+Pixel - smallest area of an image - 1 dot
+Images - made up of pixels. Colour of each pixel is a binary number
+Colour depth - no. of bits used for each pixel (Bit depth)
+  - 2^(number of bits) = no. of colours
+  - improves quality, bigger file size
+Resolution - concentration of pixels in an area - given as WidthxHeight - dpi(dots per inch) - higher resolution = better quality, bigger file size
+Metadata - information about image file, stored within it. (e.g height,width,colour depth,resolution, format, image time&date)
+
+Analogue sound - a pressure wave causing air to vibrate - computer cant interpret
+ - Amplitude - height - Volume
+ - Frequency - wavelength - pitch
+Speakers etc - sound converted from digital back to analogue - vibrating cone causes pressure waves
+Sound - has to be converted from analogue --> digital to be stored by computer. Done by sampling:
+Sampling - Amplitude measured at regular intervals, creates digital representation of wave.
+  - more frequent samples = more accurate = better quality, bigger file size
+  - Sample rate = rate of interval recordings
+  - Can also improve quality by increasing no. of bits representing each sample (Sample resolution)
+
+Compression - makes file size smaller - data faster to send, quicker to download, faster to load, less storage space
+Lossy - permanently removes some data from file - image/audio lower quality (JPEG, MPEG, MP3)
+  - data transfer of file quicker
+  - useful for data not fully needed, can store more data and it runs quicker
+Lossless - data temporarily removed, put back together when file opened. - useful for files that need all data in (PDF, GIF, Text documents, .exe)
+  - reduces file less than lossy
+  - one method - RLE(run-length encoding)
+RLE - sequences displaying redundant data stored as single value
+ - e.g - a,a,a,b,c,c,c,c = a3,b1,c4
+
+### Legislation laws
+#### Legal
+Data protection Act 2018 
+- data must be fairly & lawfully processed
+- used for intended purposes
+- must be relevant, accurate and up to date
+- musnt be kept for longer than necessary
+- must be handled with security
+Computer Misuse Act 1990 - illegal to access data you're unauthorised to (referred to hacking), with intent of further offences or to modify data (malware)
+Copyright Designs and Patents Act 1988 - cant copy, modify, distribute, sell any type of material without owner's permission
+#### Ethical
+moral principles, rules by society. include:
+- ensuring public safety - most important
+- security of data - data is safe and trusted by customers
+privacy, censorship, surveillance
+#### Cultural
+Effects on nature/culture of society:
+- digital divide - divide between people with access to tech and people without - age or money - limits information access
+- changing nature of employment - working from home, e-communication, machinery stolen some jobs (warehouse packaging) \\ more high skilled work available to maintain automated systems
+#### Environment
+materials used for manufacturing computers + energy used - web servers, DNS, data centres need 24/7 energy to maintain
+- E-waste - throw away working devices because we want to upgrade - smartphone every year, computers ever 3-4 yrs
+- 
+
+
+
+
+
 # Paper 2 - Computational Thinking, Algorithms and Programming
 
 Casting - changing a data type
 Module - external python file which often contains functions
 Structured (modular) programming - decomposing the program that you want to write into manageable modules - short, simple, easy to understand
 Trace table - table to test that a program is working - shows output of program - can find errors
-SQL(Structured Query Language) - language used to manage relational databases and perform various operations on data in them
-  - SELECT - * or name of column - what you want displayed to you
-  - FROM - (name of table)
-  - WHERE - condition - AND,OR, % or LIKE
- 
+Random integer = randint(1, 6) (from 1 to 6)
 ## Algorithms
 ### Computational Thinking
 Decomposition - breaking a complex problem into smaller problems to solve individually
@@ -308,7 +394,7 @@ Local variable - can only be used in the structure they're declared in (subrouti
 Global variable - variable that can be used anywhere in code, after declared
 Exponentation - powers - e.g 2**3 or 2^3 
 Quotient DIV - DIV - integer division
-Modulo division -  MOD - Remainder
+Modulo division -  MOD - Remainder - %
 Array - data structure - can store  group of values, of one same type, under one name
 1D-Arrays - list 
 2D-Array - table - lists within a list  
@@ -319,27 +405,36 @@ Iteration - when the program uses repitition/loops (For, Repeat(do)-until, while
 - Definite iteration - (Count-controlled) when loop repeats exact number of times instructed. - FOR
 - Nested iteration - loop inside another loop
 CASE statement - performs different actions for different values of same variable
-#### String manipulation
+#### String manipulation 
 x.length - Outputs length of string (Starts at 1)
 x.upper - changes string to all upper case
 x.lower - string all lower case
 x(i) - Outputs character in position of integer(i) (Starts from 0)
 x.substring(a,b) - Gives characters from a with length b. (e.g x=word, x.substring(2,2) = "rd")
 #### File handling
-openRead("myfile.txt") - Opens file in read mode
-openWrite("myfile.txt") - Opens in write mode
-.writeLine("Hello") - Writes line to file
-Line1 = myfile.readLine() - Reads 1 line of file
-.close - closes files
-endOfFile() - determines end of file
+file = openRead("myfile.txt") - Opens file in read mode
+file = openWrite("myfile.txt") - Opens in write mode
+file.writeLine("Hello") - Writes line to file
+file.readLine() - Reads 1 line of file
+file.close - closes files
+file.endOfFile() - determines/checks end of file
+
+### Databases
 
 Sub-program - set of instructions stored under a name, which can be called to run whole set
 Function - Sub-program that returns a value
 Procedure - doesnt return a value
 Parameter - variables  passed as a value into subroutine
 Argument - the values that you assign to the parameters
+Database - persistent store of related data - stored in records, stored in files
+Attribute - one item of data
 Record - data structure - can store different data types - single row in a data table
-Field - each data items within a record - columns in the data table
+ - each item of data written to or from a file
+Field - each data items within a record - columns in the data table - data type, name
+SQL(Structured Query Language) - language used to manage relational databases and perform various operations on data in them
+  - SELECT - * or name of column - what you want displayed to you
+  - FROM - (name of table)
+  - WHERE - condition - AND,OR, % or LIKE
 
 ### Defensive Design
 Defensive design - programmers test their code to: reduce number of errors, prevent misuses, for well-maintained code
@@ -365,6 +460,12 @@ Boundary data - data on boundary of what program should accept
 Erroneous data - data the program shouldn't accept
 Syntax error - doesn't follow rules or grammar of the language(SPaG error) - computer doesnt understand - program doesnt run
 Logic error - unexpected output - program does run but returns an unexpected output (human error)
+Functionality testing 
+ - Performance - how quickly features run, impact on computer resources
+ - Usability - how user-friendly interface and features are
+ - Security - test vulnerability to attacks & how securely data stored
+ - Load/Stress - how it copes under extreme conditions (loads of users)
+Testing flow chart - Requirements, Design, Implementation, Testing, Maintenance
 ### Logic gates
 NOT gate - output is opposite of input (0, 1)
 AND gate - if both inputs are 1, then output is 1. Otherwise 0. (0, 0, 0, 1)
@@ -421,41 +522,7 @@ IDE(Integrated Development Environment) - software with features that help progr
  4) Translator - translate code into machine code
  5) Breakpoints - stop program on certain lines
 
-### Data representation
-Binary addition - 0+0=0, 0+1=1, 1+1=0(carry 1) | 1+1+1 = 1 carry 1
-Binary shift - Left = multiply, Right=divide
-Character set - collection of characters recognised/represented by a computer system (by binary number)
-ASCII - 7-bit character set - (128 characters) - uses less memory space
-ASCII extended - 8-bit - 256 characters
-Unicode - 16/32-bit - 65,000+ characters - every possible character in every language
 
-Pixel - smallest area of an image - 1 dot
-Images - made up of pixels. Colour of each pixel is a binary number
-Colour depth - no. of bits used for each pixel (Bit depth)
-  - 2^(number of bits) = no. of colours
-  - improves quality, bigger file size
-Resolution - concentration of pixels in an area - given as WidthxHeight - dpi(dots per inch) - higher resolution = better quality, bigger file size
-Metadata - information about image file, stored within it. (e.g height,width,colour depth,resolution, format, image time&date)
-
-Analogue sound - a pressure wave causing air to vibrate - computer cant interpret
- - Amplitude - height - Volume
- - Frequency - wavelength - pitch
-Speakers etc - sound converted from digital back to analogue - vibrating cone causes pressure waves
-Sound - has to be converted from analogue --> digital to be stored by computer. Done by sampling:
-Sampling - Amplitude measured at regular intervals, creates digital representation of wave.
-  - more frequent samples = more accurate = better quality, bigger file size
-  - Sample rate = rate of interval recordings
-  - Can also improve quality by increasing no. of bits representing each sample (Sample resolution)
-
-Compression - makes file size smaller - data faster to send, quicker to download, faster to load, less storage space
-Lossy - permanently removes some data from file - image/audio lower quality (JPEG, MPEG, MP3)
-  - data transfer of file quicker
-  - useful for data not fully needed, can store more data and it runs quicker
-Lossless - data temporarily removed, put back together when file opened. - useful for files that need all data in (PDF, GIF, Text documents, .exe)
-  - reduces file less than lossy
-  - one method - RLE(run-length encoding)
-RLE - sequences displaying redundant data stored as single value
- - e.g - a,a,a,b,c,c,c,c = a3,b1,c4
 
 
 

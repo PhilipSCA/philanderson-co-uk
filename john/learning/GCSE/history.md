@@ -1,5 +1,6 @@
 # History
 ## Germany
+## Weimar Germany 1918-33
 ```
 Turnip Winter -1917 - naval blockade - 750,000 starved to death, producing 50% milk and 60% butter and meat
 Naval blockade - Allies' ships blocked off supplies to Germany 1914-19
@@ -8,30 +9,41 @@ Armistice - ceasefire, signed 11 nov 1918, government 'November criminals'
 
   - 1919 - weakened Germany heavily, land, military and economic terms (£6.6b in reparations)
 
-Nazi Party - made 1920, 6,000 members
-1921 - SA formed to protect Nazis from rival groups
-Munich Putsch - Nov 1923 - Weimar called off 'passive resistance' 2,000 SA to fight - support of war hero Ludendorff. Putsch failed, Hitler arrested
-1933 - Gestapo - 200,000 members
-1934 - 'Peoples Court' set up
+
 ```
+### TOV
+1. Territorial
+ - 13% land lost - left 6m Germans outside Germany
+ - Alsace-Lorraine + Saar to France
+ - Upper silesia to Poland           
+2. Military
+ - Max 100,000 men | F & P had 600,000
+ - no air force
+ - 6 battleships, no submarines, no tanks
+3. Economic
+ - £6.6 billion reparations
+ - 15% coal, 50% iron lost
+4. Blame - Article 231 - War guilt clause - accept responsibility
+ - germans say acceptance of blame as betrayal from Weimar gov. 'stab in the back' + 'November criminals'
+
 ### Weaknesses of Weimar constitution
 Germany - republic - nationalists unhappy
-1) Proportional representation - voting method - made it hard to make decisions in the Reichstag - led to 22 coalitions 1919-1928 - unstable. Helped Hitler win power as coalitions fell apart with how to deal with Great Depression
+1) Proportional representation - voting method - hard to make decisions in Reichstag - led to 22 coalitions 1919-1928 - unstable. Helped Hitler win power as coalitions fell apart with how to deal with Great Depression
 2) Article 48 - president power to act without parliaments approval, in emergency - power overused - weakened confidence in democracy - Hitler used in Reichstag fire - 4,000 locked up
-3) Same people in charge of army and courts - Generals and judges had served Kaiser - opposed new system - ex-soldiers assassinated opponents, biased judges didnt punish as much - encouraged 356 assassinations 1918-23 - undermining stability, from 1920-23, extreme nationalists tried to take control, but failed.
+3) Same people in charge of army and courts - Generals and judges served Kaiser - opposed new system - ex-soldiers assassinated opponents, biased judges didnt punish as much - encouraged 356 assassinations 1918-23 - undermining stability, from 1920-23, extreme nationalists tried to take control, but failed.
 
 ### Threats to the Weimar Republic 1919-23
-Spartacist uprising - Jan 1919 - 50,000 communists tried to overthrow government in Berlin, quickly crushed by Freikorps - Rosa Luxembourg & 3,000 killed
-Kapp Putsch -1920 - 250,000 ex-Freikorps led by Wolfgang Kapp took over Berlin - army refused to fire on them, 12m german workers went on strike - putsch lasted 6 days and failed - Kapp fled to sweden
-Unpopularity - injustice(unfairness) of treaty - 'stab in the back' - politicians called 'November criminals' - army also not happy. - 376 political assassinations total - biased judges sympathised and fewer prosecutions
-Ruhr - Jan 1923 - 60,000 French & belgium troops invaded - took coal and timber - 130 died resisting, humiliation - led to hyperinflation
-Hyperinflation - workers on strike(passive resistance) - not mine coal for French - Government printed more money - loaf of bread, 250 marks to 200 billion - wheelbarrows for wallets, food shortages, rise in crime
-Munich Putsch - 8/9th Nov 1923 - 600 SA leaders burst into a beer hall meeting - forced leaders to rebel. 9th Nov - Hitler + 2000 SA members + Ludendorff into Munich - police and army reinforcements there - 16 SA killed - Hitler arrested - made speeches over 24 days attacking government. Sentenced to 5 years, banned from public speaking.
+1. Spartacist uprising - Jan 1919 - 50,000 communists tried to overthrow government in Berlin, quickly crushed by Freikorps - Rosa Luxembourg & 3,000 killed
+2. Kapp Putsch -1920 - 250,000 ex-Freikorps led by Wolfgang Kapp took over Berlin - army refused to fire on them, 12m german workers went on strike - putsch lasted 6 days and failed - Kapp fled to sweden
+3. Unpopularity - injustice(unfairness) of treaty - 'stab in the back' - politicians called 'November criminals' - army also not happy. - 376 political assassinations total - biased judges sympathised and fewer prosecutions
+4. Ruhr - Jan  1923 -  60,000 French & belgium troops invaded - took coal and timber - 130 died resisting, humiliation - led to hyperinflation & Munich Putsch
+- Hyperinflation - workers on strike(passive resistance) - not mine coal for French - Government printed more money - loaf of bread, 250 marks to 200 billion - wheelbarrows for wallets, food shortages, rise in crime
+5. Munich Putsch - Weimar called of 'passive resistance' - 8/9th Nov 1923 - 600 SA leaders burst into beer hall meeting - forced leaders to rebel. 9th Nov - Hitler + 2000 SA members + Ludendorff into Munich - police and army reinforcements there - 16 SA killed - Hitler arrested - made speeches over 24 days attacking government. Sentenced to 5 years, banned from public speaking.
 
 
 
 
-## Golden Years
+### Golden Years
 ```
 Rentenmark - new currency introduced after hyperinflation in 1923
 Gauleiter - introduced in July 1923
@@ -42,23 +54,37 @@ League Of Nations - later joined in 1926 as a 'great power' - led to lots of tru
 1926 - Germany largest steel producer in Europe
 Media - 1927 - produce cutting-edge films like Metropolis - producing most films in Europe. German stars became world stars (Marlene Dietrich)
 Bauhaus - German art design - inspired many other art designs and used all around the world
+```
 
-1929 - Wall Street Crash - Great Depression - too reliant on US loans - unemployment dropped to 6mil (25% workforce) by 1932 - increased votes for nazis
+### Hitlers rise to power 1920-33
+
+1920 - Nazi Party - 6,000 members
+1921 - SA formed - protect Nazis from rival groups
+1929 - Wall Street Crash - Great Depression - too reliant on US loans - unemployment dropped to 6mil (25% workforce) by 1932
+   - increased votes for nazis - people desperate + charismatic leader, violence & order of SA 
 
 1928 - Nazis under 3% of vote
-Bruning -1930 - 'hunger chancellor' - cut unemployment pay by 60% - raised tax on beer and sugar
 1930 - Nazis had 18% of vote
 1932 - Nazis votes rose to 37%, then back down to 32%
+ - 3 --> 18 --> 37 --> 32
+
+Bruning - 1930 - 'hunger chancellor' - cut unemployment pay by 60% - raised tax on beer and sugar
+
 1932 - SA numbers increased to 600,000
-```
-## How hitler consolidated power 1933-34
+1933 - Gestapo - 200,000 members
+1934 - 'Peoples Court' set up
+
+Police state:
+SS - ensure population
+
+### How hitler consolidated power 1933-34
 ```
 1933 - Reichstag Fire - communists blamed - 4000 locked up, emergency law decree, limiting freedom of speech
 1933 March - Enabling act - Hitler could pass laws without Reichstag for 4 years - removed Social democrat and communist party, abolished 18 local 'Lander' parliaments. Arrested all trade union officials and forced unions into German Labour Front (DAF) to control workers and wages.
 DAF - German Labour Front - no strikes, no job changes, max working hours 60 => 72
 1934 - Night Of Long Knives - 400 SA leaders + Rohm murdered - won army's support as swore an oath of loyatly
 ```
-## Hitler's rise in power 1933-39
+## Hitler's rise in power - Nazi Germany 1933-39
 ### Support
 ```
 Concordat - 1933 - agreement with Pope to leave Catholic church alone if out of politics, soon broken by Hitler - Catholic youth groups banned, schools got rid of crosses/symbols and eventually closed.
@@ -117,16 +143,48 @@ Jobs - Many Jews forced out of their jobs, especially professions like lawyers a
 30th April 1939 - laws got worse - Jews evicted from their homes and forced into designated areas.
 By summer 1939 - about 250,000 Jews (about half of Jews) had left Germany.
 
+### Exam Layout & Questions
+Q1. Infer + details x2 (4) - One thing i can infer about [Question] is that..
+
+Q2. Explain why/how ... (12)
+ - 3 PEAls - first + last line - use words of Q
+
+Q3a. How useful are Sources A and B for an enquiry (8)
+- It is useful for an enquiry into [Question] as it helps show... For example, it says ""
+- This is useful as it fits with my contextual knowledge. For example, I know that.. 
+- The source is by... in.. This makes is more/less useful as.../ its usefulness may be limited (x2)
+
+Q3b. Main difference between views (4)
+- A main difference is that Int 2 emphasises... For example it says "..."
+- On the other hand, Int 1 emphasises ... as it says "..."
+
+Q3c. one reason why Int 1 and 2 give different views about (4)
+- Interpretations may differ because they have given weight to different sources. For example, Source B provides some support for Int 2, which stresses...
+- Whilst Source C, which provides some support for Int 1, emphasises
+
+Q3d) How far do you agree with Int 2 .... (16+4)
+1. I agree with Int 2 as the.. For example, it suggests.. ""
+   - I agree with this as I know that... So clearly this evidence supports Int 2 that [Q]
+2. Int 2 also says that/Int 2 isn't fully correct..
+
+3. However, Int 1 challenges Int 2 by saying that.. For example..".."
+ - I agree as I know that.. So clearly this evidence supports Int 1 that [Q]
+4. In conclusion, I ... dis/agree with Int 2 because... (can repeat)
 
 ## COLD WAR
 Grand alliance - 1941 - Soviet union, USA and Britain - joined to win and end the war
-Tehran conference - 1943 - D-day - USA and Britain invade France on a second front in 1944, USSR join war after Nazis defeated
+Tehran conference - 1943 - D-day - USA, Britain invade France on second front in 1944, USSR join war after Nazis defeated
+ - A UN organisation agreed set up after war
+ - Area of eastern Poland added to SU - buffer between germany
+- Consequence: shows how allies cooperating, Roosevelt believed could negotiate w Stalin, accepted some Soviet control in Europ
+  - However, tensions = Churchill mistrustful, hating communism
 Yalta - Feb 1945 - Agreed to: 
 1) split Germany into 4 zones(France, Britain, USA, USSR each a zone)
 2) force Germany to pay reparations
 3) set up the United Nations
 4) Free elections in eastern european countries liberated from Nazi control
-Disagreements over how Poland should be run. - made it clear that agreements on eastern europe would be difficult.
+Consequence: shows how allies still cooperating - united by common enemy, Stalin happy
+- disagreements over Germany reparations + Poland|German border  - clear agreements on eastern europe would be difficult.
 Potsdam - July 1945 - Agreed to:
    1) Divide Germany and Berlin into 4 zones
    2) Let the power in each zone take reparations in kind from its zone
@@ -139,11 +197,15 @@ Novikov telegram - 1946 - Nikolai Novikov - USA wanted to take over world, even 
 Satellite state - countries controlled or under the influence of USSR - many people unhappy in these countries but faced oppression if objected.
 Iron curtain - 'metaphor' - border between pro-capitalist European countries in West and pro-communist countries in the East.
 #### Soviet takeovers 1945-48
-Why: Stalin wanted security - Germany attacked twice - 25m Soviets dead in WW2 - wanted a buffer of friendly countries - helped communists seize power in E.Europe
-How: SALAMI TACTICS - Red Army(Soviet) soldiers in charge of E.europe after pushing Nazis out of places - arrested opponents e.g leader of Small Holders Party - Hungary, rigged elections - Romania won 70%, 16 non-communist Poles arrested,
+Why: Stalin wanted security 
+   - Germany attacked twice - 25m Soviets dead in WW2 - wanted a buffer of friendly countries 
+   - helped communists seize power in E.Europe
+How: SALAMI TACTICS - Red Army(Soviet) soldiers in charge of E.europe after pushing Nazis out of places 
+   - arrested opponents - leader of Small Holders Party - Hungary, rigged elections - Romania won 70%, 16 non-communist Poles arrested
 Consequence: Soviets more secure - 'buffer zone' between West
    - forces US 'containment' policy - Truman Doctrine, Marshall plan 
    - Soviets respond with Cominform & Comecon - Cold war rivalry & division deepens.
+
 Truman Doctrine - 1947 - promised aid to any country threatened by communism - Greece & Turkey $400m - increased tension, rivalry deepened
 Marshall Plan - 1947 - George Marshall advised - $12bn in aid to European countries - recover economy after war - won 16 countries over to capitalism - trade w USA increases
 Cominform - 1947 - USSR direct response to Marshall plan - put all European communist parties under their control, attempt to create trade network, prevent trading with West. Any communists with different views pushed out of parties. Published newspaper - ideals
@@ -215,26 +277,79 @@ Consequences: Kennedy - showed he was a strong leader who prevented USSR from de
 - hotline - led to Test Ban Treaty, Non-proliferation treaty & Detente
 
 #### Czechslovakian crisis
+Why: New communist leader - Dubcek - replaced hard-line Novotny - made reforms to economic problems aka 'Prague Spring':
+- protests, freedom of speech, reduce secret police powers, 10 yr plan to move to multi-party democracy
+What: Brezhnev worried - had strong industry, key 700km buffer zone + vital Warsaw pact member - E.German & Polish also feared reforms
+ - 200,000 Soviet,(Bulgarian, Hungarian, E.german, Polish) troops - no armed resistance - <100 killed, Dubcek replaced
+Consequence: Brezhnev doctrine - made clear SU would use force if communist control was threatened in E.Europe
+ - China angry - US protested but no action - limited impact of relations.
+
+#### Detente - attempt to relax/improve relations (Nixon & Brezhnev)
+Both sides wanted to reduce cost of arms race - shocked by Cuban crisis closeness to war - US wanted S.U influence, S.U wanted US technology 
+    - 1968 - Non-proliferation treaty - stop spread of nuclear weapons to non-nuclear countries - 5 Countries were USA,UK,USSR,China, France
+    - 1972 - SALT 1 - 5 yr freeze on ICBMs - limits on Anti-ballistic missile systems
+    - 1975 - Helsinki agreement - 35 countries -  officially agreed post-war borders of Europe - S.U acceptance of W.Germany - reduces tensions, agreed respecting human rights, encouraged trade
+
+#### Afghanistan
+1979 - SU sent 50,000 troops to support Afghan communist party PDPA
+Carter doctrine - promise aid to neighbours and military action if Persian gulf interests threatened
+- Grain shipments stopped, CIA aid to mujahedeen guerrillas
+- 5% defense spending increase - Reagan promises $1 trillion on arms race
+- Soviet Invasion of Afghanistan important - ended Detente, created new arms race
+
+### Reagan
+January 1981 - Reagan
+- Second CW - 1983 - ending Detente by creating SDI('Star Wars') - planned space-based anti-missile system 
+- Reagan promises $1 trillion on arms race
+- 20 Missiles in Western SU - called SU 'evil empire'
+- 6 Trident nuclear subs + Neutron bomb developments - increased tensions
+
+### Gorbachev
+1985 - reforms to improve relations & stop arms race
+- Didn't get involved with E.europe on fighting against communism - encouraged it
+Issues in USSR:
+ - Afghanistan war
+ - Chernobyl - power plant incident
+ - Discontentment in Eastern Bloc
+#### New thinking
+Glasnost - relaxed censorship
+Perestroika - restructuring of economy - reduce military spending, Sov. businesses trade with West -  led to open criticism within SU, weakened control
+Summits - attempt to end arms race:
+- Geneva 1985 - committed to speed up arms talks  - led to INF treaty
+- INF treaty - 1987 - both agree to scrap Intermediate nuclear weapons - 2600 destroyed
+Abandoned Brezhnev doctrine - communists can do things their way 
+ - withdrew
+Dec 1988 - reduced troops to 50k in E.europe
+- Poland, Hungary, Romania & Czech held free multi-party elections
+
+Consequences of new thinking:
+- weakened Soviet control, people question communism = protests, demands for change + collapse of SU
+- Abandoned Brezhnev doctrine
+
+E. Germans demanded change - Gorb didnt get involved - rulers allowed freedom of travel - Berlin Wall collapsed - Nov 9th 
+  - mark of end of Cold War
+  - 1990 Germany united
+### Collapse of SU/ Official End of CW
+1990 - 14 Baltic states Lithuania, Estonia, Latvia declared independance - others(5 'stans (Turkmenistan.etc)) demanded it
+Warsaw Pact - ended officially July 1991
+Gorbachev - officially announced end of Soviet Union/resigned - Christmas day 1991 (25th Dec)
+
+2 Consequences:
+1. countries gained independance
+2. Warsaw Pact ended
+
+
+
+### int
+It is quite useful to an enquiry into the consequence of Reagen's presidency for the Cold war as it helps us learn that Reagan was heavily against USSR and increased tensions. For example it says 'he used insulting and provocative language against the USSR.' What the source shows is useful because there is evidence to support this. For example I know that he described the Soviet Union as the 'evil empire', and made a Star Wars(SDI) program in 1983 to develop and anti missile system in space - increased budget by a trillion dollars.
+
+It is quite useful to an enquiry into the consequence of Reagen's presidency for the Cold war as it helps us learn that Reagan led to a 'Second Cold War'. For example, it says 'A new arms race began. Spending and weaponry increased impressively.' What the source shows is useful because there is evidence to support it. For example I know that there was a $1 trillion defence spending programme 1981-7, and a 'Star Wars' defence programme in 1983 to develop an anti-missile system in space. This is useful to an enquiry as it shows how tensions were heavily increased and Reagan was risking all out war.
 
 
 Sat History lesson:
-
-Soviet Takeovers:
-Why:
-- Russia attacked twice in a generation by Germany
-- 25m Soviet deaths in WW2
-- Wanted a buffer zone of friendly countries - security after Germany attacks(1914, 1941)
-
 I partially agree with Interpretation 2  as it says the fear of Germany and the opportunity to create a buffer zone were the most important features in the Soviet takeovers. I agree as I know that Stalin wanted a 'sphere of influence' around the Soviet Union, after being attacked twice in a generation by Germany. So clearly this evidence supports Interpretation 2 that the key features were defensive and opportunistic because Russia wanted more security..
 
 Interpretation 1 challenges Interpretation 2. It suggests that how the Soviet takeovers took place was the key feature, with rigged elections, arrests and assassinations. I agree as I know that in 1945, 16 non-communist polish leaders were arrested. Soviets also rigged elections like in Romania where communists won 70% of the vote. So clearly this evidence supports Interpretation 1 that the key feature of the Soviet takeovers was the negative consequences because it contributed to the Cold War rivalry and division of Europe.  
-
-
-
-
-
-
-
 ## Migration
 ### c800-1500
 #### WHY
@@ -260,7 +375,6 @@ Jews prosecuted - 1190 - hundreds killed in York - 1290 expelled from England by
 Times of trouble - attacks on any foreigners - 150 killed in 1381 Peasants Revolt
 Hosting Law 1400s - foreigners over 12 have to pay tax
 Steelyard attacked 1492 - London
-
 #### IMPACT
 Vikings - government - helped develop Jury system. Danelaw - own laws in North/East
 Vikings - cultural - place names, 'Thorpe' and words - Skull, knife, window. Days of week - Tiw, Woden, Thor, Freya (1000+ words)
@@ -279,7 +393,6 @@ Jewish loans - help fund many great buildings - Westminister abbey & Merton coll
 
 Flemish weavers, Hansa merchants - economic help trade grow - move from primary to secondary economy(export finished cloth)
 Hansa, Normans, Vikings - link more European trade
-
 ### c1500-1700
 #### WHY
 Huguenots - persecution - protestants fled persecution from France after St Bartholomew's day massacre, banning of their shops and tolerance - French King ended 'Edict Of Nantes' - 1685 - 50,000 settled in England
@@ -310,31 +423,227 @@ Government - 1660 - Charles II issued charter to set up Royal Adventures trading
 Economic: - Flemish & Walloons - 1500s - help Canterbury grow, 1,000 looms, employ 1000s
 Huguenots - train 500 apprentices - new techniques like brocade and taffeta - fashion industry grows
 Huguenots - 10% of funds to set up Bank Of England - helped set up Sheffield Steel Industry
+### c1700-1900
+#### WHY
+Persecution & religion refugees - 1880s - Pogroms in Russia, 100,000 Jews came to more tolerant Britain. Had political refugees - Karl Max
 
-## Anglo-Saxons
-### Government
+I strongly agree with Interpretation 2 that religious persecution drove migration, as the source says "French protestants in the early modern(1500-1700) to Jewish migrants in the 1800s." I agree as I know that groups like the Huguenots moved to Britain after Louis tore up the 'Edict of Nantes', removing their religious freedom. Over 50,000 settled, fleeing from religious persecution. Jewish migrants fleeing religious persecution came due to England being very tolerant like when Cromwell ruled the 1290 expulsion didnt apply, and between 19th-20th century 100,000 Jews fled Russian pograms, and Nazis in 1930s. So clearly this evidence supports interpretation 2 that religion was a key cause of migration because it shows how all over Europe, religious groups were persecuted.
+### Notting Hill
+#### WHY
+Paddington - first Caribbean carrying London station - near Notting Hill - officials meet migrants & find place to stay
+- Friends & relatives - Caribbean markets, cafes, restaurants set up - attraction
+- Notting Hill - had places to rent, hard to find people to rent them - 'slum housing' - 90% Landlords objected Black renters
+Portobello road - market developed many Caribbean food outlet, music venues & shops spread - Island records 1969
+#### Housing
+- bombed, damaged houses - very cheap - landlords struggle to rent - charged 2-3x more than white renters - share rent=overcrowding - 4-5 per room
+- HMOs - Houses of Multiple Occupancy - single house rented to several people, kitched & bathroom shared, bedrooms=2-3 each - overcrowded, poor living conditions
+- No rent laws - landlords charged what wanted, could throw out caribbeans at any time - white tenants contol rent charged+evictions, called 'Statutory tenancy' - til Rent Act 1965 
+  - Peter rachman - 'slum landlord' - owned 100 NH properties
+Efforts to improve:
+NHHT - NH housing trust - raised funds, provide quality more affordable housing - 5 sold in 1st year --> 1000 by 1970
+Pardner Scheme - Sam King - allowed migrants to afford deposit to buy a house - no rely on landlords
+#### Impact of Cultures
+Shops, markets, pubs, cafes/restaurants - All Saints & portobello road - spices & seasoning - colour bars stopped black people entering
+    - The Apollo - 
+- Black businesses - 1959 - Frank Circhlow - 'El Rio' - popular restaurant
+#### Black activism
+## Anglo-Saxons England 1060-66
+### Society & Government
+2 features Social system:
+Feature 1: Hierarchical - clear order of status - Kings, Earls, Thegns(local lords), Ceorls, peasants, slaves
+Feature 2: Rural - 90% of 2m made living from farming
+Feature 3: Social status could change/not fixed - Peasants --> Thegns if get 5 hides of land
+Towns:
+1. burhs - main anglo-saxon towns - fortified with strong walls - protected from Viking raiders attack
+2. Important for trade - all trade worth a certain amount had to be in towns by law, so it can be taxed
+- international links: Norwich - herring trade, York - w Denmark - about 100 towns
+Saxon Economy:
+1. Centered on towns - weekly markets, Craftsmen trade hand-made goods, towns(York) had streets named after trades (cobblers, bakers)
+    - towns with mints made silver coins overseen by royal official
+2. Wealthy & developed - farming well organised - 6000 mills grinding grain to flour
+
 Kings Powers include:
-- making new laws
+- making new laws - sheriffs
 - controlling minting & circulation of new coins 
-- Taxes
+- Taxes - decide geld tax - used to defend against Vikings
 - Executing God's will on earth
 - Giving/taking away land
 - raising fleet and army (fyrd)
-Witan - King's council
+Witan - King's council - 1.made important decisions like selecting monarch | 2.gave advice to monarch on rebels etc | no fixed meeting place for Witan, monarch decided where
 Wergild - money paid to end/avoid blood feuding
-Shire reeve - Sheriff - King's representative in local government - King gave orders through 'writs'
+Shire reeve (Sheriffs) - collected fines like Wergild / King's representative in local government - King gave orders through 'writs'
+Shires - military role | responsible for supplies men for Fyrd - for every 5 hides of land, 1 man was always available
 Thegns - Local lords
 Ceorl - free peasants
 Population 10% slaves, 90% lived on countryside
-Bishops - controlled church districts 
+1060 - 90% lived in villages
+3 reasons Earls had so much power:
+1. Political & Legal - acted as governors & administrators - responsible for law and order in area | judges in local courts, more wealth & authority, vital to run country
+   - advised King on rebellions/invasions, sometimes sent on diplomatic missions
+2. Economic - collected taxed, could keep 1/3 - very rich & powerful - used tax to ensure earldom defended - some even wealthier than King
+3. Military - military men, expected to fight alongside King - had elite bodyguard of housecarls - military leaders against enemies (eg. Tostig & Harold crushing rebellions in Wales)
+
+Trial system - courts sometimes couldn't make decision - trial by ordeal (hold hot iron, if heal=not guilty, if infected=guilty)
+ - each shire had a shire court - Jury of 12 would make judgement, fines collected by sheriffs and given to King
+
+#### The Godwinsons
+1. Most powerful family in England due to ownership of land
+    - Harold - Earl of Wessex, wealthiest Earldom in England - income: 8500 vs King at 6000 - richer than King
+    - H's brother - Earl. East Anglia, half-brother Tostig = Earl. Northumbria 
+    - had significant power - many thegns under their control(pay taxes) - only earldom not under godwinsons was Mercia.
+2. Important marriage alliances - more power
+    - H's sister married to King Edward
+    - Harold had unofficial marriage to Edith - powerful landowner in East Anglia, sister of Morcar & Edwin, earls of Northumbria & Mercia - gave him support from E.Anglia and North
+3. great military might - feature of Harold's claim to throne
+    - dealt with Wales rebellions 1055-63 - military success won him supporters - many thegns supported him & rewarded for loyalty
+  - 1065 - Uprising against Tostig - harold backed Morcar, not Tostig - Harold gained support of one more earldom
+#### Embassy to Normandy
+1. shows Harold was King's trusted political, military advisor 
+2. Harold's ship blown off course, landed in territory of Guy of Ponthieu & taken prisoner
+    - William demanded his release, Harold joined William fighting local enemies - W. rewards him with a suit of chainmail, weapons & helmet
+3. used by Normans to boost William's claim to throne
+    - Harold swore oath over box of saints bones that he would recognise William as next King - said he was 'oath breaker' - shows importance of oaths in ang-sxn times
+#### Uprising against Tostig 1065
+1. unfair taxes - Tostig increased them too much - many thegns/peasants angry - not using geld tax for right purpose - northen Danelaw not used to heavy taxes like South
+2. unjust laws & mistreatment of nobles - imposed strict new laws, reduced banditry BUT accused many innocent of banditry.
+    - Tostig accused of murder of several members of leading Northumbrian families - 1064 - he assassinated Gamal when visited him under safe conduct. Gospatric, son of N. earls assassinated, some blamed Tostig - thegns angry as he falsely accused people of crimes in order to take money/lands from them.
+3. his friendship with Malcolm III, Scotland King - meant he wouldn't defend Northumbria from scottish attacks - Tostig was away in 1061, Malcolm invaded & Tostig didn't retaliate, agreed peace terms
+    - people supported Morcar over him
+Consequences:
+1. Edwards orders ignored, Tostig exiled & replaced by Morcar - Edward wanted earls to crush rebellion, however Harold agreed with rebels to replace Tostig as Morcar would better protect from Viking attack - Tostig exiled-furious
+2. Harold won support of Northumbria & Mercia - he needed a united kingdom to fight threats from Norway, Normandy, Scotland after Edward died
+3. Strengthened Harold's claim to throne - Witan more likely to accept him, all powerful earls on his side
+4. Led to 1066 battle - Tostig partnered with Harald Hardrada|Norway - backed Hardrada in claim for throne
+
+#### Succession crisis
+Edward: most at fault - failed to publicly name an heir - opened door to multiple competing claims
+Harold G: strong claim - Edward entrusted Kingdom to him on his death bed - Witan quickly approved and was crowned King - also Earl of wessex, great wealth + military might + many loyal thegns, housecarls - proved leadership in Welsh rebellion
+William - distant cousin of Ed, claimed promised throne in 1051 + showed harold's embassy, oath & accepting arms to conform him as next King - Pope backed claim - gave him Papal banner, with religious support, claim was strong
+Hardrada: support of Tostig + 10,000 men claimed a promise from previous King (Cnut) to previous King of Norway. (+) When Tostig exiled, convinced Norwegian King to assert his claim to throne
+Edgar Atheling: great-nephew of Ed - only 12
+
+Harold G's reign:
+1. Chosen by Witan - had support of most of England
+2. Crowned day after Ed died - didn't want others claiming the throne
+Fulford Gate:
+1. Sept 1066 - Hardrada + Tostig, 10,000 men - Edwin & Morcar battled, lost 750 men
+2. armies of Mercia & Northumbria were battered - Hardrada took hostages & waited outside York for local leaders
+Stamford bridge:
+- Harold raced 190 miles in 5 days - suprise attacked H & T - Vikings not even wearing chainmail + exhausted + lost 1,000 men - Harold's army increased in size as he marched from London, giving him superior numbers
+- Consequences:
+- Out of 300, 25 Viking ships returned to Norway - H & T were killed
+- Godwinson had lost 5000+ men, including his housecarls(best fighters) - weakened him heavily
+- As he celebrated news arrived that W had arrived at Pevensey Bay - unopposed - Harold raced 300km South
+
+#### Invasion - Hastings
+Why William won:
+1. his ability to be flexible - tactics like feigned retreat - when direct calvary charges failed, Normans pretended to flee back, Saxon chased them and were surrounded. Harolds general fyrd was not trained or disciplined - this broke their Shield wall
+    - W's knights crucial to this plan, horsemen could cut off Saxons easily. Knights also could cut in the gaps of Shield wall. Will had 2,000 Knights, and Harold had 0.
+2. W's leadership and organisation skills - organised 7000 forces & 700 ships, fed & disciplined them Aug-Sept, organising 13 tonnes of hay a day.
+    - When W landed he circled around London, plundering villages, provoking Harold to fight rather than rest/recover
+3. Stamford bridge weakened Harold massively - had to race 400 miles within 1 month, and had lost 5000+ men. Harold had to march 2 days after Stamford.
+4. Harold's mistakes - rushing to William unprepared. William had Knights and Harold didnt
+## Willliam I - securing the Kingdom
+#### Securing control
+1. Terrorise, seize treasure, Edgar submits - Witan met after H's death and crowned Edgar King. Will took route around West&northern edge of London, burning villages as he went - force Edgar to submit - sent soldiers to seize Royal treasury at Winchester, so Edgar lacked funds to reward his followers.
+    - At Berkhamstead, Edgar submitted to William, hostages handed over, oaths made - Will crowned King on Christmas day 1066.
+2. Kept English nobles happy - W had 10,000 men, for oaths of loyalty he allowed key earls(Edwin & Morcar) to keep positions.
+    - Head of church, Archbishop Stigand allowed to keep position
+    - Thegns who didn't fight at Hastings could buy their land from Wil
+3. Reward followers to help rule+show power - raised a tax to pay mercenaries, sent rich gifts to Pope, family+close advisors got large areas of land. Half-brother Odo got all of Kent, right-hand man William FitzOzbern got Isle of Wight, Hampshire
+#### Marcher earldoms
+1. 3 Marcher earldoms to reward followers, retain loyalty:
+- Chester - next to North Wales - Hugh 'the fat' - father supplied 60 ships for Wil's invasion
+- Shrewsbury - next mid Wales - Roger - in charge of Normandy when W invading England
+- Hereford - South Wales - William FitzOzbern - right-hand man
+All had supplies, knights. Wil gained loyalty as someone who rewarded followers - helped keep control
+- marcher earldoms given special privileges - no taxes, build castles & towns & markets, control law&order themselves.
+  - could also get wealthier
+2. Helped secure borders with Wales - castles could be built quickly to defend & bases to raid wales. Marcher earls could respond quickly and forcefully to trouble without King - keep control
+3. Could create boroughs with markets & churches - helped attract Normans to areas + trade(wealth for Earl) - helped colonise Wales border. They had to pay for castles & supply feudal knights - helped Wil financially
+- from rewarding followers, securing loyalty, securing Welsh border - helped William
+#### Revolt of Edwin & Morcar
+- Wil marched to York, harrying areas as he went. Strong show of force led to E&M's surrender before fighting. Robert new earl
+Why: 
+1. Loss of land - Wil reduced size of Morcar(Northumbria) & Edwin(Mercia) earldoms - loss of power and money
+    - Many thegns lost land, so E&M had support to revolt - anglos angry
+2. Bad government by Odo and Wil FitzOsbern - Odo seized ang-sx lands illegally, soldiers attacked women unprovoked
+3. Castles - constant reminder of Norman control - angs angry - York, Dover - dominated area, homes often destroyed (300 to build 2 in York) - english forced to provide labour to build castles
+    - castellan - person in charge of castle - can force locals to provide for castle(food, materials) - more anger
+4. Geld tax - 1066 - greedy - Wil raised heavy geld tax, used to reward his followers & taken to Normandy - angered Anglos as their money used for enriching Normans in normandy, not for defense.
+#### Harrying of the North (HOTN)
+Why:
+1. North's connection to Danes - large Danish population = England vulnerable to invasion - 1069 Edgar Atheling joined w Danes, King came with 240 ships in rebellion. Most significant threat - Wil able to stop threat, but connection to Danes was too much of threat - obliterated threat with total destruction in North - HOTN - ensure no future invasion, as knew Vikings were plotting
+2. Avenge death of northumbrian earl Robert + 900 men in 1069 - Robert taken large force north (Jan 1069), slaughtered by Northumbrians, Robert burned to death - Robert was a newly-appointed earl for Wil
+    - HOTN cost Wil economically as North was wasteland - 1000s starved to death w no crops - main reason was Danish invasion
+3. Frequency of rebellions - 3 rebellions in 1069 - needed to stop, HOTN sent brutal message with villages destroyed Durham to York + 100,000 dead - Danish was only geniune threat to his reign and HOTN was his only option 
+#### Hereward the Wake 1070
+Why:
+Hereward - thegn from East Anglia, exiled by Edward - returned with his lands as Normans - brother killed day before - killed all Normans in his house.
+    - With Danish support, attacked Peterborough Abbey, took treasure. Hid at Ely, Morcar and others rallied to support him.
+What: Williams response
+1. Wil bribed Danes to divide Hereward - took some of treasure and left - Wil could then find a way into Ely - made bridge across marshes with boats
+2. These rebels were brutally punished with mutilation - Morcar imprisoned in Normandy, Edwin fled to Scotland but betrayed, handed over & killed
+3. Hereward escaped - made peace with wil - won return of his lands for homage to Wil - shows uprising wasn't about overthrowing Normans - last major saxon rebellion
+
+- 1072-87 - Wil only spent 20% of time in England - shows his power was secure 
+
+### Revolt of Earls 1075
+Why:
+1. Roger angry - lost land & power - marcher earldom Hereford reduced - when father(FitzOsbern) died he reduced size -meant loss of power & wealth 
+   - Wil also introduced own sheriffs - loss of authority || + said no to sister(Emma) marrying Ralph, but did anyway
+2. Ralph - same reason - land & power, father died - only had parts of East Anglia & Norfolk - marriage w Emma led to alliance
+3. Waltheof - wanted more land - at wedding told plans to revolt
+- revolt by all 3 would be catastrophic - lands stretched east-west, north-midlands - William was in Normandy - Archbishop Lanfranc left in charge
+What - failed:
+- both rebels didnt get as much support as expected
+1. Waltheof told Lanfranc about revolt - arranged armies to stop Ralph & Roger joining - they failed to change plan to meet in North - Lanfranc also used religious authority to excommunicate Roger, reducing his support
+2. Roger & Ralph's armies couldn't join together - Lanfranc sent army w Bishop Wulfstan to Roger & bottled them up in River severn
+    - Anglos and Normans joined together to prevent Ralph breaking out of East Anglia - both forces trapped
+3. Danes arrived late - had 200 ships, serious threat - but gave time for Lanfranc to organise - saw revolt failing and didn't intervene + William had time to return - attacked, plundered York and went home 
+## Norman England - 1066 - 88
+### Feudal system & Church
+Feudal system - hierarchical - Wil directly owned 25% land, grant rest to 200 tenants for loyalty+military allegiance(homage), taxes, supply knights & fight for king (tenants-in-chief = Barons&Lords). 
+ - 1. Raise army - 4-5000 knights - tenants gave land to knights, if promise to fight for 40 days, pay homage & taxes (knight service)
+ - W - reward/punish followers, gather taxes, raise army, keep control
+ - 2. could take land back if tenants disloyal/failed to fulfill duties - when died, King chose who got land, usually son/relative - had to pay a tax (relief) to prove loyalty
+ - 3. By the end, only 3% of land was Anglos - Wil had full control
+ - Peasants did 'labour service' - worked on Knights' land 3 days a week - had to grow all food & most not allowed to move but got protection - knights could go and fight
+Knight service - Barons, lords - provide knights for 1-2 months per year to King - equipment & money from tenant
+ - Knights = new thegns - local lords, often ran manor courts
+Forfeiture - William could give and take anyone's land
+Ceremony of homage - William could take parts of inheritance and make everyone and families assets dependent on him
+Church:
+ - provided clerks & record-keepers to King - most of society couldnt read/write, many in church could - taught people to read/write
+ - Abbots & bishops among best-educated in country, always literate - often joined Witan & advised King
+### Government
+Stigand - Archbishop Canterbury, corrupted: 1) used power to increase personal wealth - bishop for multiple regions, earned more money. 2) appointed jobs in Church based on money they would pay him, rather than merit of person - replaced by Lanfranc
+Castles - keep control:
+- used to stop resistance - motte & bailey design - could be built easily & quickly - Dover built in 8 days. about 500 castles built during Wil's reign
+- built at strategic points - London, York, Warwick, border of wales - symbol of power
+- offered protection to locals, useful for winning support over anglos 
+Domesday book - 1085 - massive England census-who owned what - 13,500 villages/towns, 18 towns had 2000+ people
+ - Norman England mainly traded in: Livestock, fish, salt & wool
+ - 10% of 2 million population = slaves. 13,418 different places.
+ - Bishops & Abbots owned 26% of land
+ - 1. Financial - raise taxes to fund defense - 1085 Wil raised geld tax to defend from viking attack - DB made clear what feudal obligations were owed, no arguing - helped raise money to equip army, build castles, cathedrals, show power & keep control
+ - 2. Defense
+ - 3. Legal - clear records to stop disputes - Some saxons got land returned back illegally from Normans - sorted out land
+Burgess - citizen of a town
+ - If city large enough, can ask King for charter of independence
+Regents - people used to rule England when William was in Normandy: Lanfranc, Odo Bayeux, William FitzOsbern
+Demesne - money sheriffs paid so they can manage King's land/estates - money after demesne, sheriffs kept
+Forest laws - more hunting land for Wil. & court - anyone 'poaching' Will's animals/damaging his plants= harshly punished(e.g blinded)
+### William I & Sons
+William Rufus (William I) - coronated 1087 - Odo supported his son Robert Curthose more than him
 
 
 
 
 
-## year 7-10
+# year 7-10
 
-# History
+## History
 
 ## History Words
 
@@ -373,7 +682,7 @@ Vacancy - available place/room
 
 ```
 
-# **Revision**
+## **Revision**
 
 - Roanoke Island - England's first colony in 1585
     - In the 1500's Europeans knew little about North America and what was beyond the horizon of the Atlantic Ocean.

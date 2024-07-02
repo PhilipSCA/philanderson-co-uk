@@ -1,4 +1,21 @@
 ## Biology
+### Practicals - Paper 1
+#### Microscopy
+#### Osmosis - sugar concentration in potato cells
+1. Cut equal size cylinders from same potato and remove skin. Remove excess water from surface. Weigh with top-ban balance
+2. Place each cylinder in test tube with different sugar concentration solutions, leave for a set time (day). Water moves in/out cells - osmosis.
+3. After a day, remove cylinders, dab off excess water, reweigh and calculate % change of mass (difference/original x 100)
+4. Plot graph of % change against concentration. X-axis intercept = sugar concentration of potato.
+#### Enzymes - find optimum pH/temperature of enzyme
+1. Measure substrate and enzyme - measuring cylinder. Place separately in a water bath, add a buffer solution to enzyme. Mix reactants together and start a timer.
+2. Prepare a spotting tile with iodine drops in each tile. Every 30 seconds, remove a drop from enzyme mixture and drop into a tile. Keep going until no starch is present (no colour change) and calculate time.
+3. Repeat process for multiple different pH buffers/temperatures.
+4. Plot graph of time against ph/temp and draw line of best fit. Optimum condition is between two lowest points.
+
+
+
+
+
 
 ### B1 - Cell Structure and Transport
 ```
@@ -15,9 +32,10 @@ Chlorophyll - green pigment inside chloroplasts that absorb light for photosynth
 Diffusion - movement of molecules - from an area of high to low concentration. Doesn't require energy. Affected by: temperature, distance, concentration
 Osmosis - movement of water molecules from an area of high to low concentration through a semi-permeable membrane - passive process
 Active transport - movement of molecules from an area of low to high concentration - active process, requires energy
+Bacterial cell - Cell membrane+Wall, Cytoplasm, ribosomes - single strand of free DNA - additional DNA on plasmids
 ```
-### Adaptations of exchanges
-Single-celled organisms - can diffuse directly in/out cell across cell membrane: larger SA:Volume ratio - enough substances exchanged aceoos membrane to supply volume of cell
+#### Adaptations of exchanges
+Single-celled organisms - can diffuse directly in/out cell across cell membrane: larger SA:Volume ratio - enough substances exchanged across membrane to supply volume of cell
 Multi-cellular - smaller SA:V ratio - need an exchange surface for efficient diffusion
 Exchange surfaces adaptations:
 - thin membrane - short diffuse distance
@@ -33,12 +51,12 @@ Alveoli:
   - moist lining for dissolving gases
   - good blood supply - covered in capillaries
 Small intestine:
-  - covered with villi & micro-villi - larger surface area - increase nutrient absorption into blood
+  - covered with villi & micro-villi - larger surface area - mitochrondria provide energy for active transport
   - single layer of surface cells
   - Long length - more time to absorb.
   - Digestive enzymes - bile help breakdown nutrients. 
-  - Very good blood supply - quick absorption     - diffusion/active transport 
-Leafs - CO2 diffuse into air spaces within leaf, then into cells for photosynthesis. Adapted by:
+  - Very good blood supply - transport up/down body - quick absorption     - active transport 
+Leafs - CO2 diffuse into stomata, then into cells for photosynthesis. Adapted by:
   - Stomata - exchange surface - CO2 diffuses through - Oxygen & Water vapour diffuse out through stomata
   - Transpiration - (water vapour lost from all over surface, mainly through stomata) - water vapour evaporates inside leaf, diffuses to outside of leaf.
   - Guard cells - control water levels - close if lose water faster than being replaced by roots - without, plant would wilt
@@ -61,45 +79,33 @@ Cell diffentiation - process - cell changes to be specialised for job.
 2) Nerve cells - rapid signalling - long - cover more distance. Branched connections(axons) at ends to connect to other nerve cells & form a network
 3) Muscle cell - contraction - long - space to contract. Lots of mitochrondria - generate energy for contraction.
 4) Root hair cell - absorb water & nutrients - long hairs, stick out - big surface area for absorbing
-5) Phloem & Xylem - transport substances - cells long, joined end to end. Xylem - hollow in centre, Phloem - few subcellular structures - substances can flow easily through them. Pores in end walls - allow cell sap flow through.
+5) Phloem & Xylem - transport substances - cells long, joined end to end. Xylem - hollow in centre, Phloem - few subcellular structures - substances can flow easily through them. Pores(perforated) in end walls - allow cell sap flow through.
+ - Sieve tubes - perforated ends - cytoplasm connects cells.
 Stem cells - undifferentiated cells found in bone marrow or embryos in body
 Embryonic stem cells - can turn into any cell in the body - replace faulty cells, therapeutic cloning. However, ethical concerns, can get contaminated and make patients more ill.
 Adult stem cells - can only become a limited number of cells, with specific functions. Less useful, but no ethical problems and safer.
 Meristem - plant stem cells - found in tip of roots and shoots and inbetween xylem or phloem
-Mitosis - asexual cell division - diploid(zygote) cell copies itself and divides into two identical daughter cells
-Meiosis - sexual cell division - haploid(gamete) cell replicates and divides into 4 genetically different gametes
-Sexual reproduction - gametes from two parents combine to produce genetically different offspring - gametes replicate meiosis. Plants & animals.
-  - Variation increases chance of species surviving to changes in environment - survival advantage
-  - Natural selection - organisms with good genes for that environment pass genes on successfully
-  - can use selective breeding - speed up natural selection.
-Fertilisation - when egg cell (mother) fuses with sperm cell (father) to form a zygote(46 chromosomes)
-Plants - reproduce sexually by pollen instead of sperm. - produce seeds
-Asexual reproduction - offspring genetically identical to parent(clone). Uses Mitosis. Bacteria, some plants & animals
-  - only needs one parent
-  - uses less energy | faster
-  - many identical offspring can be produced in favourable conditions
-Asexually and Sexually reproduce:
-- Malaria - reproduces sexually in mosquito, asexually when bitten into human
-- Fungi - Spores - asexual spores form genetically identical fungi, sexual spores have variation, produces due to unfavourable change in environment. Natural selection 
-- Plants - strawberries - 'runner' stems grow horizontally on surface, splits and forms identical 'runner' to original plant
-         - bulbs(e.g daffodils) - new bulbs can form and divide off, can grow into new identical plant
 Therapeutic cloning - using stem cells to clone organs for transplanting
-Microscopes - eyepiece, objective lens, stage, coarse focus knob, fine focus knob, light
+Microscopes - eyepiece, objective lens, stage, coarse focus knob (Zoom in/out), fine focus knob(blur/focus), light
 Binary fission - replication for prokaryotic cells - replicate, stretch, split - no. of plasmids in each cell is random
 division time - time for one cell to replicate into two 
 Gas Exchange - when gases swap via diffusion - happens with 02 and CO2 in alveoli to red blood cells
 ```
 ### B3
 ```
+Cell --> Tissue --> Organ --> Organ system --> Organism
+Organ - made up of multiple different tissues each with a specific function
 Tissue - group of similar cells working together. Can be more than one type of cell. Mammals:
 Muscular tissue - contracts to move attached limb/bone at joint
 Glandular tissue - makes and secretes hormones & enzymes
 Epithelial tissue - cover some parts of body (e.g inside of gut)
 Enzyme - biological catalyst for chemical reactions in body:
-- Carbohydrase - breaks down carbs --> simple sugars eg Amylase (made in salivary gland, pancreas, small intestine)
+- Carbohydrase - breaks down carbs --> simple sugars | Amylase (made in salivary gland, pancreas, small intestine)
+    - Amylase - breaks down starch
 - Proteases - converts proteins --> amino acids eg pepsin (made in stomach, pancreas, small intestine)
 - Lipases - converts lipids --> glycerol and fatty acids (pancreas, small intestine)
 Substrate - substance that an enzyme works on.
+Active site - location on enzyme that bind with substrate - very specific to substrate
 Denature - an enzyme that changes shape because of broken bonds from overheating
 Optimum temperature - temperature where the enzyme is most active
 Benedict's test - sugars - ranges from blue-green-yellow-red
@@ -109,8 +115,10 @@ Sudan III test - lipids - top layer of bright red if there is
 ```
 ### B4
 ```
+Double circulatory system - blood flows through heart twice in one cycle, one for deoxygenated, one for oxygenated
 Vena cava - carried deoxygenated blood to heart - a vein
 Heart flow - Vena cava - right atrium-(tricuspid valve)-right ventricle - pulmonary artery - pulmonary vein - left atrium-(bicuspid valve)-left ventricle - aorta 
+Pacemaker - group of cells that act as pacemaker - control heart rate - found in RIGHT ATRIUM
 Artificial pacemaker - controls heartbeat with an electric current for heart
 Arteries - carry blood away from heart - high pressure - normal lumen - thick muscle walls, elastic fibres
 Vein - carry blood toward heart - low pressure - large lumen - thinner muscle walls, elastic fibre walls - valves to keep blood flow direction
@@ -119,15 +127,17 @@ Red blood cell - carry oxygen around body - biconcave disk & no nucleus for surf
 White blood cell - defend against infections, immune system - phagocytosis, antibodies, antitoxins
 Platelet - small fragment of cells - stops bleeding out and microorganisms in - helps blood clot at a wound
 Plasma - plae liquid which carries everything in your body around
-C.H.D - Coronary heart disease - coronary arteries blocked by layers of fat(chlorestrol), making lack of oxygen for heart.
-Stents - tubes inserted into arteries keeping them open - effective, long-lasting, durable, surgery is quick
+C.H.D - Coronary heart disease - coronary arteries blocked by layers of fat(cholestrol), making lack of oxygen for heart.
+Stents - tubes inserted into arteries keeping them open - effective, long-lasting, durable, surgery is quick | arteries can narrow again as scar tissue builds, blood clots can happen 
 Statins - drugs reducing amount of chlorestrol in blood - reduces risk of other problems(strokes, heart attacks) - effective, used for years - must be taken regularly - risk someone forgets to take them - side effects like headaches, kidney failure, liver damage - not instant
+
 Artificial Hearts - less likely to be rejected than donor, surgery -> bleeding and infection, parts can wear out/fail, blood clots or strokes. Patient has to take drugs aswell.
-Biological valves - dont damage cells, less likely blood clots - needs replacing 10-20 yrs
-Mechanical valves - lasts a lifetime - can lead to blood clots, patients need to take anti-cloning drugs, valves can be loud enough to hear.
+Biological valves - dont damage cells, less likely blood clots - needs replacing 10-20 yrs - may need immunosuppressant drugs - need a suitable donor so valve isnt rejected
+Mechanical valves - lasts a lifetime - can lead to blood clots, patients need to take anti-cloning drugs(+side effects), valves can be loud enough to hear.
 Cancer - uncontrolled cell growth & division - forms a tumour - can be benign/malignant | Risk factors: Smoking, Obesity, UV exposure, Viral infection, Genetics (inheriting faulty genes)
-Benign tumour - tumour grows until no more room - stays in one place - isn't usually dangerous or cancerous
-Malignant tumour - tumour grows and spreads to neighbouring tissues - cells can break off into bloodstream, invade healthy tissues - form secondary tumours - dangerous, can be fatal - cancerous
+Benign tumour - tumour grows until no room - in one place - don't form secondary tumours - isn't dangerous or cancerous
+Malignant tumour - made of cancer cells - tumour grows, spreads to neighbouring tissues - cells break off into bloodstream, invade healthy tissues - form  secondary tumours - dangerous, can be fatal - cancerous
+ - Similarities: result from mutations / uncontrolled cell division // made of abnormal cells // form lump of cells
 ```
 ##### Leaves
 ```
@@ -135,8 +145,12 @@ Upper and lower epidermis - protective layer of cells, covered in waxy cuticle t
 Palisade mesophyll - underneath U.epidermis, transparent to let light reach palisade,contains chloroplasts for photosynthesis. Vertically block-shaped to fit as many as possible.
 Spongy mesophyll - lots of air space for more diffusion rate, less chloroplasts in spongy cells
 Stomata & guard cells - lower epidermis full of stomata, controlled by guard cells, for gas exchange of CO2 and O2 into and out of the cell for photosynthesis.
+- Stomata close at night - no gas exchange = no photosynthesis.
+- Trees photosynthesise(and respire) at day, and only RESPIRE at night. In dim light, rate of respiration = rate of photosynthesis = no net CO2 or oxygen change
+
 Xylem - tube of tissue from roots to leaf, carrying water and minerals from roots. One-way process upwards
 Phloem - tube of cellulose, transports water, food nutrients etc. both up and down plant, with end walls and perforations
+Translocation - process that moves sugars through phloem to rest of plant - for energy
 Transpiration - loss of water from plant through evaporation and diffusion on leaves. Makes more water get drawn up through xylem called transpiration stream --> Water then diffuses out of stomata --> evaporates into air.
 Transpiration rate - affected by: light intensity, temperature, air flow, humidity
 Potometer - method to test for transpiration rate
@@ -147,8 +161,11 @@ Adapted to photosynthesis by:
 4) Vessels - bring water from roots, taking glucose to plant
 5) Air space - allows CO2 in, O2 out of stomata
 6) Stomata - control gases leaking/water loss
-Photosynthesis - affected by: Temperature, CO2 concentration, Light intensity
-
+Photosynthesis - affected by: 
+  - Temperature - more collisions = faster reactions
+  - CO2 concentration - more CO2 can be diffused into plant quicker
+  - Light intensity - control stomata open/close - at night, photosynthesis stops 
+    - needed to transfer energy - endothermic reaction - to start reaction of C02 and H20
 ```
 ### B5
 ```
@@ -234,11 +251,16 @@ Liver:
 4) removes lactic acid by convert to glucose then carbon dioxide & water
 Metabolism - net result of all reactions that happen in body - anabolic(building) or catabolic(breaking down)
 
+
+
+
+
 ### B something - Yr 11 - Body responses
 ```
-Homeostasis - regulation of condition inside your body to maintain a stable internal environment, in response to internal/  external changes - body temperature, blood glucose level, water levels
+Homeostasis - regulation of internal conditions to maintain an optimal environment, in response to internal/  external changes - body temperature, blood glucose level, water levels
 Negative feedback - when something gets too high/low, receptors detect the stimulus, coordination centre organises a response and effector acts to increase/decrease level - keeps on happening until not stimulated 
 Central Nervous System - brain, spinal cord  - connected to the body by sensory neurons and motor neurons (in mammals) - coordinates the response from the receptor to effector
+PNS - all other nerves not in CNS 
 Sensory neurons - neurons that carry electrical impulses from the receptor to the CNS
 Motor neurons - neurons that carry electrical impulses from the CNS to the effector
 Stimuli - the change in the environment that triggers a change 
@@ -246,7 +268,7 @@ Receptor - cells that detect stimuli - one of 5 senses
 Effectors - muscles or glands - respond to nervous impulses and perform an action for change
 synapse - the air gap connection between two neurons - signal transferred by chemicals that diffuse across gap, set off a new signal in next neurons
 Reflexes - rapid, automatic responses to stimuli that dont need conscious part of the brain - quicker as you dont need to think
-Reflex arc - passage of information in a reflex (from receptor to effector) - go through spinal cord/unconscious part of brain
+Reflex arc - passage of information in a reflex (from receptor to effector) - go through spinal cord
 relay neuron - neuron inside spinal cord, connects sensory to motor neuron
 Practical for reaction time:
 caffeine - drug that speeds up someones reaction time
@@ -257,33 +279,31 @@ caffeine - drug that speeds up someones reaction time
 - Fair test - use same person, same hand, ruler dropped from same height, person 1 hasnt drank any caffeine recently
 
 Body temperature - 37oC - optimum temp for enzymes
-Body temperature - Hot: 1) Hairs lie flat 2) Sweat produced & evaporates 3) vasodilation
-Vasodilation - blood vessels supplying skin dilate so more blood flows close to the surface of the skin. Transfers energy
-Body temperature - Cold: 1) Hairs stand up to trap insulating layer of air 2) No sweat produced 3) Vasoconstriction
-                        4) Shivering - muscles contract, needs respiration which transfers energy to warm body
-Thermoregulatory centre - in brain, has receptors that are sensitive to temp of blood through brain and skin.
+Body temperature - Hot: 1) Hairs lie flat 2) Sweat produced & evaporates
+Body temperature - Cold: 1) Hairs stand up to trap insulating layer of air 2) Shivering - muscles contract
 ```
 ### Endocrine system
 Hormones - chemical molecules released into blood - only affect particular organs (target organs) - secrected in endocrine glands - tend to have long-lasting effects
-Pituitary gland - brain - produces many hormones for other glands that regulate body conditions
-Thyroid - produces Thyroxine - regulated things like rate of metabolism, heart rate and temperature
-Adrenal gland - produces Adrenaline - increases supply of oxygen & glucose to brain and muscles - 'fight or flight' response
+Pituitary gland - brain - produces hormones for other glands 
+Thyroid - Thyroxine - regulates rate of metabolism, growth, heart rate
+Adrenal gland - Adrenaline - increases oxygen & glucose to brain, muscles - 'fight or flight' response
 Pancreas - Insulin & Glucagon - regulated blood glucose levels
+Testes/ovaries - sperm/eggs, secrete hormones
 Hormones vs nerves - nerves: very fast, short time, very precise area || Hormones: slower, long time, more general area
 
 Eating carbohydrates - puts glucose into blood from the gut - normal metabolism removes glucose from blood
 Blood glucose level - changed controlled by pancreas, in negative feedback cycle - exercise removes alot of glucose from blood
-Insulin - from pancreas - secreted when glucose level is too high - makes glucose turn to glycogen in liver
-Glucagon - pancreas - secreted when glucose level is to low - makes glycogen turn back into glucose in liver
+Insulin -  pancreas - glucose level high - moves glucose into cells(for respiration), excess turns to glycogen in liver
+Glucagon - pancreas - glucose level low - makes glycogen turn back into glucose in liver
 Glycogen - excess glucose stored in liver
 Diabetes - affects cycle to control glucose level: 
   - Type 1 - pancreas produces little or no insulin - glucose level can rise to a fatal level
            - need several injections of insulin throughout day after meals
-           - need to limit simple carbohydrates intake, and take regular exercise
+           - need to limit carbohydrates intake, take regular exercise
            - Person born with condition - genetics
-  - Type 2 - person becomes resistant to their own insulin (still produce it) - glucose level can also rise to risky levels
-           - Being overweight can increase chance of type 2 diabetes, obesity is a major risk factor
-           - Can be controlled by eating a carbohydrate controlled diet and getting regular exercise
+  - Type 2 - person resistant to own insulin (still produce it) - glucose level can also rise to risky levels
+           - overweight - increase chance of type 2 diabetes, obesity is a major risk factor
+           - controlled by eating carbohydrate controlled diet, getting regular exercise
 
 ### Menstrual Cycle
 Puberty - sex hormones released - trigger secondary sexual characteristics(facial hair, breasts) & cause eggs to mature in women
@@ -311,7 +331,7 @@ Hormonal:
 2) Patch - Oe & Pr - 5x5cm patch stuck onto skin - 1 patch lasts a week
 3) Implant - Pr - inserted under skin of arm - continous amount of Pr - can last for three years
 4) Injection - Pr - each dose lasts 2-3 months
-5) IUD(Intrauterine device) - T-shaped - inserted into uterus to kill sperm, prevent implantation of fertilised egg. 2 types: Plastic - release Pr, Copper - prevent sperm surviving in uterus
+
 
 Non-hormonal:
 1) Condoms - worn over penis - prevent sperm entering vagina - also female condoms worn inside vagina - Only contraception that protect against STDs
@@ -319,7 +339,8 @@ Non-hormonal:
 3) Spermicide - substance that disables/kills sperm - can be used alone, but only 70-80% effective
 4) Sterilisation - cutting/tying fallopian tubes or sperm duct - permanent - very small chance tubes can rejoin
 5) 'Natural methods' - finding out when in menstrual cycle woman is most fertile & avoiding intercourse - not very effective
-6) Abstinence - don't have intercourse - 100% - most effective
+6) IUD(Intrauterine device) - T-shaped - inserted into uterus to kill sperm, prevent implantation of fertilised egg. 2 types: Plastic - release Pr, Copper - prevent sperm surviving in uterus
+7) Abstinence - don't have intercourse - 100% - most effective
 
 Hormones to increase fertility - some women's levels of FSH are too low=can't get pregnant - give FSH&LH as drug to stimulate ovulation || Cons: doesnt always work, too many eggs can be stimulated - results in multiple pregnancies (twins, triplets)
 IVF(in-vitro fertilisation) - collects eggs from ovaries, fertilising in a lab with sperm - or ICSI - sperm injected directly into egg - useful if man has low sperm count
@@ -334,6 +355,8 @@ Allele - different versions of gene, that code for a different characteristic - 
 Dominant - Only 1 dominant allele needed for characteristic to show - capital letter - B
 Recessive - only expressed if both alleles recessive - lowercase - b
 Gamete - sex cell - egg or sperm cell
+Genome - genetic code
+
 
 Cystic fibrosis - excessive thick, sticky mucus in lungs & pancreas - must have 2 recessive alleles to inherit
 Polydactyly - baby born with extra fingers/toes - caused by dominant allele - only 1 parent needs to have it
@@ -343,11 +366,31 @@ Antenatal testing - analyse baby before born - offered to couples who have incre
 Neonatal testing - analysing a sample of blood from a baby's heel - detects disorders to treat them early
 Pre-implantation genetic diagnosis (PGD) - used on embryos before implantation - fertility drugs stimulate release of several eggs, then collected & fertilised in Petri dish (IVF) - cells tested for disordered alleles - embryos that dont contain disorder implanted into uterus
 
-##### Variation
+##### Reproduction
+Mitosis - asexual - diploid(zygote) cell copies itself and divides into two identical daughter cells
+Meiosis - sexual - haploid(gamete) cell replicates and divides into 4 genetically different gametes
+Sexual reproduction - gametes from two parents combine to produce genetically different offspring - gametes replicate meiosis. Plants & animals.
+  - Variation increases chance of species surviving to changes in environment - survival advantage
+  - Natural selection - organisms with good genes for that environment pass genes on successfully
+  - can use selective breeding - speed up natural selection.
+Fertilisation - when egg cell (mother) fuses with sperm cell (father) to form a zygote(46 chromosomes)
+Zygote - fertilised cell with both egg & sperm chromosomes
+Plants - reproduce sexually by pollen instead of sperm. - produce seeds
+Asexual reproduction - offspring genetically identical to parent(clone). Uses Mitosis. Bacteria, some plants & animals
+  - only needs one parent
+  - uses less energy | faster
+  - many identical offspring can be produced in favourable conditions
+Asexually and Sexually reproduce:
+- Malaria - reproduces sexually in mosquito, asexually when bitten into human
+- Fungi - Spores - asexual spores form genetically identical fungi, sexual spores have variation, produces due to unfavourable change in environment. Natural selection 
+- Plants - strawberries - 'runner' stems grow horizontally on surface, splits and forms identical 'runner' to original plant
+         - bulbs(e.g daffodils) - new bulbs can form and divide off, can grow into new identical plant
+
+##### Variation & Evolution
 Environmental causes - climate, diet, accidents, culture, lifestyle
-    - features that show environmental variation - scars, accent/language, flower colour in hydrangeas
+    - features - scars, accent/language, flower colour in hydrangeas
 Genetic causes - every gamete contains half of genetic information needed for a person - haploid - fuses during fertilization to make a zygote/diploid containing mother and father information
-Mutation - change in gene or chromosome - spontaneous, continually
+Mutation - change in gene or chromosome - spontaneous, continually - always happens in DNA
 Selective breeding - humans breed plants/animals for particular characteristics - select best offspring and repeat
  - Desired characteristics in plants: Disease resistance in crops | wheat with lots of grain | large/unusual flowers
  - Desired ` animals: produce lots of milk/meat | chickens that lay large eggs | domestic dogs with gentle nature
@@ -358,56 +401,62 @@ Selective breeding - humans breed plants/animals for particular characteristics 
   - reduced variation could mean attack by specific insects/disease - would be extremely destructive
   - rare disease genes can be selected as part of positive trait - problems with specific organisms
   - create physical problems in specific organisms 
-Genetic engineering - cut pieces of DNA from one organism, join them into a gap in DNA of another organism
-  - Uses: insect/disease resistant crops, golden rice (more Vitamin A - helps sight) 
-  - Ethical issues with genetic modification - possible health risks with G.M food
+Genetic engineering - cut pieces of DNA from one organism w enzyme, join into gap in DNA of another organism
+  - Uses: insect/disease resistant crops, golden rice (more Vitamin A - helps sight) || Insulin bacteria
+  - Ethical issues - possible health risks 
   Benefits:
   - Faster, more efficient than selective breeding
   - Improves crop yields/quality - important in developing countries
   - Herbicide, insect, pest resistance = less herbicide used, insects eat less crops - crop not wasted
   - Sterile insects can be created - infertile offspring - reduce spread of diseases (e.g mosquitos & malaria)
   Risks:
-  - What benefits one plant may harm another
   - not ethical to interfere with nature - GM crops more expensive - poorer people cant afford
-  - GM crops can be harmful - toxins have been detected in peoples blood - can harm pollen and insects who transfer it
-  - GM crops can cause allergic reactions in people
+  - harmful - toxins detected in peoples blood - can harm pollen and insects who transfer it
+  - cause allergic reactions
 
-##### Evolution
 Antibiotic resistance - bacteria reproduce at a fast rate - evolve quickly - 1) random mutation occurs 2) bacteria without mutation die or cannot reproduce with antibiotic 3) resistant bacteria reproduces with less competition from normal strains
 
+##### Classification
+King Philip Came Over For Good Soup
+- Kingdom, phylum, class, order, family, genus, species#
+- binomial name = genus+species
+Domain - above kingdom
+ - Archaea - primitive bacteria 
+ - bacteria
+ - eukaryota - all other - DNA in nucleus
+
+### Ecology
+organisms compete for: Food, water, energy, sunlight, mates, space
+Food chain - producer --> primary(herbi/omnivore) - secondary - tertiary consumer
+ - biomass transfer between organisms
+apex pred - top of chain - no predators
+
+Carbon cycle: all life carbon-based - recycled when die/decompose
+ 1. Carbon in atmosphere - respiration + combustion
+ 2. Carbon in plants by photosynthesis - animals eat plants then die - return back
+
+Extremophile - lives in extreme environment
+
+high biodiv - stable ecosystem
+human factors: reduce biodiv - destruction of habitats.  land use, deforestation - compost - waste 
+
+biomass pyramid - how much biomass transferred between each trophic level 
+ - % absorbed = biomass of 2nd / 1st x 100
+ - biomass lost as not all consumed + excretion
 
 
-Plasma - liquid that carries nutrients, hormones, proteins in the body
-Artery - carries oxygenated blood away from heart, small lumen
-Vein - carries deoxygenated blood to heart, big lumen, thin outer wall
-Respiration - chemical reaction in cells to release energy stored in glucose - aerobic: glucose + oxygen --> carbon dioxide + water | anaerobic: glucose --> lactic acid
-Gas exchange - ventilation system - gases swap by diffusion - alveoli co2 in o2 out
-Trachea - windpipe - throat to lungs, rings of cartilage to keep open
-Bronchus - two pipes split from Trachea
-Bronchioles - tiny tubes split from Bronchus - covered in alveoli on ends
-Alveoli - tiny air sacs - diffusion with O2 and CO2 happen - large surface area
-Epidermal tissue - outer layer of plants organs,  below cuticle
-Palisade mesophyll - top middle layer, most photosynthesis happens, have chloroplasts
-Spongy mesophyll - bottom middle layer, gaseous exchange for photosynthesis/respiration
-Transpiration - process of water evaporating and diffusing out a leaf
-Stent - tube that keeps artery open -
-Statin - drugs that reduce level of cholestrol in arteries
-Cuticle - waxy 'skin' layer of leaf above epidermis
-
-Pathogen - microorganisms that enter the body and cause disease
-Bacteria - cells that rapidly reproduce inside body. Produce toxins - make you feel ill
-Virus - way smaller than cells - multiply rapidly inside cells until they burst - releasing more viruses & makes you feel ill
-Protists - single-celled eukaryotes that live on other organisms, cause damage - transferred by a vector
-Fungi - made of hyphae, can grow and penetrate human skin, producing disease & spores which can be spread
-
-
+#### Practical - Quadrats - estimate organism population in area
+1. Place 1m2 quadrat in random places in an area - count organisms
+2. Calculate mean organisms per m2, multiply by total area
+- to observe population density, move along a transect and record - can be affected by biotic/abiotic
+3. Plot density against distance
 
 
 ## year 10
 
 
 ```
-Organs - the vital parts of your body that you need to survive
+Organs - the vital parts of your body - made of multiple different tissues with specific functions
 Digest - to break down food in your body and turn it into waste by it going 
 through yourbody
 Epidermis - the outer layer of the surface of your skin
@@ -612,7 +661,7 @@ Cervex - Entrance to the woman’s womb
         - Actual size = Image size / magnification
         - Magnification =  image size / actual size
         - Magnification of a microscope = magnification of an eyepiece x magnification of objective lens
-        - 1 Micrometre = 1000mm
+        - 1000 Micrometre = 1mm
         - Parts of a Microscope
             - Eyepiece
             - Nosepiece

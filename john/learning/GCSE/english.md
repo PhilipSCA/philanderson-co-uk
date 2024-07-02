@@ -24,6 +24,7 @@ Antithesis - a person who is the direct opposite of someone else, like 'foil'
 Dramatic Irony - when the audience knows something the characters in the story don't
 Homophones - words that sound the same but have different meanings
 Ellipsis
+Ecphonesis - 'O' sound
 
 Explicit - obvious information straight in the text
 Implicit - information you have to infer from the text
@@ -36,7 +37,9 @@ Inversion - altering normal word order
 Motif - recurring image or idea in a text
 Sensory - using the five senses
 
-### Macbeth Tragic Terms
+
+## Macbeth
+#### Macbeth Tragic Terms
 Tragic hero - usually of noble birth and start with good fortune. Downfall is rest of play - make flawed and immoral decisions, but also have admirable qualities.
 Hamartia - fatal flaw leading to tragic downfall of hero
 Peripeteia - reversal of fortune/turning point in characters fate - where downfall begins
@@ -48,14 +51,31 @@ Tragic death - someone dies unnecessarily, usually not fulfulling their potentia
 Pathos - making audience feel pity or empathise with a character
 Bathos - anti-climatic response/ sudden shift in mood to make something seem more trivial than it should be
 
-### Macbeth
-#### Themes:
-Ambition & power:
-Hamartia - his fatal flaw - ambition - "I have no spur to prick the sides of my intent, but only vaulting ambition" - his only motivation - need for power. Lady Macbeth also has same hamartia
+### Context
+James I - written in 1606 - Shakespeare included many things to please King, e.g message of what would happen if betrayed King
+- James was paranoid people were plotting against him, Macbeth acts as warning to Jacobean era that treasonous acts will be punished
+- James had deep fear of witches
+
+Witchcraft - women who: lived alone, used herbs to cure illnesses, accused of witches - believed witches more powerful at night as God couldn't see what was happening - also believed to have a 'familiar'/evil spirit (cat,bat,owl) to do bidding
+ - Witches seen as agents of devil, used to cause chaos and evil on earth.
+
+Religion - England strongly Christian - commiting a sin would mean they went to Hell - God would 'punish' anyone who attempted sins like regicide - judgement and punishment = DIVINE RETRIBUTION
+ - Divine Right of Kings - belief King chosen to rule by God, King=God's representative on earth. Regicide - worst possible sin - would be disrupting natural order, causing nature to be unbalanced.
+
+Women - inferior sex - considered weaker, physically & mentally - over emotional, passive, maternal figures. Seen as possessions, first of fathers then husbands. L.Macbeth & Macbeth would be considered an anomaly 
+- L.M asks spirits to strip her of her femininity to be more masculine - so she can be stronger & aggressive to commit crimes - power & status of Macbeth & L.M alternates throughout play - they subvert gender roles.
+### Themes:
+Ambition:
+Ambition - leads to evil - makes Macbeth stronger & more determined, but destroys his wife - eventually kills him too, becomes a tyrant & loses support
+Hamartia - his fatal flaw - "I have no spur to prick the sides of my intent, but only vaulting ambition" - his only motivation - need for power. Lady Macbeth also has same hamartia
+Power:
+Mac sacrifices goodness for power - desire to maintain power makes his paranoid, making him make evermore irrational decisions and become a tyrant.
+- Malcolm = foil to Macbeth, he has power but is not corrupt - good and fair.
 
 
-Supernatural:
-- wicked thoughts/actions
+
+
+Supernatural - Witches - agents of Devil sent to cause havoc/misery. 
 - Witches activities:
   - Control weather (thunderstorms)
   - Predict future, cast spells
@@ -63,12 +83,194 @@ Supernatural:
 - Disruption of nature
   - storm when Duncan dies
   - Many unnatural occurences happen - horses eat each other, Owl kills falcon(represents macbeth killing Duncan, food chain disrupted.) Links to Great Chain of Being - unnatural death of king.
-  
+- Witches often shown as ugly & hag-like - demonstrates how evil corrupts both soul and appearance
+L.M - links herself to supernatural - calls spirits to "take my milk for gall" - Gall believed to create anger and aggression.
+
 Appearance and reality:
+- Witches - mislead Macbeth/say 'half-truths' to allow him to mislead himself
 - Euphemisms
 - Visions - guilty conscience - "Mine eyes are made the fools o'th'other senses" & dagger vision
-- Sleeps & dreams - Macbeth & wife have trouble sleeping - tormented by dreams  
+- Sleeps & dreams - Macbeth & wife have trouble sleeping - tormented by dreams
+- Duality - L.m + Macbeth - "Look like the innocent flower but be the serpent under't"
 
+Fate vs free will - Mac. recieves several prophecies by witches - don't know if witches could actually predict, or if Macbeth caused the events himself - fate or free will
+Manipulation - L.M convinces Macbeth to kill King by belittling & questioning his manhood
+    - Witches manipulate Macbeth by tempting him with greatness, and cause his own downfall by telling him half-truths.
+
+Betrayal & guilt - Macbeth betrays Duncan - viewed as ultimate sin - previous Thane Of Cawdor beheaded for betraying King, foreshadows Macbeth's downfall and death.
+  - Mac. also betrayed wife - gradually excluding her & showing little remorse for her death
+  - Madness - consequence of guilt - "O full of scorpions is my mind" + Banquo's ghost= manifestation of madness. L.M shows madness through sleep-walking & disjointed speech & then suicide
+### Symbolism
+Visions - signs of guilty conscience floating dagger, 'murder sleep' voice, Banquo's ghost - never revealed whether hallucination or supernatural - like how nature became erratic when Duncan killed, Macbeths mind is same when it is forced to fight against itself.
+  - Lady Macbeth - hallucinates blood on hand - clear sign of guilty conscience - "Out, damned spot!"
+
+Blood - symbol of guilt, violence - deaths happen quickly, yet blood always stains; longer-lasting emotional & religious implications of murder. 
+  - creates sense of horror for Jacobean audience, subsequent deaths as play develops to be more horrifying/shocking
+  - L.M - feels no guilt at start, easily washes blood away - later blood stained on her hand, guilt has caught up to her - "a little water clears us of this deed" - Litotes + euphemism + irony
+
+Sleep - reflects state of mind - symbolises innocence, purity, peace - Duncan murdered by Macbeth in sleep, hinting his innocence+purity
+  - Macbeth - "Macbeth shall sleep no more", "Macbeth does murder sleep" - symptom of guilt and troubled mind
+  - L.M - sleep walks when feels guilty, reflect her descent into madness
+
+Weather - pathetic fallacy, reflects mood/atmosphere - bad weather = evil & supernatural, Thunder = witches - symbolises connection to devil & evil. Good weather = innocence, power of good over evil - beginning of play, day described as "fair" and "foul" - foreshadows duality of future events
+ - Night/Day - symbolic of good/evil - believed God could not see what happened at Night, so evil would happen. Witches - "midnight hags" - linked to night. 
+   - When duncan's body discovered - says it should be day, but it is still night - shows at moment, evil overpowers good
+
+
+
+
+## TSOF
+### Context
+- Industrial revolution - extremely harsh time to live - wealth gap between rich and poor exacerbated.
+- Population doubled 1851-1901
+Colonialism - British Empire largest in history - 1913, had power over 413 million people. - Britons lived, worked or served prison time in colonies
+Racism - rapid improvements in travel = different cultures/races being introduced - viewpoint of non-British people= subhuman, inferior. Extended to colonised were savage, less intelligent than Caucasian(white person from europe)
+Police - areas of deprivation right next to areas of wealth - to maintain peace, police created. Seen as 'attack on liberty', policemen were corrupt & power-hungry. Their bumbling of cases (Jack Ripper) added to mistrust + incompetence. Representations of police are derogatory - "there is nothing more unaesthetic than a policeman."
+ - Jack the Ripper - unidentified & uncaptured - Whitechapel, London 1888 - atleast 5 murders on women, all throats cut and mutilated - huge wave of public interest - brought negativity to police - looked incompetent
+Detective novel - Holmes has wide knowledge & talent for deduction - accompanied by Watson - one step behind - adds to Holmes' aura and skill | Clues + Red herrings  - readers solves mystery with characters - interests reader
+Indian revolution 1857 - forced Jonathan Small into hiding
+Women - 'Angel in the house' - describes perfect ideal Victorian middle-class woman - focused on domestic life, being helpless in business or important matters.
+### Quotes
+#### Sherlock - work addict, unemotional, insensitive, arrogant, demanding & controlling, very knowledgeable, pragmatic
+"I abhor the dull routine of existence" | "his clear-cut, hawk-like features", "Beady eyes gleaming and deep-set like those of a bird" (zoomorphism) | "You really are an automation - a calculating machine" (chremamorphism, emotionless & unsociable) | "Viewing the matter as an abstract problem, I forgot how personal and painful a thing it might be to you." | "Women are never to be entirely trusted." | "Whatever is emotional is opposed to that one true cold reason i place above all things."
+#### Watson - loyal, principled, ordinary, caring, sensitive (opposite of Holmes)
+"Her large blue eyes were singularly spiritual", "What an attractive woman!" | "I get a wife out of this business, Jones gets the credit, pray what remains for you?" | "I could've struck the man across the face, so hot was I," (honour, gentleman) | "I lost my bearings, and knew nothing," (one step behind)
+#### Mary Morstan - 'damsel in distress', bright intelligent, principled, caring
+"her lip trembled, her hand quivered, she showed every sign of intense agitation" | "she first turned faint, then burst into a passion of weeping" | "After the angelic fashion of women, she had borne trouble with a calm face as long as there was someone weaker than herself to support"
+#### Thaddeus - nervous, unattractive, reclusive, 
+"bristle of red hair", "bald, shining scalp which shot out from it like a mountain-peak from fir-trees", "yellow and irregular teeth", "He writhed his hands together as he stood" | "Had the helpless appealing expression of a terrified child", "features were in a perpetual jerk" (ungentleman-like, more feminine, no self-control) | "The richest and glossiest of curtains and tapestries draped the walls" (Imperialism)
+#### Small - cunning, fair justiced, 
+"sunburned, reckless-eyed fellow with a network of lines and wrinkles all over his mahogany features" | "a pretty shrewd fellow" | "I tell you that it is four or none with us", "A pretty justice! Whose loot is this, if it is not ours?" (strong sense of justice) | "I welted the little devil", "I cursed him for a little blood-thirsty imp"
+#### Athelney Jones - clumsy, boisterous, patronising, over-confident & foolish / humble 
+"very stout, portly man in a grey suit strode heavily", "red-faced, burly and plethoric with a pair of small twinkling eyes which looked keenly out from swollen and puffy pouches" | "His expression is downcast, and his bearing meek and even apologetic"
+#### Tonga
+"savage distorted creature", "It straightened itself into a little black man", "marked with all beastiality and cruelty", "great misshapen head and a shock of tangled, disshevelled hair.", "a fierce and morose people" | "I took him in hand, though he was a venomous young snake" | "braining the survivors with their stone clubs"
+
+
+
+### Themes
+Appearance - decieving - Thaddeus=unattractive, ungentlemanlike - Jones' prime suspect but innocent || Holmes notices details that seem useless but have huge importance ('Sign Of Four' letter)
+
+Racism - Tonga reflects prevailing attitudes of time - 'animalistic', 'savage' - one character who doesnt seem to have human morals
+
+Wealth - destruction of pursuit of wealth - Agra treasure negatively impacts everyone who desires it - ends lives of Small & tonga eg - Agra treasure creates romantic conflict w Mary & Watson - 'intervened like an impassable barrier', 'golden barrier was gone from between us' - scared she will think he is after money - social class at time strict
+- Imperialism - Agra Treasure from India - under british rule 
+  - T.Sholto apartment lavishly decorated with Eastern items - "two great tiger-skins" - empire was symbolic of wealth & power
+  - Attitude towards imperialised people - 'savage instincts' - Tonga's instincts are murderous, creates crude image of islanders. | Tonga & Small - Tonga very devoted to small - "staunch and true, was little Tonga" - devotion naive, shows attitudes of Victorian society towards empire - 'little' = patronising, lacks empathy/respect for Tonga 
+  - 
+
+Modesty/humility - presented as extremely positive traits - those who dont seek material/societal gain portrayed in positive light | Watson + Mary emerge as happy & content fiancees, Holmes gains respect by allowing Jones to take credit for capture - rewards for having little interest in treasure.
+
+Evil & justice - murders/crimes committed, + embodied by Tonga- depicted as 'inherently savage' and malicious. Greed = source of evil
+ - Justice - M.Morstan - Th.Sholto feels she should get treasure after father kept treasure. Even on letter, it says she deserves justice. || J.Small - upset by injustice - believes treasure is rightly his, despite he murdered to get it - Holmes fair & doesn't accuse him of murdering Bartholomew - shows his sense of justice
+
+Fear of: - foreigners - Tonga represents Victorian fear of otherness - 'savage, distorted creature' - presented as inferior and inhuman - Victorian belief that other races were inferior & dangerous
+ - Darkness - most of novel set at night - murder, theft, betrayal occur
+ - underclass - Th.Sholto separates himself from other social classes, surrounds himself with elegance/imperialism
+ - social inequality - Watson & M.Morstan - "the golden barrier was gone from between us" - Watson feared Morstan would see him as only wanting her for money, and they would be in seperate social classes.
+
+
+## An Inspector Calls
+### Context
+Written 1945, set in 1912
+- written to encourage audience for more socialist outlook
+- British voted Labour party for 1st time - consensus that everyone support each other during WW1, Great Depression & WW2
+- Priestley warning society as to what might happen if people don't learn from mistakes - we are responsible for one another, potential for another war if don't learn lesson
+- Didactic morality play - teaches a lesson
+- SOCIETY - PATRIARCHAL - shows authors ideas
+### Quotes
+#### Inspector
+"sharp ring of the front doorbell" - cuts off Mr Birling's pro-capitalist anti-socialist speech
+"Its better to ask for the earth than to take it" - metaphor - warning Mr Birling about his selfish attitude
+"She lies with a burnt out inside on a slab" - Graphic imagery repeated throughout play - Eva's suffering - enhance guilt
+"She needed not only money, but advice, sympathy, friendliness.. and you slammed the door in her face" - Condemning of Mrs.B callous manner to Eva
+"There are millions of Eva Smiths and John Smiths still left with us, we don't live alone. We are members of one body. We are responsible for each other." - We-inclusive pronoun + repitition - need for community + social responsibility 
+"If men will not learn that lesson, they will be taught it in fire and blood and anguish." - religious metaphor - hell as punishment for those who don't care for others/don't accept responsibility - or war - dramatic irony
+#### Mr Birling
+"hard-headed practical man of business" - Alliteration - practical, cold, without emotion
+"there isn't a chance of war" "The titanic-unsinkable, absolutely unsinkable" - Dramatic irony + repetition - foolish & untrustworthy, so political views wrong
+"One of the happiest nights of my life" - Personifies capitalism + greed - wants new business links between Crofts & Birlings
+"If we were all responsible for everything that happened to everybody we’d had anything to do with, it would be very awkward" - Abandonment of social responsibility - juxtapose Inspector fully
+"If you don't come down sharply on some of these people, they'd soon be asking for the earth" - Noun phrase "these people" - sees himself differently to working class | "sharply" - working class should be punished. Hyperbole - earth - doesnt understand working class
+#### Mrs Birling
+"Girls of that class-" + "As if a girl of that sort would ever refuse money"
+"She called herself Mrs Birling -a piece of gross impertinence"
+#### Sheila
+"These girls arent cheap labour- they're people"
+"You mustn't try to build up a kind of wall between us and that girl"
+### Themes - PICK THEME
+#### Social Injustice
+- both rich & poor living unhappy lives
+- Choices & decisions of rich governed Eva's life
+- Several types of injustice - rich/poor, male/female, young/old, strong/weak
+#### Gender
+- Eva & Edna only 2 females with a stated job - working/lower class
+- Sheila sympathises with Eva most - both young females
+- PATRIARCHAL SOCIETY (for marks)
+#### Responsibility
+- Priestley wanted rich to be more responsible for poor - socialism
+- Eva's death is SHARED responsibility - shows we all have a part to play in 'one body'
+- 
+
+
+## Poetry
+### Ozymandias
+- Statue is an allegory for eventual end of power that all must suffer
+- Power, like statue is lost to sands - represent time
+- Written in 1819 in a collection
+- Pharoahs believed to be gods in mortal form
+### London
+William Blake - 'Songs of Innocence' + experience' - poem show how London, greatest city in world, so dirty & corrupt
+ - Industrial revolution led to many oppressive factories 
+- Theme: abuse of power, power gaps
+
+### Checking out me History
+"Bandage up me eye with me own history, Blind me to me own identity" - metaphor, plosive alliteration, emotive language
+- Agard microcosm for people oppressed throughout history
+#### Context
+John agard - born in Guyana, moved to Britain 1977, Poetry focuses on ethnicity and identity
+West Indian History begins 1492 - Columbus - only taught about British history - not caribbean 
+  - British: Dick Whittington, Cow jump over moon, Robin hood, Old king cole (nursery rhymes)
+  - Caribbean: Nanny de maroon, Mary seacole, Toussaint
+#### form
+- Oral poetry
+- Repetition 'Dem tell me', Phonetic spelling 'Dem'
+- Strong rhythm - important character at climax/end of stanza - emphasises significance
+- Italics & indentation + lack of punctuation - symbolises refusal of accepting restrictions forced on him
+- Enjambment throughout poem - combines black + white history in one sentence
+- Talks about Caribbean figures in free verse - mirrors freedom
+
+Compares well with: London - challenge powers that form our identity(Education, Church, government),
+ - Human power: Ozymandias, My last Duchess, Tissue
+
+### Exposure
+"Sudden successive flights of bullets streak the silence. Less deadly than the air that shudders black with snow." - Sibilance, irony, pathetic fallacy, juxtaposition, Oxymoron(black with snow) - evil, corrupt atmosphere
+Form: pararhyme - half rhyme - exposing propaganda- soldiers lives cut short - Wilfred - builds anticipation with rhyme, then rhyme doesn't happen "but nothing happens"
+Exposure - physical & pyschological torture to soldiers by weather, & Exposing reality of war
+Identity: emasculated by weather - "All their eyes are ice" - lost identity
+Nature: "Dawn massing in the east her melancholy army" - each day brings death & destruction
+Context: protest poem - written to people at home how soldiers have been forgotten, keep sending soldiers to die 
+ - Wilfred - soldier + officer in WW1 - died before end of war
+- About conflict between man and nature - shows how nature ALWAYS more powerful than man
+- ellipsis, caesura, repetition, pararhyme - sense of extreme boredom, drabness, unsettleness
+  - lack of change adds to tone of despair
+  - 
+### SOTI
+"We are prepared: we build our houses squat" - Collective pronoun, repetition + caesura
+### Remains
+"I see every round as it rips through his life - I see broard daylight on the other side." - 1st p pronoun, anaphora, metaphor, violent imagery
+### Poppies
+"I wanted to graze my nose across the tip of your nose, play at being Eskimos like we did when you were little" - emotive, nostalgic tone
+### War Photographer
+"In his darkroom he is finally alone, with spools of suffering set in ordered rows" - sibilance, juxtaposition
+### Emigree
+- poem contained in 1993 "Thinking Of Skins" - centred on political conciousness of Russia + East europe, and relationship between identity and culture
+- "There was once a country... I left it as a child but my memory of it is sunlight-clear" - emotive + light imagery
+### Kamikaze
+Free verse - man breaks free of cultural and social expectations - but is imprisoned and controlled anyway
+"only we children still chattered and laughed till gradually we LEARNED to be silent"
+### Unseen
+- the 'human condition' - emotion - link emotion to human condition
 
 
 ## dictionary

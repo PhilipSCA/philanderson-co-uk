@@ -73,8 +73,44 @@ Bearing - angle, clockwise from North of a point
 7) Tangents that meet at point = equal in length
 8) Perpendicular of a chord that goes through centre, bisects chord
 
+### Vectors
+Two vectors(a,b) are parallel if a = k x b (if they are multiples)
 
+### Congruent triangles
+5 ways to prove congruent:
+SSS - Side-Side-Side
+SAS - Side-Angle-Side - angle inbetween two sides same
+AAS - two angles & side not between angles same
+ASA - two angles & side between angles same
+HL (right-angled) - Hypotenuse-Leg - Hypotenuse and one other side same
 
+### Transformations
+#### Reflection
+- each point is same distance from mirror line
+#### Rotation
+Three pieces needed to rotate shape:
+- Centre of rotation
+- Direction - anti/clockwise
+- Angle 
+Each corner always same distance from centre of rotation
+#### Translation
+- Column vectors used - x first, then y (x=horizontal, y=vertical)
+#### Enlargement
+- When a shape enlarged from C.O Enlargement, distance from centre to point is multiplied by scale factor
+2 pieces needed to enlarge shape:
+ - Scale factor
+ - Centre of enlargement
+- A positive(>1) scale factor increases size of shape
+- A fractional enlargement decreases shape size - shape also closer COE
+- A negative scale factor - shape on other side on COE - shape upside down - shape is still bigger
+### Area, Length, Volume SF
+Area SF = Length squared
+Volume SF = Length cubed
+Length SF = Root (Area) \\ Cubed root (Volume)
+
+###  y = f(x) graphs
+y = f(-x) == reflection in Y-AXIS, y not affected
+y = -f(x) == reflection in X-AXIS, x not affected, y affected
 ## year 7-10
 
 # Maths
@@ -103,16 +139,16 @@ Angle - the position of something or where it is compared to another point or pl
 ```
 
 # Revision
-    - Unit 5
-        - Sin cos tan
-            - cos 90 = 0
-            - sin 0 = 0
-            - sin 45 = **√**2/2
-            - tan 0 = 0
-            - cos 30 =  **√**3/2
-            - 
+   - Unit 5
+    - Sin cos tan
+        - sin 0//cos 90 = 0
+        - sin 30//cos 60 = 1/2
+        - sin/cos 45 = √2/2
+        - sin 60//cos 30 =  √3/2
+        - sin 90//cos 0 = 1 
+
+
         - Pythagoras theorem = a² + b² = c²
-        - 
     - Unit 6
         - Midpoint  (x1 + x2)/2 , (y1+y2)/2 
     - Unit 7

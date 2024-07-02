@@ -30,7 +30,8 @@ Isotope - element with different number of neutrons but same number of protons
 Element - substance made up of one type of atom
 Nucleus - Centre of atom, contains protons and neutrons
 Compound - two or more atoms chemically bonded together
-Chromatography - method used for separating dyes and ink in a mixture
+Chromatography - method used for separating dyes and ink in a mixture - solvent line needs to be on ink line, ink line in pencil, lid needed
+ - Rf value = distance for dot/ distance for solvent - varies from 0-1 
 Filtration - method to separate insoluble solids from liquids
 Evaporation - one method to separate soluble solids from solutions, by heating solution
 Crystallisation - another method to separate soluble solids from solutions, by heating then cooling (into crystals)
@@ -149,15 +150,16 @@ States of matter - solid(s), liquid(l), gas(g), aqueous(aq)
 ## C4 - Chemical calculations
 ```
 Relative formula mass - atomic mass of all elements in the compound added together - Mr
+Ar = (mass x percentage mass/abundance) for all isotopes / sum of % mass (100)z
 Mole - 6.02x10^23 - One mole of an element is the same atomic mass as one atom of the element
 Limiting reactant - the reactant that gets all used up and limits how much product is formed
 Volume of gas = (mass of gas/Mr of gas) x 24, at room temperature and pressure.
 Concentration - amount of solute there is in a given volume. - low concentration = dilute
 Concentration(g/dm3) = mass of solute(g)/volume of solvent(dm3) (Can exchange mass with no. of moles)
-Moles = mass/Mr, Mass = moles/Mr
+Moles = mass/Mr, Mass = moles x Mr
 Mole ratio - find original Mr, then divide the given Mr by it, to find the multiplier. Divide each element by original
 Atom economy - the amount of useful product in the reactants. = (Mr of wanted product/Mr of all reactants) x 100
-Percentage yield - the ratio of products formed to reactants used - %
+Percentage yield - the ratio of products formed to reactants used - % - product mass/ max mass
 Titration - method of finding out concentration of ions - add increments of another solution until colour change
 ```
 ## C5 - Chemical changes
@@ -215,25 +217,6 @@ Half equation for nonmetals - 2Yx- ---> Y2 + 2xe-
 Half eq. for hydrogen = 2H+ + 2e- ---> H2
 Half eq. for hydroxide = 4OH- ---> O2 + 2H20
 ```
-## C Something - Hydrocarbons
-Hydrocarbon - any compound formed from carbon and hydrogen atoms only - simplest organic compound
-Alkanes - simplest hydrocarbon - C(n)H(2n+2) - homologous series(all react in a similar way) - saturated compounds - each carbon atom form four single covalent bonds (methane, ethane, propane, butane)
-Short Chains -------------------> Long chains:
-- LOWER boiling points  -----> higher boiling points
-- LESS viscosity - runny ----> more viscosity - thick
-- MORE volatile(tendency to turn into gas) --> less volatile
-- MORE flammable -----------> less flammable
-- cleaner flame -------------> smokier flame
-Complete combustion - excess of oxygen. releases a lot of energy. Waste products- carbon dioxide + water. Carbon and hydrogen are both oxidised. 
-    - hydrocarbon + lots of oxygen --> carbon dioxide + water (+energy)
-    - Hydrocarbons used as fuels due to amount of energy they release.
-Incomplete combustion - lack of oxygen - produces also carbon monoxide and carbon. Less energy released.
-  - alkane + (low) oxygen ---> carbon monoxide + carbon dioxide + water (+(low) energy)
-Crude Oil - fossil fuel - formed from remains of plants/animals mainly plankton millions of years ago. | a mixture of lots of different hydrocarbons - most are alkanes.
-Fractional distillation - how to separate fractions of crude oil - oil heated from bottom - top. Longer chains condense first as higher BP. From top - bottom: 1) LPG(Liquiefied petroleum gas), 2) Petrol, 3)Kerosene, 4) Diesel Oil, 5) Lubricating/heating/heavy fuel oil.
-- Each fraction is a mixture of hydrocarbons - all contain similar amount of carbon atoms - similar boiling points
-
-
 
 
 ## C8 - Rates of reaction
@@ -265,9 +248,60 @@ Equilibrium - when the concentration of the reactants and products are balanced 
                   - You will get more product for wherever the equilibrium is, and fewer of the other reactant.
    2) Pressure (gases) - INCREASE pressure = equilibrium moves in direction of FEWEST gas molecules, to reduce pressure
                        - DECREASE pressure = equilibrium moves in direction of MOST gas molecules - to increase pressure
+   3) Concentration - removing product from one side shifts equilibrium to that side
 Le Chatelier's principle - the equilibrium position can be changed if a change in conditions is introduced to the system
 - In reversible reactions, reaction can be endo/exothermic. If reaction is endothermic in one direction, it is exothermic in the other. (vice versa)
 ```
+
+## C9 - Hydrocarbons
+Hydrocarbon - any compound formed from carbon and hydrogen atoms only - simplest organic compound
+Alkanes - simplest hydrocarbon - C(n)H(2n+2) - homologous series(all react similarly) - saturated compounds - each carbon atom form four single covalent bonds - (meth-ane, eth-ane, prop-ane, but-ane)
+Alkene - C(n)H(2n) - more reactive than Alkanes - (methene, ethene, propene, butene, pentene)  - atleast ONE double-covalent bond (Unsaturated)
+Short Chains -------------------> Long chains:
+- LOWER boiling points  -----> higher boiling points
+- LESS viscosity - runny ----> more viscosity - thick
+- MORE volatile(tendency to turn into gas) --> less volatile
+- MORE flammable -----------> less flammable
+- cleaner flame -------------> smokier flame
+Complete combustion - excess of oxygen. releases a lot of energy. Waste products- carbon dioxide + water. Carbon and hydrogen are both oxidised. 
+    - hydrocarbon + lots of oxygen --> carbon dioxide + water (+energy)
+    - Hydrocarbons used as fuels due to amount of energy they release.
+Incomplete combustion - lack of oxygen - produces also carbon monoxide and carbon. Less energy released.
+  - alkane + (low) oxygen ---> carbon monoxide + carbon dioxide + water (+(low) energy)
+Hydrocarbons: used for: solvents, lubricants, detergents, 
+ + POLYMERS - used for plastics - from alkenes(not alkanes)
+Crude Oil - fossil fuel - remains of plants/animals, plankton compressed underground millions of years ago.| mixture of many hydrocarbons - most alkanes.
+Fractional distillation - how to separate fractions of crude oil - oil heated from bottom - top. Longer chains condense first as higher BP. From top - bottom: 1) LPG(Liquiefied petroleum gas) - heating/cooking appliances
+1) Petrol - cars
+2) Kerosene - planes/jet fuel
+3) Diesel Oil - cars
+4) Lubricating/heating/heavy fuel oil - large ships
+5) Bitumen - roads
+- Each fraction is a mixture of hydrocarbons - all contain similar amount of carbon atoms - similar boiling points
+
+Testing for alkenes:
+- bromine water - alkenes turn from orange/brown --> colourless || Alkane stays orange
+    - bromine atoms bond & break alkene double bond - becomes saturated
+    - Chlorine & iodine similar || water reacts to make alcohol (ethanol)
+
+Cracking:
+- more demand for shorter alkanes - breaks alkanes --> alkene + shorter alkane
+Catalytic cracking - 550oC - Zeolite catalyst
+steam cracking - >800oC - no catalyst
+butane (C.4H.10) ---> ethane(C.2H.6) + ethene(C.2H.4) || methane (CH4) + propene(C3H6)
+
+## C10 - Chemical analysis
+Pure substance - very specific melt/boiling points
+Formulations - mixtures of certain amounts of substances for purpose eg: Paints, fuels, alloys, fertilisers
+Chromatography - separating dyes and ink in a mixture - solvent line needs to be on ink line, ink line in pencil, lid needed
+ - Rf value = distance for dot/ distance for solvent - varies from 0-1
+ - mobile phase(water) moves up stationary phase(paper) by capillary action - lighter particles move further up
+Gases test:
+- Hydrogen - burning splint - 'pop'
+- Oxygen - relight glowing splint
+- Chlorine - bleaches damp blue litmus paper
+- Carbon dioxide - turn limewater cloudy
+
 
 ## C12 - The Atmosphere
 ### Evolution of atmosphere:
@@ -291,7 +325,10 @@ Phase 3 - Plants & Algae produce OXYGEN - learnt photosynthesis:
   - 78% - Nitrogen 
   - 21% - Oxygen
   - 0.9% - Argon, Carbon dioxide - 0.04, Water vapour ???
+- Coal formed from early CO2 through trees (photosynthesis) dying & compressing over millions of years
+Bioleaching - extracts metals from low grade ores with living organisms - uses bacteria to produce solutions of copper compounds - copper obtained by displacement/electrolysis
 ```
+
 ### Greenhouse gases: 
 Greenhouse gases - methane, carbon dioxide, water vapour - absorb long wavelength radiation thats reflected off the Earth - re-radiate it in all directions(including back towards earth)
 Greenhouse effect - sun shines short wavelength radiation to earth, long wavelength (thermal radiation) reflected back - insulating layer of greenhouse gases absorb and re-emit it back into earth - heats the earth
@@ -300,6 +337,49 @@ Human activity affecting greenhouse gases:
 - Burning fossil fuels - carbon 'locked up' in fossil fuels released as CO2
 - Agriculture - more farm animals produce methane - digestive waste
 - Creating waste - landfill sites & waste from agriculture - more CO2 and methane released from decomposition of waste
+
+Pollutants:
+Carbon monoxide - binds to haemoglobin - reduces oxygen able to transport around body - odourless + colourless
+sulphur dioxide - acid rain
+nitrogen oxide - breathing problems
+carbon/soot - health problems
+
+## C13 - Resources
+Need for: warmth, food, shelter, transport
+ - natural resources: wood - shelter, fuels, materials - clothing
+###  Potable Water & Groundwater
+Potable - drinkable
+Groundwater - easier to obtain, fewer processes:
+  - filtered through filter beds - remove insoluble particles
+  - sterilised - using chlorine, ozone or uv light - kills bacteria
+  - desalination - removing salt from seawater - distillation/reverse osmosis - req. alot of energy
+Waste water - harder to obtain, more processes:
+  - screening & grit removal - remove large particles
+  - Sedimentation - produce sewage sludge and effluent
+  - Aerobic treatment of effluent - reduces solid waste
+  - Sterilised - chlorine, ozone, uv light - kill bacteria
+  - Sludge anaerobically digested by specific bacteria - removes organic matter
+
+Extracting metals:
+- demand huge
+- pure metal obtained by electrolysis/ carbon displacement - from ore
+Copper:
+- phytomining - plants absorb copper ions in roots, burn - copper left in ash
+- bioleaching - bacteria make leachate solutions - contain copper compounds
+  - both very low yields - not effective
+
+Life cycle assessment - impact of new product on environment:
+Factors:
+1. extraction & processing of raw materials
+2. manufacturing, packaging
+3. lifetime use
+4. disposal
+5. transportation
+Reduce impact by:
+1. Use product less
+2. reduce material/energy needed to make
+3. recycling
+
 
 ## Conversion Units
 Concentration = mass/volume(g/dm3)
@@ -318,9 +398,24 @@ To find order of reactivity of 3 metals - temperature change with HCl:
 2) Measure initial temperature of HCl with thermometer
 3) Get first metal and add it into cup - quickly put a lid over, poke thermometer through and stir
 4) Measure highest temperature reached and calculate temp. change
-5) Repeat for each metal, with all same - amount of HCl, mass & state of metal, inital temp.
+5) Repeat for each metal, with all same - amount of HCl, mass & state of metal, inital temp. (or add more alkali solution)
 6) Record results and rank metals in order of reactivity, with most reactive metal having most temperature change
+7) If finding volume needed to neutralise, plot max temp against vol of alkali, where temp starts to drop = volume needed
  
+#### Making salt crystals - copper sulfate
+2) Take copper oxide, mix with heated sulphuric acid in a beaker to cause neutralisation reaction - produces copper sulphate solution
+3) Add excess copper oxide - some at bottom, then filter out
+4) Heat solution in evaporating basin ontop of a beaker (of boiling water) on a tripod & bunsen burner & gauze
+5) Wait till half is gone, then wait 24 hrs for crystals. Scrape crystals on paper towel and dry
+
+#### Electrolysis:
+1) Put petri dish lid with 2 holes. Carbon (inert) electrodes in 50cm3 aqueous solution with salt. Connect electrodes to battery/power supply with crocodile clips
+2) Explain products formed at each electrode - Look at C6 equation
+
+#### Titration:
+1) 50cm3 of alkali with pipette, in conical flask - add methly orange indicator (pink/red in acid)
+2) Fill burette with acid to 0cm3 - slowly add drops of acid until alkali STAYS pink, even when swirled - neutralisation occurs
+
 
 ## year 10
 
