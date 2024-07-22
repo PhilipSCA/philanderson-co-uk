@@ -11,7 +11,7 @@ def sum_array(myArray):
 
 
 
-def james_work():
+def james_work(arr):
 
     if arr != []:
         newArr = arr.sort()
