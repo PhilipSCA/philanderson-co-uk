@@ -22,15 +22,23 @@ continous - infinite range e.g weight
 frequency table - discrete table data - class etc.
 grouped frequency table
 frequency polygon - graph, freq. against class mid-point - straight lines
-Histogram - show frequencies of variables in classes
+Histogram - show frequencies of variables in classes - can estimate no. of readings in a given range
+        - area of column = frequency
 freq. density = freq. / class width
 class width = upper limit - lower limit (max - min)
 
 location - centre of data - average
 linear interpolation - estimates value of variable position
 dispersion - how spread out data values are
-Lower Quartile - value that 25% of data is < or = (<=)
-Upper quartile - value that 75% of data is <=
-
+Lower Quartile - value that 25% of data is < or = (<=) - n/4 (if not integer, round UP)
+Upper quartile - value that 75% of data is <= - 3n/4
+        - if integer, find average of that term and next term
+Interquartile range - UQ - LQ - shows range of middle 50% of data
+percentile - divide data into 100
+Outlier - anomaly 
+fences - the limits of data that determine whether it is an outlier
+        Lower fence = Q1 - (1.5 x IQR)
+        Upper fence = Q3 + (1.5 x IQR)
 Standard deviation - root variance - s = ¬/``variance
 Variance - how spread out data is from mean
+
