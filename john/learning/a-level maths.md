@@ -35,10 +35,23 @@ Upper quartile - value that 75% of data is <= - 3n/4
         - if integer, find average of that term and next term
 Interquartile range - UQ - LQ - shows range of middle 50% of data
 percentile - divide data into 100
-Outlier - anomaly 
+Outlier - anomaly - data outside fence range - affect what variation method to use
+        - if data set has outliers, IQR is best measure
 fences - the limits of data that determine whether it is an outlier
         Lower fence = Q1 - (1.5 x IQR)
         Upper fence = Q3 + (1.5 x IQR)
 Standard deviation - root variance - s = ¬/``variance
-Variance - how spread out data is from mean
+Variation - how spread out data is from mean. Measures of variation:
+- Standard deviation, variance, range, IQR
+Cumulative frequency graph - CF goes on y-axis, plot on upper-class boundaries
+Box plots - (comparing) - higher median = higher avg, higher IQR = more variation
+
+Coding - doing an operation on every data value to simplify it
+
+### Probability
+Outcome - a possibility that can happen
+Event - 'groups' of outcomes
+A n B - 'intersection' - satisfy A and B
+A u B - 'union' - or - satisfy either A or B
+        - P(A u B) = P(A) + P(B) - P(A n B)
 
