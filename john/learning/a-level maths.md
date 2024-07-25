@@ -1,3 +1,4 @@
+# Statistics
 central tendency - mean, median, mode - centre of data
 median - if even = avg of n/2, n/2 + 1
         - if odd = m/2
@@ -51,7 +52,14 @@ Coding - doing an operation on every data value to simplify it
 ### Probability
 Outcome - a possibility that can happen
 Event - 'groups' of outcomes
-A n B - 'intersection' - satisfy A and B
+A n B - 'intersection' - satisfy A and B || A n B == (A x B|A)
 A u B - 'union' - or - satisfy either A or B
         - P(A u B) = P(A) + P(B) - P(A n B)
+A' - complement A - not A
+Tree diagram - show probability for 2+ events
+trial - each set of branches
+Conditional probability - an event GIVEN that another event has happened - B|A
+B | A - probability of B, given A happened \\ B|A = A n B / A
+ 
+
 
