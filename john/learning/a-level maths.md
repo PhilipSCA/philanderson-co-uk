@@ -66,8 +66,16 @@ independent events - have no effect on each other - P(A n B) = P(A) x P(B)
 assumptions
 X (upper) = name of random variable | random variable - no fixed value - down to chance
 x (lower) = particular value that X can take
-Discrete random variables - certain number of possibilities
+Discrete random variables - certain number of possibilities - all add up to 1
 probability distribution - table showing possible values of x & probability
 probability function - formula giving probabilities for different values of x
+cumulative distribution function - gives probability that X <= particular value (x) (add up previous chances)
+  - F(x0) = P(X <= x0) = Σp(x)
+  - p(x) = P(X = x)
 
-
+### Binomial distribution
+n! = amount of ways of arranging n different objects
+ - if r of your n objects are identical == n! / r! \\e.g ABCDA = 5! / 2! = 120 / 2 = only 60 combinations
+Binomial coefficient:
+ (n r) = ⁿCr = n!/r! x (n-r)!
+        
