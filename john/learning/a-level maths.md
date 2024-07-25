@@ -60,6 +60,14 @@ Tree diagram - show probability for 2+ events
 trial - each set of branches
 Conditional probability - an event GIVEN that another event has happened - B|A
 B | A - probability of B, given A happened \\ B|A = A n B / A
- 
+mutually exclusive - cant happen at same time - P(A n B) = 0
+        - for exclusive events, P(A u B) = P(A) + P(B)
+independent events - have no effect on each other - P(A n B) = P(A) x P(B)
+assumptions
+X (upper) = name of random variable | random variable - no fixed value - down to chance
+x (lower) = particular value that X can take
+Discrete random variables - certain number of possibilities
+probability distribution - table showing possible values of x & probability
+probability function - formula giving probabilities for different values of x
 
 
