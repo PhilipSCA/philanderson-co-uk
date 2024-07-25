@@ -75,7 +75,18 @@ cumulative distribution function - gives probability that X <= particular value 
 
 ### Binomial distribution
 n! = amount of ways of arranging n different objects
+r = number of objects that are identical
  - if r of your n objects are identical == n! / r! \\e.g ABCDA = 5! / 2! = 120 / 2 = only 60 combinations
 Binomial coefficient:
  (n r) = ⁿCr = n!/r! x (n-r)!
-        
+
+Binomial probability function:
+P(r successess in n trials) = (n r) x [P(success)]^r x [P(failure)]^n-r
+
+Binomial distribution 5 conditions:
+1) fixed number (n) of trials
+2) each trial is 'success' or 'failure'
+3) trials independent
+4) probability is same each trial
+5) variable is total number of successes in n trials
+
