@@ -90,3 +90,17 @@ Binomial distribution 5 conditions:
 4) probability is same each trial
 5) variable is total number of successes in n trials
 
+Formula: P(X = x) = (n x) x p^x x (1 - p)^n-x  || X ~ B(n, p)
+ - n = number of trials
+ - p = probability of 'success'
+ - x = number of 'successes'
+
+### Normal distribution - 'bell shaped'
+- total area always same (1)
+- If X normally distributed with mean(µ) & variance(σ²), written X ~ N(µ,σ²)
+- standard normal distribution Z - mean = 0, variance = 1
+
+To convert from normal to standard normal:
+1) subtract mean, then
+        if X ~ N(u,o2) - X-u/o = Z, where Z ~ N(0, 1)
+2) divide by standard deviation
