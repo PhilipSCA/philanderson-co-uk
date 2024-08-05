@@ -104,3 +104,4 @@ To convert from normal to standard normal:
 1) subtract mean, then
         if X ~ N(u,o2) - X-u/o = Z, where Z ~ N(0, 1)
 2) divide by standard deviation
+Φ(z) - cumulative distribution function of Z 
