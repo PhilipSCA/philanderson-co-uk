@@ -74,6 +74,7 @@ cumulative distribution function - gives probability that X <= particular value 
   - p(x) = P(X = x)
 
 ### Binomial distribution
+- discrete
 n! = amount of ways of arranging n different objects
 r = number of objects that are identical
  - if r of your n objects are identical == n! / r! \\e.g ABCDA = 5! / 2! = 120 / 2 = only 60 combinations
@@ -96,8 +97,12 @@ Formula: P(X = x) = (n x) x p^x x (1 - p)^n-x  || X ~ B(n, p)
  - x = number of 'successes'
 
 ### Normal distribution - 'bell shaped'
-- total area always same (1)
+- continuous
+- total area always same (1) | total area under graph = 1
+- Area under graph between limit is probability of > or < that limit
+- Mean is in middle, so: P(X <= mean) or P(X >= mean) = 0.5
 - If X normally distributed with mean(µ) & variance(σ²), written X ~ N(µ,σ²)
+
 - standard normal distribution Z - mean = 0, variance = 1
 
 To convert from normal to standard normal:
@@ -105,3 +110,12 @@ To convert from normal to standard normal:
         if X ~ N(u,o2) - X-u/o = Z, where Z ~ N(0, 1)
 2) divide by standard deviation
 Φ(z) - cumulative distribution function of Z 
+
+Continuity correction:
+Binomial --> normal:
+P(X = b) --> P(b-0.5 < Y < b+0.5)
+P(X <= b) --> P(Y < b+0.5)
+P(X < b) --> P(Y < b-0.5)
+P(X >= b) --> P(Y > b-0.5)
+P(X > b) --> P(Y > b+0.5)
+ 
