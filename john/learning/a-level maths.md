@@ -90,12 +90,12 @@ Binomial distribution 5 conditions:
 3) trials independent
 4) probability is same each trial
 5) variable is total number of successes in n trials
+6) data also has to be discrete
 
-Formula: P(X = x) = (n x) x p^x x (1 - p)^n-x  || X ~ B(n, p)
+Formula: P(X = x) = (n x) * p^x * (1 - p)^n-x  || X ~ B(n, p)
  - n = number of trials
  - p = probability of 'success'
  - x = number of 'successes'
-
 ### Normal distribution - 'bell shaped'
 - continuous
 - total area always same (1) | total area under graph = 1
@@ -111,6 +111,17 @@ To convert from normal to standard normal:
 2) divide by standard deviation
 Φ(z) - cumulative distribution function of Z 
 
+Normal distribution conditions:
+1) data continuous
+2) symmetrically distributed, with peak in middle at mean(µ)
+3) data less frequent as you go further from mean
+4) nearly all data within 3 standard deviations of mean
+
+Binomial: X ~ B(n, p)
+Normal: X ~ N(μ, o²)
+
+
+#### Normal approximation
 Continuity correction:
 Binomial --> normal:
 P(X = b) --> P(b-0.5 < Y < b+0.5)
@@ -119,3 +130,4 @@ P(X < b) --> P(Y < b-0.5)
 P(X >= b) --> P(Y > b-0.5)
 P(X > b) --> P(Y > b+0.5)
  
+- works if np and n(1 - p) both > 5 
