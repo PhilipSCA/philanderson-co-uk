@@ -1,3 +1,46 @@
+# Pure Maths
+### Differentiation
+derivative - result from differentiating something
+f'(x) = d/dx (xⁿ) = **nxⁿ-¹** ---> just power as coefficient, then power - 1 as power
+ - f(x) = x³, f'(x) = 3x²
+- for negatives: 
+  - 1/x² = x-², n = -2
+  - f'(x) = -2x-³ = -2/x³ 
+- for fractions:
+  - root x = x½, n = 1/2
+  - f'(x) = 1/2x^-1/2 = 1/2 root x
+- differentiating tell you gradient of tangent to curve at any point
+
+Normal - line perpendicular to a curve
+to find tangents/normals:
+1) Differentiate function
+2) Find gradient - normal: -1/ gradient of curve
+3) write in form y - y₁ = m(x - x1) || y = mx + c
+
+Differentiating from first principles: 
+f'(x) = lim ( f(x+h) - f(x) / h )
+- find f'(x) and simplify - remove h from denominator
+- set h=0 and simplify 
+
+Stationary points - points on graph where curve flattens/gradient is 0
+        - can be a maximum, minimum, point of inflection
+        - to find - dy/dx = 0
+ - after finding stationary points, to find if its a minimum or maximum:
+   - differentiate again - d2y / dx2 - f''(x)
+   - if f''(x) > 0 --> minimum
+   - if f''(x) < 0 --> maximum 
+
+
+
+
+
+
+
+
+
+
+
+
 # Statistics
 central tendency - mean, median, mode - centre of data
 median - if even = avg of n/2, n/2 + 1
@@ -96,6 +139,8 @@ Formula: P(X = x) = (n x) * p^x * (1 - p)^n-x  || X ~ B(n, p)
  - n = number of trials
  - p = probability of 'success'
  - x = number of 'successes'
+
+## Year 2 - A level
 ### Normal distribution - 'bell shaped'
 - continuous
 - total area always same (1) | total area under graph = 1
