@@ -28,8 +28,21 @@ Stationary points - points on graph where curve flattens/gradient is 0
  - after finding stationary points, to find if its a minimum or maximum:
    - differentiate again - d2y / dx2 - f''(x)
    - if f''(x) > 0 --> minimum
-   - if f''(x) < 0 --> maximum 
+   - if f''(x) < 0 --> maximum
 
+- if f'(x) > 0 || gradient = positive || function increasing
+- if f'(x) < 0 || gradient - negative || function decreasing
+- bigger the gradient = quicker y changes as x changes (steeper)
+
+### Curve sketching with differentiation
+1) find where curve crosses axis 
+    - y-axis - x = 0
+    - x-axis - f(x) = 0 (2 roots)
+2) get gradient and stationary points
+3) When x gets Big, factorise to take out highest power of x from every term
+
+- Differentiation is used to find rates of change
+- 
 
 
 
