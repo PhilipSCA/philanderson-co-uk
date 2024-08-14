@@ -42,7 +42,41 @@ Stationary points - points on graph where curve flattens/gradient is 0
 3) When x gets Big, factorise to take out highest power of x from every term
 
 - Differentiation is used to find rates of change
-- 
+
+#### Differentiation Trig functions:
+
+1. f(x) = sin x | f′(x) = cos x
+
+2. f(x) = cos x | f′(x) = −sin x
+
+3. f(x) = tan x | f′(x) = sec 2 x
+
+4. f(x) = cot x | f′(x) = −csc 2 x.
+
+5. f(x) = sec x | f′(x) = sec x tan x
+
+6. f(x) = csc x | f′(x) = −csc x cot x
+
+### Integration
+
+- 'opposite' of differentiation
+constant of integration - multiple right answers, represents any number - C
+
+To integrate:
+ - add 1 to power, then divide by same power (+ add C)
+For negatives:
+= - 1 / x ^ y
+
+- Check answers by differentiating, getting what you started with
+-  
+
+
+
+--- Fundamental Theorem of Calculus:
+when differentiate y = dy/dx \\ When integrate dy/dx = y + constant of integration
+
+
+
 
 
 
