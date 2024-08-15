@@ -8,7 +8,6 @@
 
 
 ### Section 1 - Components of a computer
-
 Control Unit - Controls and coordinates CPU activity. Decodes and executes and stores result in memory.
 Buses - Parallel wires connecting computer components. Usually 8, 16, 32 or 64 lines. Transmission medium.
 Address bus - For when CPU wants to access a specific memory location, gets the memory's address.
@@ -25,6 +24,7 @@ Operand - Holds either address of data, the actual data or the data to be operat
 Clock - Switches between 1 and 0 millions of times per second generating signals.
 Cache - Small, expensive, fast memory inside CPU. Instruction is copied to this.
 Pipelining - Allows next instruction to be fetched whilst previous is being decoded to improve speed.
+--------------------------------------------14/8/24-------------------------------------------------
 Von Neumann Architecture - Specifies basic components in a computer
 Hardvard architecture - Physically separate held memories for instructions. Used extensively with DSP systems.
 Digital Signal Processing (DSP) - Include audio/speech, sonar and radar, biomedical, seismic and digital image processing.
@@ -39,11 +39,38 @@ GPU - Graphics and image processing, has thousands of smaller cores for handling
 Multi-core CPU's - Significantly higher performance. Distribute workload effectively. Supercomputers
 Barcodes - 2 Types, linear and QR codes. QR can hold more info.
 Barcode readers - 4 types, pen-type readers, laser scanners, CCD readers and camera-based readers.
-Pen-type readers - Light source and photo diode scan. Diode for light intensity and light for waveform. Small size, durable and simple design. Must touch the barcode to read.
+Pen-type readers - Light source and photo diode scan. Diode for light intensity and light for waveform. Small size, durable and simple design. Must touch the barcodChe to read.
 Laser scanners - Laser beam and photo diode. Used in supermarkets commonly. Reliable and cheap.
 Camera-based readers - Camera and processing method to decode. Can read on any surface, even if poorly printed
 Camera-based readers uses - Phones for QR code scanning, Age verification, Couponing, Event ticketing.
 Digital cameras (CCD) - Sensor with millions of tiny light sensors in a grid. Binary data is recorded so image can be reproduced on a computer software. Higher quality images but high power consumption.
+--------------------------------------------15/8/24--------------------------------------------------
+Radio Frequent Identification (RFID) - Using I/O, a Microchip with antenna. Used for tracking and identifying
+Active tags - Have a battery, physically larger. Used to track things further away like cars.
+Passive tags - Cheaper, no battery. Use radio waves for power, used in tagging items like groceries or cards.
+Output devices - Take data by the computer and turn it into a way humans can read. Screens, printers etc.
+LCD monitors (Liquid crystal display) - RGD diodes for each pixel. Usually back-lit with LED's.
+LCD monitors advantages - Max brightness fast, sharp image, thin, last indefinetely, low power consumption.
+LCD disadvantages - Slow to refresh, OLED's up to 200x faster. Hard to see at an angle, goes dark from side.
+Organic LED screen(OLED) - Plastic screen so flexible. Can be used on almost any display.
+OLED advantages - Much thinner, Brighter, consume less power, refresh fast, Colours clear at tighter angles.
+OLED drawbacks - Dont last as long, wear out about 4x faster than LCD's. Very sensitive to water.
+Laser printers - Use powdered ink called toner. Have cyan, magenta, yellow and black (CMYB) for colour.
+Laser printers advantages - High-quality, high-speed. Becoming more affordable and used. Can do colour.
+Laser printer disadvantage - For jobs other than text is limited by print quality, about 1200 dpi.
+Inkjet printers - Spray small ink dots onto paper for an image. If High quality will produce excellent images.
+Resolution - Based on DPI (dots per inch), the more dots the better.
+Inkjet printers advantages - Cheaper than laser, High quality images with good paper, colour and resolution.
+Inkjet printers disadvantages - Much slower, ink has to be replaced frequently.
+Dot matrix / Impact printers - Print head has a matrix of pins which strike the paper through an inked ribbon.
+Dot matrix benefits - Useful for multi-part stationary, can be used in dirty or damp areas.
+Dot matrix drawbacks - Noisy, slow and poor print quality
+3D printers - Can be used to create spare parts like car or aeroplane parts, medical eqpmt and prototypes etc.
+Multimedia projectors - Used in classrooms for schools. More consistent as teacher just has to do lesson once.
+Multimedia projectors adv - Before students crowded round a "16 screen, Chalkboards were used, Videos and images can improve learning and make it more interesting.
+Computer speakers - Used in PC's, smartphones and portable devices as an inbuilt speaker for music, calls etc.
+Actuators - Motors used with sensors to control something. e.g: Opening a window, start/stopping a pump etc.
+
 
 
 
