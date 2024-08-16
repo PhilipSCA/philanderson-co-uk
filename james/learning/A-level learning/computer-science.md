@@ -70,6 +70,34 @@ Multimedia projectors - Used in classrooms for schools. More consistent as teach
 Multimedia projectors adv - Before students crowded round a "16 screen, Chalkboards were used, Videos and images can improve learning and make it more interesting.
 Computer speakers - Used in PC's, smartphones and portable devices as an inbuilt speaker for music, calls etc.
 Actuators - Motors used with sensors to control something. e.g: Opening a window, start/stopping a pump etc.
+--------------------------------------------16/8/24--------------------------------------------------
+Secondary storage - Slower Storage for when power is off.
+Hard disk - High capacity, rotating platters that spin with a drive head on the disk.
+Optical disk - etiher CD-ROM, CD-R or CD-RW. Laser to burn disk to make areas less reflective. ROM has lands.
+SSD - Array of chips on a board. Millions of NAND flash memory cells and a controller.
+Virtual memory - If the RAM doesnt have enough storage.
+Operating system - Programs that manage operations of the computer.
+Operating system functions - Memory management, service routines, processor scheduling, I/O management etc.
+Memory management - Every application/program run has to be allocated in memory whilst being used.
+Paging - Memory divided into fixed sizes of 4KB each.
+Segmentation - Logical division of addresses into varying length segments depending on the program structure.
+Interrupts - Signal from program, hardware or clock to CPU. Happens when requesting services from OS or timer.
+Interrupt service routines - Suspends programs to deal with interrupt. Different routine for each interrupt.
+Types of interrupts - Power-fail interrupt (high priority), Clock interrupt, I/O device request (low pri)
+Processor scheduling - OS can queue up the next process required to make efficient use of processor.
+Multi-tasking - Single processor carries out small parts of multiple larger tasks in turn.
+Scheduler - Ensures processor time is as efficient as possible.
+Scheduler objectives - Maximise throughput, be fair to all users, good response time and keep hardware busy.
+Round robin - Each process has a time slice. Time interval is set and moves on continuously if not complete.
+First come first served - Jobs processed in order that they came.
+Shortest remaining time - Program with the smallest estimated time to complete is run next.
+Shortest job first - Process with the smallest estimated running time is run next. Similar to (one above).
+Multi-level feedback queues - Several job queues, jobs can move between queues depending on time. To maximise processor use
+Backing store management - Apps transfer from backing storage to memory when loaded. OS knows where free space is and keeps directory of where files are stored
+Peripheral management - Managing I/O devies through their operation. e.g: Printers
+Buffer - Memory where data goes so CPU can continue with another task. Compensates for speed difference
+Distributed OS - Form of parallel processing where load is spread over multiple servers. Job is split and each small task is run on separate computers
+Multi-tasking OS - Runs on a standalone computer. Several apps/programs running at once. e.g Music and work.
 
 
 
