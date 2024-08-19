@@ -76,8 +76,16 @@ To find C:
 --- Fundamental Theorem of Calculus:
 when differentiate y = dy/dx \\ When integrate dy/dx = y + constant of integration
 
-Definite integrals - have limits
- 
+
+Definite integrals - limits - values that you integrate between - intregrate normally then substitute values:
+        - top limit - bottom limit = answer
+ - finds area under curve
+ - when bottom limit is below x-axis, its negative - work out (0 - top) and (0 - bottom) separately, add together
+- to find area enclosed in 2 lines, you add/subtract integral areas
+
+to find 1 of limits:
+1) integrate normally
+2) substitute variable, use formula : top - bottom = answer
 
 
 
