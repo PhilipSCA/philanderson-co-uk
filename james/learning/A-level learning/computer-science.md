@@ -98,12 +98,34 @@ Peripheral management - Managing I/O devies through their operation. e.g: Printe
 Buffer - Memory where data goes so CPU can continue with another task. Compensates for speed difference
 Distributed OS - Form of parallel processing where load is spread over multiple servers. Job is split and each small task is run on separate computers
 Multi-tasking OS - Runs on a standalone computer. Several apps/programs running at once. e.g Music and work.
-
-
-
-
-
-
+--------------------------------------------19/8/24--------------------------------------------------
+Real-time OS - Must respond quickly to inputs, have a 'fail-safe', handle many inputs at once and have backup.
+BIOS - For start-up. Loads OS from hard disk into RAM and tests hardware.
+Device drivers - Provides a software interface to hardware. Allows OS to access hardware without knowing details of it.
+Systems software - Needed to run hardware and application programs, such as OS, utility programs etc.
+Utility software - To optimise performance, responsible for backing up files, compression, a firewall etc.
+Disk defragmentation - Reorganises a magnetic disk so files which are split up are recombined in a series of blocks. Makes reading files quicker.
+Applications software - Can be general-purpose, special-purpose or custom-written software
+General-purpose software - Used for several purposes. e.g: Word processors and graphics packages
+Special-purpose software - Performs a single specfic task/set of tasks.
+Freeware - Software free to use but the user doesn't get access to source code.
+Bytecode - Combines compiling and interpreting creates this.
+Aspects of software development - Analysis, Design, Programming, testing, implementation and evaluation
+Analysis - Includes the data, procedures, future plans and problems
+Design - Includes processing, data structures, I/O, user interface, security and hardware
+Black box testing - Carried out independently of code. Looks at program specification, covering all I/O's.
+White box testing - Depends on code logic, derives from program structure.
+Alpha testing - Carried out by software developers testing team. Reveals errors and unincluded items.
+Beta testing - Giving package to potential users to use and get feedback so it can be modified further.
+Implementation - When all testing is done software installed and more testing is done as new problems arise.
+Evaluation - Assessed on effectiveness, usability and maintainability. Waiting period beforehand for users.
+Waterfall Model - Review method where each step is completed one at a time. Can go back stages but have to work down through following stages
+Spiral model - Review method, develops software in iterative stages. 
+Agile modeling - Feedback at each part, changes made as next part of system is built. Prototype at each stage.
+Extreme programming - Frequent releases of software made in short development cycles. Improves quality.
+Agile modeling drawback - Abscence of user involvement
+Agile modeling benefit - Suitable for small projects.
+Extreme programming and RAD benefit - Good for large projects.
 
 
 
