@@ -126,6 +126,18 @@ Extreme programming - Frequent releases of software made in short development cy
 Agile modeling drawback - Abscence of user involvement
 Agile modeling benefit - Suitable for small projects.
 Extreme programming and RAD benefit - Good for large projects.
+--------------------------------------------19/8/24--------------------------------------------------
+Internet related algorithms - For huge data amounts on the Internet.
+Route-finding algorithms - For GPS, finds shortest route
+Compression algorithms - For compressing data files to transmit faster/use less space.
+Encryption algorithms - Data sent online through purchases etc have to be encrypted.
+Procedural languages - Has data structures like arrays, stacks and records.For languages like Python or Pascal
+Polymorphism - A language's ability to process objects differently depending on their class.
+Addressing mode - 2 digit code in the opcode of a machine code instruction
+Immediate addressing - Operand is the actual value to be operated on
+Direct addressing - Memory address of value
+Indirect addressing - Location holding the address of the data
+Indexed addressing - To access arrays. Gets operand address  by adding to the contents of the index register.
 
 
 
