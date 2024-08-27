@@ -52,3 +52,21 @@ Constant of integration - 'C' - can be any number
 To integrate:
 - add 1 to power, then divide by same power
 - x^2  = x^3/3
+
+- can check answers by differentiating
+
+To find C:
+- use points given
+- substitute x, y of point into integral, then solve
+
+Definite integrals - limits - values to integrate between:
+ - Answer = top limit - bottom limit
+ - used to find area under a curve
+ - when bottom limit below x-axis = negative || work out (0 - top) and (0 - bottom) separately, then add together
+ - to find area enclosed in 2 lines, add/subtract integral areas
+
+to find 1 limit:
+1) integrate
+2) substitute variable, use formula: top - bottom = ans
+
+
