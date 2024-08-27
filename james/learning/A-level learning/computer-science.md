@@ -98,13 +98,96 @@ Peripheral management - Managing I/O devies through their operation. e.g: Printe
 Buffer - Memory where data goes so CPU can continue with another task. Compensates for speed difference
 Distributed OS - Form of parallel processing where load is spread over multiple servers. Job is split and each small task is run on separate computers
 Multi-tasking OS - Runs on a standalone computer. Several apps/programs running at once. e.g Music and work.
-
-
-
-
-
-
-
+--------------------------------------------19/8/24--------------------------------------------------
+Real-time OS - Must respond quickly to inputs, have a 'fail-safe', handle many inputs at once and have backup.
+BIOS - For start-up. Loads OS from hard disk into RAM and tests hardware.
+Device drivers - Provides a software interface to hardware. Allows OS to access hardware without knowing details of it.
+Systems software - Needed to run hardware and application programs, such as OS, utility programs etc.
+Utility software - To optimise performance, responsible for backing up files, compression, a firewall etc.
+Disk defragmentation - Reorganises a magnetic disk so files which are split up are recombined in a series of blocks. Makes reading files quicker.
+Applications software - Can be general-purpose, special-purpose or custom-written software
+General-purpose software - Used for several purposes. e.g: Word processors and graphics packages
+Special-purpose software - Performs a single specfic task/set of tasks.
+Freeware - Software free to use but the user doesn't get access to source code.
+Bytecode - Combines compiling and interpreting creates this.
+Aspects of software development - Analysis, Design, Programming, testing, implementation and evaluation
+Analysis - Includes the data, procedures, future plans and problems
+Design - Includes processing, data structures, I/O, user interface, security and hardware
+Black box testing - Carried out independently of code. Looks at program specification, covering all I/O's.
+White box testing - Depends on code logic, derives from program structure.
+Alpha testing - Carried out by software developers testing team. Reveals errors and unincluded items.
+Beta testing - Giving package to potential users to use and get feedback so it can be modified further.
+Implementation - When all testing is done software installed and more testing is done as new problems arise.
+Evaluation - Assessed on effectiveness, usability and maintainability. Waiting period beforehand for users.
+Waterfall Model - Review method where each step is completed one at a time. Can go back stages but have to work down through following stages
+Spiral model - Review method, develops software in iterative stages. 
+Agile modeling - Feedback at each part, changes made as next part of system is built. Prototype at each stage.
+Extreme programming - Frequent releases of software made in short development cycles. Improves quality.
+Agile modeling drawback - Abscence of user involvement
+Agile modeling benefit - Suitable for small projects.
+Extreme programming and RAD benefit - Good for large projects.
+--------------------------------------------20/8/24--------------------------------------------------
+Internet related algorithms - For huge data amounts on the Internet.
+Route-finding algorithms - For GPS, finds shortest route
+Compression algorithms - For compressing data files to transmit faster/use less space.
+Encryption algorithms - Data sent online through purchases etc have to be encrypted.
+Procedural languages - Has data structures like arrays, stacks and records.For languages like Python or Pascal
+Polymorphism - A language's ability to process objects differently depending on their class.
+Addressing mode - 2 digit code in the opcode of a machine code instruction
+Immediate addressing - Operand is the actual value to be operated on
+Direct addressing - Memory address of value
+Indirect addressing - Location holding the address of the data
+Indexed addressing - To access arrays. Gets operand address  by adding to the contents of the index register.
+--------------------------------------------21/8/24--------------------------------------------------
+Lossy compression - Info is removed from the file to reduce space.
+Lossless compression - Removes info but copies it so it can be added back to the original file afterwards.
+Run Length Encoding (RLE) - For images, doesnt record each pixel but just says how many of each colour per row. Shortens it
+Plaintext - Data before it is encrypted
+Ciphertext - The data after it has been encrypted
+Cipher - Method of encryption used
+Key - Code/info needed to lock/unlock authorisation to the message or data.
+Vernam Cipher - Only cipher proven to be unbreakable. Key has to be longer than plaintext, random and used only once.
+Symmetric encryption - Same key to encrypt and decrpyt data.
+Asymmetric encryption - Public key to encrypt but private key only one person knows to decrypt.
+Hashing - Provides a mapping between a random length input and a fixed length.
+Hash total/Checksum - Value from unencrypted message data
+Entity - Category of something thats of interest to an organisation about which data is to be recorded
+--------------------------------------------------27/8/24----------------------------------------------
+Flat file database - Only one file
+Entity description - Written in format: Entity1 (Attribute1, Attribute2...)
+Primary key - Name of the entity
+Secondary key - For other attributes, another index in the database is created.
+One-to-one - Entity relationship just between two things. (Wife and Husband)
+One-to-many - Entity relationship between one thing and several. (Mother and children)
+Many-to-many - Entity relation between many entities to many. (Student and course)
+Entity relationship diagram - To represent relationship between entities in a database.
+Foreign key - Links two tables in a relational database
+Relational database - Separate tables are made for each entity. Data is ordered by shared attributes
+Composite primary key - Primary key which has more than one attribute.
+Referential integrity - Ensures a component isn't deleted if used in a table.
+Normalisation - Process to find the best design possible for a database. Has three stages
+Partial dependency - If any attributes depends on only part of a composite primary key, not fully.
+SQL - Used for searching and updating tables using SELECT, FROM, WHERE.
+Transaction processing - Capturing, selecting, managing and exchanging data
+ACID - Atomicity, Consistency, Isolation, Durability. Ensures full transaction is done, not partly done.
+ARPANET - US Defence project for communications without need for physical travel in 1960's
+World Wide Web (WWW) - Collection of web pages on computers connected to the Internet
+Internet - Network of networks to allow computer to communicate globally.
+Sir Tim Berners-Lee - British scientist who developed the WWW. 
+Internet Service Providers - Connect to cables along the sea to give internet connection locally.
+Uniform Resource Locators - Address of a resource on the internet. Has location, method, host, resource etc.
+Domain name - Identifies area that an internet resource is in. (.co.uk at end means its in the UK with 'co')
+FQDN - Domain name but includes the host server name. (www or mail or ftp)
+Physical topology - Actual design layout
+Logical topology - Path the data travels in.
+TCP/IP Protocol - Has application layer, transport layer, internet layer and link layer.
+Firewall - Security blocking unauthorised access between two networks
+Proxy server - Intercepts all packets going in/out of a network, and hiding the addresses for security.
+HTML (HyperText Markup Language) - Language used for web pages. Makes structure and content of a web page
+CSS (Cascade Style Sheets) - Dictates the style and formatting (visuals) of web pages. Used with HTML commonly
+HTML div<> tag - Divides a page into separate areas, which can be referred to by name
+CSS Identifiers - Defined with a # (#header)
+Javascript - Script language. Interpreted and not compiled.
 
 
 ### Section 2 - Systems software
