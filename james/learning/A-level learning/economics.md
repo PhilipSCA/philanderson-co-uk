@@ -58,20 +58,58 @@ Symmetric information - Everyone has same knowledge in the market (seller and bu
 ### Section 6 - Government Issues
 Price controls - Government can set a min./max. price for a good or service.
 Competition Polity - Governments try to avoid monopolies forming in markets
+Payment Protection Insurance (PPI) - Insurance to repay debt if borrower is unable to do so.
+Government Intervention - Governments putting in regulations or helping consumer decisions
+Common Agricultural Policy (CAP) - Helps farmers by collecting market failure from fluctuating prices. Failed.
 
 
 
 ### Section 7 - The Labour Market
+Monopsony - Only one buyer in a market.
+Trade union - Organisation to represent the interests of a group of workers. Usually to bargain with employers
+Wage discrimination - Price discrimination but with wages, workers usually paid by job/willingness to work.
+Incentives - Given to people to encourage them to work.
+Demographic changes - Changes in the features of a population (age, lifestyle, gender)
+
 
 ### Section 8 - Measuring Economic Performance
+Four Macroeconomic indicators - Rate of economic growth, inflation, unemployment, balance of payments
+Inflation - Sustained rise in average price of things over a time period or a fall in value of money.
+Retail Price Index (RPI) - Measure for inflation, what people spend their money on
+Consumer Price Index (CPI) - Measure for inflation, similar to RPI but excludes things like council tax.
+
 
 ### Section 9 - Aggregate Demand and Aggregate Supply
+Aggregate Demand - Total spending on goods and services
+AD formula - Consumption + Investment + Government spending + (Exports - Imports)
+Aggregate Supply - Total output produced in an economy.
+Macroeconomic Equilibrium - AS = AD
 
 ### Section 10 - Government Economic Policy objectives
+Full employment - Everyone of working age who wants to work has a job.
+Structural unemployment - From a decline in certain industries, usually from a change in consumer interests.
+Frictional unemployment - Unemployment from leaving one job and finding another, the time it takes.
+Real wage unemployment - Real wages being pushed above equal level of employment
+Balance of Payments (BOP) - Records all flows of money in/out of a country
+Natural rate of unemployment (NRU) - Rate of unemployment when labour market is in equilibrium
+Lorenz curves - Graphically represent the distribution of income
+Equity - Being fair, different people have different circumstances. People get what they need
+Relative poverty - Having low income in comparison to others income.
+Absolute poverty - Unable to access/buy basic needs (food, shelter)
 
 ### Section 11 - Macroeconomic Policy Instruments
+Fiscal policy - Involves government spending and taxation.
+Cyclical budget position - Governments short-term fiscal stance.
+Structural budget position - Governments long-term fiscal stance.
+Monetary policy - Involves making decisions about interest, money supply and exchange rates. Affects AD.
+Supply-side policies - To increase the economy's trend growth rate/productive potential.
 
 ### Section 12 - The Financial Sector
+Money Markets - For short term finance
+Capital Markets - Medium and Long-term finance by issuing bonds and shares.
+Foreign Exchange markets - For international trade and investment.
+Market bubbles - Process in a market are greater than the assets.
+
 
 ### Section 13 - The Global Economy
 
