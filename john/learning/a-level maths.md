@@ -5,7 +5,12 @@ f'(x) = d/dx (xⁿ) = **nxⁿ-¹** ---> just power as coefficient, then power - 
  - f(x) = x³, f'(x) = 3x²
 - for negatives: 
   - 1/x² = x-², n = -2
+  - 1 / (x squared) = (x to power -2) ... so n = -2
+  - 
   - f'(x) = -2x-³ = -2/x³ 
+  
+  - f'(x) = -2(x to power -3) = -2 / (x cubed)
+- 
 - for fractions:
   - root x = x½, n = 1/2
   - f'(x) = 1/2x^-1/2 = 1/2 root x
