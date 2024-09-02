@@ -35,6 +35,7 @@ Cross Elasticity of Demand (XED) - How quantity demanded responds to another goo
 Joint Supply - Production of something involves the production of another thing.
 Market equilibrium - Supply = Demand
 
+
 ### Section 3 - Business Economics
 Specialisation - Leads to division of labour as different workers have different skills
 Marginal cost - Extra cost from producing the final unit of output. Cost of 'one more unit'
@@ -42,10 +43,10 @@ Law of Diminishing returns - If one variable facotr is increased while others st
 Average product - Output produced per unit of factor input
 Demerger - Breaking up of a firm into separate firms, so each one can focus on a specific market.
 
+
 ### Section 4 - Market Structures
 Price descrimination - Charging different prices to different customers for the same product. Three stages
 Oligopoly - Market thats dominated by a few interdependent firms, competing intensely
-
 
 
 ### Section 5 - Market failure
@@ -54,14 +55,12 @@ Demerit Goods - Opposite of merit goods
 Symmetric information - Everyone has same knowledge in the market (seller and buyer)
 
 
-
 ### Section 6 - Government Issues
 Price controls - Government can set a min./max. price for a good or service.
 Competition Polity - Governments try to avoid monopolies forming in markets
 Payment Protection Insurance (PPI) - Insurance to repay debt if borrower is unable to do so.
 Government Intervention - Governments putting in regulations or helping consumer decisions
 Common Agricultural Policy (CAP) - Helps farmers by collecting market failure from fluctuating prices. Failed.
-
 
 
 ### Section 7 - The Labour Market
@@ -85,6 +84,7 @@ AD formula - Consumption + Investment + Government spending + (Exports - Imports
 Aggregate Supply - Total output produced in an economy.
 Macroeconomic Equilibrium - AS = AD
 
+
 ### Section 10 - Government Economic Policy objectives
 Full employment - Everyone of working age who wants to work has a job.
 Structural unemployment - From a decline in certain industries, usually from a change in consumer interests.
@@ -97,6 +97,7 @@ Equity - Being fair, different people have different circumstances. People get w
 Relative poverty - Having low income in comparison to others income.
 Absolute poverty - Unable to access/buy basic needs (food, shelter)
 
+
 ### Section 11 - Macroeconomic Policy Instruments
 Fiscal policy - Involves government spending and taxation.
 Cyclical budget position - Governments short-term fiscal stance.
@@ -104,14 +105,34 @@ Structural budget position - Governments long-term fiscal stance.
 Monetary policy - Involves making decisions about interest, money supply and exchange rates. Affects AD.
 Supply-side policies - To increase the economy's trend growth rate/productive potential.
 
+
 ### Section 12 - The Financial Sector
 Money Markets - For short term finance
 Capital Markets - Medium and Long-term finance by issuing bonds and shares.
 Foreign Exchange markets - For international trade and investment.
-Market bubbles - Process in a market are greater than the assets.
+Market bubbles - A big gap in the price of assets bought and price sold creates this
+Market rigging - When traders on financial markets, cooperate secretly to manipulate markets to make profits.
+Speculation - Aiming to make a profit by buying assets cheaply and selling at a higher price.
+Central Banks - Act as a lender of last resort to other banks. A 'banker to the banks'
+Regulation of Financial Markets - In the UK, done by the Bank of England and FCA. Globally, the IMF and WB.
 
 
 ### Section 13 - The Global Economy
+Trade liberalisation - Reduction of tariffs and restriction on international trade.
+Opportunity cost - Benefit thats given up to do something else, a sacrifice. AKA. Comparative advantage
+Terms of trade - Relative price of exports to imports. Measured as a %.
+Free trade - Unrestriced national trade
+Quotas - Can be used to set limits to amount of imports of certain goods.
+Trading blocs - Agreements between countries/governments about trade, reducing trade barriers.
+Economic integration - Economies of different countries become more closely linked.
+Economic and Monetary Union (EMU) - Has a monetary policy, coordinates fiscal and economic policies and a common currency - the euro
+Fixed exchange rate - Government sets the exchange rate
+Floating exchange rate - Free to move with changing supply of /demand for a currency.
+
 
 ### Section 14 - Economic Development
+Commodities - Primary products - i.e. taken directly from the earth.
+Inward-looking strategies - Try to protect domestic industries until they're ready to compete internationally.
+Microfinance - Small loans to businesses and individuals for them to become more financially independent.
+Sustainability - Meeding needs of today without intefering with the needs of the future.
 
