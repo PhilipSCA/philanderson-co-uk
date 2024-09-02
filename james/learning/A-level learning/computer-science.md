@@ -5,6 +5,8 @@
   - [contents](#contents)
     - [Section 1 - Components of a computer](#section-1---components-of-a-computer)
     - [Section 2 - Systems software](#section-2---systems-software)
+    - [Section 6 - Data types](#section-6---data-types)
+    - [Section 7 - Arrays, tuples and records](#section-7---arrays-tuples-and-records)
 
 
 ### Section 1 - Components of a computer
@@ -189,5 +191,18 @@ HTML div<> tag - Divides a page into separate areas, which can be referred to by
 CSS Identifiers - Defined with a # (#header)
 Javascript - Script language. Interpreted and not compiled.
 
-
 ### Section 2 - Systems software
+
+
+### Section 6 - Data types
+Primitive data types - Provided by a programming language
+-ibibyte - 1024 of the previous bytes instead of 1000
+
+
+### Section 7 - Arrays, tuples and records
+Array - Ordered, finite set of elements of the same type
+Tuple - Ordered set of values of any type. Immutable so cannot be changed
+Abstract data type - Created by the programmer instead of the language
+Queues - List where items can only be retrieved at the front, and added on to the end, like a regular queue.
+Dynamic data structure - Collection of data that can grow/shrink in size
+Static data structure - Fixed in size, cannot inc/dec in size to free up space when running.
