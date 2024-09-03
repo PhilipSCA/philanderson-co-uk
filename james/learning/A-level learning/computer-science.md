@@ -7,11 +7,13 @@
     - [Section 2 - Systems software](#section-2---systems-software)
     - [Section 6 - Data types](#section-6---data-types)
     - [Section 7 - Arrays, tuples and records](#section-7---arrays-tuples-and-records)
+    - [Section 8 - Boolean Algebra](#section-8---boolean-algebra)
+    - [Section 9 - Legal, moral, ethical and cultural issues](#section-9---legal-moral-ethical-and-cultural-issues)
+    - [Section 10 - Computational thinking](#section-10---computational-thinking)
+    - [Section 11 - Programming techniques](#section-11---programming-techniques)
 
 
 ### Section 1 - Components of a computer
-Control Unit - Controls and coordinates CPU activity. Decodes and executes and stores result in memory.
-Buses - Parallel wires connecting computer components. Usually 8, 16, 32 or 64 lines. Transmission medium.
 Address bus - For when CPU wants to access a specific memory location, gets the memory's address.
 Data bus - Transmits data in memory between processor components and memory.
 Control bus - Sends control signals. Bi-directional and ensures data and address bus dont conflict.
@@ -206,3 +208,49 @@ Abstract data type - Created by the programmer instead of the language
 Queues - List where items can only be retrieved at the front, and added on to the end, like a regular queue.
 Dynamic data structure - Collection of data that can grow/shrink in size
 Static data structure - Fixed in size, cannot inc/dec in size to free up space when running.
+---------------------------------------------------3/9/24----------------------------------------------- 5 terms done ------
+Priority queue - Queue but order is determined by the elements priority.
+List - Abstract data type consisting of items that can be repeated.
+Stacks - Items can only be modified from the top/front, like a stack of plates. (Undo and back buttons)
+Overflow/Underflow - If the size exceeds maximum or goes below 0.
+Hashing - Address is only a part of the full index. (453781 goes to address 781)
+Dictionaries - Abstract data type consisting of keys and values. Each key has a value separated by a colon. (Name: "James")
+Graphs - Set of nodes connected by edges or arcs.
+Depth-first traversal - Go as far down a route as possible then backtrack to original point until all paths are done.
+Breadth-first search - Visiting neighbours of each node, all nodes around first node then all nodes around second node.
+Trees - Has a root, then branches and leaves. Root at the top and leaves at bottom, spreads out
+Binary search tree - Each node has two children, splits into 2 each layer.
+
+### Section 8 - Boolean Algebra
+Logic circuits - Combining multiple logic gates (AND, OR, NOT) into one to form an output
+De Morgan's first law - NOT(A OR B) == NOT A AND NOT B
+De Morgan's second law - NOT(A AND B) == NOT A OR NOT B
+XOR gate - Means exclusive OR. Has to be an OR, if both are true its false, only ONE has to be true.
+D-type flip-flop - Positive edge triggered flip-flop, can only change from 1 to 0.
+
+### Section 9 - Legal, moral, ethical and cultural issues
+Data Protection Act 1998 - Anyone with personal info must keep it secure and its under their responsibility. Must have security
+Computer misuse act 1990 - Computers are not to be used to perform or be involved in malware attacks of any sort.
+Copyright Designs and Patents Act 1998 - Ensures no data cannot be copied/taken without permission from the original creator.
+Regulation of Investigatory Powers Act 2000 - Allows public bodies to carry out surveillance and investigation for protection.
+Internet censorship - Control of what can be accessed/viewwed. Can be carried out by governments, individuals or private firms.
+Trolls and Cyber-bullying - Have become more common on the internet, and dangerous internet groups such as ISIS formed.
+
+
+### Section 10 - Computational thinking
+Computational thinking - Form the problem as a computational problem and then form an algorithm to solve it.
+Data abstraction - How the data represented is understood by the computer is hidden.
+Caching - Temporary store of programs used that may need to be used again frequently or shortly
+Procedural abstraction - Similar to a function, using a procedure to carry out an algorithm. Programmar just needs to call this.
+Structured approaches - More clarity and maintainability. Selection, sequence, iteration.
+Block-structured languages - Only need three control structures (Sel, Seq, It) such as Python and Pascal
+Trace tables - Allows you to follow an algorithm line by line to test it.
+Parallel computing - Several processors running several programs at once
+Concurrent processing - One at a time, each processor given a slice of processing time then it keeps flowing.
+Exhaustive search - Trying all possible solutions until one is found
+Backtracking - Trying out different sequences until finding a solution (A maze is a good example)
+
+
+### Section 11 - Programming techniques
+Exponention - Written as **. 2² = 2 ** 2
+Comments - For leaving notes in the code to help understand the pseudocode behind it, how it works.
