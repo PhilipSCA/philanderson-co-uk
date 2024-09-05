@@ -254,3 +254,18 @@ Backtracking - Trying out different sequences until finding a solution (A maze i
 ### Section 11 - Programming techniques
 Exponention - Written as **. 2² = 2 ** 2
 Comments - For leaving notes in the code to help understand the pseudocode behind it, how it works.
+Constants - Value never changes whilst program is running.
+Relational operators - In a selection sequence, depends on a condition (>=, >, <, ==, !=)
+Switch/case statement - Alternative to a nested if statement, gives the user options to pick from
+Subroutines - Functions or procedures, block of code that can be called
+Parameters passed by value - In Python, the value of the local variable is passed to function as its declared outside the func.
+Parameters passed by reference 
+Recursive subroutines - Defined in terms of itself
+Encapsulation - Allows subroutines to be tested independently regardless of global variables even with the same name.
+IDE - Integrated Development Environment (Visual Studio is an IDE)
+IDE features - Create new files/programs, running and compiling the code, debugging, colour coded, code completion, VCI (Github)
+Normal data - Data within the range you expect and the data type you expect. Nothing wrong with it.
+Boundary data - Data thats just on the valid boundaries, any more/less wouldn't be valid
+Erroneous data - Data that is outside the range or is the wrong data type. Produces an error
+
+
