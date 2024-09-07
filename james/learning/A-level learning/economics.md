@@ -20,10 +20,31 @@
 
 
 ### Section 1 - The Economic Problem
-Four factors of Production - Labour, Capital, Enterprisea and Land
-Product Posibility Frontiers (PPF) - Show maximum output of available options
+Four factors of Production - Labour, Capital, Enterprise and Land
+Product Posibility Frontiers (PPF) - Graph showing maximum output of available options
 Free market - Allocates resources based on supply and demand and price mechanism
 Command economy - Government decives how resources should be allocated.
+Ceteris paribus - Latin for "all other things remaining equal" when doing experiments as an economist.
+Positive statement - Objective statements that can be tested as they are based off evidence - Facts
+Normative statement - Subjective statements with a judgement - Opinions
+Types of economic agents - Producers, consumers and governments
+Land - The natural resources.
+Labour - The people who work.
+Capital - Equipment used in producing goods and services (factories)
+Enterprise - The entrepreneurs who are willing to take a risk to make profit by setting up businesses.
+Public sector - Owned by government
+Private sector - Businesses set up by individuals
+Marginal utitlity - Benefit gained from consuming one additional unit of a good
+Total utility - Overall benefit from consuming a good
+Law of diminishing marginal utility - For each extra unit thats consumed, the marginal utility gained decreases.  
+Rationality - Reasons for the actions of economic agents. Weigh the costs, benefits and alternatives to maximise their gain.
+Rules of thumb - Choosing middle-price option when presented with a range of prices for similar products
+Anchoring - Placing too much emphasis on one piece of information
+Availability bias - Judgements made based on probability of an event from previous instances. (Storm yearly so its expected)
+Social norms - Someone can be influenced by a social group (friends, family, the whole country or world)
+Habitual behaviour - Doing the same thing all the time despite rational reasons of doing something different (Brand loyalty)
+
+
 
 
 ### Section 2 - Competitive Markets
@@ -69,6 +90,10 @@ Trade union - Organisation to represent the interests of a group of workers. Usu
 Wage discrimination - Price discrimination but with wages, workers usually paid by job/willingness to work.
 Incentives - Given to people to encourage them to work.
 Demographic changes - Changes in the features of a population (age, lifestyle, gender)
+Collective bargaining - Trade union negotiate with an employer. Can be on a national level (all) or plant level (one workplace)
+Productivity bargains - Unions agree to changes for higher productivity, with also higher wages or other benefits.
+Equilibrium wage rate - Amount of labour decreases to be equal to the wage rate because trade unions ask for higher wages.
+Bilateral monopoly - Only one buyer and one seller
 
 
 ### Section 8 - Measuring Economic Performance
@@ -119,7 +144,7 @@ Regulation of Financial Markets - In the UK, done by the Bank of England and FCA
 
 ### Section 13 - The Global Economy
 Trade liberalisation - Reduction of tariffs and restriction on international trade.
-Opportunity cost - Benefit thats given up to do something else, a sacrifice. AKA. Comparative advantage
+Opportunity cost - Next best alternative thats given up to do something, a sacrifice. AKA. Comparative advantage
 Terms of trade - Relative price of exports to imports. Measured as a %.
 Free trade - Unrestriced national trade
 Quotas - Can be used to set limits to amount of imports of certain goods.
