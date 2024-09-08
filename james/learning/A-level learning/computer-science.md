@@ -261,11 +261,23 @@ Subroutines - Functions or procedures, block of code that can be called
 Parameters passed by value - In Python, the value of the local variable is passed to function as its declared outside the func.
 Parameters passed by reference 
 Recursive subroutines - Defined in terms of itself
-Encapsulation - Allows subroutines to be tested independently regardless of global variables even with the same name.
 IDE - Integrated Development Environment (Visual Studio is an IDE)
 IDE features - Create new files/programs, running and compiling the code, debugging, colour coded, code completion, VCI (Github)
 Normal data - Data within the range you expect and the data type you expect. Nothing wrong with it.
 Boundary data - Data thats just on the valid boundaries, any more/less wouldn't be valid
 Erroneous data - Data that is outside the range or is the wrong data type. Produces an error
-
-
+Dry-run test - Done by using a trace table to note the logic of the code line by line.
+Object oriented programming - Uses only objects, they interact and communicate to work
+Object features - Every object has a state (on/off), attributes and behaviours
+Class - Blueprint or template for an object
+**(A)**Encapsulation - For large projects, coders dont have to worry about how other parts of the system affect any of their new code. Subroutines can be tested even if global variables have the same name.
+Time complexity - How long an algorithm takes to solve
+Permutations -  Total number of possible combinations/arrangements of objects
+Linear search - Goes through one by one until found
+Binary search - Repeatedly halving the list whilst keeping the side with the target item in until its found.
+Tree binary search - Root is examined and then tree is halved by the roots instead, until item is found down the tree
+Bubble sort - Largest item bubbles its way to the top, repeats until in order.
+Insertion sort - Item is inserted into the mini-list where it belongs, mini-list starts at 2 and adds one item per pass.
+Merge sort - Divide and conquer method. Splits list until each item is separate then exponentially grows (doubles by merging)
+**(A)**Quick sort - Choose a random number as a pivot, split with numbers less than it before and numbers greater than it after as 2 lists, then repeat with 2 pivots to sort.
+Dijkstra's algorithm - Finds shortest path from one node to all other nodes. (A to B, A to C, A to D)
