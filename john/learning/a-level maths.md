@@ -28,12 +28,13 @@ f'(x) = lim ( f(x+h) - f(x) / h )
 - set h=0 and simplify 
 
 Stationary points - points on graph where curve flattens/gradient is 0
-        - can be a maximum, minimum, point of inflection
+        - can be a maximum, minimum, point of inflection (POI)
         - to find - dy/dx = 0
  - after finding stationary points, to find if its a minimum or maximum:
    - differentiate again - d2y / dx2 - f''(x)
    - if f''(x) > 0 --> minimum
    - if f''(x) < 0 --> maximum
+   - if f''(x) = 0 --> POI
 
 - if f'(x) > 0 || gradient = positive || function increasing
 - if f'(x) < 0 || gradient - negative || function decreasing
@@ -79,7 +80,7 @@ To find C:
 - subsitutite x, y of point into integral, then solve
 
 --- Fundamental Theorem of Calculus:
-when differentiate y = dy/dx \\ When integrate dy/dx = y + constant of integration
+when differentiate, y = dy/dx \\ When integrate, dy/dx = y + constant of integration
 
 
 Definite integrals - limits - values that you integrate between - intregrate normally then substitute values:
