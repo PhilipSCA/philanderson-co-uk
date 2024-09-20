@@ -1,7 +1,33 @@
 # Computer Science
-# Paper 1 - Computer Systems
 
-## Components of a Computer System
+# A - Level
+
+Control Unit - controls, coordinates CPU activity - directs flow of data between CPU & devices, decodes instructions, stores resulting data back in memory/registers
+Bus - set a of parallel wires connecting computer components - 8,16,32,64 lines
+address bus - when CPU sends address to memory - transmits memory addresses of words used in instructions, so data can be retrieved & sent to processor.
+data bus - sends data returned to CPU - 8,16,32,64 lines - bi-directional - moving data and instructions
+  - when instruction is performed and result is stored at particular memory location, data bus used
+control bus - sends control signals - bi-directional - transmit command, timing, specific status info between components:
+  - Bus request - indicates device request data bus
+  - bus grant - indicates CPU grant data bus
+  - Memory write - data on data bus written into addressed location
+  - Memory read - data from addressed location placed on data bus
+  - Interrupt request - device request access to CPU
+  - Clock - synchronises operations
+word - unit of memory - fixed size group of digits - 16,32,64 bits - handled by processor
+  - each word has own specific address 
+ALU(Arithmetic-Logic Unit) - performs arithmetic & logical operations, shift operations, boolean logic operations - AND, OR, NOT, XOR
+Registers - very high speed special memory cells - temporarily stores all operation results
+Accumulator - 
+PC(Program counter) - holds address of next instruction to be executed 
+  - if current instruction is a branch/jump, holds address to jump to, copied from CIR
+Current Instruction Register(CIR) - holds current instruction execuded, operand and opcode
+MAR(Memory address register) - address of memory location from which data is to be fetched or written
+MDR(Memory data register) - temporarily store data read/written to memory - aka memory buffer register
+# GCSE
+## Paper 1 - Computer Systems
+
+### Components of a Computer System
 Hardware - physical items in a computer system - you can see them
 Software - programs or applications that computer system runs (e.g Operating System)
 General purpose computer - designed to perform many tasks
@@ -146,7 +172,7 @@ Secondary storage - non-volatile - where all data is stored when not in use: Mag
 - Often used by large businesses in archive libraries to store huge amounts of data
 
 
-## Networks
+### Networks
 LAN - Local Area Network - small geographical area located on a single site - all hardware owned by organisation - wired or wireless - in homes, businesses, schools, universities etc.
 Advantages:
 - Sharing files is easier - network users can access same files, work at same time and copy files between machines
@@ -358,15 +384,15 @@ materials used for manufacturing computers + energy used - web servers, DNS, dat
 
 
 
-# Paper 2 - Computational Thinking, Algorithms and Programming
+## Paper 2 - Computational Thinking, Algorithms and Programming
 
 Casting - changing a data type
 Module - external python file which often contains functions
 Structured (modular) programming - decomposing the program that you want to write into manageable modules - short, simple, easy to understand
 Trace table - table to test that a program is working - shows output of program - can find errors
 Random integer = randint(1, 6) (from 1 to 6)
-## Algorithms
-### Computational Thinking
+### Algorithms
+#### Computational Thinking
 Decomposition - breaking a complex problem into smaller problems to solve individually
 Abstraction - filtering unnecessary information, simplifying to important information in a problem
 Algorithmic thinking - logical way of solving problems, step by step solution
