@@ -1,3 +1,73 @@
+# A(S) - level
+
+### Forces & exchange particles
+
+- For particles to interact, 1 of 4 Fundamental forces and exchange particle must be involved, 
+1) Gravity - weakest - only particles with mass - inf range
+2) Weak nuclear force - affects all particles - smallest range (10^-18m)
+3) Electromagnetic - only on charged particles - inf range
+4) Strong nuclear force - only hadron - strongest - range of only 10^-15m
+
+Exchange particles (aka virtual particles):
+
+ - When 2 particles interact, an exchange particle passes between them - impossible for instant action over a distance acts as a force carrier between particles
+ - Only exists for very brief moment, only role to carry force between particles.
+	- Repulsion - As exchange particle goes from one particle to another, it ‘repels’ to conserve momentum
+    - Attraction - exchange particle goes around and carries force into each other to attract them closer together.   
+
+
+
+Gauge Bosons:
+
+Each fundamental force has its own exchange particle - called gauge bosons - virtual photons, W bosons, pions
+- Mass of gauge boson affects range of force
+
+Virtual photons:
+- For Electromagnetic interaction, 
+- 0 mass - giving force an infinite range
+
+Pions:
+- For Strong nuclear interaction between nucleons. 
+- Relatively heavy - small range
+- Strong nuclear force involved in quarks - use gluons instead
+
+W bosons (W+ and W-):
+- For Weak nuclear interaction 
+- Weigh around 100x more than proton - heaviest - smallest range as large amount of energy needed to create exchange particle, so exists shortly and travels short distance
+
+Gravity - very weak, not considered in particle interactions - theoretical particle called graviton
+
+Feymann diagrams:
+- represent particle interactions - show incoming, outgoing particles + exchange particle
+Rules:
+1) vertical (y) axis = time || incoming particles start at bottom
+2) horizontal (x) axis = space
+3) Particles have straight lines, gauge bosons have wiggly 'wave' lines - lines dont cross
+4) All straight lines must have arrow direction || **charged** gauge bosons need an arrow direction, normal dont
+5) Baryon & lepton number & total charge must be conserved on each side
+- line distances, angles are not important
+
+Electromagnetic repulsion:
+- 2 particles of same charge near, electromagnetically repel - exchange a virtual photon
+
+Beta-plus decay:
+- proton turning into neutron, positron and neutrino released - W+ boson exchanged
+- p --> n + e+ + v↓e
+
+Beta-minus decay:
+- neutron to proton, electron and antineutrino released - W- boson exchanged
+- n --> p + e- + ̅νe
+
+- protons & electrons can interact through weak interaction through: electron capture & proton collisions
+- both have same decay equation: p + e- --> n + ve  (both release neutron + neutrino)
+
+Electron capture - electron absorbed by proton in nucleus - proton decays to neutron + neutrino released - W+ boson
+    - baryon number conserved on left side, lepton number conserved on right
+Electron-proton collisions - electron collides with proton, neutron & neutrino released - W- boson, arrow in opposite direction (upwards)
+
+
+
+# GCSE
 Repel - two objects with the same charge push away from each other
 Insulator - material that doesn't allow heat to pass through - traps heat
 Conductor - material that allows heat/electricity to pass through - metals
